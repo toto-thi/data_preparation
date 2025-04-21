@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c9681212-cc5c-44ac-bab7-655b5217083b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.202016</alternateIdentifier>
+                <alternateIdentifier>c9681212-cc5c-44ac-bab7-655b5217083b</alternateIdentifier>
+                <alternateIdentifier>10.15468/3pdant</alternateIdentifier>
+                <alternateIdentifier>30EF491F-21F8-4C42-B270-B7B3360C0A35</alternateIdentifier>
+                <alternateIdentifier>3809DE3CCB05FFEF501E1479CA49FFFA</alternateIdentifier>
+        <title>Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species</title>
+            <creator>
+            <individualName>
+<givenName>Wei</givenName>                    <surName>Xiao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gengyun</givenName>                    <surName>Niu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Meicai</givenName>                    <surName>Wei</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-04-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xiao, Wei, Niu, Gengyun, Wei, Meicai (2020): Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species. Zoological Systematics 45 (2): 118-125, DOI: 10.11865/zs.202016, URL: http://zoobank.org/30ef491f-21f8-4c42-b270-b7b3360c0a35</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/3809DE3CCB05FFEF501E1479CA49FFFA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:57Z</dateStamp>
+                <citation>Xiao W, Niu G, Wei M, carolina (2020). Two new species of the Tenthredo grahami group from China (Hymenoptera: Tenthredinidae), with a revised key to species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.202016 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

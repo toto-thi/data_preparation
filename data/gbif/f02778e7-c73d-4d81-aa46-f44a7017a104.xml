@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f02778e7-c73d-4d81-aa46-f44a7017a104"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4338.3.4</alternateIdentifier>
+                <alternateIdentifier>f02778e7-c73d-4d81-aa46-f44a7017a104</alternateIdentifier>
+                <alternateIdentifier>10.15468/jq9oko</alternateIdentifier>
+                <alternateIdentifier>4E36FC94-9C8B-4F05-9DCE-2405BDF91F52</alternateIdentifier>
+                <alternateIdentifier>1621FFE8FF9DFFCFB734195BFFD3FFF0</alternateIdentifier>
+        <title>Checklist and new species of caddisfly (Insecta: Trichoptera) from Roraima state, Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Jaime De Liege Gama</givenName>                    <surName>Neto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana Maria</givenName>                    <surName>Pes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Neusa</givenName>                    <surName>Hamada</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-10-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Neto, Jaime De Liege Gama, Pes, Ana Maria, Hamada, Neusa (2017): Checklist and new species of caddisfly (Insecta: Trichoptera) from Roraima state, Brazil. Zootaxa 4338 (3): 475-488, DOI: https://doi.org/10.11646/zootaxa.4338.3.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/1621FFE8FF9DFFCFB734195BFFD3FFF0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:00Z</dateStamp>
+                <citation>Neto J D L G, Pes A M, Hamada N, plazi (2017). Checklist and new species of caddisfly (Insecta: Trichoptera) from Roraima state, Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4338.3.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

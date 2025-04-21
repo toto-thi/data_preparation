@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ed35d9a8-8d9f-4c2a-a43e-cd1f5ca7e064"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2019v41a1</alternateIdentifier>
+                <alternateIdentifier>ed35d9a8-8d9f-4c2a-a43e-cd1f5ca7e064</alternateIdentifier>
+                <alternateIdentifier>10.15468/dzvvnz</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:86084BFE-6ECC-4F8B-9B38-D2C203483CA7</alternateIdentifier>
+                <alternateIdentifier>656DFFE4E7675607FFC14676FFDCFFA7</alternateIdentifier>
+        <title>Two new oligohaline Hydrobia (s. l.) (Caenogastropoda) from the transitional Upper Oligocene Galatone Fm (Apulia, Southern Italy)</title>
+            <creator>
+            <individualName>
+<givenName>Daniela</givenName>                    <surName>Esu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Odoardo</givenName>                    <surName>Girotti</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-01-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Esu, Daniela, Girotti, Odoardo (2019): Two new oligohaline Hydrobia (s. l.) (Caenogastropoda) from the transitional Upper Oligocene Galatone Fm (Apulia, Southern Italy). Geodiversitas 41 (1): 1-9, DOI: 10.5252/geodiversitas2019v41a1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/656DFFE4E7675607FFC14676FFDCFFA7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:27Z</dateStamp>
+                <citation>Esu D, Girotti O, valdenar (2019). Two new oligohaline Hydrobia (s. l.) (Caenogastropoda) from the transitional Upper Oligocene Galatone Fm (Apulia, Southern Italy). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2019v41a1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

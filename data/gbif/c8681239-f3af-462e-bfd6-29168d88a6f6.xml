@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c8681239-f3af-462e-bfd6-29168d88a6f6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.223.3540</alternateIdentifier>
+                <alternateIdentifier>10.15468/3g90k3</alternateIdentifier>
+                <alternateIdentifier>2CE14008-AE6F-4F19-9791-C7DFB94D03B5</alternateIdentifier>
+                <alternateIdentifier>FFB43E3DFFDEFF8BFF807209FFAE6020</alternateIdentifier>
+        <title>Doryctopambolus Nunes &amp; Zaldivar-Riveron (Braconidae), a new neotropical doryctine wasp genus with propodeal spines</title>
+            <creator>
+            <individualName>
+<givenName>Juliano Fiorelini</givenName>                    <surName>Nunes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alejandro</givenName>                    <surName>Zaldivar-Riveron</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Clovis Sormus de</givenName>                    <surName>Castro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul M.</givenName>                    <surName>Marsh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Angelica Maria</givenName>                    <surName>Penteado-Dias</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rosa</givenName>                    <surName>Briceno</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan Jose</givenName>                    <surName>Martinez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nunes, Juliano Fiorelini, Zaldivar-Riveron, Alejandro, Castro, Clovis Sormus de, Marsh, Paul M., Penteado-Dias, Angelica Maria, Briceno, Rosa, Martinez, Juan Jose (2012): Doryctopambolus Nunes &amp;amp; Zaldivar-Riveron (Braconidae), a new neotropical doryctine wasp genus with propodeal spines. ZooKeys 223: 53-67, DOI: http://dx.doi.org/10.3897/zookeys.223.3540, URL: http://dx.doi.org/10.3897/zookeys.223.3540</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFB43E3DFFDEFF8BFF807209FFAE6020</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:30Z</dateStamp>
+                <citation>Nunes J F, Zaldivar-Riveron A, Castro C S D, Marsh P M, Penteado-Dias A M, Briceno R, Martinez J J, pensoft (2012). Doryctopambolus Nunes &amp; Zaldivar-Riveron (Braconidae), a new neotropical doryctine wasp genus with propodeal spines. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.223.3540 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

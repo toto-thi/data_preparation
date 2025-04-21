@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="83ff4216-4a10-4b49-93ab-8a0ee4b47931"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3636.3.4</alternateIdentifier>
+                <alternateIdentifier>83ff4216-4a10-4b49-93ab-8a0ee4b47931</alternateIdentifier>
+                <alternateIdentifier>10.15468/nwulwq</alternateIdentifier>
+                <alternateIdentifier>65578136-2BF2-4764-B430-75E991476E7A</alternateIdentifier>
+                <alternateIdentifier>FF93FFC5FFDBFFADFFBFFFF0727C3253</alternateIdentifier>
+        <title>Description of immatures and natural history of the weevil Loncophorus pustulatus (Champion, 1903) (Coleoptera: Curculionidae: Curculioninae) associated with flowers of Ceiba speciosa (A. St. - Hil.) Ravenna (Bombacoidea: Malvaceae) in southeast Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Sergio Antonio</givenName>                    <surName>Vanin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniela De Cassia</givenName>                    <surName>Bená</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fabiano Fabian</givenName>                    <surName>Albertoni</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Vanin, Sergio Antonio, Bená, Daniela De Cassia, Albertoni, Fabiano Fabian (2013): Description of immatures and natural history of the weevil Loncophorus pustulatus (Champion, 1903) (Coleoptera: Curculionidae: Curculioninae) associated with flowers of Ceiba speciosa (A. St. - Hil.) Ravenna (Bombacoidea: Malvaceae) in southeast Brazil. Zootaxa 3636 (3): 451-462, DOI: http://dx.doi.org/10.11646/zootaxa.3636.3.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF93FFC5FFDBFFADFFBFFFF0727C3253</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:48Z</dateStamp>
+                <citation>Vanin S A, Bená D D C, Albertoni F F, plazi (2013). Description of immatures and natural history of the weevil Loncophorus pustulatus (Champion, 1903) (Coleoptera: Curculionidae: Curculioninae) associated with flowers of Ceiba speciosa (A. St. - Hil.) Ravenna (Bombacoidea: Malvaceae) in southeast Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3636.3.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

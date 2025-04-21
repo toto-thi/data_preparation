@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9b7f4bcc-4771-4c2d-8b3a-6f1bd6e398ef"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.18590/euscorpius.2013.vol2013.iss160.2</alternateIdentifier>
+                <alternateIdentifier>10.15468/efrj8s</alternateIdentifier>
+                <alternateIdentifier>82B045EF-BFA6-4776-9A29-4E5FC6FB25F9</alternateIdentifier>
+                <alternateIdentifier>9b7f4bcc-4771-4c2d-8b3a-6f1bd6e398ef</alternateIdentifier>
+                <alternateIdentifier>FF90FFF1FFAFE03DE02CFFD4FFA7FFA6</alternateIdentifier>
+        <title>Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae)</title>
+            <creator>
+            <individualName>
+<givenName>František</givenName>                    <surName>Kovařík</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kovařík, František (2013): Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Euscorpius 157 (160): 1-9, DOI: 10.18590/euscorpius.2013.vol2013.iss160.2, URL: https://mds.marshall.edu/euscorpius/vol2013/iss160/2/</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF90FFF1FFAFE03DE02CFFD4FFA7FFA6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:22Z</dateStamp>
+                <citation>Kovařík F, carolina (2013). Alloscorpiops citadelle sp. n. from Thailand (Scorpiones: Euscorpiidae: Scorpiopinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.18590/euscorpius.2013.vol2013.iss160.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

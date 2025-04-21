@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="aa0db457-960f-417f-865e-89252373960b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2016.217</alternateIdentifier>
+                <alternateIdentifier>aa0db457-960f-417f-865e-89252373960b</alternateIdentifier>
+                <alternateIdentifier>10.15468/6zvup8</alternateIdentifier>
+                <alternateIdentifier>FFBE443EFFCCFFE9FF814A20A35FFF81</alternateIdentifier>
+        <title>Four new monoraphid diatom species (Bacillariophyta, Achnanthaceae) from the Maritime Antarctic Region</title>
+            <creator>
+            <individualName>
+<givenName>Kateřina</givenName>                    <surName>Kopalová</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ralitsa</givenName>                    <surName>Zidarova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bart Van De</givenName>                    <surName>Vijver</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-07-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kopalová, Kateřina, Zidarova, Ralitsa, Vijver, Bart Van De (2016): Four new monoraphid diatom species (Bacillariophyta, Achnanthaceae) from the Maritime Antarctic Region. European Journal of Taxonomy 217: 1-19, DOI: http://dx.doi.org/10.5852/ejt.2016.217</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBE443EFFCCFFE9FF814A20A35FFF81</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:31Z</dateStamp>
+                <citation>Kopalová K, Zidarova R, Vijver B V D, valdenar (2016). Four new monoraphid diatom species (Bacillariophyta, Achnanthaceae) from the Maritime Antarctic Region. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2016.217 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

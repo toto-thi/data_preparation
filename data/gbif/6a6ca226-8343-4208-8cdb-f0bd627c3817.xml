@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6a6ca226-8343-4208-8cdb-f0bd627c3817"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4564.1.4</alternateIdentifier>
+                <alternateIdentifier>6a6ca226-8343-4208-8cdb-f0bd627c3817</alternateIdentifier>
+                <alternateIdentifier>10.15468/bortcu</alternateIdentifier>
+                <alternateIdentifier>D0A9801B-8049-4211-A4A7-D7792B9D6936</alternateIdentifier>
+                <alternateIdentifier>FFC8FFD87C06CD332720985CFFE2FFA6</alternateIdentifier>
+        <title>Review of the genus Lomachaeta Mickel, 1936 (Hymenoptera: Mutillidae) with new species and sex associations</title>
+            <creator>
+            <individualName>
+<givenName>Kevin A.</givenName>                    <surName>Williams</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roberto A.</givenName>                    <surName>Cambra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pedro R.</givenName>                    <surName>Bartholomay</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David R.</givenName>                    <surName>Luz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diomedes</givenName>                    <surName>Quintero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James P.</givenName>                    <surName>Pitts</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-03-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Williams, Kevin A., Cambra, Roberto A., Bartholomay, Pedro R., Luz, David R., Quintero, Diomedes, Pitts, James P. (2019): Review of the genus Lomachaeta Mickel, 1936 (Hymenoptera: Mutillidae) with new species and sex associations. Zootaxa 4564 (1): 101-136, DOI: https://doi.org/10.11646/zootaxa.4564.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC8FFD87C06CD332720985CFFE2FFA6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:15Z</dateStamp>
+                <citation>Williams K A, Cambra R A, Bartholomay P R, Luz D R, Quintero D, Pitts J P, plazi (2019). Review of the genus Lomachaeta Mickel, 1936 (Hymenoptera: Mutillidae) with new species and sex associations. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4564.1.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

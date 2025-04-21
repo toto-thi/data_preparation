@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4aace3c6-f108-439a-82af-b4615404a236"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/d3jg8d</alternateIdentifier>
+                <alternateIdentifier>4aace3c6-f108-439a-82af-b4615404a236</alternateIdentifier>
+                <alternateIdentifier>http://gbif.ru:8080/ipt/resource?r=perel_1997</alternateIdentifier>
+        <title>The Earthworms of the Fauna of Russia. Perel, 1997</title>
+            <creator>
+            <individualName>
+<givenName>Maxim</givenName>                    <surName>Shashkov</surName>
+            </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Senior Researcher</positionName>            <address>
+<deliveryPoint>Vitkevicha str., 1</deliveryPoint><city>Pushchino</city><administrativeArea>Moscow region</administrativeArea><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Maxim</givenName>                    <surName>Shashkov</surName>
+            </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Senior Researcher</positionName>            <address>
+<deliveryPoint>Vitkevicha str., 1</deliveryPoint><city>Pushchino</city><administrativeArea>Moscow region</administrativeArea><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Maxim</givenName>                    <surName>Shashkov</surName>
+            </individualName>
+<electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Checklist from T.S. Vsevolodova-Perel. The earthworms of the fauna of Russia: Cadaster and key. 1997</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Inventoryregional</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>the Russian Federation</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Moniligastridae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Criodrilidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Megascolecidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Acanthodrilidae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Lumbricidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Maxim</givenName>                    <surName>Shashkov</surName>
+            </individualName>
+<organizationName>Institute of Mathematical Problems of Biology RAS</organizationName><positionName>Senior Researcher</positionName>            <address>
+<deliveryPoint>Vitkevicha str., 1</deliveryPoint><city>Pushchino</city><administrativeArea>Moscow region</administrativeArea><postalCode>142290</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<electronicMailAddress>max.carabus@gmail.com</electronicMailAddress>            </contact>
+
+            <project id="RSF 23-24-00112">
+                <title>Quantifying the factors limiting the distribution of earthworms in European Russia: a model approach</title>
+                    <personnel>
+            <individualName>
+<givenName>Maxim</givenName>                    <surName>Shashkov</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0002-1328-8758</userId>
+            <role>ORIGINATOR</role>
+                    </personnel>
+                <abstract>
+                    <para>The research was supported by Russian Science Foundation grant no. 23-24-00112
+https://rscf.ru/project/23-24-00112</para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:38Z</dateStamp>
+                <citation>Shashkov M (2023). The Earthworms of the Fauna of Russia. Perel, 1997. Version 1.2. Institute of Mathematical Problems of Biology RAS – the Branch of Keldysh Institute of Applied Mathematics of Russian Academy of Sciences. Checklist dataset https://doi.org/10.15468/d3jg8d accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

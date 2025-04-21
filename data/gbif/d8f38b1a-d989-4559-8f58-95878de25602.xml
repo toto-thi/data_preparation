@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d8f38b1a-d989-4559-8f58-95878de25602"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3673491</alternateIdentifier>
+                <alternateIdentifier>10.15468/sql2bi</alternateIdentifier>
+                <alternateIdentifier>d8f38b1a-d989-4559-8f58-95878de25602</alternateIdentifier>
+                <alternateIdentifier>B2EA9141-6419-4A1A-85CC-BCE190C17802</alternateIdentifier>
+                <alternateIdentifier>EB21351DFFA16500527EFFFCFF967A60</alternateIdentifier>
+        <title>The Trichoptera of Panama X. The Quebrada Rambala drainage, with description of 19 new species of microcaddisflies (Trichoptera: Hydroptilidae)</title>
+            <creator>
+            <individualName>
+<givenName>Steven C.</givenName>                    <surName>Harris</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Brian J.</givenName>                    <surName>Armitage</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-05-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Harris, Steven C., Armitage, Brian J. (2019): The Trichoptera of Panama X. The Quebrada Rambala drainage, with description of 19 new species of microcaddisflies (Trichoptera: Hydroptilidae). Insecta Mundi 707 (707): 1-54, DOI: http://doi.org/10.5281/zenodo.3673491</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EB21351DFFA16500527EFFFCFF967A60</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:04Z</dateStamp>
+                <citation>Harris S C, Armitage B J, felipe (2019). The Trichoptera of Panama X. The Quebrada Rambala drainage, with description of 19 new species of microcaddisflies (Trichoptera: Hydroptilidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3673491 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

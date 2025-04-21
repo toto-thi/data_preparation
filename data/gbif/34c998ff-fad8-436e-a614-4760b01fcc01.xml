@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="34c998ff-fad8-436e-a614-4760b01fcc01"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4374.2.1</alternateIdentifier>
+                <alternateIdentifier>34c998ff-fad8-436e-a614-4760b01fcc01</alternateIdentifier>
+                <alternateIdentifier>10.15468/7e204l</alternateIdentifier>
+                <alternateIdentifier>D10D4808-A8FD-4DE2-B754-E2CEC8651950</alternateIdentifier>
+                <alternateIdentifier>FFE7B260FF85FFA0FF9D4C11060B9235</alternateIdentifier>
+        <title>Taxonomic review of the subgenus Andrena (Poecilandrena) (Hymenoptera: Andrenidae) in Israel and the Levant</title>
+            <creator>
+            <individualName>
+<givenName>Gideon</givenName>                    <surName>Pisanty</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Erwin</givenName>                    <surName>Scheuchl</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Netta</givenName>                    <surName>Dorchin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-01-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pisanty, Gideon, Scheuchl, Erwin, Dorchin, Netta (2018): Taxonomic review of the subgenus Andrena (Poecilandrena) (Hymenoptera: Andrenidae) in Israel and the Levant. Zootaxa 4374 (2): 151-188, DOI: https://doi.org/10.11646/zootaxa.4374.2.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE7B260FF85FFA0FF9D4C11060B9235</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:31Z</dateStamp>
+                <citation>Pisanty G, Scheuchl E, Dorchin N, plazi (2018). Taxonomic review of the subgenus Andrena (Poecilandrena) (Hymenoptera: Andrenidae) in Israel and the Levant. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4374.2.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

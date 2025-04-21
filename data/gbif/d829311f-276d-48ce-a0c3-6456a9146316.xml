@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d829311f-276d-48ce-a0c3-6456a9146316"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3759070</alternateIdentifier>
+                <alternateIdentifier>10.15468/3n8gbf</alternateIdentifier>
+                <alternateIdentifier>d829311f-276d-48ce-a0c3-6456a9146316</alternateIdentifier>
+                <alternateIdentifier>FF8E6A28FFE8E416290DB52CFFA79C74</alternateIdentifier>
+        <title>Rhinolophus</title>
+            <creator>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Horsfield</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1851-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Horsfield, Thomas (1851): Rhinolophus. In: Catalogue of the Mammalia in the Museum of the East India Company. 75, Great Queen Street, London: East India Company, Museum: 33-36, DOI: http://doi.org/10.5281/zenodo.3759070</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8E6A28FFE8E416290DB52CFFA79C74</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:16Z</dateStamp>
+                <citation>Horsfield T, plazi (1851). Rhinolophus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3759070 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

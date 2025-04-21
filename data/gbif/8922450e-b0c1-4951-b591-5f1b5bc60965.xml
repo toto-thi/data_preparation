@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8922450e-b0c1-4951-b591-5f1b5bc60965"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/zoosystema2020v42a22</alternateIdentifier>
+                <alternateIdentifier>8922450e-b0c1-4951-b591-5f1b5bc60965</alternateIdentifier>
+                <alternateIdentifier>10.15468/pg7rxp</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:AEFE7FA9-28D7-47DF-974A-F92B53D2B93F</alternateIdentifier>
+                <alternateIdentifier>690E704DCF17BC5B5C29FF86FFF0FFCD</alternateIdentifier>
+        <title>Revision of Mediterranean and NE Atlantic Raphitomidae (Gastropoda, Conoidea) 8: The genus Leufroyia Monterosato, 1884</title>
+            <creator>
+            <individualName>
+<givenName>Riccardo</givenName>                    <surName>Giannuzzi-Savelli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francesco</givenName>                    <surName>Pusateri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jakov</givenName>                    <surName>Prkić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stefano</givenName>                    <surName>Bartolini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Valeria</givenName>                    <surName>Russini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Giulia</givenName>                    <surName>Fassio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco</givenName>                    <surName>Oliverio</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-08-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Giannuzzi-Savelli, Riccardo, Pusateri, Francesco, Prkić, Jakov, Bartolini, Stefano, Russini, Valeria, Fassio, Giulia, Oliverio, Marco (2020): Revision of Mediterranean and NE Atlantic Raphitomidae (Gastropoda, Conoidea) 8: The genus Leufroyia Monterosato, 1884. Zoosystema 42 (22): 433-473, DOI: 10.5252/zoosystema2020v42a22</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/690E704DCF17BC5B5C29FF86FFF0FFCD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:01Z</dateStamp>
+                <citation>Giannuzzi-Savelli R, Pusateri F, Prkić J, Bartolini S, Russini V, Fassio G, Oliverio M, felipe (2020). Revision of Mediterranean and NE Atlantic Raphitomidae (Gastropoda, Conoidea) 8: The genus Leufroyia Monterosato, 1884. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/zoosystema2020v42a22 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

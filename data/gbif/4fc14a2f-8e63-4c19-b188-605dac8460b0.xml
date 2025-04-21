@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4fc14a2f-8e63-4c19-b188-605dac8460b0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3895.3.5</alternateIdentifier>
+                <alternateIdentifier>4fc14a2f-8e63-4c19-b188-605dac8460b0</alternateIdentifier>
+                <alternateIdentifier>10.15468/1cla4e</alternateIdentifier>
+                <alternateIdentifier>895AA389-60E4-4685-B5FB-A2E0ECEA6B4A</alternateIdentifier>
+                <alternateIdentifier>FFEF0250FFAFDE3BFFA7FFBE4059F547</alternateIdentifier>
+        <title>Two new species of Acroceratitis Hendel (Diptera: Tephritidae) and an updated key for the species from India</title>
+            <creator>
+            <individualName>
+<givenName>K. J.</givenName>                    <surName>David</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>D. L.</givenName>                    <surName>Hancock</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>S.</givenName>                    <surName>Ramani</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article David, K. J., Hancock, D. L., Ramani, S. (2014): Two new species of Acroceratitis Hendel (Diptera: Tephritidae) and an updated key for the species from India. Zootaxa 3895 (3): 411-418, DOI: http://dx.doi.org/10.11646/zootaxa.3895.3.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFEF0250FFAFDE3BFFA7FFBE4059F547</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:35Z</dateStamp>
+                <citation>David K J, Hancock D L, Ramani S, plazi (2014). Two new species of Acroceratitis Hendel (Diptera: Tephritidae) and an updated key for the species from India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3895.3.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

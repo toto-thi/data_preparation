@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6c47f8cd-05fa-4487-8caf-681f476d60db"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4085.1.7</alternateIdentifier>
+                <alternateIdentifier>6c47f8cd-05fa-4487-8caf-681f476d60db</alternateIdentifier>
+                <alternateIdentifier>10.15468/bwluff</alternateIdentifier>
+                <alternateIdentifier>1817F410-BBD1-419C-91F4-A5DFDEBB15D7</alternateIdentifier>
+                <alternateIdentifier>FF83FFD3FFEB5818FFCFFFE4474CFFF7</alternateIdentifier>
+        <title>Two new species of Lamiinae (Coleoptera: Cerambycidae) from the Neotropical Region</title>
+            <creator>
+            <individualName>
+<givenName>Larry G.</givenName>                    <surName>Bezark</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maria Helena M.</givenName>                    <surName>Galileo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio</givenName>                    <surName>Santos-Silva</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-03-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bezark, Larry G., Galileo, Maria Helena M., Santos-Silva, Antonio (2016): Two new species of Lamiinae (Coleoptera: Cerambycidae) from the Neotropical Region. Zootaxa 4085 (1): 135-140, DOI: http://doi.org/10.11646/zootaxa.4085.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF83FFD3FFEB5818FFCFFFE4474CFFF7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:12Z</dateStamp>
+                <citation>Bezark L G, Galileo M H M, Santos-Silva A, plazi (2016). Two new species of Lamiinae (Coleoptera: Cerambycidae) from the Neotropical Region. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4085.1.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

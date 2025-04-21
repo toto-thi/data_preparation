@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="395b5c2c-b75f-4803-956d-176d8677b9aa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.5057.2.1</alternateIdentifier>
+                <alternateIdentifier>395b5c2c-b75f-4803-956d-176d8677b9aa</alternateIdentifier>
+                <alternateIdentifier>10.15468/chhg5n</alternateIdentifier>
+                <alternateIdentifier>013C52EC-D0BD-4569-AAFE-36D920895553</alternateIdentifier>
+                <alternateIdentifier>FFDC8541FFFCFFDBC679FFC7FFDFFFCE</alternateIdentifier>
+        <title>A taxonomic assessment of Chlorospingus flavopectus phaeocephalus and Chlorospingus semifuscus (Passeriformes: Passerellidae), including the description of a new subspecies</title>
+            <creator>
+            <individualName>
+<givenName>Manuel</givenName>                    <surName>Sánchez-Nivicela</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jorge Enrique</givenName>                    <surName>Avendaño</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan C.</givenName>                    <surName>Sánchez-Nivicela</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana</givenName>                    <surName>Torres</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jérôme</givenName>                    <surName>Fuchs</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bentley</givenName>                    <surName>Bird</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elisa</givenName>                    <surName>Bonaccorso</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sánchez-Nivicela, Manuel, Avendaño, Jorge Enrique, Sánchez-Nivicela, Juan C., Torres, Ana, Fuchs, Jérôme, Bird, Bentley, Bonaccorso, Elisa (2021): A taxonomic assessment of Chlorospingus flavopectus phaeocephalus and Chlorospingus semifuscus (Passeriformes: Passerellidae), including the description of a new subspecies. Zootaxa 5057 (2): 151-180, DOI: https://doi.org/10.11646/zootaxa.5057.2.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFDC8541FFFCFFDBC679FFC7FFDFFFCE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:24Z</dateStamp>
+                <citation>Sánchez-Nivicela M, Avendaño J E, Sánchez-Nivicela J C, Torres A, Fuchs J, Bird B, Bonaccorso E, plazi (2021). A taxonomic assessment of Chlorospingus flavopectus phaeocephalus and Chlorospingus semifuscus (Passeriformes: Passerellidae), including the description of a new subspecies. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.5057.2.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

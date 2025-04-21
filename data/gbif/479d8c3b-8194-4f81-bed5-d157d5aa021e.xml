@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="479d8c3b-8194-4f81-bed5-d157d5aa021e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4503028</alternateIdentifier>
+                <alternateIdentifier>479d8c3b-8194-4f81-bed5-d157d5aa021e</alternateIdentifier>
+                <alternateIdentifier>10.15468/ucgdg3</alternateIdentifier>
+                <alternateIdentifier>C0EDB2F2-78E4-43A0-A8C4-E4165DF6406F</alternateIdentifier>
+                <alternateIdentifier>8E2C1D492969FF81FFB5FF97FFE1B475</alternateIdentifier>
+        <title>Hermit crabs of the genera Calcinus Dana, Clibanarius Dana, and Dardanus Paul’son from the PANGLAO 2004 Expedition, with description of a new species and a checklist of the hermit crabs of the Philippines (Crustacea: Anomura: Paguroidea)</title>
+            <creator>
+            <individualName>
+<givenName>Maria Celia (Machel) D.</givenName>                    <surName>Malay</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dwi Listyo</givenName>                    <surName>Rahayu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tin-Yam</givenName>                    <surName>Chan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-01-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Malay, Maria Celia (Machel) D., Rahayu, Dwi Listyo, Chan, Tin-Yam (2018): Hermit crabs of the genera Calcinus Dana, Clibanarius Dana, and Dardanus Paul’son from the PANGLAO 2004 Expedition, with description of a new species and a checklist of the hermit crabs of the Philippines (Crustacea: Anomura: Paguroidea). Raffles Bulletin of Zoology 66: 23-65, DOI: http://doi.org/10.5281/zenodo.4503028</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/8E2C1D492969FF81FFB5FF97FFE1B475</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:55Z</dateStamp>
+                <citation>Malay M C ( D, Rahayu D L, Chan T, carolina (2018). Hermit crabs of the genera Calcinus Dana, Clibanarius Dana, and Dardanus Paul’son from the PANGLAO 2004 Expedition, with description of a new species and a checklist of the hermit crabs of the Philippines (Crustacea: Anomura: Paguroidea). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4503028 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

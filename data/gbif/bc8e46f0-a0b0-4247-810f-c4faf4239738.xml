@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bc8e46f0-a0b0-4247-810f-c4faf4239738"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ycxk68</alternateIdentifier>
+                <alternateIdentifier>FFA04050FFF20F56FF90FFBFCC75FFA3</alternateIdentifier>
+        <title>Nesomyidae</title>
+            <creator>
+            <individualName>
+                    <surName>Don E. Wilson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Russell A. Mittermeier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jr</givenName>                    <surName>Thomas E. Lacher</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-11-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Don E. Wilson, Russell A. Mittermeier, Thomas E. Lacher, Jr (2017): Nesomyidae. In: Handbook of the Mammals of the World – Volume 7 Rodents II. Barcelona: Lynx Edicions: 156-203, ISBN: 978-84-16728-04-6, DOI: http://doi.org/10.5281/zenodo.6600357</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA04050FFF20F56FF90FFBFCC75FFA3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:01Z</dateStamp>
+                <citation>Don E. Wilson, Russell A. Mittermeier, Thomas E. Lacher J, felipe (2017). Nesomyidae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ycxk68 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

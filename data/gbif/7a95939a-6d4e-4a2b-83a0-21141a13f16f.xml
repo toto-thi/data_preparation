@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7a95939a-6d4e-4a2b-83a0-21141a13f16f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/z4dxyp</alternateIdentifier>
+                <alternateIdentifier>A95CFFFA7C05FC59FFE93809FFB8FFDA</alternateIdentifier>
+        <title>Schoenorchis mishmensis sp. nov. (Orchidaceae) from Mishmi Hills Lower Dibang Valley District, Arunachal Pradesh, India</title>
+            <creator>
+            <individualName>
+<givenName>Khyanjeet</givenName>                    <surName>Gogoi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pranab</givenName>                    <surName>Mega</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K.</givenName>                    <surName>Chowlu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gogoi, Khyanjeet, Mega, Pranab, Chowlu, K. (2022): Schoenorchis mishmensis sp. nov. (Orchidaceae) from Mishmi Hills Lower Dibang Valley District, Arunachal Pradesh, India. Phytotaxa 575 (1): 97-103, DOI: 10.11646/phytotaxa.575.1.7, URL: http://dx.doi.org/10.1094/PDIS-04-22-0755-PDN</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A95CFFFA7C05FC59FFE93809FFB8FFDA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:14Z</dateStamp>
+                <citation>Gogoi K, Mega P, Chowlu K, plazi (2022). Schoenorchis mishmensis sp. nov. (Orchidaceae) from Mishmi Hills Lower Dibang Valley District, Arunachal Pradesh, India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/z4dxyp accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

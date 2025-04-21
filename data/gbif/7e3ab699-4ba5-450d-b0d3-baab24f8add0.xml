@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7e3ab699-4ba5-450d-b0d3-baab24f8add0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.282265</alternateIdentifier>
+                <alternateIdentifier>7e3ab699-4ba5-450d-b0d3-baab24f8add0</alternateIdentifier>
+                <alternateIdentifier>10.15468/205gyo</alternateIdentifier>
+                <alternateIdentifier>DD5669DE-7AD0-45B3-9AE3-9C074AA0480D</alternateIdentifier>
+                <alternateIdentifier>FFEEFFF9FFECFF8BFFDDCB49336C846C</alternateIdentifier>
+        <title>Two new species of the genus Rhyacophila Pictet (Trichoptera: Rhyacophilidae) from the Indian Himalayas</title>
+            <creator>
+            <individualName>
+<givenName>Malkiat S.</givenName>                    <surName>Saini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lakhwinder</givenName>                    <surName>K</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Saini, Malkiat S., K, Lakhwinder (2012): Two new species of the genus Rhyacophila Pictet (Trichoptera: Rhyacophilidae) from the Indian Himalayas. Zootaxa 3478: 309-312, DOI: 10.5281/zenodo.282265</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFEEFFF9FFECFF8BFFDDCB49336C846C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:53Z</dateStamp>
+                <citation>Saini M S, K L, plazi (2012). Two new species of the genus Rhyacophila Pictet (Trichoptera: Rhyacophilidae) from the Indian Himalayas. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.282265 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

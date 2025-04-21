@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c5bf98c6-6ecc-4efc-982e-ab837af9e86a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4576.3.3</alternateIdentifier>
+                <alternateIdentifier>c5bf98c6-6ecc-4efc-982e-ab837af9e86a</alternateIdentifier>
+                <alternateIdentifier>10.15468/xulddc</alternateIdentifier>
+                <alternateIdentifier>7A829CA9-A8B3-4951-A124-2B316585AE8A</alternateIdentifier>
+                <alternateIdentifier>FF90FFB14A64FFC4E126FFEDF14AFFE3</alternateIdentifier>
+        <title>The first species of Cotithene Voss (Coleoptera: Curculionidae: Curculioninae) from Amazonian Brazil, with notes on its role as a pollinator of Evodianthus funifer (Poit.) Lindm. (Cyclanthaceae)</title>
+            <creator>
+            <individualName>
+<givenName>Roberta M.</givenName>                    <surName>Valente</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paulo A. L.</givenName>                    <surName>Da Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bruno A. S.</givenName>                    <surName>De Medeiros</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-04-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Valente, Roberta M., Da Silva, Paulo A. L., De Medeiros, Bruno A. S. (2019): The first species of Cotithene Voss (Coleoptera: Curculionidae: Curculioninae) from Amazonian Brazil, with notes on its role as a pollinator of Evodianthus funifer (Poit.) Lindm. (Cyclanthaceae). Zootaxa 4576 (3): 461-482, DOI: https://doi.org/10.11646/zootaxa.4576.3.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF90FFB14A64FFC4E126FFEDF14AFFE3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:48Z</dateStamp>
+                <citation>Valente R M, Da Silva P A L, De Medeiros B A S, plazi (2019). The first species of Cotithene Voss (Coleoptera: Curculionidae: Curculioninae) from Amazonian Brazil, with notes on its role as a pollinator of Evodianthus funifer (Poit.) Lindm. (Cyclanthaceae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4576.3.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

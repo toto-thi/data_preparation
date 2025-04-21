@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="763a8aa3-65de-443e-bd20-bbe958a1ef74"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ojjhcs</alternateIdentifier>
+                <alternateIdentifier>763a8aa3-65de-443e-bd20-bbe958a1ef74</alternateIdentifier>
+                <alternateIdentifier>https://nzobisipt.niwa.co.nz/resource?r=nzmma_2018</alternateIdentifier>
+        <title>New Zealand Marine Macroalgae Species Checklist</title>
+            <creator>
+            <individualName>
+<givenName>Kate</givenName>                    <surName>Neill</surName>
+            </individualName>
+<organizationName>NIWA</organizationName><positionName>Marine Biologist</positionName>            <address>
+<deliveryPoint>Private Bag 14-901</deliveryPoint><city>Wellington</city><postalCode>6241</postalCode><country>NEW_ZEALAND</country>            </address>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wendy</givenName>                    <surName>Nelson</surName>
+            </individualName>
+<organizationName>NIWA</organizationName><positionName>Lead Researcher</positionName>            <address>
+<deliveryPoint>Private Bag 14-901</deliveryPoint><city>Wellington</city><postalCode>6241</postalCode><country>NEW_ZEALAND</country>            </address>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Kate</givenName>                    <surName>Neill</surName>
+            </individualName>
+<organizationName>NIWA</organizationName><positionName>Marine Biologist</positionName>            <address>
+<deliveryPoint>Private Bag 14-901</deliveryPoint><city>Wellington</city><postalCode>6241</postalCode><country>NEW_ZEALAND</country>            </address>
+            </metadataProvider>
+            <pubDate>
+                2019-06-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>As at the 30th November 2018, there are 919 species of marine macroalgae recognised from the New Zealand region, spanning from Rangitāhua/ Kermadec Islands in the north to New Zealand’s subantarctic Islands in the south. These include 142 taxa in the Chlorophyta (green seaweeds), 183 in the Ochrophyta (brown seaweeds), and 594 taxa in the Rhodophyta (red seaweeds). Of the flora, 49 taxa are considered to be introduced to New Zealand and in the case of Hydroclathrus clathratus, the current understanding is that this species is native to Rangitāhua but has been introduced to mainland New Zealand.</para>
+                    <para>This list represents a comprehensive update to the macroalgal flora, previously published in the New Zealand Inventory of Biodiversity in 2012 (Broady et al. 2012, Harper et al. 2012 and Nelson 2012) and by the Museum of New Zealand Te Papa Tongarewa in 2013 (https://collections.tepapa.govt.nz/topic/3717). This list does not include recent discoveries of coralline diversity which are in the process of being investigated. Not all species are formally named yet, and there remain significant taxonomic and nomenclatural issues to be addressed in the macroalgal flora.</para>
+                    <para>In this list, all undescribed species are represented by a vouchered specimen and the naming format follows that adopted by the Department of Conservation for their listings of the New Zealand Biota when applying the New Zealand Threat Classification System (Townsend et al. 2007). That is, where a species can be placed in a genus but is undescribed, it is assigned a letter code, a voucher specimen is listed, along with a descriptive term, frequently reflecting the region where it has been found (e.g. Antipodes Is).  The majority of voucher specimens cited in this list are deposited in the Herbarium of the Museum of New Zealand Te Papa Tongarewa (WELT) or in the Landcare Manaaki Whenua collection (CHR) (Thiers 2019). Some vouchers refer to ANZE specimens – the Algae Nova-Zelandicae Exsiccatae (distributed by Victor W. Lindauer between 1939 and 1953, in fourteen fascicles, each consisting of 25 sheets - Nelson &amp;amp; Phillips 1996). If evidence for an unnamed species has been published, the species naming protocol makes reference to the relevant publication. 
+In the main list the species are arranged in within phyla, classes, subclasses (within the Rhodophyta), orders, families, and genera, and within each of the ranks the arrangement is alphabetical. Species authorities follow the standardised abbreviations of the International Plant Name Index.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Inventoryregional</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>New Zealand EEZ</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>157</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-160</eastBoundingCoordinate>
+                                <northBoundingCoordinate>-24</northBoundingCoordinate>
+                                <southBoundingCoordinate>-57</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Kate</givenName>                    <surName>Neill</surName>
+            </individualName>
+<organizationName>NIWA</organizationName><positionName>Marine Biologist</positionName>            <address>
+<deliveryPoint>Private Bag 14-901</deliveryPoint><city>Wellington</city><postalCode>6241</postalCode><country>NEW_ZEALAND</country>            </address>
+            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:47Z</dateStamp>
+                <citation>Neill K, Nelson W (2019). New Zealand Marine Macroalgae Species Checklist. Version 1.7. The National Institute of Water and Atmospheric Research (NIWA). Checklist dataset https://doi.org/10.15468/ojjhcs accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Adams, N. M. 1994. Seaweeds of New Zealand. Christchurch, Canterbury University Press. 360p.</citation>
+                <citation identifier="DOI 10.1007/s10811-015-0699-x">Boo, G.H., Nelson, W.A., Preuss, M., Kim, J.K., Boo, S.M. 2016. Genetic segregation and differentiation of a common subtidal alga Pterocladia lucida (Gelidiales, Rhodophyta) between Australia and New Zealand. J. Appl. Phycol. 28: 2027–2034 DOI 10.1007/s10811-015-0699-x</citation>
+                <citation>Broady, P.A., Flint, E.A., Nelson, W.A., Cassie Cooper, V., de Winton, M.D., Novis, P.M. 2012. Phyla Chlorophyta and Charophyta: green algae. In: Gordon, D.P. (ed.) New Zealand Inventory of Biodiversity. Volume Three. Kingdoms Bacteria, Protozoa, Chromista, Plantae, Fungi.  Canterbury University Press. Pp. 347-381.</citation>
+                <citation>Buchanan, J. The crustose brown algae of New Zealand: A taxonomic study. MSc. School of Biological Sciences, Victoria University of Wellington. Pp.141.</citation>
+                <citation>Chapman, V. J., Parkinson, P. G. 1974. The marine algae of New Zealand, part III: Rhodophyceae.  Issue 3: Cryptonemiales. Lehre, Cramer. Pp. 155—278, fig. 47-75, pi. 51-94.</citation>
+                <citation>Farr, T., Broom, J., Hart, D., Neill, K., Nelson, W. 2009. Common coralline algae of northern New Zealand: an identification guide. NIWA Information Series, 70. 249 pp.</citation>
+                <citation>Harper, M., Cassie Cooper, V., Chang, F.H., Nelson, W., Broady, P. 2012. Phylum Ochrophyta: brown and golden-brown algae, diatoms, silicoflagellates, and kin. In: Gordon, D.P. (ed.) New Zealand Inventory of Biodiversity. Volume Three. Kingdoms Bacteria, Protozoa, Chromista, Plantae, Fungi. Canterbury University Press. Pp. 114-163.</citation>
+                <citation>Hay, C.H., Adams, N.M., Parsons, M.J. 1985. The marine algae of the subantarctic islands of New Zealand. National Museum of New Zealand, Miscellaneous Series 11: 1–70.</citation>
+                <citation>Heesch, S., Broom, J.E., Neill, K., Farr, T.J., Dalen, J., Nelson, W.A. 2009. Ulva, Umbraulva and Gemina: genetic survey of New Zealand Ulvaceae reveals diversity and introduced species. European Journal of Phycology 44: 143-154.</citation>
+                <citation>Nelson, W.A. 2012. Phylum Rhodophyta: red algae. In: Gordon, D.P. (ed.) New Zealand Inventory of Biodiversity. Volume Three. Kingdoms Bacteria, Protozoa, Chromista, Plantae, Fungi. Canterbury University Press. Pp. 327-346.</citation>
+                <citation>Nelson, W.A., Adams, N.M., Hay, C.H. 1991. Marine algae of the Chatham Islands. Misc. Pubs. National Museum N.Z. 23: 57 pp.</citation>
+                <citation>Nelson, W.A., Phillips, L. 1996. The Lindauer legacy – current names for the Algae Nova-Zelandicae Exsiccatae. New Zealand Journal of Botany 34: 553-582.</citation>
+                <citation>Nelson, W.A., Payri, C.E., Sutherland, J.E., Dalen, J. 2013. The genus Melanthalia (Gracilariales, Rhodophyta): new insights from New Caledonia and New Zealand. Phycologia 52: 426–436.</citation>
+                <citation>Sutherland, J., Lindstrom, S., Nelson, W., Brodie, J., Lynch, M., Hwang, M.S., Choi, H.G., Miyata, M., Kikuchi, N., Oliveira, M., Farr, T., Neefus, C., Mols-Mortensen, A., Milstein, D., Müller, K. 2011. A new look at an ancient order: generic revision of the Bangiales. Journal of Phycology 47:1131-1151.</citation>
+                <citation>Townsend, A.J., de Lange, P.J., Duffy, C.A.J., Miskelly, C.M., Molloy, J., Norton, D.A. 2007. New Zealand Threat Classification System manual. Department of Conservation, Wellington. 35p.</citation>
+                <citation>Thiers, B. (continuously updated) Index Herbariorum: a global directory of public herbaria and associated staff. New York Botanical Garden’s Virtual Herbarium. Available at: http://sweetgum.nybg.org/ih/</citation>
+                <citation identifier="http://dx.doi.org/10.4490/algae.2016.31.4.15">Zuccarello, G.C., Martin, P. 2016. Phylogeography of the Lessonia variegata species complex (Phaeophyceae, Laminariales) in New Zealand. Algae 31(2): 91-103. http://dx.doi.org/10.4490/algae.2016.31.4.15</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

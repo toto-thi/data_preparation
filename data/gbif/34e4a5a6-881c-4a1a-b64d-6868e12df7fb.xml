@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="34e4a5a6-881c-4a1a-b64d-6868e12df7fb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3740269</alternateIdentifier>
+                <alternateIdentifier>34e4a5a6-881c-4a1a-b64d-6868e12df7fb</alternateIdentifier>
+                <alternateIdentifier>10.15468/at2srp</alternateIdentifier>
+                <alternateIdentifier>978-84-16728-19-0</alternateIdentifier>
+                <alternateIdentifier>FFECFF8AFFCF4C04FFA53577FFF8FFE9</alternateIdentifier>
+        <title>Emballonuridae</title>
+            <creator>
+            <individualName>
+<givenName>Frank</givenName>                    <surName>Bonaccorso</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Bonaccorso, Frank (2019): Emballonuridae. In: Wilson, Don E., Mittermeier, Russel A. (Eds): Handbook of the Mammals of the World – Volume 9 Bats. Barcelona: Lynx Edicions: 350-373, ISBN: 978-84-16728-19-0, DOI: http://doi.org/10.5281/zenodo.3740269</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFECFF8AFFCF4C04FFA53577FFF8FFE9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:50Z</dateStamp>
+                <citation>Bonaccorso F, plazi (2019). Emballonuridae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3740269 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

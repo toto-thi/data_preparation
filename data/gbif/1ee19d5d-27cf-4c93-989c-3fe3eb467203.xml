@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1ee19d5d-27cf-4c93-989c-3fe3eb467203"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3677235</alternateIdentifier>
+                <alternateIdentifier>1ee19d5d-27cf-4c93-989c-3fe3eb467203</alternateIdentifier>
+                <alternateIdentifier>10.15468/nhqknh</alternateIdentifier>
+                <alternateIdentifier>BA35690A-FC73-4E5A-A805-FE9550275FEC</alternateIdentifier>
+                <alternateIdentifier>FFB7515A7E72FFFEFFFF732ADF1EFFFB</alternateIdentifier>
+        <title>Fifty new genera of Hesperiidae (Lepidoptera)</title>
+            <creator>
+            <individualName>
+<givenName>Qian</givenName>                    <surName>Cong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jing</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jinhui</givenName>                    <surName>Shen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nick V.</givenName>                    <surName>Grishin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cong, Qian, Zhang, Jing, Shen, Jinhui, Grishin, Nick V. (2019): Fifty new genera of Hesperiidae (Lepidoptera). Insecta Mundi 731 (731): 1-56, DOI: http://doi.org/10.5281/zenodo.3677235</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB7515A7E72FFFEFFFF732ADF1EFFFB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:01Z</dateStamp>
+                <citation>Cong Q, Zhang J, Shen J, Grishin N V, felipe (2019). Fifty new genera of Hesperiidae (Lepidoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3677235 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

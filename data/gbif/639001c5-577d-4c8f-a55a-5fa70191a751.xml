@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="639001c5-577d-4c8f-a55a-5fa70191a751"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/bk9s2g</alternateIdentifier>
+                <alternateIdentifier>FFE65258F049FFB21973B71A0411FF94</alternateIdentifier>
+        <title>A new deep-sea eelpout of the genus Pyrolycus (Teleostei: Zoarcidae) associated with a hydrothermal seep on the Pacific margin of Costa Rica</title>
+            <creator>
+            <individualName>
+<givenName>Benjamin W.</givenName>                    <surName>Frable</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Charlotte A.</givenName>                    <surName>Seid</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Allison W.</givenName>                    <surName>Bronson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter Rask</givenName>                    <surName>Møller</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Frable, Benjamin W., Seid, Charlotte A., Bronson, Allison W., Møller, Peter Rask (2023): A new deep-sea eelpout of the genus Pyrolycus (Teleostei: Zoarcidae) associated with a hydrothermal seep on the Pacific margin of Costa Rica. Zootaxa 5230 (1): 79-89, DOI: https://doi.org/10.11646/zootaxa.5230.1.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFE65258F049FFB21973B71A0411FF94</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:08Z</dateStamp>
+                <citation>Frable B W, Seid C A, Bronson A W, Møller P R, plazi (2023). A new deep-sea eelpout of the genus Pyrolycus (Teleostei: Zoarcidae) associated with a hydrothermal seep on the Pacific margin of Costa Rica. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/bk9s2g accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

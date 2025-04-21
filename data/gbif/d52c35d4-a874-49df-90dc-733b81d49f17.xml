@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d52c35d4-a874-49df-90dc-733b81d49f17"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1643/ci-16-529</alternateIdentifier>
+                <alternateIdentifier>d52c35d4-a874-49df-90dc-733b81d49f17</alternateIdentifier>
+                <alternateIdentifier>ED8EB131-6D29-4664-B4AF-00A7BD2C247A</alternateIdentifier>
+                <alternateIdentifier>10.15468/gfzgx8</alternateIdentifier>
+                <alternateIdentifier>FF95E07EFFCD1B1DFFCD3A55FFD6FFCE</alternateIdentifier>
+        <title>A New Species of Deep-channel Electric Knifefish Compsaraia (Apteronotidae, Gymnotiformes) from the Amazon River</title>
+            <creator>
+            <individualName>
+                    <surName>Maxwell J. Bernt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>James S. Albert</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Maxwell J. Bernt, James S. Albert (2017): A New Species of Deep-channel Electric Knifefish Compsaraia (Apteronotidae, Gymnotiformes) from the Amazon River. Copeia 105 (2): 211-219, DOI: 10.1643/CI-16-529</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF95E07EFFCD1B1DFFCD3A55FFD6FFCE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:39Z</dateStamp>
+                <citation>Maxwell J. Bernt, James S. Albert, plazi (2017). A New Species of Deep-channel Electric Knifefish Compsaraia (Apteronotidae, Gymnotiformes) from the Amazon River. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1643/ci-16-529 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

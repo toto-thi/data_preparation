@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c36d2a77-91cd-4d6c-b6e2-127b31e3595a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/z2010n2a2</alternateIdentifier>
+                <alternateIdentifier>c36d2a77-91cd-4d6c-b6e2-127b31e3595a</alternateIdentifier>
+                <alternateIdentifier>10.15468/6kru2f</alternateIdentifier>
+                <alternateIdentifier>FFCADB1EFFF9460CFF8B9D1AA00F5E3E</alternateIdentifier>
+        <title>Description of a new genus and four new species of Acaricalini (Acari, Eriophyidae, Phyllocoptinae) from South China</title>
+            <creator>
+            <individualName>
+<givenName>De-Wei</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guo-Quan</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sui-Gai</givenName>                    <surName>Wei</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2010-06-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Li, De-Wei, Wang, Guo-Quan, Wei, Sui-Gai (2010): Description of a new genus and four new species of Acaricalini (Acari, Eriophyidae, Phyllocoptinae) from South China. Zoosystema 32 (2): 233-245, DOI: 10.5252/z2010n2a2, URL: http://www.bioone.org/doi/abs/10.5252/z2010n2a2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCADB1EFFF9460CFF8B9D1AA00F5E3E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:21Z</dateStamp>
+                <citation>Li D, Wang G, Wei S, felipe (2010). Description of a new genus and four new species of Acaricalini (Acari, Eriophyidae, Phyllocoptinae) from South China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/z2010n2a2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

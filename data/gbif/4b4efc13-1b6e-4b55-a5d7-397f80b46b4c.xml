@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4b4efc13-1b6e-4b55-a5d7-397f80b46b4c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/gne6ed</alternateIdentifier>
+                <alternateIdentifier>9E612822FFA8833FF46BFFC3FFE96D20</alternateIdentifier>
+        <title>Two new species of Botryosphaeriaceae (Botryosphaeriales) and new host / geographical records</title>
+            <creator>
+            <individualName>
+<givenName>Achala R.</givenName>                    <surName>Rathnayaka</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. W. Thilini</givenName>                    <surName>Chethana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alan J. L.</givenName>                    <surName>Phillips</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>E. B. Gareth</givenName>                    <surName>Jones</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rathnayaka, Achala R., Chethana, K. W. Thilini, Phillips, Alan J. L., Jones, E. B. Gareth (2022): Two new species of Botryosphaeriaceae (Botryosphaeriales) and new host / geographical records. Phytotaxa 564 (1): 8-38, DOI: 10.11646/phytotaxa.564.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/9E612822FFA8833FF46BFFC3FFE96D20</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:20Z</dateStamp>
+                <citation>Rathnayaka A R, Chethana K W T, Phillips A J L, Jones E B G, plazi (2022). Two new species of Botryosphaeriaceae (Botryosphaeriales) and new host / geographical records. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/gne6ed accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

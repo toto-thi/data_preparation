@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="857eb594-755e-493e-a705-602b5d46e686"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2019v41a17</alternateIdentifier>
+                <alternateIdentifier>857eb594-755e-493e-a705-602b5d46e686</alternateIdentifier>
+                <alternateIdentifier>10.15468/iqzy56</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:541CF827-F02E-4086-8FB0-2C0033DD429A</alternateIdentifier>
+                <alternateIdentifier>FFFB4420FFECFFD01A018507FFFDFF89</alternateIdentifier>
+        <title>On unreported historical specimens of marine arthropods from the Solnhofen and Nusplingen Lithographic Limestones (Late Jurassic, Germany) housed at the Muséum national d’Histoire naturelle, Paris</title>
+            <creator>
+            <individualName>
+<givenName>Giliane P.</givenName>                    <surName>Odin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sylvain</givenName>                    <surName>Charbonnier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Julien</givenName>                    <surName>Devillez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Günter</givenName>                    <surName>Schweigert</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Odin, Giliane P., Charbonnier, Sylvain, Devillez, Julien, Schweigert, Günter (2019): On unreported historical specimens of marine arthropods from the Solnhofen and Nusplingen Lithographic Limestones (Late Jurassic, Germany) housed at the Muséum national d’Histoire naturelle, Paris. Geodiversitas 41 (17): 643-662, DOI: 10.5252/geodiversitas2019v41a17</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFFB4420FFECFFD01A018507FFFDFF89</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:13Z</dateStamp>
+                <citation>Odin G P, Charbonnier S, Devillez J, Schweigert G, valdenar (2019). On unreported historical specimens of marine arthropods from the Solnhofen and Nusplingen Lithographic Limestones (Late Jurassic, Germany) housed at the Muséum national d’Histoire naturelle, Paris. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2019v41a17 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

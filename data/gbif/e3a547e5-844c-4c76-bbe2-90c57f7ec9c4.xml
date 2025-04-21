@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e3a547e5-844c-4c76-bbe2-90c57f7ec9c4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3713451</alternateIdentifier>
+                <alternateIdentifier>10.15468/ezrjd2</alternateIdentifier>
+                <alternateIdentifier>e3a547e5-844c-4c76-bbe2-90c57f7ec9c4</alternateIdentifier>
+                <alternateIdentifier>526E7466-A9C0-4A26-A20C-1E36992EF000</alternateIdentifier>
+                <alternateIdentifier>FFC5FFEBFFDFFFC6FF91C4230007FFF8</alternateIdentifier>
+        <title>New state records for Coniopterygidae (Neuroptera) with an updated list of species in North America north of Mexico</title>
+            <creator>
+            <individualName>
+<givenName>Michael L.</givenName>                    <surName>Ferro</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-11-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ferro, Michael L. (2018): New state records for Coniopterygidae (Neuroptera) with an updated list of species in North America north of Mexico. Insecta Mundi 668: 1-20, DOI: http://doi.org/10.5281/zenodo.3713451</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC5FFEBFFDFFFC6FF91C4230007FFF8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:23Z</dateStamp>
+                <citation>Ferro M L, felipe (2018). New state records for Coniopterygidae (Neuroptera) with an updated list of species in North America north of Mexico. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3713451 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

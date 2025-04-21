@@ -1,0 +1,1566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5c0b1470-8884-4914-ae76-70a7c81d6d08"  system="http://gbif.org" scope="system"
+xml:lang="es">
+
+    <dataset>
+            <alternateIdentifier>10.15472/7avdhn</alternateIdentifier>
+                <alternateIdentifier>5c0b1470-8884-4914-ae76-70a7c81d6d08</alternateIdentifier>
+                <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=catalogo_plantas_liquenes</alternateIdentifier>
+        <title>Catálogo de Plantas y Líquenes de Colombia</title>
+            <creator>
+            <individualName>
+<givenName>Lauren</givenName>                    <surName>Raz</surName>
+            </individualName>
+<organizationName>Instituto de Ciencias Naturales/Universidad Nacional de Colombia</organizationName><positionName>Profesora</positionName>            <address>
+<city>Bogotá</city><administrativeArea>Bogotá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>+5713165000</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Henry</givenName>                    <surName>Agudelo Zamora</surName>
+            </individualName>
+<organizationName>Instituto de Ciencias Naturales/Universidad Nacional de Colombia</organizationName><positionName>coordinador de proyectos, programa de Informatica de la biodiversidad</positionName>            <address>
+<city>Bogotá</city><administrativeArea>Bogotá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>+5713165000</phone><electronicMailAddress>hdagudeloz@unal.edu.co</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Lauren</givenName>                    <surName>Raz</surName>
+            </individualName>
+<organizationName>Instituto de Ciencias Naturales/Universidad Nacional de Colombia</organizationName><positionName>Profesora</positionName>            <address>
+<city>Bogotá</city><administrativeArea>Bogotá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>+5713165000</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Henry</givenName>                    <surName>Agudelo Zamora</surName>
+            </individualName>
+<organizationName>Instituto de Ciencias Naturales/Universidad Nacional de Colombia</organizationName><positionName>coordinador de proyectos, programa de Informatica de la biodiversidad</positionName>            <address>
+<city>Bogotá</city><administrativeArea>Bogotá</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>hdagudeloz@unal.edu.co</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Rodrigo</givenName>                    <surName>Bernal</surName>
+            </individualName>
+<organizationName>Reserva Natural Guadualito</organizationName><positionName>Investigador</positionName>            <address>
+<city>Armenía</city><administrativeArea>Quindío</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>rgbernalg@gmail.com</electronicMailAddress>            <role>EDITOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>S. Robbert</givenName>                    <surName>Gradstein</surName>
+            </individualName>
+<organizationName>Department Systématique et Evolution/Muséum National d’Histoire Naturelle</organizationName><positionName>Profesor</positionName>            <address>
+<city>Paris</city><country>FRANCE</country>            </address>
+<electronicMailAddress>gradstein@mnhn.fr</electronicMailAddress>            <role>EDITOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Marcela</givenName>                    <surName>Celis</surName>
+            </individualName>
+<organizationName>Universidad del Norte</organizationName><positionName>Profesora</positionName>            <address>
+<city>Barranquilla</city><administrativeArea>Atlantico</administrativeArea><country>COLOMBIA</country>            </address>
+<electronicMailAddress>ymcelis@uninorte.edu.co</electronicMailAddress>            <role>EDITOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-07-22
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>Colombia es uno de los países con mayor diversidad de plantas en todo el planeta. Esa enorme riqueza vegetal, que fue la base sobre la que florecieron en esta parte del mundo centenares de civilizaciones indígenas a través de los siglos, constituye un patrimonio de valor incalculable, al cual nuestro país debe volver ahora la mirada para planear su futuro. La conservación y el adecuado aprovechamiento de nuestra flora deberán hacer parte de nuestra agenda en las próximas décadas. De no hacerlo, el país estaría desaprovechando una excelente oportunidad para su desarrollo sostenible.</para>
+                    <para>El primer paso para la conservación y el uso sostenible de nuestros recursos es su conocimiento cabal. En el caso de las plantas, un inventario básico de la flora nacional constituye la base fundamental sobre la que habrá de planearse su futuro manejo. Pero un inventario de esta naturaleza no existía hasta ahora en Colombia, a pesar de la larga historia botánica de nuestro país, que se remonta a la Real Expedición Botánica que inició José Celestino Mutis a finales del siglo XVIII.</para>
+                    <para>Y ninguna institución más idónea para producir dicho inventario que la Universidad Nacional de Colombia, pionera en el estudio de nuestra flora y depositaria de la mayor colección de especímenes de plantas colombianas existente en el mundo. Por esta razón es una gran satisfacción para la Universidad Nacional entregar al país y al mundo entero, como parte de nuestro compromiso con la nación, el presente Catálogo de plantas y líquenes de Colombia. Esta obra, quizás la empresa botánica más ambiciosa que se haya culminado en el país, recopila, por primera vez en nuestra historia, las 28.000 especies de plantas y líquenes que se han identificado hasta ahora en Colombia, suministrando para cada una de ellas información sobre el tamaño de la planta, las regiones ecológicas en las que se encuentra, el rango de elevación en el que crece, los departamentos en los que ha sido hallada, su actual estado de conservación y la distribución global de la especie.</para>
+                    <para>Este Catálogo, en cuya compilación trabajaron 180 investigadores de 20 países a lo largo de 13 años, no es, de ninguna manera, el final de la investigación botánica en Colombia. Como bien lo señalan los editores, el conocimiento de nuestra flora es todavía incompleto y existen vastas regiones del país que han sido escasamente exploradas. Cada año se descubren varias decenas de especies nuevas para la ciencia y se amplía el área de distribución conocida para muchas otras, a la vez que los investigadores descubren día tras día nuevas aplicaciones para nuestras plantas. El camino a recorrer es todavía largo. Pero la información que se presenta aquí constituye una valiosa herramienta sobre la cual podremos planear el futuro de nuestra flora: su conocimiento y su protección; su aprovechamiento racional y su incorporación a nuestra identidad nacional.</para>
+                    <para>El libro del catálogo publicado en 2016 y su primera versión digital comprendieron 28.000 especies de plantas y líquenes. Desde entonces el catálogo ha estado en constante actualización, la presente lista comprende más de 47.000 nombres científicos, entre ellos casi 30.000 nombres aceptados entre especies, subespecies, híbridos, variedades y formas.
+
+La disposición de esta lista a través del SiB Colombia busca mejorar la interoperabilidad y promover su uso al poder hacer una descarga detallada de todo el catálogo. La presente lista se irá actualizando de forma paralela a la versión digital del catálogo.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Taxonomicauthority</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Colombia</keyword>
+                        <keyword>Taxonomía vegetal</keyword>
+                        <keyword>Plantas</keyword>
+                        <keyword>Distribución geográfica</keyword>
+                        <keyword>Conservación de especímenes</keyword>
+                        <keyword>Identificación</keyword>
+                        <keyword>Paleobotánica</keyword>
+                        <keyword>Catálogos</keyword>
+                        <keyword>Líquenes</keyword>
+                        <keyword>Flora colombiana</keyword>
+                        <keywordThesaurus>n/a</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://catalogoplantasdecolombia.unal.edu.co/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Para el presente catálogo se ha dividido el país en diez regiones biogeográficas no ajustadas de manera exacta a ningún sistema particular de clasificación, pero que pueden servir, en general, para entender los patrones de distribución de las especies en Colombia.
+
+Amazonia. Región amazónica al este de los Andes, hasta unos 500 m de elevación. Se extiende por el norte hasta la zona entre los ríos Guaviare y Vichada, y excluye las formaciones correspondientes al escudo Guayanés, que forman un mosaico con los bosques amazónicos.
+
+Guayana y serranía de la Macarena. Formaciones del escudo Guayanés en Guainía, Vaupés, Guaviare, Caquetá y la serranía de la Macarena. Se extiende por el sur hasta los alrededores de Araracuara, en el río Caquetá. Forman un mosaico discontinuo con los bosques amazónicos.
+
+Orinoquia. Llanos Orientales. Se extiende por el sur hasta la zona entre los ríos Guaviare y Vichada, y asciende por los Andes hasta unos 500 m de elevación.
+
+Llanura del Caribe. Tierras bajas del norte de Colombia, hasta unos 500 m de elevación. Se extiende por el sur hasta el norte de la serranía de San Lucas y por el oeste hasta las últimas estribaciones de la serranía de Abibe. La costa del Caribe en Chocó (el Darién), caracterizada por la mezcla de elementos ca- ribeños y del Pacífico, ha sido ubicada aquí dentro de la región Pacífico. Hemos incluido en la región biogeográfica del Caribe las zonas secas de los alrededores de Cúcuta.
+
+Pacífico. Tierras bajas al oeste de los Andes, hasta unos 500 m de elevación. Se extiende por el norte hasta Urabá, el Darién y el alto Sinú. Comprende también las serranías del Darién y el Baudó que, aunque sobrepasan los 1000 m de elevación, son muy pobremente conocidas para ameritar separación.
+
+Andes. La cordillera de los Andes, por encima de 500 m en las vertientes amazónica y pacífica, y por encima de 1000 en el valle del Cauca y en el valle del Magdalena. Incluye macizos más o menos aislados, como la serranía de San Lucas.
+sierra nevada de santa Marta. Todo el macizo, por encima de unos 500 m de elevación.
+
+Valle del Magdalena. Toda la cuenca del río Mag- dalena, hasta unos 1000 m de elevación. Se extiende por el norte hasta el norte de la serranía de San Lucas. Incluye la cuenca baja del río Cauca. Se ha incluido también en esta región la cuenca del Catatumbo.
+
+Valle del Cauca. La cuenca del río Cauca, hasta unos 1000 m de elevación. Se extiende por el norte hasta el extremo norte de la cordillera Central, cerca de Tarazá, Antioquia.
+
+Islas Caribeñas. El archipiélago de San Andrés, Providencia, Santa Catalina y los cayos aledaños.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-82.837</westBoundingCoordinate>
+                                <eastBoundingCoordinate>-66.445</eastBoundingCoordinate>
+                                <northBoundingCoordinate>14.987</northBoundingCoordinate>
+                                <southBoundingCoordinate>-4.39</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1951-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2020-08-04
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Esta lista comprende 29.769 especies de plantas distribuidas en más de 400 familias y 3000 géneros, siendo las familias más abundantes Orchidaceae, Fabaceae, Asteraceae, Rubiaceae y Melastomataceae con más de mil especies cada una, y con la mayor diversidad en el grupo de las orquídeas con más de 3000 especies.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Esta lista comprende 1761 especies de líquenes pertenecientes al reino Fungi  distribuidos en 6 clases y  274 géneros.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Agaricomycetes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Arthoniomycetes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Dothideomycetes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Eurotiomycetes</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Class</taxonRankName>
+                                    <taxonRankValue>Lecanoromycetes</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Lauren</givenName>                    <surName>Raz</surName>
+            </individualName>
+<organizationName>Instituto de Ciencias Naturales/Universidad Nacional de Colombia</organizationName><positionName>Profesora</positionName>            <address>
+<city>Bogotá</city><administrativeArea>Bogotá</administrativeArea><country>COLOMBIA</country>            </address>
+<phone>+5713165000</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>El Catálogo de plantas y líquenes de Colombia reúne la información disponible sobre todas las plantas nativas y cultivadas que crecen en Colombia. Se incluyen en la obra las llamadas plantas terrestres o Embryophyta, grupo que abarca los árboles y todas las plantas con flores, los helechos, los musgos y los grupos más emparentados con ellos. Se han excluido las algas verdes que, junto con las plantas terrestres, conforman el grupo de las denominadas plantas verdes (subreino Chlorobionta). El número total de algas verdes de Colombia probablemente está alrededor de unas 700 especies, y de ellas existen catálogos parciales de varios grupos (por ejemplo, Díaz-Pulido &amp; Díaz-Ruiz 2003; Núñez-Avellaneda &amp; Duque 1998). Adicionalmente, se han incluido en el catálogo los líquenes, aunque pertenecen a los hongos y no al grupo de las plantas, pues existe una lista bastante completa de ellos.
+
+Para la citación de los nombres científicos se han i troducido dos modificaciones, en seguimiento del Código Internacional de Nomenclatura de algas, hongos y plantas ICN (McNeill et al. 2012), con el objeto de simplificar la citación de los autores de los taxones: en los nombres que fueron adscritos a un autor diferente por parte del autor que los publicó, se ha omitido el nombre del primero, al igual que la preposición ex, dejando únicamente el nombre de quien efectivamente publicó el nombre, de acuerdo con el Art. 46.5 del ICN. Por otra parte, siguiendo la recomendación 46C del código, en los nombres publicados por más de dos autores se ha restringido la citación al primer autor, seguido por et al.
+Se han incluido en el catálogo, con la denominación de “esperadas”, aquellas especies que han sido halla- das en países vecinos a unos pocos kilómetros de la frontera, usualmente a menos de 5 km. En muchos casos se trata de especies que han sido recolectadas justo en la orilla opuesta del río que marca la frontera. De manera análoga, se registran como no endémicas aquellas especies que se conocen solo de Colombia, pero que han sido recolectadas a unos pocos kilómetros de la frontera con algún país vecino.
+
+Se incluyen entre paréntesis cuadrados [ ] especies que han sido equívocamente atribuidas a la flora de Colombia, con base en identificaciones erróneas; también registros dudosos que los especialistas pre- firieron no incluir en el conteo total de especies, al igual que algunos nombre inéditos.
+
+No se han incluido en el catálogo los híbridos originados en la horticultura, ya sean espontáneos o intencionales; por ejemplo, los numerosos casos que han recibido nombre entre las orquídeas.
+En la mayoría de los casos se ha evitado asignar categorías de amenaza (incluso en aquellos casos en los que los especialistas asignaron una categoría) cuan- do las especies no han sido formalmente evaluadas según los parámetros de la UICN. Sin embargo, se ha hecho una excepción con aquellas especies que crecen en más de 10 departamentos, en tres o más regiones biogeográficas, y no son endémicas, caso en el que se les ha asignado la categoría “Preocupación Menor”. En general, son especies de distribución glo- bal extensa y con un amplio rango altitudinal, con frecuencia plantas arvenses o ruderales.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Colombia está situada en la esquina noroccidental de Suramérica, en el área de conexión de este sub- continente con Centroamérica. Es el único país suamericano que tiene costas en los océanos Atlántico (1600 km) y Pacífico (1300 km). Su territorio continental se extiende desde los 12°26’46”N en Punta Gallinas, La Guajira (el punto más septentrional de Suramérica), hasta los 4°12’30”S, en la desemboca- dura de la quebrada San Antonio, en el río Amazonas, en la ciudad de Leticia, y desde los 60°50’54”O sobre la isla de San José, en el río Negro (punto de convergencia de las fronteras de Colombia, Brasil y Venezuela) hasta los 79°02’33” O en cabo Manglares, en la desembocadura del río Mira, en el océano Pacífico. La línea ecuatorial atraviesa el sur del país, de tal manera que el 87 % del territorio continental se encuentra en el hemisferio Norte.
+
+El territorio colombiano incluye también las islas Gorgona (26 km2) y Gorgonilla (1.1 km2), situadas en el océano Pacífico a los 2°58’N, a unos 29 km de la costa, y la isla Malpelo (0.35 km2), una roca oceánica situada a los 4°N y a 465 km al occidente del continente. En el mar Caribe el territorio colombiano también comprende el archipiélago de San Andrés y Providencia, situado frente a las costas de Nicaragua, entre los 12° y 16°30’N y los 78° y 82°O. Este archipiélago incluye las islas de San Andrés (26km2), Providencia (17 km2) y Santa Catalina (1 km2), junto con varios cayos menores, deshabitados. Adicionalmente, en el Caribe se encuentran Isla Fuerte (3.25 km2), los archipiélagos de San Bernardo (10 pequeñas islas, 4.5 km2) y las islas del Rosario (28 pequeñas islas, 0.2 km2), así como las de Barú y Tierrabomba, todas ellas cercanas al litoral y unidas al continente.
+
+El país tiene una superficie de 2.129.748 km2, de los cuales 1.141.748 km2 corresponden a su territorio continental e insular y los restantes 988.000 km2 a su extensión marítima. Esta área de mar se reduciría en cerca de 75.000 km2 con la aplicación del fallo de la Corte Internacional de Justicia del 19 de noviembre del 2012 (Cour Internationale de Justice 2012), el cual modificó las fronteras marítimas entre Colombia y Nicaragua. Sin embargo, hasta diciembre del 2014 dicho fallo todavía no había sido efectivamente apli- cado. En cualquier caso, la reducción de la superficie marítima del país no afectaría la información presentada en este catálogo, pues no se conoce ni una sola especie de planta o de liquen que sea exclusiva de di- cho territorio.
+
+Colombia tiene extensas fronteras terrestres con cinco países: en el nordeste y el este con Venezuela (2219 km), en el sureste con Brasil (1645 km), en el sur con Perú (1626 km) y Ecuador (586 km) y en el noroeste con Panamá (266 km).</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Las especies están ordenadas en siete grandes grupos: líquenes, hepáticas, antocerotas, musgos, helechos y afines, gimnospermas y angiospermas. Se tratan por separado las plantas nativas y las cultivadas. Para las angiospermas se sigue la clasificación de familias del Angiosperm Phylogeny Group (APG III 2009), con algunas modificaciones recientes. Por ejemplo, la tradicional familia Olacaceae se divide ahora en siete familias, siguiendo la clasificación propuesta por Nic krent et al. (2010).</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>La limpieza de datos de para la publicación de la lista a través del SiB Colombia incluyo lo siguientes ajustes
+
+1. Se eliminaron taxones ambiguos o que no tuvieran un nombre científico respaldado por una publicación aún (por ejemplo sp., sp. nov.)
+2. Se añadió la información CITES y de amenaza actualizada al 2020
+3. Se mapearon todos los elementos originales al DwC haciendo uso de diferentes extensiones</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Catálogo de Plantas y Líquenes de Colombia</title>
+                    <personnel>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Aedo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carlos Alberto</givenName>                    <surName>Agudelo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>José</givenName>                    <surName>Aguilar-Cano</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jaime</givenName>                    <surName>Aguirre-C</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Angélica</givenName>                    <surName>Alba</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mac H.</givenName>                    <surName>Alford</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Frank</givenName>                    <surName>Almeda</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Marcela</givenName>                    <surName>Alvear</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Fernando</givenName>                    <surName>Alzate</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Christiane</givenName>                    <surName>Anderson</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>William R.</givenName>                    <surName>Anderson</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Maria Mercedes</givenName>                    <surName>Arbo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Fabio</givenName>                    <surName>Avila</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gerardo</givenName>                    <surName>Aymard</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Balam-Narváez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Henrik BALSLEV</givenName>                    <surName>Balslev</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Glotia</givenName>                    <surName>Barboza</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gabrielle</givenName>                    <surName>Barriera</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gabriel</givenName>                    <surName>Beltrán</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Cornelis C</givenName>                    <surName>Berg</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Rodrigo</givenName>                    <surName>Bernal</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Juan Carlos</givenName>                    <surName>Berrío</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Paul</givenName>                    <surName>Berry</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Julio</givenName>                    <surName>Betancur</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mario</givenName>                    <surName>Blanco</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Diego</givenName>                    <surName>Bogarín</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jesús Rodrigo</givenName>                    <surName>Botina P</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Calonje</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lisa M</givenName>                    <surName>Campbell</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Dubán</givenName>                    <surName>Canal</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Felipe</givenName>                    <surName>Cardona</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Germán</givenName>                    <surName>Carnevali Fernández-Concha</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Natalia</givenName>                    <surName>Castaño-R</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Marcela</givenName>                    <surName>Celis</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>William</givenName>                    <surName>Cetzal</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Steven P.</givenName>                    <surName>Churchill</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John L.</givenName>                    <surName>Clark</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lynn G.</givenName>                    <surName>Clark</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Laura</givenName>                    <surName>Clavijo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Antoine M.</givenName>                    <surName>Cleef</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Theodore S.</givenName>                    <surName>Cochrane</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Silvana</givenName>                    <surName>Cómbita-Q</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mireya Patricia</givenName>                    <surName>Córdoba Sánchez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Xavier</givenName>                    <surName>Cornejo</surName>
+            </individualName>
+            <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Rocío</givenName>                    <surName>Cortés-B</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Thomas B.</givenName>                    <surName>Croat</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Douglas C.</givenName>                    <surName>Daly</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Piero G.</givenName>                    <surName>Delprete</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Santiago</givenName>                    <surName>Díaz-Piedrahíta</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mauricio</givenName>                    <surName>Diazgranados</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Laurence J.</givenName>                    <surName>Dorr</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Stefan</givenName>                    <surName>Dressler</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Hilda del Carmen</givenName>                    <surName>Dueñas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Rodrigo</givenName>                    <surName>Duno de Stefano</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Roger</givenName>                    <surName>Eriksson</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Hans-Joachim</givenName>                    <surName>Esser</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ángel</givenName>                    <surName>Fernández</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>José Luis</givenName>                    <surName>Fenández-Alonso</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>F. Javier</givenName>                    <surName>Fernández-Casas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Enrique</givenName>                    <surName>Forero</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Alina</givenName>                    <surName>Freire-Fierro</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Fritsch</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Paul A.</givenName>                    <surName>Fryxell</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Vicki</givenName>                    <surName>Funk</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gloria</givenName>                    <surName>Galeano</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Martha Patricia</givenName>                    <surName>Galeano</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Günter</givenName>                    <surName>Gerlach</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Luiz C. S.</givenName>                    <surName>Giordano</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Giovanny</givenName>                    <surName>Giraldo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Diego</givenName>                    <surName>Giraldo-Cañas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ana Maria</givenName>                    <surName>Giulietti</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jorge</givenName>                    <surName>Gómez Laurito</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Reina</givenName>                    <surName>Gonto</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>S. Robbert</givenName>                    <surName>Gradstein</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Shirley A.</givenName>                    <surName>Graham</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jason</givenName>                    <surName>Grant</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mauricio</givenName>                    <surName>Gutiéttez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Eric</givenName>                    <surName>Hágsater</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Barry E.</givenName>                    <surName>Hammel</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Alexandra</givenName>                    <surName>Hernández</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Walter C.</givenName>                    <surName>Holmes</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>David</givenName>                    <surName>Hunt</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Álvaro</givenName>                    <surName>Idárraga</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Hugh H.</givenName>                    <surName>Iltis</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jhon</givenName>                    <surName>Infante-Betancur</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jorge</givenName>                    <surName>Jácome</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Adolfo</givenName>                    <surName>Jara Muñoz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Peter M.</givenName>                    <surName>Jørgensen</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lawrence M.</givenName>                    <surName>Kelly</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Bente</givenName>                    <surName>Klitgaard</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John</givenName>                    <surName>Kress</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Thomas G.</givenName>                    <surName>Lammers</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Elias</givenName>                    <surName>Landolt</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Andrea</givenName>                    <surName>León-P</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carlos Luis</givenName>                    <surName>Leopardi Verde</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Kate</givenName>                    <surName>Lepis</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gwylim P.</givenName>                    <surName>Lewis</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Sigrid</givenName>                    <surName>Liede-Schumann</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Pierre-André</givenName>                    <surName>Loizeau</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ximena</givenName>                    <surName>Londoño</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Cristina</givenName>                    <surName>López-Gallego</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carlyle A.</givenName>                    <surName>Luer</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>James L.</givenName>                    <surName>Luteyn</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Paul J. M.</givenName>                    <surName>Maas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Santiago</givenName>                    <surName>Madriñán</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Julio César</givenName>                    <surName>Mancera</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Luis</givenName>                    <surName>Marcano-Berti</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Humberto</givenName>                    <surName>Mendoza-Cifuentes</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Fabián A.</givenName>                    <surName>Michelangeli</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John</givenName>                    <surName>Mickel</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>James S.</givenName>                    <surName>Miller</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John</givenName>                    <surName>Mitchell</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jeanmaire</givenName>                    <surName>Molina</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>M. Marcela</givenName>                    <surName>Mora</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>J. Francisco</givenName>                    <surName>Morales</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gilberto</givenName>                    <surName>Morillo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>José</givenName>                    <surName>Murillo-A</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>María Teresa</givenName>                    <surName>Murillo-P</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Claudine M.</givenName>                    <surName>Mynssen</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Nee</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Eliana</givenName>                    <surName>Noguera-Savelli</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Henry F.</givenName>                    <surName>Oakeley</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Sandra</givenName>                    <surName>Obando</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gilberto</givenName>                    <surName>Ocampo</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Andrés</givenName>                    <surName>Orejuela</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Clara Inés</givenName>                    <surName>Orozco</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Rosa del C.</givenName>                    <surName>Ortiz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Pedro</givenName>                    <surName>Ortiz Valdivieso</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Leonardo</givenName>                    <surName>Palacios-Duque</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Parra-O</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Luis Norberto</givenName>                    <surName>Parra</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Paola</givenName>                    <surName>Pedraza-Peñalosa</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Juan Carlos</givenName>                    <surName>Penagos</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Darin</givenName>                    <surName>Penneys</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Terry D.</givenName>                    <surName>Pennington</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lizandro Nicanor</givenName>                    <surName>Peraza</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jorge Andrés</givenName>                    <surName>Pérez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John J.</givenName>                    <surName>Pipoly III</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>José A.</givenName>                    <surName>Posada-García</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jefferson</givenName>                    <surName>Prado</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ghillean T.</givenName>                    <surName>Prance</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>James</givenName>                    <surName>Pringle</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lauren</givenName>                    <surName>Raz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Susanne</givenName>                    <surName>Renner</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Reynel</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jon</givenName>                    <surName>Ricketson</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ricarda</givenName>                    <surName>Riina</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Norman</givenName>                    <surName>Robson</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Wilson</givenName>                    <surName>Rodríguez D</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Viviana</givenName>                    <surName>Rodríguez-Cabeza</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carolina</givenName>                    <surName>Romero</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gustavo</givenName>                    <surName>Romero-González</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Liz Karen</givenName>                    <surName>Ruiz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Nelson R.</givenName>                    <surName>Salinas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Luis Roberto</givenName>                    <surName>Sánchez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Yeimmy</givenName>                    <surName>Sarmiento</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Claude</givenName>                    <surName>Sastre</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>André</givenName>                    <surName>Schlüssel</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Udo</givenName>                    <surName>Schmidt-Mumm</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Julio V.</givenName>                    <surName>Schneider</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Marcela</givenName>                    <surName>Serna González</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Harrie J.M.</givenName>                    <surName>Sipman</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Laurence E.</givenName>                    <surName>Skog</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Eric de Camargo</givenName>                    <surName>Smidt</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Alan R.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Clive A.</givenName>                    <surName>Stace</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Victor</givenName>                    <surName>Steinmann</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Donald E.</givenName>                    <surName>Stone</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Strong</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Lena</givenName>                    <surName>Struwe</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Luz Stella</givenName>                    <surName>Suárez Suárez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Sundue</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Roberto</givenName>                    <surName>Tortosa</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Dino Jesús</givenName>                    <surName>Tuberquia Muñoz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Gordon C.</givenName>                    <surName>Tucker</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Carmen</givenName>                    <surName>Ulloa</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jaime</givenName>                    <surName>Uribe-M</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Cássio</givenName>                    <surName>Van der Berg</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Benjamin</givenName>                    <surName>Van Ee</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Oscar</givenName>                    <surName>Vargas</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Alejandra</givenName>                    <surName>Vasco</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Ana Isabel</givenName>                    <surName>Vásquez-Vélez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>César</givenName>                    <surName>Velásquez-Rúa</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Jorge Mario</givenName>                    <surName>Vélez</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Paula</givenName>                    <surName>Viveros</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Bernhard</givenName>                    <surName>von Hagen</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Bruno</givenName>                    <surName>Wallnöfer</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>John R. I.</givenName>                    <surName>Wood</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Felipe</givenName>                    <surName>Zapata</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Georg</givenName>                    <surName>Zizka</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Alejandro</givenName>                    <surName>Zuluaga</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                    <personnel>
+            <individualName>
+<givenName>Orlando</givenName>                    <surName>Rivera-Díaz</surName>
+            </individualName>
+            <role>AUTHOR</role>
+                    </personnel>
+                <abstract>
+                    <para>Colombia es uno de los países con mayor diversidad de plantas en todo el planeta. Esa enorme riqueza vegetal, que fue la base sobre la que florecieron en esta parte del mundo centenares de civilizaciones indígenas a través de los siglos, constituye un patrimonio de valor incalculable, al cual nuestro país debe volver ahora la mirada para planear su futuro. La conservación y el adecuado aprovechamiento de nuestra flora deberán hacer parte de nuestra agenda en las próximas décadas. De no hacerlo, el país estaría desaprovechando una excelente oportunidad para su desarrollo sostenible. 
+
+El primer paso para la conservación y el uso sostenible de nuestros recursos es su conocimiento cabal. En el caso de las plantas, un inventario básico de la flora nacional constituye la base fundamental sobre la que habrá de planearse su futuro manejo. Pero un inventario de esta naturaleza no existía hasta ahora en Colombia, a pesar de la larga historia botánica de nuestro país, que se remonta a la Real Expedición Botánica que inició José Celestino Mutis a finales del siglo XVIII.
+
+Y ninguna institución más idónea para producir dicho inventario que la Universidad Nacional de Colombia, pionera en el estudio de nuestra flora y depositaria de la mayor colección de especímenes de plantas colombianas existente en el mundo. Por esta razón es una gran satisfacción para la Universidad Nacional entregar al país y al mundo entero, como parte de nuestro compromiso con la nación, el presente Catálogo de plantas y líquenes de Colombia. Esta obra, quizás la empresa botánica más ambiciosa que se haya culminado en el país, recopila, por primera vez en nuestra historia, las 28.000 especies de plantas y líquenes que se han identificado hasta ahora en Colombia, suministrando para cada una de ellas información sobre el tamaño de la planta, las regiones ecológicas en las que se encuentra, el rango de elevación en el que crece, los departamentos en los que ha sido hallada, su actual estado de conservación y la distribución global de la especie.
+
+Este Catálogo, en cuya compilación trabajaron 180 investigadores de 20 países a lo largo de 13 años, no es, de ninguna manera, el final de la investigación botánica en Colombia. Como bien lo señalan los editores, el conocimiento de nuestra flora es todavía incompleto y existen vastas regiones del país que han sido escasamente exploradas. Cada año se descubren varias decenas de especies nuevas para la ciencia y se amplía el área de distribución conocida para muchas otras, a la vez que los investigadores descubren día tras día nuevas aplicaciones para nuestras plantas. El camino a recorrer es todavía largo. Pero la información que se presenta aquí constituye una valiosa herramienta sobre la cual podremos planear el futuro de nuestra flora: su conocimiento y su protección; su aprovechamiento racional y su incorporación a nuestra identidad nacional.</para>
+                </abstract>
+                <funding>
+                    <para>La Fundación Volkswagen brindó el patrocinio a la primera fase del proyecto, que permitió dar inicio a la obra; posteriores recursos fueron aportados por la División de Investigación de la Universidad Nacional de Colombia, Sede Bogotá (DIB), el Instituto Alexander von Humboldt, el Ministerio de Ambiente y Desarrollo Sostenible, la Global Biodiversity Information Facility (GBIF), la InterAmerican Biodiversity Information Network (IABIN), la Andrew W. Mellon Foundation y la JRS Biodiversity Foundation. Recibimos además apoyo financiero del Missouri Botanical Garden, los Royal Botanic Gardens, Kew, el Botanischer Garten und Botanisches Museum Berlin-Dahlem, el United States National Herbarium (Washington) y el Muséum National d’Histoire Naturelle (París) para estudiar sus colecciones de herbario y sus bibliotecas.</para>
+                </funding>
+                    <studyAreaDescription>
+                        <descriptor name="generic" citableClassificationSystem="false">
+                            <descriptorValue>Colombia está situada en la esquina noroccidental de Suramérica, en el área de conexión de este subcontinente con Centroamérica. Es el único país suramericano que tiene costas en los océanos Atlántico (1600 km) y Pacífico (1300 km). Su territorio continental se extiende desde los 12°26’46”N en Punta Gallinas, La Guajira (el punto más septentrional de Suramérica), hasta los 4°12’30”S, en la desembocadura de la quebrada San Antonio, en el río Amazonas, en la ciudad de Leticia, y desde los 60°50’54”O sobre la isla de San José, en el río Negro (punto de convergencia de las fronteras de Colombia, Brasil y Venezuela) hasta los 79°02’33” O en cabo Manglares, en la desembocadura del río Mira, en el océano Pacífico. La línea ecuatorial atraviesa el sur del país, de tal manera que el 87 % del territorio continental se encuentra en el hemisferio Norte.</descriptorValue>
+                        </descriptor>
+                    </studyAreaDescription>
+                    <designDescription>
+                        <description>
+                            <para>La elaboración del catálogo se realizó en dos etapas. Los recursos inicialmente obtenidos para financiar el proyecto no garantizaban la culminación de la obra, estimada en un principio para mediados de 2008, por lo que resultaba más conveniente producirla mediante sucesivas aproximaciones. De esta manera se aseguraba el tener, al final de la primera fase, un producto no del todo refinado pero ya utilizable, que sirviera de base para la construcción de la presente versión final. Por otra parte, la lista inicial de la que se partió era incompleta y estaba desactualizada, así que mal podría servir de base a los especialistas para sus propias compilaciones. Se requería un largo proceso de depuración de especies y de estandarización de nombres y de autores, antes de que la lista pudiera ser de alguna utilidad. De esta manera, se obtuvo en agosto de 2006 un primer borrador del catálogo, que constituyó, en la mayoría de los casos, la base sobre la cual los especialistas de 47 instituciones científicas produjeron las listas que componen la presente obra.</para>
+                        </description>
+                    </designDescription>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:25Z</dateStamp>
+                <citation identifier="https://doi.org/10.15472/7avdhn">Raz L, Agudelo Zamora H (2021). Catálogo de Plantas y Líquenes de Colombia. Version 1.2. Universidad Nacional de Colombia. Checklist dataset https://doi.org/10.15472/7avdhn accessed via GBIF.org on 2023-08-28.</citation>
+                    <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/500px/unal.jpg</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario Nacional Colombiano</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Botanischer Garten und Botanisches Museum Berlin, Zentraleinrichtung der Freien Universität Berlin</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la  Universidad de Antioquia</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad del Tolima</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario del Instituto Amazónico de Investigaciones Científicas SINCHI</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad Pedogógica y Tecnológica de Colombia</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>The New York Botanical Garden</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Muséum National d&apos;Histoire Naturelle</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Smithsonian Institution</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Missouri Botanical Garden</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Naturhistorisches Museum Wien</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Harvard University</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad de Nariño</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Naturalis</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad Nacional de Colombia - Sede de Medellín</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Field Museum of Natural History</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Royal Botanic Gardens</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Fundación Jardín Botánico Joaquín Antonio Uribe</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Pontificia Universidad Católica del Ecuador</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad del Valle</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad Tecnológica del Chocó</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad de Panamá</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Museo Ecuatoriano de Ciencias Naturales del Instituto Nacional de Biodiversidad</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la Universidad Central de Venezuela</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>California Academy of Sciences</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Museo Nacional de Costa Rica</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Herbario de la  Universidad de Caldas</collectionName>
+                        </collection>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Universidade de Brasília</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>especies</jgtiUnitType>
+                                <jgtiUnits uncertaintyMeasure="1,000">24,000</jgtiUnits>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f5c60e9e-5b76-43b7-aa14-bbc3fa23b7d5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/hoflre</alternateIdentifier>
+        <title>Taxon list of Jurassic Pisces of the Tethys Palaeo-Environment compiled at the SNSB-JME</title>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Ebert</surName>
+            </individualName>
+            </creator>
+        <language>en</language>
+            <abstract>
+                    <para>http://www.diversitymobile.net/wiki/About_%22Taxon_list_of_Jurassic_Pisces_of_the_Tethys_Palaeo-Environment_compiled_at_the_SNSB-JME%22</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.diversitymobile.net/wiki/About_%22Taxon_list_of_Jurassic_Pisces_of_the_Tethys_Palaeo-Environment_compiled_at_the_SNSB-JME%22</url>
+                </online>
+            </distribution>
+            <contact>
+<organizationName>Staatliche Naturwissenschaftliche Sammlungen Bayerns, SNSB IT Center</organizationName><electronicMailAddress>it-center@snsb.de</electronicMailAddress><onlineUrl>http://www.snsb.info</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:16Z</dateStamp>
+                <citation>Ebert M. Taxon list of Jurassic Pisces of the Tethys Palaeo-Environment compiled at the SNSB-JME. Staatliche Naturwissenschaftliche Sammlungen Bayerns. Checklist dataset https://doi.org/10.15468/hoflre accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

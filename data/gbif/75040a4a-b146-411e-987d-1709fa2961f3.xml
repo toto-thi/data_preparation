@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="75040a4a-b146-411e-987d-1709fa2961f3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8zxpjn</alternateIdentifier>
+                <alternateIdentifier>2A1733195364FFAC7A4353111D5C8E66</alternateIdentifier>
+        <title>Aubrieta birolmutlui (Brassicaceae), a new species from Eastern Turkey with molecular phylogenetic support</title>
+            <creator>
+            <individualName>
+<givenName>Ali A.</givenName>                    <surName>Dönmez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zübeyde Uğurlu</givenName>                    <surName>Aydin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yasin</givenName>                    <surName>Kaya</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>İ. Sirri</givenName>                    <surName>Yüzbaşioğlu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dönmez, Ali A., Aydin, Zübeyde Uğurlu, Kaya, Yasin, Yüzbaşioğlu, İ. Sirri (2023): Aubrieta birolmutlui (Brassicaceae), a new species from Eastern Turkey with molecular phylogenetic support. Phytotaxa 579 (4): 278-288, DOI: 10.11646/phytotaxa.579.4.5, URL: http://dx.doi.org/10.11646/phytotaxa.579.4.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/2A1733195364FFAC7A4353111D5C8E66</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:50Z</dateStamp>
+                <citation>Dönmez A A, Aydin Z U, Kaya Y, Yüzbaşioğlu İ S, plazi (2023). Aubrieta birolmutlui (Brassicaceae), a new species from Eastern Turkey with molecular phylogenetic support. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/8zxpjn accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

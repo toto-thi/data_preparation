@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="12382633-e8f9-4d2a-b369-0e8384f28623"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4032.5.2</alternateIdentifier>
+                <alternateIdentifier>12382633-e8f9-4d2a-b369-0e8384f28623</alternateIdentifier>
+                <alternateIdentifier>10.15468/rxbeum</alternateIdentifier>
+                <alternateIdentifier>A74E3D9C-8424-4FC4-942A-F4EB80938F8B</alternateIdentifier>
+                <alternateIdentifier>A30DFFA8FFE55A1CFFB4FFA8FF8DFFAC</alternateIdentifier>
+        <title>A redescription of Lithornis vulturinus (Aves, Palaeognathae) from the Early Eocene Fur Formation of Denmark</title>
+            <creator>
+            <individualName>
+<givenName>Estelle</givenName>                    <surName>Bourdon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bent</givenName>                    <surName>Lindow</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bourdon, Estelle, Lindow, Bent (2015): A redescription of Lithornis vulturinus (Aves, Palaeognathae) from the Early Eocene Fur Formation of Denmark. Zootaxa 4032 (5): 493-514, DOI: http://dx.doi.org/10.11646/zootaxa.4032.5.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A30DFFA8FFE55A1CFFB4FFA8FF8DFFAC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:14Z</dateStamp>
+                <citation>Bourdon E, Lindow B, plazi (2015). A redescription of Lithornis vulturinus (Aves, Palaeognathae) from the Early Eocene Fur Formation of Denmark. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4032.5.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="df7b3dba-392e-4bcc-ad10-f676cf336a4f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/da55vb</alternateIdentifier>
+                <alternateIdentifier>FF9BFF84E7062927FFC4FFD2FFE7FFA1</alternateIdentifier>
+        <title>Vanilla andina (Vanilloideae, Orchidaceae), a new species of the membranaceousleaved group from Peru and Ecuador</title>
+            <creator>
+            <individualName>
+<givenName>Alexander</givenName>                    <surName>Damián</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Henry X.</givenName>                    <surName>Garzón</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luis</givenName>                    <surName>Baquero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco M.</givenName>                    <surName>Jiménez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leisberth</givenName>                    <surName>Vélez-Abarca</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gabriel A.</givenName>                    <surName>Iturralde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nicole</givenName>                    <surName>Mitidieri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sergio</givenName>                    <surName>Olortegui</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kenneth M.</givenName>                    <surName>Cameron</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-06-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Damián, Alexander, Garzón, Henry X., Baquero, Luis, Jiménez, Marco M., Vélez-Abarca, Leisberth, Iturralde, Gabriel A., Mitidieri, Nicole, Olortegui, Sergio, Cameron, Kenneth M. (2022): Vanilla andina (Vanilloideae, Orchidaceae), a new species of the membranaceousleaved group from Peru and Ecuador. Phytotaxa 552 (1): 63-72, DOI: 10.11646/phytotaxa.552.1.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF9BFF84E7062927FFC4FFD2FFE7FFA1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:59Z</dateStamp>
+                <citation>Damián A, Garzón H X, Baquero L, Jiménez M M, Vélez-Abarca L, Iturralde G A, Mitidieri N, Olortegui S, Cameron K M, plazi (2022). Vanilla andina (Vanilloideae, Orchidaceae), a new species of the membranaceousleaved group from Peru and Ecuador. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/da55vb accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

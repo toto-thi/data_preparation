@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2c5b39cf-13ae-4846-a80d-1cbecbda29aa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4748.3.6</alternateIdentifier>
+                <alternateIdentifier>2c5b39cf-13ae-4846-a80d-1cbecbda29aa</alternateIdentifier>
+                <alternateIdentifier>10.15468/upt8f8</alternateIdentifier>
+                <alternateIdentifier>2500FC7C-8D0B-4E98-8222-916D17819B7A</alternateIdentifier>
+                <alternateIdentifier>FFBEFFDC117DB7066125FFB20007FFBB</alternateIdentifier>
+        <title>New records of leaf-mining Tortricidae (Lepidoptera) in North America, with the description of a new species of Grapholita</title>
+            <creator>
+            <individualName>
+<givenName>Charles S.</givenName>                    <surName>Eiseman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kyhl A.</givenName>                    <surName>Austin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Julia A.</givenName>                    <surName>Blyth</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tracy S.</givenName>                    <surName>Feldman</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Eiseman, Charles S., Austin, Kyhl A., Blyth, Julia A., Feldman, Tracy S. (2020): New records of leaf-mining Tortricidae (Lepidoptera) in North America, with the description of a new species of Grapholita. Zootaxa 4748 (3): 514-530, DOI: https://doi.org/10.11646/zootaxa.4748.3.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBEFFDC117DB7066125FFB20007FFBB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:23Z</dateStamp>
+                <citation>Eiseman C S, Austin K A, Blyth J A, Feldman T S, plazi (2020). New records of leaf-mining Tortricidae (Lepidoptera) in North America, with the description of a new species of Grapholita. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4748.3.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

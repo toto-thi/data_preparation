@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e8717285-e64b-471d-a300-288d9d7c1d08"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3774.1.4</alternateIdentifier>
+                <alternateIdentifier>e8717285-e64b-471d-a300-288d9d7c1d08</alternateIdentifier>
+                <alternateIdentifier>10.15468/vfj4qs</alternateIdentifier>
+                <alternateIdentifier>FB59935F-40D7-486D-B39F-1030BFB2F451</alternateIdentifier>
+                <alternateIdentifier>FFE1FF87FFD6BF520924FF869631FF90</alternateIdentifier>
+        <title>The Neotropical species of Xanthopimpla Saussure (Hymenoptera: Ichneumonidae: Pimplinae)</title>
+            <creator>
+            <individualName>
+<givenName>Isrrael C.</givenName>                    <surName>Gómez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ilari E.</givenName>                    <surName>Sääksjärvi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gavin R.</givenName>                    <surName>Broad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Liisa</givenName>                    <surName>Puhakka</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carol</givenName>                    <surName>Castillo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Peña</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diego G.</givenName>                    <surName>Pádua</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gómez, Isrrael C., Sääksjärvi, Ilari E., Broad, Gavin R., Puhakka, Liisa, Castillo, Carol, Peña, Carlos, Pádua, Diego G. (2014): The Neotropical species of Xanthopimpla Saussure (Hymenoptera: Ichneumonidae: Pimplinae). Zootaxa 3774 (1): 57-73, DOI: http://dx.doi.org/10.11646/zootaxa.3774.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE1FF87FFD6BF520924FF869631FF90</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:23Z</dateStamp>
+                <citation>Gómez I C, Sääksjärvi I E, Broad G R, Puhakka L, Castillo C, Peña C, Pádua D G, plazi (2014). The Neotropical species of Xanthopimpla Saussure (Hymenoptera: Ichneumonidae: Pimplinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3774.1.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5ff4009c-e153-4c29-baf8-048f600f68de"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/pdjv62</alternateIdentifier>
+                <alternateIdentifier>2609FFDD1279FFD1EC7AE5661E4EFFFD</alternateIdentifier>
+        <title>Centroscelis kadleci sp. nov. from Yemen and a new synonymy in the genus Centroscelis (Coleoptera: Chrysomelidae: Chrysomelinae)</title>
+            <creator>
+            <individualName>
+<givenName>Jan</givenName>                    <surName>Bezděk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mauro</givenName>                    <surName>Daccordi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>František</givenName>                    <surName>Kantner</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2012-06-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bezděk, Jan, Daccordi, Mauro, Kantner, František (2012): Centroscelis kadleci sp. nov. from Yemen and a new synonymy in the genus Centroscelis (Coleoptera: Chrysomelidae: Chrysomelinae). Acta Entomologica Musei Nationalis Pragae 52 (1): 237-244, DOI: http://doi.org/10.5281/zenodo.5330104</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2609FFDD1279FFD1EC7AE5661E4EFFFD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:50Z</dateStamp>
+                <citation>Bezděk J, Daccordi M, Kantner F, felipe (2012). Centroscelis kadleci sp. nov. from Yemen and a new synonymy in the genus Centroscelis (Coleoptera: Chrysomelidae: Chrysomelinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/pdjv62 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

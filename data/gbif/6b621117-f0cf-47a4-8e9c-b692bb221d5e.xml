@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6b621117-f0cf-47a4-8e9c-b692bb221d5e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1163/1876312x-00002200</alternateIdentifier>
+                <alternateIdentifier>6b621117-f0cf-47a4-8e9c-b692bb221d5e</alternateIdentifier>
+                <alternateIdentifier>10.15468/7u42y4</alternateIdentifier>
+                <alternateIdentifier>60248D20-9813-4397-BEC3-39908FE7688A</alternateIdentifier>
+                <alternateIdentifier>FFFD890DAD58FFF29501FF909227D441</alternateIdentifier>
+        <title>Notes on the Brazilian species of Purenleon Stange (Neuroptera: Myrmeleontidae), with description of two new species</title>
+            <creator>
+            <individualName>
+<givenName>Renato Jose Pires</givenName>                    <surName>Machado</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leon Gustavo de Miranda</givenName>                    <surName>Tavares</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-01-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Machado, Renato Jose Pires, Tavares, Leon Gustavo de Miranda (2020): Notes on the Brazilian species of Purenleon Stange (Neuroptera: Myrmeleontidae), with description of two new species. Insect Systematics &amp;amp; Evolution 51 (1): 62-80, DOI: 10.1163/1876312X-00002200</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFFD890DAD58FFF29501FF909227D441</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:35Z</dateStamp>
+                <citation>Machado R J P, Tavares L G D M, felipe (2020). Notes on the Brazilian species of Purenleon Stange (Neuroptera: Myrmeleontidae), with description of two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1163/1876312x-00002200 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

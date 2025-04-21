@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="25e1eb0b-a2ad-4c0f-aaec-21d56c6fde5e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ug3644</alternateIdentifier>
+                <alternateIdentifier>FF8EFFA101295F60FFCB43326819FFF6</alternateIdentifier>
+        <title>Noideattella and Tolegnaro, Two New Genera of Goblin Spiders from Madagascar, with Comments on the Gamasomorphoid and Silhouettelloid Oonopids (Araneae, Oonopidae)</title>
+            <creator>
+            <individualName>
+<givenName>Fernando</givenName>                    <surName>Álvarez-Padilla</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Darrell</givenName>                    <surName>Ubick</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Charles E.</givenName>                    <surName>Griswold</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2012-05-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Álvarez-Padilla, Fernando, Ubick, Darrell, Griswold, Charles E. (2012): Noideattella and Tolegnaro, Two New Genera of Goblin Spiders from Madagascar, with Comments on the Gamasomorphoid and Silhouettelloid Oonopids (Araneae, Oonopidae). American Museum Novitates 2012 (3745): 1-76, DOI: 10.1206/3745.2, URL: http://www.bioone.org/doi/abs/10.1206/3745.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF8EFFA101295F60FFCB43326819FFF6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:26Z</dateStamp>
+                <citation>Álvarez-Padilla F, Ubick D, Griswold C E, carolina (2012). Noideattella and Tolegnaro, Two New Genera of Goblin Spiders from Madagascar, with Comments on the Gamasomorphoid and Silhouettelloid Oonopids (Araneae, Oonopidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ug3644 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="395843fd-580b-4fa5-a7b3-3cced930377a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.277232</alternateIdentifier>
+                <alternateIdentifier>395843fd-580b-4fa5-a7b3-3cced930377a</alternateIdentifier>
+                <alternateIdentifier>10.15468/iq4rme</alternateIdentifier>
+                <alternateIdentifier>FFFFFF92FFA9FFC7FFD7AA057414FFF1</alternateIdentifier>
+        <title>The genus Oecetis McLachlan in Bolivia and northwestern Argentina (Trichoptera: Leptoceridae), with new species and identification key for males of Oecetis species from Mexico, Central and South America</title>
+            <creator>
+            <individualName>
+<givenName>Paola Rueda</givenName>                    <surName>Martín</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francois-Marie</givenName>                    <surName>Gibon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos Israel</givenName>                    <surName>Molina</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Martín, Paola Rueda, Gibon, Francois-Marie, Molina, Carlos Israel (2011): The genus Oecetis McLachlan in Bolivia and northwestern Argentina (Trichoptera: Leptoceridae), with new species and identification key for males of Oecetis species from Mexico, Central and South America. Zootaxa 2821: 19-38, DOI: 10.5281/zenodo.277232</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFFFFF92FFA9FFC7FFD7AA057414FFF1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:20Z</dateStamp>
+                <citation>Martín P R, Gibon F, Molina C I, plazi (2011). The genus Oecetis McLachlan in Bolivia and northwestern Argentina (Trichoptera: Leptoceridae), with new species and identification key for males of Oecetis species from Mexico, Central and South America. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.277232 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

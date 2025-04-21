@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="da59bea2-040b-4052-b33c-1df67739a29d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1206/665.1</alternateIdentifier>
+                <alternateIdentifier>da59bea2-040b-4052-b33c-1df67739a29d</alternateIdentifier>
+                <alternateIdentifier>10.15468/bbpjwx</alternateIdentifier>
+                <alternateIdentifier>FF84CA6CFFA0C575FFD7FFB46754FFD3</alternateIdentifier>
+        <title>New Distylomyid Rodents (Mammalia: Rodentia) from the Early Miocene Suosuoquan Formation of Northern Xinjiang, China</title>
+            <creator>
+            <individualName>
+<givenName>Shundong</givenName>                    <surName>Bi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jin</givenName>                    <surName>Meng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wenyu</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jie</givenName>                    <surName>Ye</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xijun</givenName>                    <surName>Ni</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2009-08-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bi, Shundong, Meng, Jin, Wu, Wenyu, Ye, Jie, Ni, Xijun (2009): New Distylomyid Rodents (Mammalia: Rodentia) from the Early Miocene Suosuoquan Formation of Northern Xinjiang, China. American Museum Novitates 3663: 1-20, DOI: 10.1206/665.1, URL: http://www.bioone.org/doi/abs/10.1206/665.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF84CA6CFFA0C575FFD7FFB46754FFD3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:43Z</dateStamp>
+                <citation>Bi S, Meng J, Wu W, Ye J, Ni X, felipe (2009). New Distylomyid Rodents (Mammalia: Rodentia) from the Early Miocene Suosuoquan Formation of Northern Xinjiang, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1206/665.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

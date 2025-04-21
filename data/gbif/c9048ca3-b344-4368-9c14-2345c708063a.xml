@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c9048ca3-b344-4368-9c14-2345c708063a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11606/1807-0205/2020.60.special-issue.05</alternateIdentifier>
+                <alternateIdentifier>c9048ca3-b344-4368-9c14-2345c708063a</alternateIdentifier>
+                <alternateIdentifier>10.15468/fmnfn9</alternateIdentifier>
+                <alternateIdentifier>1027C523FFD08A38FFC9F63CFFACEE09</alternateIdentifier>
+        <title>Descriptions of larval and pupal morphologies of Macrohyliota militaris (Erichson) (Silvanidae: Brontinae: Brontini)</title>
+            <creator>
+            <individualName>
+<givenName>Zhenhua</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adam</givenName>                    <surName>Ślipiński</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hong</givenName>                    <surName>Pang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>State Key Laboratory of Biocontrol.</givenName>                    <surName>Guangzhou</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Liu, Zhenhua, Ślipiński, Adam, Pang, Hong, Guangzhou, State Key Laboratory of Biocontrol. (2020): Descriptions of larval and pupal morphologies of Macrohyliota militaris (Erichson) (Silvanidae: Brontinae: Brontini). Papéis Avulsos de Zoologia 60 (5): 1-7, DOI: 10.11606/1807-0205/2020.60.special-issue.05</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/1027C523FFD08A38FFC9F63CFFACEE09</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:41Z</dateStamp>
+                <citation>Liu Z, Ślipiński A, Pang H, Guangzhou S K L O B, carolina (2020). Descriptions of larval and pupal morphologies of Macrohyliota militaris (Erichson) (Silvanidae: Brontinae: Brontini). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11606/1807-0205/2020.60.special-issue.05 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

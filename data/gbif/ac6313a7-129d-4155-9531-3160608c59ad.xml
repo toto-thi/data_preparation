@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ac6313a7-129d-4155-9531-3160608c59ad"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/x6emqp</alternateIdentifier>
+                <alternateIdentifier>EF78B9496C53FFACA573E36EA72AAC10</alternateIdentifier>
+        <title>A new species of spiny Rineloricaria (Siluriformes: Loricariidae) from the Rio Paraíba do Sul basin and costal rivers from Rio de Janeiro State</title>
+            <creator>
+            <individualName>
+<givenName>Guilherme José Da Costa</givenName>                    <surName>Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gabriel De Souza Da</givenName>                    <surName>Costa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Claudio</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Silva, Guilherme José Da Costa, Costa, Gabriel De Souza Da, Oliveira, Claudio (2022): A new species of spiny Rineloricaria (Siluriformes: Loricariidae) from the Rio Paraíba do Sul basin and costal rivers from Rio de Janeiro State. Zootaxa 5175 (2): 285-292, DOI: https://doi.org/10.11646/zootaxa.5175.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EF78B9496C53FFACA573E36EA72AAC10</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:20Z</dateStamp>
+                <citation>Silva G J D C, Costa G D S D, Oliveira C, plazi (2022). A new species of spiny Rineloricaria (Siluriformes: Loricariidae) from the Rio Paraíba do Sul basin and costal rivers from Rio de Janeiro State. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/x6emqp accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

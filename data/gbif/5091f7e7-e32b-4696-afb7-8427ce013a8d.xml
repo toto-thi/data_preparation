@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5091f7e7-e32b-4696-afb7-8427ce013a8d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/rjzsme</alternateIdentifier>
+                <alternateIdentifier>C679B721FF9EFFD2B306474CFF98D874</alternateIdentifier>
+        <title>The enchytraeid fauna (Enchytraeidae: Clitellata) of the Fanjing Mountain National Nature Reserve (China) with description of two new species</title>
+            <creator>
+            <individualName>
+<givenName>Juanjuan</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rüdiger M.</givenName>                    <surName>Schmelz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zuxu</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhicai</givenName>                    <surName>Xie</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Chen, Juanjuan, Schmelz, Rüdiger M., Zhang, Zuxu, Xie, Zhicai (2022): The enchytraeid fauna (Enchytraeidae: Clitellata) of the Fanjing Mountain National Nature Reserve (China) with description of two new species. Journal of Natural History 56: 1957-1996, DOI: 10.1080/00222933.2022.2140085, URL: http://dx.doi.org/10.1080/00222933.2022.2140085</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C679B721FF9EFFD2B306474CFF98D874</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:58Z</dateStamp>
+                <citation>Chen J, Schmelz R M, Zhang Z, Xie Z, plazi (2022). The enchytraeid fauna (Enchytraeidae: Clitellata) of the Fanjing Mountain National Nature Reserve (China) with description of two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/rjzsme accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

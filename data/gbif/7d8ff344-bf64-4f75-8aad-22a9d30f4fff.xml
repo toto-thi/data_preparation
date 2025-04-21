@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7d8ff344-bf64-4f75-8aad-22a9d30f4fff"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1093/zoolinnean/zly067</alternateIdentifier>
+                <alternateIdentifier>7d8ff344-bf64-4f75-8aad-22a9d30f4fff</alternateIdentifier>
+                <alternateIdentifier>10.15468/jpsdbg</alternateIdentifier>
+                <alternateIdentifier>68738EE0-509B-4201-854C-2ABB41662357</alternateIdentifier>
+                <alternateIdentifier>3960FFD98119FFD33362FFF80B40FFD2</alternateIdentifier>
+        <title>Systematic revision of Nacella (Patellogastropoda: Nacellidae) based on a complete phylogeny of the genus, with the description of a new species from the southern tip of South America</title>
+            <creator>
+            <individualName>
+<givenName>Claudio A.</givenName>                    <surName>González-Wevar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mathias</givenName>                    <surName>Hüne</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sebastián</givenName>                    <surName>Rosenfeld</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tomoyuki</givenName>                    <surName>Nakano</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Saucède</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hamish</givenName>                    <surName>Spencer</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elie</givenName>                    <surName>Poulin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-12-13
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article González-Wevar, Claudio A., Hüne, Mathias, Rosenfeld, Sebastián, Nakano, Tomoyuki, Saucède, Thomas, Spencer, Hamish, Poulin, Elie (2019): Systematic revision of Nacella (Patellogastropoda: Nacellidae) based on a complete phylogeny of the genus, with the description of a new species from the southern tip of South America. Zoological Journal of the Linnean Society 186: 303-336, DOI: 10.1093/zoolinnean/zly067</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/3960FFD98119FFD33362FFF80B40FFD2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:30Z</dateStamp>
+                <citation>González-Wevar C A, Hüne M, Rosenfeld S, Nakano T, Saucède T, Spencer H, Poulin E, carolina (2018). Systematic revision of Nacella (Patellogastropoda: Nacellidae) based on a complete phylogeny of the genus, with the description of a new species from the southern tip of South America. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1093/zoolinnean/zly067 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

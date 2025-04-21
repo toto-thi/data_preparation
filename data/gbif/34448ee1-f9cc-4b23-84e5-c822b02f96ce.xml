@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="34448ee1-f9cc-4b23-84e5-c822b02f96ce"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4503901</alternateIdentifier>
+                <alternateIdentifier>34448ee1-f9cc-4b23-84e5-c822b02f96ce</alternateIdentifier>
+                <alternateIdentifier>10.15468/kpnywh</alternateIdentifier>
+                <alternateIdentifier>8A9A98E6-F2BD-4156-B3E9-7604830C2F6F</alternateIdentifier>
+                <alternateIdentifier>FFC2FFE8FFBAFFA4417565596B0CFFAA</alternateIdentifier>
+        <title>Svatactesis gen. nov., a new genus for Polyctesis johanidesi with notes on the tribe Polyctesini (Coleoptera: Buprestidae: Polycestinae)</title>
+            <creator>
+            <individualName>
+<givenName>Mark G.</givenName>                    <surName>Volkovitsh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-07-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Volkovitsh, Mark G. (2016): Svatactesis gen. nov., a new genus for Polyctesis johanidesi with notes on the tribe Polyctesini (Coleoptera: Buprestidae: Polycestinae). Acta Entomologica Musei Nationalis Pragae 56 (1): 5-15, DOI: http://doi.org/10.5281/zenodo.4503901</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC2FFE8FFBAFFA4417565596B0CFFAA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:26Z</dateStamp>
+                <citation>Volkovitsh M G, felipe (2016). Svatactesis gen. nov., a new genus for Polyctesis johanidesi with notes on the tribe Polyctesini (Coleoptera: Buprestidae: Polycestinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4503901 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

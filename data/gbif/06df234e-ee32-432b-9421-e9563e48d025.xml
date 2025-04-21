@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="06df234e-ee32-432b-9421-e9563e48d025"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/wjjbe2</alternateIdentifier>
+                <alternateIdentifier>125AFFDBFF86FF8CC5365763DF1EFFD9</alternateIdentifier>
+        <title>Seven new species of genus Dysidea (Demospongiae: Dictyoceratida: Dysideidae) from Korea</title>
+            <creator>
+            <individualName>
+<givenName>Young A</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kyung Jin</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kim, Young A, Lee, Kyung Jin (2023): Seven new species of genus Dysidea (Demospongiae: Dictyoceratida: Dysideidae) from Korea. Journal of Species Research 12 (1): 38-47, DOI: 10.12651/JSR.2023.12.1.038</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/125AFFDBFF86FF8CC5365763DF1EFFD9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:49Z</dateStamp>
+                <citation>Kim Y A, Lee K J, felipe (2023). Seven new species of genus Dysidea (Demospongiae: Dictyoceratida: Dysideidae) from Korea. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/wjjbe2 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Kim, Young A, Lee, Kyung Jin (2023): Seven new species of genus Dysidea (Demospongiae: Dictyoceratida: Dysideidae) from Korea. Journal of Species Research 12 (1): 38-47, DOI: 10.12651/JSR.2023.12.1.038</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

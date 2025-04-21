@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0cd61b23-1089-4c1b-bfc0-487887abad84"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.721.1127</alternateIdentifier>
+                <alternateIdentifier>0cd61b23-1089-4c1b-bfc0-487887abad84</alternateIdentifier>
+                <alternateIdentifier>10.15468/kb4qbt</alternateIdentifier>
+                <alternateIdentifier>89E62EF8-2E45-4C59-94B7-6A5603E8939B</alternateIdentifier>
+                <alternateIdentifier>E60EFF8E9D1C925BFF93FFBEC8562862</alternateIdentifier>
+        <title>A revision of the Maechidiini Burmeister, 1855 (Coleoptera: Scarabaeidae: Melolonthinae) from the Indo-Australian transition zone, and the first record of the tribe west of Wallace’s Line</title>
+            <creator>
+            <individualName>
+<givenName>Dmitry</givenName>                    <surName>Telnov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Telnov, Dmitry (2020): A revision of the Maechidiini Burmeister, 1855 (Coleoptera: Scarabaeidae: Melolonthinae) from the Indo-Australian transition zone, and the first record of the tribe west of Wallace’s Line. European Journal of Taxonomy 721: 1-210, DOI: https://doi.org/10.5852/ejt.2020.721.1127</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E60EFF8E9D1C925BFF93FFBEC8562862</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:12Z</dateStamp>
+                <citation>Telnov D, valdenar (2020). A revision of the Maechidiini Burmeister, 1855 (Coleoptera: Scarabaeidae: Melolonthinae) from the Indo-Australian transition zone, and the first record of the tribe west of Wallace’s Line. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.721.1127 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

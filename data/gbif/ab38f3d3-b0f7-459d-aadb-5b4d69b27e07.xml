@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ab38f3d3-b0f7-459d-aadb-5b4d69b27e07"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/z52ria</alternateIdentifier>
+                <alternateIdentifier>A8C036E1064962E444567B94B7491F3A</alternateIdentifier>
+        <title>[The ants (Hymenoptera, Formicidae) of Vietnam. Subfamily Pseudomyrmicinae. Subfamily Myrmicinae (tribes Calyptomyrmecini, Meranoplini, Cataulacini).]</title>
+            <creator>
+            <individualName>
+<givenName>G. M.</givenName>                    <surName>Dlussky</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A. G.</givenName>                    <surName>Radchenko</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Donat</givenName>                    <surName>Agosti</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1990-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Dlussky, G. M., Radchenko, A. G. (1990): [The ants (Hymenoptera, Formicidae) of Vietnam. Subfamily Pseudomyrmicinae. Subfamily Myrmicinae (tribes Calyptomyrmecini, Meranoplini, Cataulacini).]. In: Akimov, I. A., Emelianov, I. G., et al., (Eds): [News of faunistics and systematics.]. Kiev: Naukova Dumka: 119-125, URL: http://hdl.handle.net/10199/</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A8C036E1064962E444567B94B7491F3A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:39Z</dateStamp>
+                <citation>Dlussky G M, Radchenko A G, Agosti D (1990). [The ants (Hymenoptera, Formicidae) of Vietnam. Subfamily Pseudomyrmicinae. Subfamily Myrmicinae (tribes Calyptomyrmecini, Meranoplini, Cataulacini).]. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/z52ria accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Dlussky, G. M., Radchenko, A. G. (1990): [The ants (Hymenoptera, Formicidae) of Vietnam. Subfamily Pseudomyrmicinae. Subfamily Myrmicinae (tribes Calyptomyrmecini, Meranoplini, Cataulacini).]. In: Akimov, I. A., Emelianov, I. G., et al., (Eds): [News of faunistics and systematics.]. Kiev: Naukova Dumka: 119-125, URL: http://hdl.handle.net/10199/</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

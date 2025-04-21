@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3d530979-f717-4373-98e4-a213341083d3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4951.1.12</alternateIdentifier>
+                <alternateIdentifier>3d530979-f717-4373-98e4-a213341083d3</alternateIdentifier>
+                <alternateIdentifier>10.15468/7adw9g</alternateIdentifier>
+                <alternateIdentifier>1F49E329-D5EB-4CEB-A093-85CC095B23F7</alternateIdentifier>
+                <alternateIdentifier>791034224420FFD4FFCBFFDFFFD6FF8E</alternateIdentifier>
+        <title>Alcyonium bursa Linnaeus, 1758 is not a sponge</title>
+            <creator>
+            <individualName>
+<givenName>Rob W. M.</givenName>                    <surName>Van Soest</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexander</givenName>                    <surName>Plotkin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Van Soest, Rob W. M., Plotkin, Alexander (2021): Alcyonium bursa Linnaeus, 1758 is not a sponge. Zootaxa 4951 (1): 193-200, DOI: https://doi.org/10.11646/zootaxa.4951.1.12</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/791034224420FFD4FFCBFFDFFFD6FF8E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:00Z</dateStamp>
+                <citation>Van Soest R W M, Plotkin A, plazi (2021). Alcyonium bursa Linnaeus, 1758 is not a sponge. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4951.1.12 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

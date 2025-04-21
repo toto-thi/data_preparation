@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="871ea7e5-8005-4c5b-9af9-a247a638aa74"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/aen.12530</alternateIdentifier>
+                <alternateIdentifier>871ea7e5-8005-4c5b-9af9-a247a638aa74</alternateIdentifier>
+                <alternateIdentifier>10.15468/7f2t26</alternateIdentifier>
+                <alternateIdentifier>FFD9FF96FFFA3C70CA6BE059FF82DD39</alternateIdentifier>
+        <title>Systematics and convergent evolution in three Australian genera of Pepsinae spider wasps (Hymenoptera: Pompilidae)</title>
+            <creator>
+            <individualName>
+<givenName>Akira</givenName>                    <surName>Shimizu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James P</givenName>                    <surName>Pitts</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juanita</givenName>                    <surName>Rodriguez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Raymond</givenName>                    <surName>Wahis</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jin</givenName>                    <surName>Yoshimura</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-03-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Shimizu, Akira, Pitts, James P, Rodriguez, Juanita, Wahis, Raymond, Yoshimura, Jin (2021): Systematics and convergent evolution in three Australian genera of Pepsinae spider wasps (Hymenoptera: Pompilidae). Austral Entomology 60 (2): 301-316, DOI: 10.1111/aen.12530</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD9FF96FFFA3C70CA6BE059FF82DD39</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:12Z</dateStamp>
+                <citation>Shimizu A, Pitts J P, Rodriguez J, Wahis R, Yoshimura J, tatiana (2021). Systematics and convergent evolution in three Australian genera of Pepsinae spider wasps (Hymenoptera: Pompilidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/aen.12530 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

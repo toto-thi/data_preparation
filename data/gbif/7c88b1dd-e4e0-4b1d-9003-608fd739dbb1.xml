@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7c88b1dd-e4e0-4b1d-9003-608fd739dbb1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ypjtbg</alternateIdentifier>
+                <alternateIdentifier>4C76ED6AD5C659DCB7CF1D6A9F52D2C7</alternateIdentifier>
+        <title>Pseudolepraria, a new leprose genus revealed in Ramalinaceae (Ascomycota, Lecanoromycetes, Lecanorales) to accommodate Lepraria stephaniana</title>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Kukwa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Magdalena</givenName>                    <surName>Kosecka</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Agnieszka</givenName>                    <surName>Jablonska</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adam</givenName>                    <surName>Flakus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pamela</givenName>                    <surName>Rodriguez-Flakus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Beata</givenName>                    <surName>Guzow-Krzeminska</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kukwa, Martin, Kosecka, Magdalena, Jablonska, Agnieszka, Flakus, Adam, Rodriguez-Flakus, Pamela, Guzow-Krzeminska, Beata (2023): Pseudolepraria, a new leprose genus revealed in Ramalinaceae (Ascomycota, Lecanoromycetes, Lecanorales) to accommodate Lepraria stephaniana. MycoKeys 96: 97-112, DOI: http://dx.doi.org/10.3897/mycokeys.96.98029, URL: http://dx.doi.org/10.3897/mycokeys.96.98029</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4C76ED6AD5C659DCB7CF1D6A9F52D2C7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:12Z</dateStamp>
+                <citation>Kukwa M, Kosecka M, Jablonska A, Flakus A, Rodriguez-Flakus P, Guzow-Krzeminska B, pensoft (2023). Pseudolepraria, a new leprose genus revealed in Ramalinaceae (Ascomycota, Lecanoromycetes, Lecanorales) to accommodate Lepraria stephaniana. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ypjtbg accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

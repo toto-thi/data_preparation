@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f86beed9-5cc5-40cc-96c7-df36295b3e13"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3676593</alternateIdentifier>
+                <alternateIdentifier>f86beed9-5cc5-40cc-96c7-df36295b3e13</alternateIdentifier>
+                <alternateIdentifier>10.15468/5ss0dq</alternateIdentifier>
+                <alternateIdentifier>68DF38B0-C69E-4394-8992-CD74633ECADA</alternateIdentifier>
+                <alternateIdentifier>1735FFC0FF8C4014A87CB525FF96FFC2</alternateIdentifier>
+        <title>Two new species and two new combinations in Saphenista Walsingham, 1914 from western North America (Lepidoptera: Tortricidae)</title>
+            <creator>
+            <individualName>
+<givenName>John W.</givenName>                    <surName>Brown</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Brown, John W. (2019): Two new species and two new combinations in Saphenista Walsingham, 1914 from western North America (Lepidoptera: Tortricidae). Insecta Mundi 738 (738): 1-8, DOI: http://doi.org/10.5281/zenodo.3676593</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/1735FFC0FF8C4014A87CB525FF96FFC2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:39Z</dateStamp>
+                <citation>Brown J W, felipe (2019). Two new species and two new combinations in Saphenista Walsingham, 1914 from western North America (Lepidoptera: Tortricidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3676593 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

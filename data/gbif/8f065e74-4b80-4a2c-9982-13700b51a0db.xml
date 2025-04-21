@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8f065e74-4b80-4a2c-9982-13700b51a0db"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/7pk3r7</alternateIdentifier>
+                <alternateIdentifier>5E0DFF8CA014FFD49E57FFA33365823B</alternateIdentifier>
+        <title>Two New Species of Tillandsia (Bromeliaceae: Tillandsioideae) from Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Everton Hilo De</givenName>                    <surName>Souza</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Brayan P.</givenName>                    <surName>Cavalcante</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rivã Ribeiro Do N.</givenName>                    <surName>França</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lidyanne Y. S.</givenName>                    <surName>Aona</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fernanda V. D.</givenName>                    <surName>Souza</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elton M. C.</givenName>                    <surName>Leme</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Souza, Everton Hilo De, Cavalcante, Brayan P., França, Rivã Ribeiro Do N., Aona, Lidyanne Y. S., Souza, Fernanda V. D., Leme, Elton M. C. (2022): Two New Species of Tillandsia (Bromeliaceae: Tillandsioideae) from Brazil. Phytotaxa 560 (1): 93-103, DOI: 10.11646/phytotaxa.560.1.7, URL: http://dx.doi.org/10.11646/phytotaxa.560.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5E0DFF8CA014FFD49E57FFA33365823B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:21Z</dateStamp>
+                <citation>Souza E H D, Cavalcante B P, França R R D N, Aona L Y S, Souza F V D, Leme E M C, plazi (2022). Two New Species of Tillandsia (Bromeliaceae: Tillandsioideae) from Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/7pk3r7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

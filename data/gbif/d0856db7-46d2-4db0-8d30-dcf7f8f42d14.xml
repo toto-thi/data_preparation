@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d0856db7-46d2-4db0-8d30-dcf7f8f42d14"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4272.2.9</alternateIdentifier>
+                <alternateIdentifier>d0856db7-46d2-4db0-8d30-dcf7f8f42d14</alternateIdentifier>
+                <alternateIdentifier>10.15468/eize4n</alternateIdentifier>
+                <alternateIdentifier>35F93BA9-C7D3-4F57-92ED-F85CFFF70EEE</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4272.2.9</alternateIdentifier>
+                <alternateIdentifier>FF8FFFF9FFCBFFA0DF33FF3DFFCEFFBC</alternateIdentifier>
+        <title>Ephuta icema Casal, 1969 and its host Auplopus subaurarius Dreisbach, 1963 (Hymenoptera: Mutillidae, Pompilidae) from Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Roberto A.</givenName>                    <surName>Cambra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maria Luisa Tunes</givenName>                    <surName>Buschini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diomedes Quintero</givenName>                    <surName>Arias</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fanciele</givenName>                    <surName>Brozoski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Priscila Rudiak</givenName>                    <surName>Lustosa</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cambra, Roberto A., Buschini, Maria Luisa Tunes, Arias, Diomedes Quintero, Brozoski, Fanciele, Lustosa, Priscila Rudiak (2017): Ephuta icema Casal, 1969 and its host Auplopus subaurarius Dreisbach, 1963 (Hymenoptera: Mutillidae, Pompilidae) from Brazil. Zootaxa 4272 (2): 285-290, DOI: https://doi.org/10.11646/zootaxa.4272.2.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8FFFF9FFCBFFA0DF33FF3DFFCEFFBC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:38Z</dateStamp>
+                <citation>Cambra R A, Buschini M L T, Arias D Q, Brozoski F, Lustosa P R, plazi (2017). Ephuta icema Casal, 1969 and its host Auplopus subaurarius Dreisbach, 1963 (Hymenoptera: Mutillidae, Pompilidae) from Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4272.2.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

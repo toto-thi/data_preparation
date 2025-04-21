@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1f85fdb9-78c1-4927-96c3-0dfafdf1daf6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/u5exrg</alternateIdentifier>
+                <alternateIdentifier>FFD8F75CA01FB5491844FFE50723910C</alternateIdentifier>
+        <title>A re-appraisal of the middle-late Miocene fossil decapod crustaceans of the ‘ Faluns’ (Anjou-Touraine, France)</title>
+            <creator>
+            <individualName>
+<givenName>Àlex</givenName>                    <surName>Ossó</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cyril</givenName>                    <surName>Gagnaison</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olivier</givenName>                    <surName>Gain</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ossó, Àlex, Gagnaison, Cyril, Gain, Olivier (2022): A re-appraisal of the middle-late Miocene fossil decapod crustaceans of the ‘ Faluns’ (Anjou-Touraine, France). Geodiversitas 44 (6): 207-228, DOI: 10.5252/geodiversitas2022v44a6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD8F75CA01FB5491844FFE50723910C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:10Z</dateStamp>
+                <citation>Ossó À, Gagnaison C, Gain O, carolina (2022). A re-appraisal of the middle-late Miocene fossil decapod crustaceans of the ‘ Faluns’ (Anjou-Touraine, France). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/u5exrg accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

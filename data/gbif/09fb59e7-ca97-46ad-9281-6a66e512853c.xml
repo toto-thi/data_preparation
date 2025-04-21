@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="09fb59e7-ca97-46ad-9281-6a66e512853c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4eg8v5</alternateIdentifier>
+                <alternateIdentifier>D73AFFB7FFD02E30FFA4FFCEFF948430</alternateIdentifier>
+        <title>Towards Navigating the Minotaur&apos;s Labyrinth: Cryptic Diversity and Taxonomic Revision within the Speciose Genus Hipposideros (Hipposideridae)</title>
+            <creator>
+            <individualName>
+<givenName>Nicole M.</givenName>                    <surName>Foley</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Steven M.</givenName>                    <surName>Goodman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Conor V.</givenName>                    <surName>Whelan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sebastien J.</givenName>                    <surName>Puechmaille</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Emma</givenName>                    <surName>Teeling</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>diego</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-06-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Foley, Nicole M., Goodman, Steven M., Whelan, Conor V., Puechmaille, Sebastien J., Teeling, Emma (2017): Towards Navigating the Minotaur&amp;#39;s Labyrinth: Cryptic Diversity and Taxonomic Revision within the Speciose Genus Hipposideros (Hipposideridae). Acta Chiropterologica 19 (1): 1-18, DOI: 10.3161/15081109acc2017.19.1.001, URL: http://dx.doi.org/10.3161/15081109acc2017.19.1.001</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D73AFFB7FFD02E30FFA4FFCEFF948430</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:51Z</dateStamp>
+                <citation>Foley N M, Goodman S M, Whelan C V, Puechmaille S J, Teeling E, diego (2017). Towards Navigating the Minotaur&apos;s Labyrinth: Cryptic Diversity and Taxonomic Revision within the Speciose Genus Hipposideros (Hipposideridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4eg8v5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

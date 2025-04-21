@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c78fa492-384e-406f-96b0-9611e859c65c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/mycokeys.49.30886</alternateIdentifier>
+                <alternateIdentifier>10.15468/lnhhpz</alternateIdentifier>
+                <alternateIdentifier>FF8D0B47FFE89E18FFF6FFEAFFC90602</alternateIdentifier>
+        <title>Striatiguttulaceae, a new pleosporalean family to accommodate Longicorpus and Striatiguttula gen. nov. from palms</title>
+            <creator>
+            <individualName>
+<givenName>Sheng-Nan</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin</givenName>                    <surName>D. Hyde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>E. B.</givenName>                    <surName>Gareth Jones</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rajesh</givenName>                    <surName>Jeewon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ratchadawan</givenName>                    <surName>Cheewangkoon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jian-Kui</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zhang, Sheng-Nan, D. Hyde, Kevin, Gareth Jones, E. B., Jeewon, Rajesh, Cheewangkoon, Ratchadawan, Liu, Jian-Kui (2019): Striatiguttulaceae, a new pleosporalean family to accommodate Longicorpus and Striatiguttula gen. nov. from palms. MycoKeys 49: 99-129, DOI: http://dx.doi.org/10.3897/mycokeys.49.30886, URL: http://dx.doi.org/10.3897/mycokeys.49.30886</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF8D0B47FFE89E18FFF6FFEAFFC90602</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:07Z</dateStamp>
+                <citation>Zhang S, D. Hyde K, Gareth Jones E B, Jeewon R, Cheewangkoon R, Liu J, pensoft (2019). Striatiguttulaceae, a new pleosporalean family to accommodate Longicorpus and Striatiguttula gen. nov. from palms. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/mycokeys.49.30886 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

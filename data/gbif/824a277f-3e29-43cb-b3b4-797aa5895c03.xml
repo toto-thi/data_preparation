@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="824a277f-3e29-43cb-b3b4-797aa5895c03"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.78.800</alternateIdentifier>
+                <alternateIdentifier>10.15468/j3z1cp</alternateIdentifier>
+                <alternateIdentifier>0E71FFE5A5468A341831690CFF9AFFD7</alternateIdentifier>
+        <title>On the identity of the fossil aquatic beetles from the Tertiary localities in the southern part of the Upper Rhine Graben (Coleoptera, Hydrophilidae, Dytiscidae)</title>
+            <creator>
+            <individualName>
+<givenName>Fikacek</givenName>                    <surName>Martin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jiri</givenName>                    <surName>Hajek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Heiko</givenName>                    <surName>Schmied</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Martin, Fikacek, Hajek, Jiri, Schmied, Heiko (2011): On the identity of the fossil aquatic beetles from the Tertiary localities in the southern part of the Upper Rhine Graben (Coleoptera, Hydrophilidae, Dytiscidae). ZooKeys 78: 15-25, DOI: http://dx.doi.org/10.3897/zookeys.78.800, URL: http://dx.doi.org/10.3897/zookeys.78.800</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/0E71FFE5A5468A341831690CFF9AFFD7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:34Z</dateStamp>
+                <citation>Martin F, Hajek J, Schmied H, pensoft (2011). On the identity of the fossil aquatic beetles from the Tertiary localities in the southern part of the Upper Rhine Graben (Coleoptera, Hydrophilidae, Dytiscidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.78.800 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

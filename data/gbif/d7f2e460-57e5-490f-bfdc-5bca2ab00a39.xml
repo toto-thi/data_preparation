@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d7f2e460-57e5-490f-bfdc-5bca2ab00a39"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.164.1992</alternateIdentifier>
+                <alternateIdentifier>10.15468/9hyug0</alternateIdentifier>
+                <alternateIdentifier>A25142AB-974C-4D26-84C7-D58233E7A657</alternateIdentifier>
+                <alternateIdentifier>FFF7FFDFFF9BFFF8FF99FFF2FFE0FFFD</alternateIdentifier>
+        <title>Orthogonius species and diversity in Thailand (Coleoptera, Caraboidea, Orthogoniini), a result from the TIGER project</title>
+            <creator>
+            <individualName>
+<givenName>Mingyi</givenName>                    <surName>Tian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thierry</givenName>                    <surName>Deuve</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ron</givenName>                    <surName>Felix</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tian, Mingyi, Deuve, Thierry, Felix, Ron (2012): Orthogonius species and diversity in Thailand (Coleoptera, Caraboidea, Orthogoniini), a result from the TIGER project. ZooKeys 164: 51-90, DOI: http://dx.doi.org/10.3897/zookeys.164.1992, URL: http://dx.doi.org/10.3897/zookeys.164.1992</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFF7FFDFFF9BFFF8FF99FFF2FFE0FFFD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:23Z</dateStamp>
+                <citation>Tian M, Deuve T, Felix R, pensoft (2012). Orthogonius species and diversity in Thailand (Coleoptera, Caraboidea, Orthogoniini), a result from the TIGER project. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.164.1992 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

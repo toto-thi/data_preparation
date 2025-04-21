@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ded724e7-3fde-49c5-bfa3-03b4045c4c5f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/gzcrwf</alternateIdentifier>
+                <alternateIdentifier>13637</alternateIdentifier>
+        <title>International Cichorieae Network (ICN): Cichorieae Portal</title>
+            <creator>
+            <individualName>
+<givenName>Norbert</givenName>                    <surName>Kilian</surName>
+            </individualName>
+<organizationName>Botanic Garden and Botanical Museum Berlin-Dahlem, Freie Universität  Berlin</organizationName>            <address>
+<deliveryPoint>Koenigin-Luise-Str. 6-8</deliveryPoint><city>Berlin</city><postalCode>14195</postalCode>            </address>
+<phone>0049 30 83850129</phone><electronicMailAddress>n.kilian@bgbm.org</electronicMailAddress><onlineUrl>http://www.bgbm.org/Kilian/</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Norbert</givenName>                    <surName>Kilian</surName>
+            </individualName>
+<organizationName>Botanic Garden and Botanical Museum Berlin-Dahlem, Freie Universität  Berlin</organizationName>            </metadataProvider>
+            <pubDate>
+                2011-04-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Cichorieae Portal is being established as a convenient access to the existing knowledge about the tribe Cichorieae of the sunflower family (Asteraceae or Compositae). The Cichorieae include about 93 genera, of these, 90 genera comprise approximately 1400 species, while 3 genera, hawkweeds and dandelions (Hieracium, Pilosella, and Taraxacum), add further 8000&amp;#43; species, hybrids and/or apomictics. The Cichorieae Portal is designed on the basis EDIT Platform for Cybertaxonomy, to serve both the specialist and the occasional visitor, providing a geographically referenced species inventory of the entire tribe, offering taxon pages with notes on systematics, descriptions, images, common names, distributional, ecological, specimen and other data, and including full synonymies with protologues and type citations. The available data are continuously being completed and updated. In the long run, the Cichorieae portal aims at presenting an ever up-to-date encyclopedic knowledge base of the tribe, with interactive keys to allow easy identification of its members.</para>
+            </abstract>
+            <intellectualRights>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://wp6-cichorieae.e-taxonomy.eu/portal/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>global</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>0</westBoundingCoordinate>
+                                <eastBoundingCoordinate>0</eastBoundingCoordinate>
+                                <northBoundingCoordinate>0</northBoundingCoordinate>
+                                <southBoundingCoordinate>0</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <singleDateTime>
+                                <calendarDate>                1900-01-01
+</calendarDate>
+                            </singleDateTime>
+                    </temporalCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1900-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2011-04-20
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Norbert</givenName>                    <surName>Kilian</surName>
+            </individualName>
+<organizationName>Botanic Garden and Botanical Museum Berlin-Dahlem, Freie Universität  Berlin</organizationName>            <address>
+<deliveryPoint>Koenigin-Luise-Str. 6-8</deliveryPoint><city>Berlin</city><postalCode>14195</postalCode>            </address>
+<phone>0049 30 83850129</phone><electronicMailAddress>n.kilian@bgbm.org</electronicMailAddress><onlineUrl>http://www.bgbm.org/Kilian/</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:13Z</dateStamp>
+                <citation>Kilian N (2011). International Cichorieae Network (ICN): Cichorieae Portal. Botanic Garden and Botanical Museum Berlin. Checklist dataset https://doi.org/10.15468/gzcrwf accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="40ffafd5-273f-4666-bcb8-2baf1d313381"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/7245dk</alternateIdentifier>
+                <alternateIdentifier>DA1B1C345123EA565877FFC97A453438</alternateIdentifier>
+        <title>Pselaphinae of the Cameroon Volcanic Line. Part 3. A new genus of Goniacerini (Coleoptera: Staphylinidae: Goniaceritae) from Mount Cameroon</title>
+            <creator>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Hlaváč</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Petr</givenName>                    <surName>Baňař</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eric Bertrand</givenName>                    <surName>Fokam</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hlaváč, Peter, Baňař, Petr, Fokam, Eric Bertrand (2023): Pselaphinae of the Cameroon Volcanic Line. Part 3. A new genus of Goniacerini (Coleoptera: Staphylinidae: Goniaceritae) from Mount Cameroon. Zootaxa 5323 (2): 255-267, DOI: 10.11646/zootaxa.5323.2.5, URL: http://dx.doi.org/10.11646/zootaxa.5323.2.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/DA1B1C345123EA565877FFC97A453438</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:20Z</dateStamp>
+                <citation>Hlaváč P, Baňař P, Fokam E B, plazi (2023). Pselaphinae of the Cameroon Volcanic Line. Part 3. A new genus of Goniacerini (Coleoptera: Staphylinidae: Goniaceritae) from Mount Cameroon. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/7245dk accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Hlaváč, Peter, Baňař, Petr, Fokam, Eric Bertrand (2023): Pselaphinae of the Cameroon Volcanic Line. Part 3. A new genus of Goniacerini (Coleoptera: Staphylinidae: Goniaceritae) from Mount Cameroon. Zootaxa 5323 (2): 255-267, DOI: 10.11646/zootaxa.5323.2.5, URL: http://dx.doi.org/10.11646/zootaxa.5323.2.5</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

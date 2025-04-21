@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b1aa1869-9519-4d18-ba2c-25e6517ff390"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3675043</alternateIdentifier>
+                <alternateIdentifier>10.15468/njvf1o</alternateIdentifier>
+                <alternateIdentifier>b1aa1869-9519-4d18-ba2c-25e6517ff390</alternateIdentifier>
+                <alternateIdentifier>B3C0E818-8A1B-482C-9C21-001722E93768</alternateIdentifier>
+                <alternateIdentifier>C73DBD01FFCF7231FF85424EFFE1EA10</alternateIdentifier>
+        <title>South American Coccinellidae (Coleoptera), Part XXI: systematic revision of South American Pentilia Mulsant (Cryptognathini)</title>
+            <creator>
+            <individualName>
+<givenName>Robert D.</givenName>                    <surName>Gordon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guillermo González</givenName>                    <surName>F</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guy A.</givenName>                    <surName>Hanley</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gordon, Robert D., F, Guillermo González, Hanley, Guy A. (2019): South American Coccinellidae (Coleoptera), Part XXI: systematic revision of South American Pentilia Mulsant (Cryptognathini). Insecta Mundi 729 (729): 1-27, DOI: http://doi.org/10.5281/zenodo.3675043</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C73DBD01FFCF7231FF85424EFFE1EA10</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:49Z</dateStamp>
+                <citation>Gordon R D, F G G, Hanley G A, felipe (2019). South American Coccinellidae (Coleoptera), Part XXI: systematic revision of South American Pentilia Mulsant (Cryptognathini). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3675043 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

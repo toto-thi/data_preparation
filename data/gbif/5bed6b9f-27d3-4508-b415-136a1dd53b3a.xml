@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5bed6b9f-27d3-4508-b415-136a1dd53b3a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2021.746.1317</alternateIdentifier>
+                <alternateIdentifier>5bed6b9f-27d3-4508-b415-136a1dd53b3a</alternateIdentifier>
+                <alternateIdentifier>10.15468/uh62kg</alternateIdentifier>
+                <alternateIdentifier>C8B84FD5-C191-4228-9CC9-9CBB4F8A0C68</alternateIdentifier>
+                <alternateIdentifier>B63BCB2D1C2DFFF1FFF0FFE1DA52F676</alternateIdentifier>
+        <title>New and poorly known giant scale insects (Homoptera: Coccinea: Margarodidae s. lat.) from the Oriental region with taxonomic and nomenclatural notes on the subfamily Monophlebinae</title>
+            <creator>
+            <individualName>
+<givenName>Ilya A.</givenName>                    <surName>Gavrilov-Zimin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gavrilov-Zimin, Ilya A. (2021): New and poorly known giant scale insects (Homoptera: Coccinea: Margarodidae s. lat.) from the Oriental region with taxonomic and nomenclatural notes on the subfamily Monophlebinae. European Journal of Taxonomy 746 (1): 50-61, DOI: https://doi.org/10.5852/ejt.2021.746.1317, URL: http://zoobank.org/c8b84fd5-c191-4228-9cc9-9cbb4f8a0c68</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B63BCB2D1C2DFFF1FFF0FFE1DA52F676</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:34Z</dateStamp>
+                <citation>Gavrilov-Zimin I A, plazi (2021). New and poorly known giant scale insects (Homoptera: Coccinea: Margarodidae s. lat.) from the Oriental region with taxonomic and nomenclatural notes on the subfamily Monophlebinae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2021.746.1317 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

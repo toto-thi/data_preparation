@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e56e205e-2c0e-478b-bc6c-049ef0111457"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.654</alternateIdentifier>
+                <alternateIdentifier>e56e205e-2c0e-478b-bc6c-049ef0111457</alternateIdentifier>
+                <alternateIdentifier>10.15468/wyk9cc</alternateIdentifier>
+                <alternateIdentifier>9815E238-3415-4174-9535-96737866A0F2</alternateIdentifier>
+                <alternateIdentifier>FFA9B956FFBDFF8EFFF81F2CFF971E36</alternateIdentifier>
+        <title>Neofidia Strother, a new name for Fidia Baly, 1863 and redescription of Fidia kanaraensis (Jacoby, 1895) with a new host record and notes on natural history (Coleoptera, Chrysomelidae, Eumolpinae)</title>
+            <creator>
+            <individualName>
+<givenName>S. Amritha</givenName>                    <surName>Kumari</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A. G.</givenName>                    <surName>Moseyko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>M. S.</givenName>                    <surName>Strother</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. D.</givenName>                    <surName>Prathapan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kumari, S. Amritha, Moseyko, A. G., Strother, M. S., Prathapan, K. D. (2020): Neofidia Strother, a new name for Fidia Baly, 1863 and redescription of Fidia kanaraensis (Jacoby, 1895) with a new host record and notes on natural history (Coleoptera, Chrysomelidae, Eumolpinae). European Journal of Taxonomy 654: 1-25, DOI: https://doi.org/10.5852/ejt.2020.654</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA9B956FFBDFF8EFFF81F2CFF971E36</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:24Z</dateStamp>
+                <citation>Kumari S A, Moseyko A G, Strother M S, Prathapan K D, valdenar (2020). Neofidia Strother, a new name for Fidia Baly, 1863 and redescription of Fidia kanaraensis (Jacoby, 1895) with a new host record and notes on natural history (Coleoptera, Chrysomelidae, Eumolpinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.654 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7b94dd56-d3a7-4462-8da2-72ceb277835f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.2478/aemnp-2018-0013</alternateIdentifier>
+                <alternateIdentifier>7b94dd56-d3a7-4462-8da2-72ceb277835f</alternateIdentifier>
+                <alternateIdentifier>10.15468/w6rqrw</alternateIdentifier>
+                <alternateIdentifier>BF2CDC12-C555-4187-BFAB-274C9C674A5D</alternateIdentifier>
+                <alternateIdentifier>FFC033632178FF8B656AE114055B8309</alternateIdentifier>
+        <title>A review of Scaphisomatini from Sulawesi, with descriptions of ten new species (Coleoptera: Staphylinidae: Scaphidiinae)</title>
+            <creator>
+            <individualName>
+<givenName>Ivan</givenName>                    <surName>Löbl</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-05-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Löbl, Ivan (2018): A review of Scaphisomatini from Sulawesi, with descriptions of ten new species (Coleoptera: Staphylinidae: Scaphidiinae). Acta Entomologica Musei Nationalis Pragae 58 (1): 151-165, DOI: 10.2478/aemnp-2018-0013</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC033632178FF8B656AE114055B8309</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:04Z</dateStamp>
+                <citation>Löbl I, tatiana (2018). A review of Scaphisomatini from Sulawesi, with descriptions of ten new species (Coleoptera: Staphylinidae: Scaphidiinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.2478/aemnp-2018-0013 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

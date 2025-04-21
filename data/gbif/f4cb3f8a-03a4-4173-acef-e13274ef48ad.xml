@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f4cb3f8a-03a4-4173-acef-e13274ef48ad"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3797.1.13</alternateIdentifier>
+                <alternateIdentifier>f4cb3f8a-03a4-4173-acef-e13274ef48ad</alternateIdentifier>
+                <alternateIdentifier>10.15468/n8nq6a</alternateIdentifier>
+                <alternateIdentifier>058AE196-A5DE-480D-BE32-ED4E81DC2ABD</alternateIdentifier>
+                <alternateIdentifier>FF91597CFF84FF81FF9DFFB1902F7E7E</alternateIdentifier>
+        <title>A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea: Hymenopodidae, Acromantinae) with description of five new species</title>
+            <creator>
+            <individualName>
+<givenName>Francesco</givenName>                    <surName>Lombardo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin B. D.</givenName>                    <surName>Stiewe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Salvatrice</givenName>                    <surName>Ippolito</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alessandro</givenName>                    <surName>Marletta</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-05-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lombardo, Francesco, Stiewe, Martin B. D., Ippolito, Salvatrice, Marletta, Alessandro (2014): A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea: Hymenopodidae, Acromantinae) with description of five new species. Zootaxa 3797 (1): 169-193, DOI: http://dx.doi.org/10.11646/zootaxa.3797.1.13</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF91597CFF84FF81FF9DFFB1902F7E7E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:11Z</dateStamp>
+                <citation>Lombardo F, Stiewe M B D, Ippolito S, Marletta A, felipe (2014). A taxonomic revision of Otomantis Bolivar, 1890 (Mantodea: Hymenopodidae, Acromantinae) with description of five new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3797.1.13 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

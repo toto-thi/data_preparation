@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="db184f58-88ba-4d7d-bc99-876b5adbce2b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3620.4.2</alternateIdentifier>
+                <alternateIdentifier>db184f58-88ba-4d7d-bc99-876b5adbce2b</alternateIdentifier>
+                <alternateIdentifier>10.15468/8wuhkq</alternateIdentifier>
+                <alternateIdentifier>4A92CEC7-AD49-465A-B6D8-A7FD067BCBF8</alternateIdentifier>
+                <alternateIdentifier>036FFF94FF8EFF94FFAE0A2B6B3CFFB2</alternateIdentifier>
+        <title>Three new species of Kerria (Hemiptera: Sternorrhyncha: Coccoidea: Tachardiidae), a redesciption of K. yunnanensis Ou &amp; Hong, and a revised key to species of Kerria</title>
+            <creator>
+            <individualName>
+<givenName>Ayashaa</givenName>                    <surName>Ahmad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. K.</givenName>                    <surName>Sharma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A. S.</givenName>                    <surName>Vidyarthi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>R.</givenName>                    <surName>Ramani</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ahmad, Ayashaa, Sharma, K. K., Vidyarthi, A. S., Ramani, R. (2013): Three new species of Kerria (Hemiptera: Sternorrhyncha: Coccoidea: Tachardiidae), a redesciption of K. yunnanensis Ou &amp;amp; Hong, and a revised key to species of Kerria. Zootaxa 3620 (4): 518-532, DOI: http://dx.doi.org/10.11646/zootaxa.3620.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/036FFF94FF8EFF94FFAE0A2B6B3CFFB2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:52Z</dateStamp>
+                <citation>Ahmad A, Sharma K K, Vidyarthi A S, Ramani R, plazi (2013). Three new species of Kerria (Hemiptera: Sternorrhyncha: Coccoidea: Tachardiidae), a redesciption of K. yunnanensis Ou &amp; Hong, and a revised key to species of Kerria. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3620.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

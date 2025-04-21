@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d43723ad-2e07-48a7-bf0c-90d9579a53f5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xgjg2x</alternateIdentifier>
+                <alternateIdentifier>FFD9FFFACF0BFF87C2464D35FFCDFFA8</alternateIdentifier>
+        <title>RUMiNOCOCCUS BOViS sp. nov., a novel species of amylolytic RUMiNOCOCCUS isolated from the rumen of a dairy cow</title>
+            <creator>
+            <individualName>
+<givenName>James</givenName>                    <surName>Gaffney</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jordan</givenName>                    <surName>Embree</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sean</givenName>                    <surName>Gilmore</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mallory</givenName>                    <surName>Embree</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gaffney, James, Embree, Jordan, Gilmore, Sean, Embree, Mallory (2021): RUMiNOCOCCUS BOViS sp. nov., a novel species of amylolytic RUMiNOCOCCUS isolated from the rumen of a dairy cow. International Journal of Systematic and Evolutionary Microbiology (004924) 71 (8): 1-7, DOI: 10.1099/ijsem.0.004924, URL: http://dx.doi.org/10.1099/ijsem.0.004924</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFD9FFFACF0BFF87C2464D35FFCDFFA8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:36Z</dateStamp>
+                <citation>Gaffney J, Embree J, Gilmore S, Embree M, felipe (2021). RUMiNOCOCCUS BOViS sp. nov., a novel species of amylolytic RUMiNOCOCCUS isolated from the rumen of a dairy cow. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/xgjg2x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f2cd2a2b-9ae1-41fe-9a0e-b625a8b07be4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4869.2.2</alternateIdentifier>
+                <alternateIdentifier>f2cd2a2b-9ae1-41fe-9a0e-b625a8b07be4</alternateIdentifier>
+                <alternateIdentifier>10.15468/zz9wy5</alternateIdentifier>
+                <alternateIdentifier>DEF79389-5024-4064-9A71-837CBC28A89B</alternateIdentifier>
+                <alternateIdentifier>FFF63023CC03FFC586670A6C49039F7D</alternateIdentifier>
+        <title>Review of the genus Valdasus Stål, 1860 (Heteroptera, Miridae, Cylapinae), with descriptions of four new species from Brazil, Ecuador and French Guiana</title>
+            <creator>
+            <individualName>
+<givenName>Andrzej</givenName>                    <surName>Wolski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frédéric</givenName>                    <surName>Chérot</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diego Leonardo</givenName>                    <surName>Carpintero</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-11-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wolski, Andrzej, Chérot, Frédéric, Carpintero, Diego Leonardo (2020): Review of the genus Valdasus Stål, 1860 (Heteroptera, Miridae, Cylapinae), with descriptions of four new species from Brazil, Ecuador and French Guiana. Zootaxa 4869 (2): 187-206, DOI: https://doi.org/10.11646/zootaxa.4869.2.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF63023CC03FFC586670A6C49039F7D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:40Z</dateStamp>
+                <citation>Wolski A, Chérot F, Carpintero D L, plazi (2020). Review of the genus Valdasus Stål, 1860 (Heteroptera, Miridae, Cylapinae), with descriptions of four new species from Brazil, Ecuador and French Guiana. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4869.2.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

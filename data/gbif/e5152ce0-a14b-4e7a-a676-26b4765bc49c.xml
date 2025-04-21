@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e5152ce0-a14b-4e7a-a676-26b4765bc49c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4592.1.1</alternateIdentifier>
+                <alternateIdentifier>e5152ce0-a14b-4e7a-a676-26b4765bc49c</alternateIdentifier>
+                <alternateIdentifier>10.15468/c5vlw8</alternateIdentifier>
+                <alternateIdentifier>B6FF005C-D0AA-4532-8ACC-43D3DED984EF</alternateIdentifier>
+                <alternateIdentifier>DA52252DF740FFD2FFE9FFAC4727FFE2</alternateIdentifier>
+        <title>An updated checklist of Canadian and Alaskan Collembola</title>
+            <creator>
+            <individualName>
+<givenName>Anatoly</givenName>                    <surName>Babenko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sophya</givenName>                    <surName>Stebaeva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew S.</givenName>                    <surName>Turnbull</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-05-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Babenko, Anatoly, Stebaeva, Sophya, Turnbull, Matthew S. (2019): An updated checklist of Canadian and Alaskan Collembola. Zootaxa 4592 (1): 1-125, DOI: https://doi.org/10.11646/zootaxa.4592.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/DA52252DF740FFD2FFE9FFAC4727FFE2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:55Z</dateStamp>
+                <citation>Babenko A, Stebaeva S, Turnbull M S, plazi (2019). An updated checklist of Canadian and Alaskan Collembola. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4592.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

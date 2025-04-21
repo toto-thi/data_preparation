@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f9e8f82d-9939-457e-a339-8655da2ef52a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/59bf3r</alternateIdentifier>
+                <alternateIdentifier>FFDCFFCA35478E497A2FBB63FFD9FF9D</alternateIdentifier>
+        <title>Across the great divide: revision of the genus Eupetaurus (Sciuridae: Pteromyini), the woolly flying squirrels of the Himalayan region, with the description of two new species</title>
+            <creator>
+            <individualName>
+<givenName>Stephen M.</givenName>                    <surName>Jackson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Quan</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tao</givenName>                    <surName>Wan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xue-You</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fa-Hong</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ge</givenName>                    <surName>Gao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Li-Kun</givenName>                    <surName>He</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kristofer M.</givenName>                    <surName>Helgen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xue-Long</givenName>                    <surName>Jiang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-05-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Jackson, Stephen M., Li, Quan, Wan, Tao, Li, Xue-You, Yu, Fa-Hong, Gao, Ge, He, Li-Kun, Helgen, Kristofer M., Jiang, Xue-Long (2022): Across the great divide: revision of the genus Eupetaurus (Sciuridae: Pteromyini), the woolly flying squirrels of the Himalayan region, with the description of two new species. Zoological Journal of the Linnean Society 194: 502-526, DOI: 10.1093/zoolinnean/zlab018</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFDCFFCA35478E497A2FBB63FFD9FF9D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:08Z</dateStamp>
+                <citation>Jackson S M, Li Q, Wan T, Li X, Yu F, Gao G, He L, Helgen K M, Jiang X, plazi (2021). Across the great divide: revision of the genus Eupetaurus (Sciuridae: Pteromyini), the woolly flying squirrels of the Himalayan region, with the description of two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/59bf3r accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

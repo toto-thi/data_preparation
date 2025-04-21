@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4a6ee786-4a7d-4979-8b3b-33c87357f8e3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2bbx9z</alternateIdentifier>
+                <alternateIdentifier>56682D1FFFEDFFBCF30EFFFDFF8DFFC5</alternateIdentifier>
+        <title>To the fauna of chewing lice (Insecta: Phthiraptera) of birds (Aves: Falconiformes, Strigiformes) in the Lower Don region, Russia</title>
+            <creator>
+            <individualName>
+<givenName>Malysheva</givenName>                    <surName>O. D.</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zabashta</givenName>                    <surName>A. V.</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tolstenkov</givenName>                    <surName>O. O.</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article O. D., Malysheva, A. V., Zabashta, O. O., Tolstenkov (2018): To the fauna of chewing lice (Insecta: Phthiraptera) of birds (Aves: Falconiformes, Strigiformes) in the Lower Don region, Russia. Caucasian Entomological Bulletin 14 (1): 11-18, DOI: 10.23885/1814-3326-2018-14-1-11-18, URL: http://dx.doi.org/10.23885/1814-3326-2018-14-1-11-18</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/56682D1FFFEDFFBCF30EFFFDFF8DFFC5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:04Z</dateStamp>
+                <citation>O. D. M, A. V. Z, O. O. T, felipe (2018). To the fauna of chewing lice (Insecta: Phthiraptera) of birds (Aves: Falconiformes, Strigiformes) in the Lower Don region, Russia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/2bbx9z accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>O. D., Malysheva, A. V., Zabashta, O. O., Tolstenkov (2018): To the fauna of chewing lice (Insecta: Phthiraptera) of birds (Aves: Falconiformes, Strigiformes) in the Lower Don region, Russia. Caucasian Entomological Bulletin 14 (1): 11-18, DOI: 10.23885/1814-3326-2018-14-1-11-18, URL: http://dx.doi.org/10.23885/1814-3326-2018-14-1-11-18</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

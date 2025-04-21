@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="dc3253d4-edc8-481b-966e-791e40856534"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2019.550</alternateIdentifier>
+                <alternateIdentifier>dc3253d4-edc8-481b-966e-791e40856534</alternateIdentifier>
+                <alternateIdentifier>10.15468/wytq08</alternateIdentifier>
+                <alternateIdentifier>F8707194-B55E-48CA-8FE0-4CD0D023C217</alternateIdentifier>
+                <alternateIdentifier>5E499606FC7CFFEAF13CAD503450FFC8</alternateIdentifier>
+        <title>Review of the Swedish species of Ophion (Hymenoptera: Ichneumonidae: Ophioninae), with the description of 18 new species and an illustrated key to Swedish species</title>
+            <creator>
+            <individualName>
+<givenName>Niklas</givenName>                    <surName>Johansson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Björn</givenName>                    <surName>Cederberg</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Johansson, Niklas, Cederberg, Björn (2019): Review of the Swedish species of Ophion (Hymenoptera: Ichneumonidae: Ophioninae), with the description of 18 new species and an illustrated key to Swedish species. European Journal of Taxonomy 550: 1-136, DOI: https://doi.org/10.5852/ejt.2019.550</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5E499606FC7CFFEAF13CAD503450FFC8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:17Z</dateStamp>
+                <citation>Johansson N, Cederberg B, plazi (2019). Review of the Swedish species of Ophion (Hymenoptera: Ichneumonidae: Ophioninae), with the description of 18 new species and an illustrated key to Swedish species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2019.550 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

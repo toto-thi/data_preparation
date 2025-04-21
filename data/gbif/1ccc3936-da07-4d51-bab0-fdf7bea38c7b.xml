@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1ccc3936-da07-4d51-bab0-fdf7bea38c7b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.616.8481</alternateIdentifier>
+                <alternateIdentifier>10.15468/hgbbmq</alternateIdentifier>
+                <alternateIdentifier>9838FFE74C54B25FDF34A96FFF8FFFB3</alternateIdentifier>
+        <title>Type material of Platyhelminthes (Monogenoidea) housed in the Helminthological Collection of the Oswaldo Cruz Institute / FIOCRUZ (CHIOC), Rio de Janeiro, Brazil, from 1979 to 2016</title>
+            <creator>
+            <individualName>
+<givenName>Daniela A.</givenName>                    <surName>Lopes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adriana</givenName>                    <surName>Mainenti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Magda</givenName>                    <surName>Sanches</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marcelo</givenName>                    <surName>Knoff</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Delir Correa</givenName>                    <surName>Gomes</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lopes, Daniela A., Mainenti, Adriana, Sanches, Magda, Knoff, Marcelo, Gomes, Delir Correa (2016): Type material of Platyhelminthes (Monogenoidea) housed in the Helminthological Collection of the Oswaldo Cruz Institute / FIOCRUZ (CHIOC), Rio de Janeiro, Brazil, from 1979 to 2016. ZooKeys 616: 1-75, DOI: http://dx.doi.org/10.3897/zookeys.616.8481, URL: http://dx.doi.org/10.3897/zookeys.616.8481</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/9838FFE74C54B25FDF34A96FFF8FFFB3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:05Z</dateStamp>
+                <citation>Lopes D A, Mainenti A, Sanches M, Knoff M, Gomes D C, pensoft (2016). Type material of Platyhelminthes (Monogenoidea) housed in the Helminthological Collection of the Oswaldo Cruz Institute / FIOCRUZ (CHIOC), Rio de Janeiro, Brazil, from 1979 to 2016. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.616.8481 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b9147198-df36-4b1b-98e4-300bef282870"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.175339</alternateIdentifier>
+                <alternateIdentifier>b9147198-df36-4b1b-98e4-300bef282870</alternateIdentifier>
+                <alternateIdentifier>10.15468/obhtnc</alternateIdentifier>
+                <alternateIdentifier>E7F3155A-6664-49C5-9273-462F98B88E36</alternateIdentifier>
+                <alternateIdentifier>D712281EFFB7C472FFAAFFB4FFDD972A</alternateIdentifier>
+        <title>Surveys for natural enemies of the tomato red spider mite Tetranychus evansi (Acari: Tetranychidae) in northeastern and southeastern Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Komi K. M.</givenName>                    <surName>Fiaboe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manoel G. C.</givenName>                    <surName>Gondim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gilberto J.</givenName>                    <surName>De</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Callistus K. P.</givenName>                    <surName>O</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Fiaboe, Komi K. M., Gondim, Manoel G. C., De, Gilberto J., O, Callistus K. P. (2007): Surveys for natural enemies of the tomato red spider mite Tetranychus evansi (Acari: Tetranychidae) in northeastern and southeastern Brazil. Zootaxa 1395: 33-58, DOI: 10.5281/zenodo.175339</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D712281EFFB7C472FFAAFFB4FFDD972A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:43Z</dateStamp>
+                <citation>Fiaboe K K M, Gondim M G C, De G J, O C K P, plazi (2007). Surveys for natural enemies of the tomato red spider mite Tetranychus evansi (Acari: Tetranychidae) in northeastern and southeastern Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.175339 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

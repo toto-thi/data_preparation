@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b1c3ca9e-6c0d-4869-86b3-13da55d2d43d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/uq4dzu</alternateIdentifier>
+                <alternateIdentifier>ACB315A2B53250ACA5FC528F6F3916CC</alternateIdentifier>
+        <title>Under the Cretaceous bark: Fossil evidence for the ancient origin of subcortical lifestyle of clown beetles (Coleoptera: Histeridae)</title>
+            <creator>
+            <individualName>
+<givenName>Jan</givenName>                    <surName>Simon Prazak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Fikacek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jakub</givenName>                    <surName>Prokop</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tomas</givenName>                    <surName>Lackner</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Simon Prazak, Jan, Fikacek, Martin, Prokop, Jakub, Lackner, Tomas (2023): Under the Cretaceous bark: Fossil evidence for the ancient origin of subcortical lifestyle of clown beetles (Coleoptera: Histeridae). Arthropod Systematics &amp;amp; amp; Phylogeny 81: 439-453, DOI: http://dx.doi.org/10.3897/asp.81.e102404, URL: http://dx.doi.org/10.3897/asp.81.e102404</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/ACB315A2B53250ACA5FC528F6F3916CC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:40Z</dateStamp>
+                <citation>Simon Prazak J, Fikacek M, Prokop J, Lackner T, pensoft (2023). Under the Cretaceous bark: Fossil evidence for the ancient origin of subcortical lifestyle of clown beetles (Coleoptera: Histeridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/uq4dzu accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Simon Prazak, Jan, Fikacek, Martin, Prokop, Jakub, Lackner, Tomas (2023): Under the Cretaceous bark: Fossil evidence for the ancient origin of subcortical lifestyle of clown beetles (Coleoptera: Histeridae). Arthropod Systematics &amp; amp; Phylogeny 81: 439-453, DOI: http://dx.doi.org/10.3897/asp.81.e102404, URL: http://dx.doi.org/10.3897/asp.81.e102404</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

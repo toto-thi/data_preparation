@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="96cda6ba-9358-40ee-8e58-413fb65d131c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/mgug4f</alternateIdentifier>
+                <alternateIdentifier>FFEDFF92FFC6FFACFFDB2D49074E463F</alternateIdentifier>
+        <title>New data on the genus Strumigenys (Hymenoptera: Formicidae) from Sumatra</title>
+            <creator>
+            <individualName>
+<givenName>S. H.</givenName>                    <surName>Musfira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>M.</givenName>                    <surName>Rafi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>M.</givenName>                    <surName>Gusti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>D. H.</givenName>                    <surName>Putri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>R.</givenName>                    <surName>Satria</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-06-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Musfira, S. H., Rafi, M., Gusti, M., Putri, D. H., Satria, R. (2022): New data on the genus Strumigenys (Hymenoptera: Formicidae) from Sumatra. Zoosystematica Rossica (Zoosyst. Rossica) 31 (1): 74-86, DOI: 10.31610/zsr/2022.31.1.74, URL: http://dx.doi.org/10.31610/zsr/2022.31.1.74</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFEDFF92FFC6FFACFFDB2D49074E463F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:38Z</dateStamp>
+                <citation>Musfira S H, Rafi M, Gusti M, Putri D H, Satria R, felipe (2022). New data on the genus Strumigenys (Hymenoptera: Formicidae) from Sumatra. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/mgug4f accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Musfira, S. H., Rafi, M., Gusti, M., Putri, D. H., Satria, R. (2022): New data on the genus Strumigenys (Hymenoptera: Formicidae) from Sumatra. Zoosystematica Rossica (Zoosyst. Rossica) 31 (1): 74-86, DOI: 10.31610/zsr/2022.31.1.74, URL: http://dx.doi.org/10.31610/zsr/2022.31.1.74</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

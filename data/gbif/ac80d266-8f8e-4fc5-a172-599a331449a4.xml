@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ac80d266-8f8e-4fc5-a172-599a331449a4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2012.17</alternateIdentifier>
+                <alternateIdentifier>ac80d266-8f8e-4fc5-a172-599a331449a4</alternateIdentifier>
+                <alternateIdentifier>10.15468/nxux2g</alternateIdentifier>
+                <alternateIdentifier>1238951A-FE17-40B2-9DCD-9D7939BECD09</alternateIdentifier>
+                <alternateIdentifier>FF82F56BE117FF9BFFA87F6B8405FFDA</alternateIdentifier>
+        <title>A revision of African Psammoecus (Coleoptera, Silvanidae) and descriptions of two new species from the collection of the Musée royal de l’Afrique centrale</title>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Karner</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2012-06-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Karner, Michael (2012): A revision of African Psammoecus (Coleoptera, Silvanidae) and descriptions of two new species from the collection of the Musée royal de l’Afrique centrale. European Journal of Taxonomy 17: 1-31, DOI: http://dx.doi.org/10.5852/ejt.2012.17</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF82F56BE117FF9BFFA87F6B8405FFDA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:51Z</dateStamp>
+                <citation>Karner M, carolina (2012). A revision of African Psammoecus (Coleoptera, Silvanidae) and descriptions of two new species from the collection of the Musée royal de l’Afrique centrale. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2012.17 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

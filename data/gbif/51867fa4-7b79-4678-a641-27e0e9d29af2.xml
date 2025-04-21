@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="51867fa4-7b79-4678-a641-27e0e9d29af2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1099/00207713-51-4-1557</alternateIdentifier>
+                <alternateIdentifier>51867fa4-7b79-4678-a641-27e0e9d29af2</alternateIdentifier>
+                <alternateIdentifier>10.15468/zs79f4</alternateIdentifier>
+                <alternateIdentifier>FFC2C477FFE34A4AFFFDFFA7FFB0FF8D</alternateIdentifier>
+        <title>Bartonella schoenbuchii sp. nov., isolated from the blood of wild roe deer.</title>
+            <creator>
+            <individualName>
+<givenName>C</givenName>                    <surName>Dehio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>C</givenName>                    <surName>Lanz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>R</givenName>                    <surName>Pohl</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>P</givenName>                    <surName>Behrens</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>D</givenName>                    <surName>Bermond</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Y</givenName>                    <surName>Piémont</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K</givenName>                    <surName>Pelz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A</givenName>                    <surName>Sander</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2001-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dehio, C, Lanz, C, Pohl, R, Behrens, P, Bermond, D, Piémont, Y, Pelz, K, Sander, A (2001): Bartonella schoenbuchii sp. nov., isolated from the blood of wild roe deer. International Journal of Systematic and Evolutionary Microbiology 51 (4): 1557-1565, DOI: 10.1099/00207713-51-4-1557, URL: http://dx.doi.org/10.1099/00207713-51-4-1557</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC2C477FFE34A4AFFFDFFA7FFB0FF8D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:21Z</dateStamp>
+                <citation>Dehio C, Lanz C, Pohl R, Behrens P, Bermond D, Piémont Y, Pelz K, Sander A, plazi (2001). Bartonella schoenbuchii sp. nov., isolated from the blood of wild roe deer.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1099/00207713-51-4-1557 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

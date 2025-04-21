@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a6ca4ce3-c7d5-4918-a55b-75ad3fd77805"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/phytokeys.183.71049</alternateIdentifier>
+                <alternateIdentifier>10.15468/ac4gan</alternateIdentifier>
+                <alternateIdentifier>1A274C960ABE5798B673F70DC356D537</alternateIdentifier>
+        <title>Marine and brackish Luticola D. G. Mann (Bacillariophyta) species from the Java Sea and South China Sea coasts with the description of three new species</title>
+            <creator>
+            <individualName>
+<givenName>Mateusz</givenName>                    <surName>Rybak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrzej</givenName>                    <surName>Witkowski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lukasz</givenName>                    <surName>Peszek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>John P.</givenName>                    <surName>Kociolek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yenny</givenName>                    <surName>Risjani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Duc Hung</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jinpeng</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Yunianta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Duy</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Romain</givenName>                    <surName>Gastineau</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thi Thuy</givenName>                    <surName>Duong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Philippe</givenName>                    <surName>Rosa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vona</givenName>                    <surName>Meleder</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rybak, Mateusz, Witkowski, Andrzej, Peszek, Lukasz, Kociolek, John P., Risjani, Yenny, Nguyen, Duc Hung, Zhang, Jinpeng, Yunianta,, Nguyen, Van Duy, Gastineau, Romain, Duong, Thi Thuy, Rosa, Philippe, Meleder, Vona (2021): Marine and brackish Luticola D. G. Mann (Bacillariophyta) species from the Java Sea and South China Sea coasts with the description of three new species. PhytoKeys 183: 115-142, DOI: http://dx.doi.org/10.3897/phytokeys.183.71049, URL: http://dx.doi.org/10.3897/phytokeys.183.71049</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/1A274C960ABE5798B673F70DC356D537</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:35Z</dateStamp>
+                <citation>Rybak M, Witkowski A, Peszek L, Kociolek J P, Risjani Y, Nguyen D H, Zhang J, Yunianta, Nguyen V D, Gastineau R, Duong T T, Rosa P, Meleder V, pensoft (2021). Marine and brackish Luticola D. G. Mann (Bacillariophyta) species from the Java Sea and South China Sea coasts with the description of three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/phytokeys.183.71049 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

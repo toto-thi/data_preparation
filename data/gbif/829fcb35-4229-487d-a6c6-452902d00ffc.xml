@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="829fcb35-4229-487d-a6c6-452902d00ffc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/mycokeys.85.70829</alternateIdentifier>
+                <alternateIdentifier>10.15468/jt86z5</alternateIdentifier>
+                <alternateIdentifier>F28559203A3D5CC7B888A4C2892F7880</alternateIdentifier>
+        <title>Two new asexual genera and six new asexual species in the family Microthyriaceae (Dothideomycetes, Ascomycota) from China</title>
+            <creator>
+            <individualName>
+<givenName>Min</givenName>                    <surName>Qiao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hua</givenName>                    <surName>Zheng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ji-Shu</givenName>                    <surName>Guo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rafael F.</givenName>                    <surName>Castaneda-Ruiz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jian-Ping</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jie</givenName>                    <surName>Peng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ke-Qin</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ze-Fen</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-11-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Qiao, Min, Zheng, Hua, Guo, Ji-Shu, Castaneda-Ruiz, Rafael F., Xu, Jian-Ping, Peng, Jie, Zhang, Ke-Qin, Yu, Ze-Fen (2021): Two new asexual genera and six new asexual species in the family Microthyriaceae (Dothideomycetes, Ascomycota) from China. MycoKeys 85: 1-30, DOI: http://dx.doi.org/10.3897/mycokeys.85.70829, URL: http://dx.doi.org/10.3897/mycokeys.85.70829</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/F28559203A3D5CC7B888A4C2892F7880</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:02Z</dateStamp>
+                <citation>Qiao M, Zheng H, Guo J, Castaneda-Ruiz R F, Xu J, Peng J, Zhang K, Yu Z, pensoft (2021). Two new asexual genera and six new asexual species in the family Microthyriaceae (Dothideomycetes, Ascomycota) from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/mycokeys.85.70829 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

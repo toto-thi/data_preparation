@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2f8b8e31-ab43-4705-a9c3-c48851b3f61e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2018.419</alternateIdentifier>
+                <alternateIdentifier>2f8b8e31-ab43-4705-a9c3-c48851b3f61e</alternateIdentifier>
+                <alternateIdentifier>10.15468/kzjyir</alternateIdentifier>
+                <alternateIdentifier>12228A56-6AA7-405F-8A8D-093988D00C1F</alternateIdentifier>
+                <alternateIdentifier>C806FFDFFFB95E3AED22FFB5FF9D5F3C</alternateIdentifier>
+        <title>Three new species of Entomobrya (Collembola: Entomobryidae) from China</title>
+            <creator>
+            <individualName>
+                    <surName>Yitong Ma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Shidi Shi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yitong Ma, Shidi Shi (2018): Three new species of Entomobrya (Collembola: Entomobryidae) from China. European Journal of Taxonomy 419: 1-21, DOI: https://doi.org/10.5852/ejt.2018.419</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C806FFDFFFB95E3AED22FFB5FF9D5F3C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:10Z</dateStamp>
+                <citation>Yitong Ma, Shidi Shi, plazi (2018). Three new species of Entomobrya (Collembola: Entomobryidae) from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2018.419 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

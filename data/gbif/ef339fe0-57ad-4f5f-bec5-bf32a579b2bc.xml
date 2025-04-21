@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ef339fe0-57ad-4f5f-bec5-bf32a579b2bc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.5082.6.3</alternateIdentifier>
+                <alternateIdentifier>ef339fe0-57ad-4f5f-bec5-bf32a579b2bc</alternateIdentifier>
+                <alternateIdentifier>10.15468/7agba6</alternateIdentifier>
+                <alternateIdentifier>F51AF3C5-8F41-4419-A972-8D33423DF2A7</alternateIdentifier>
+                <alternateIdentifier>FFDBFF885E0FFF86FFE5FFC4FFAB412D</alternateIdentifier>
+        <title>A new species of the Gekko japonicus group (Squamata: Gekkonidae) from Khammouane Province, central Laos</title>
+            <creator>
+            <individualName>
+<givenName>Saly</givenName>                    <surName>Sitthivong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Oanh Van</givenName>                    <surName>Lo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Truong Quang</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hanh Thi</givenName>                    <surName>Ngo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thananh</givenName>                    <surName>Khotpathoom</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Minh Duc</givenName>                    <surName>Le</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Ziegler</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vinh Quang</givenName>                    <surName>Luu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sitthivong, Saly, Lo, Oanh Van, Nguyen, Truong Quang, Ngo, Hanh Thi, Khotpathoom, Thananh, Le, Minh Duc, Ziegler, Thomas, Luu, Vinh Quang (2021): A new species of the Gekko japonicus group (Squamata: Gekkonidae) from Khammouane Province, central Laos. Zootaxa 5082 (6): 553-571, DOI: https://doi.org/10.11646/zootaxa.5082.6.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFDBFF885E0FFF86FFE5FFC4FFAB412D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:49Z</dateStamp>
+                <citation>Sitthivong S, Lo O V, Nguyen T Q, Ngo H T, Khotpathoom T, Le M D, Ziegler T, Luu V Q, plazi (2021). A new species of the Gekko japonicus group (Squamata: Gekkonidae) from Khammouane Province, central Laos. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.5082.6.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

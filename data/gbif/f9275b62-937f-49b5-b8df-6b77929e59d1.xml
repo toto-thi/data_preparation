@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f9275b62-937f-49b5-b8df-6b77929e59d1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/grksx7</alternateIdentifier>
+                <alternateIdentifier>4C7A9A176673FFAEB929FF9BFC3FFF92</alternateIdentifier>
+        <title>A new endemic Magnolia species (M. sect. Talauma, Magnoliaceae) from the southwestern montane forest remnants of Ecuador</title>
+            <creator>
+            <individualName>
+<givenName>Álvaro J.</givenName>                    <surName>Pérez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Edison</givenName>                    <surName>Rea</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin S.</givenName>                    <surName>Burgess</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patricio</givenName>                    <surName>Mena-Olmedo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leovigildo</givenName>                    <surName>Cabrera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>José</givenName>                    <surName>León</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>J. Antonio</givenName>                    <surName>Vázquez-García</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pérez, Álvaro J., Rea, Edison, Burgess, Kevin S., Mena-Olmedo, Patricio, Cabrera, Leovigildo, León, José, Vázquez-García, J. Antonio (2023): A new endemic Magnolia species (M. sect. Talauma, Magnoliaceae) from the southwestern montane forest remnants of Ecuador. Phytotaxa 592 (2): 119-126, DOI: 10.11646/phytotaxa.592.2.5, URL: http://dx.doi.org/10.1094/PDIS-04-22-0755-PDN</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4C7A9A176673FFAEB929FF9BFC3FFF92</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:14Z</dateStamp>
+                <citation>Pérez Á J, Rea E, Burgess K S, Mena-Olmedo P, Cabrera L, León J, Vázquez-García J A, plazi (2023). A new endemic Magnolia species (M. sect. Talauma, Magnoliaceae) from the southwestern montane forest remnants of Ecuador. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/grksx7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

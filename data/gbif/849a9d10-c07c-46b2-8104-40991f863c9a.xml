@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="849a9d10-c07c-46b2-8104-40991f863c9a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/7w6l4e</alternateIdentifier>
+                <alternateIdentifier>0DC6B575-3CB3-41C1-A3EC-850520AE4487</alternateIdentifier>
+                <alternateIdentifier>21A98ADFF4D6ACB8C046B731D66A6379</alternateIdentifier>
+        <title>Berlese&apos;s Primitive Oribatid Mites</title>
+            <creator>
+            <individualName>
+<givenName>L.</givenName>                    <surName>van der Hammen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Stierhof</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1959-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article van der Hammen, L. (1959): Berlese&amp;#39;s Primitive Oribatid Mites. Zoologische Verhandelingen 40: 1-93, URL: http://www.repository.naturalis.nl/document/148866</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/21A98ADFF4D6ACB8C046B731D66A6379</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:48Z</dateStamp>
+                <citation>van der Hammen L, Stierhof T (1959). Berlese&apos;s Primitive Oribatid Mites. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/7w6l4e accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="23c59516-ac74-4581-ab1a-5409f88f0dcb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.156019</alternateIdentifier>
+                <alternateIdentifier>23c59516-ac74-4581-ab1a-5409f88f0dcb</alternateIdentifier>
+                <alternateIdentifier>10.15468/qu4rsh</alternateIdentifier>
+                <alternateIdentifier>BE224007-1110-42EB-BC83-0485D77743AB</alternateIdentifier>
+                <alternateIdentifier>9F0EFFB0FFD4FFCDFF88F62F7B4FFFCC</alternateIdentifier>
+        <title>Scottia birigida sp. nov. (Cypridoidea: Ostracoda) from western Honshu, Japan and a key to the subfamily Scottiinae Bronstein, 1947</title>
+            <creator>
+            <individualName>
+<givenName>Robin J.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Renate</givenName>                    <surName>Matzke-Karasz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Takahiro</givenName>                    <surName>Kamiya</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yoshinori</givenName>                    <surName>Ikeda</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2002-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Smith, Robin J., Matzke-Karasz, Renate, Kamiya, Takahiro, Ikeda, Yoshinori (2002): Scottia birigida sp. nov. (Cypridoidea: Ostracoda) from western Honshu, Japan and a key to the subfamily Scottiinae Bronstein, 1947. Zootaxa 126: 1-20, DOI: 10.5281/zenodo.156019</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/9F0EFFB0FFD4FFCDFF88F62F7B4FFFCC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:50Z</dateStamp>
+                <citation>Smith R J, Matzke-Karasz R, Kamiya T, Ikeda Y, plazi (2002). Scottia birigida sp. nov. (Cypridoidea: Ostracoda) from western Honshu, Japan and a key to the subfamily Scottiinae Bronstein, 1947. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.156019 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

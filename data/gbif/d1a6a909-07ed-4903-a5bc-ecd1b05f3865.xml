@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d1a6a909-07ed-4903-a5bc-ecd1b05f3865"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/erdq28</alternateIdentifier>
+                <alternateIdentifier>FFBDFF94FFF1FFC585209F15D01FC77C</alternateIdentifier>
+        <title>An exceptionally preserved Sphenodon-like sphenodontian reveals deep time conservation of the tuatara skeleton and ontogeny</title>
+            <creator>
+            <individualName>
+<givenName>Tiago R.</givenName>                    <surName>Simões</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Grace</givenName>                    <surName>Kinney-Broderick</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephanie E.</givenName>                    <surName>Pierce</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>diego</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Simões, Tiago R., Kinney-Broderick, Grace, Pierce, Stephanie E. (2022): An exceptionally preserved Sphenodon-like sphenodontian reveals deep time conservation of the tuatara skeleton and ontogeny. Communications Biology 5 (1): 1-19, DOI: 10.1038/s42003-022-03144-y, URL: http://dx.doi.org/10.1038/s42003-022-03144-y</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFBDFF94FFF1FFC585209F15D01FC77C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:04Z</dateStamp>
+                <citation>Simões T R, Kinney-Broderick G, Pierce S E, diego (2022). An exceptionally preserved Sphenodon-like sphenodontian reveals deep time conservation of the tuatara skeleton and ontogeny. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/erdq28 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

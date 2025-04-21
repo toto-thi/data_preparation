@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="85aa19d4-df73-40fe-aa7f-03351908e0fa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.685.13811</alternateIdentifier>
+                <alternateIdentifier>10.15468/udps97</alternateIdentifier>
+                <alternateIdentifier>23221C5A95579C77FFB3DF15FFEFFFB1</alternateIdentifier>
+        <title>A revision of Prespelea Park (Staphylinidae, Pselaphinae)</title>
+            <creator>
+            <individualName>
+<givenName>Michael S.</givenName>                    <surName>Caterino</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Laura M.</givenName>                    <surName>Vasquez-Velez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Caterino, Michael S., Vasquez-Velez, Laura M. (2017): A revision of Prespelea Park (Staphylinidae, Pselaphinae). ZooKeys 685: 105-130, DOI: http://dx.doi.org/10.3897/zookeys.685.13811, URL: http://dx.doi.org/10.3897/zookeys.685.13811</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/23221C5A95579C77FFB3DF15FFEFFFB1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:34Z</dateStamp>
+                <citation>Caterino M S, Vasquez-Velez L M, pensoft (2017). A revision of Prespelea Park (Staphylinidae, Pselaphinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.685.13811 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

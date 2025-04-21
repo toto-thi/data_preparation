@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fec75031-ddb7-4952-8c8f-8b78bd811beb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ftpmt6</alternateIdentifier>
+                <alternateIdentifier>E12C7144FFC5FF98ED6CA767FF93FFD2</alternateIdentifier>
+        <title>Morphological, geographic and ecological evidence support a new species of Chusquea subg. Swallenochloa (Poaceae, Bambusoideae, Bambuseae) from Parque Nacional do Caparaó, Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Evandro M.</givenName>                    <surName>Pianissola</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana Paula S.</givenName>                    <surName>Gonçalves</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lynn G.</givenName>                    <surName>Clark</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Reyjane P.</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pianissola, Evandro M., Gonçalves, Ana Paula S., Clark, Lynn G., Oliveira, Reyjane P. (2023): Morphological, geographic and ecological evidence support a new species of Chusquea subg. Swallenochloa (Poaceae, Bambusoideae, Bambuseae) from Parque Nacional do Caparaó, Brazil. Phytotaxa 600 (3): 119-135, DOI: 10.11646/phytotaxa.600.3.1, URL: http://dx.doi.org/10.11646/phytotaxa.600.3.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/E12C7144FFC5FF98ED6CA767FF93FFD2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:49Z</dateStamp>
+                <citation>Pianissola E M, Gonçalves A P S, Clark L G, Oliveira R P, plazi (2023). Morphological, geographic and ecological evidence support a new species of Chusquea subg. Swallenochloa (Poaceae, Bambusoideae, Bambuseae) from Parque Nacional do Caparaó, Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ftpmt6 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Pianissola, Evandro M., Gonçalves, Ana Paula S., Clark, Lynn G., Oliveira, Reyjane P. (2023): Morphological, geographic and ecological evidence support a new species of Chusquea subg. Swallenochloa (Poaceae, Bambusoideae, Bambuseae) from Parque Nacional do Caparaó, Brazil. Phytotaxa 600 (3): 119-135, DOI: 10.11646/phytotaxa.600.3.1, URL: http://dx.doi.org/10.11646/phytotaxa.600.3.1</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

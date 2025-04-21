@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7d3e1d74-95bf-4a81-95f8-3b12d44cc2c0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4551.4.2</alternateIdentifier>
+                <alternateIdentifier>10.15468/rxp6tz</alternateIdentifier>
+                <alternateIdentifier>03FFCA27-5928-48D2-9E30-672A878C59A3</alternateIdentifier>
+                <alternateIdentifier>FF92FFA2B6789B51FF82FF94FFDEFFC0</alternateIdentifier>
+        <title>Morphological and molecular diversity of rissoellids (Mollusca, Gastropoda, Heterobranchia) from the Northwest Pacific island of Hokkaido, Japan</title>
+            <creator>
+            <individualName>
+<givenName>Luis E.</givenName>                    <surName>Chira Siadén</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin C.</givenName>                    <surName>Wakeman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephen C.</givenName>                    <surName>Webb</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kazunori</givenName>                    <surName>Hasegawa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiroshi</givenName>                    <surName>Kajihara</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-02-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Chira Siadén, Luis E., Wakeman, Kevin C., Webb, Stephen C., Hasegawa, Kazunori, Kajihara, Hiroshi (2019): Morphological and molecular diversity of rissoellids (Mollusca, Gastropoda, Heterobranchia) from the Northwest Pacific island of Hokkaido, Japan. Zootaxa 4551 (4): 415-431, DOI: https://doi.org/10.11646/zootaxa.4551.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF92FFA2B6789B51FF82FF94FFDEFFC0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:10Z</dateStamp>
+                <citation>Chira Siadén L E, Wakeman K C, Webb S C, Hasegawa K, Kajihara H, plazi (2019). Morphological and molecular diversity of rissoellids (Mollusca, Gastropoda, Heterobranchia) from the Northwest Pacific island of Hokkaido, Japan. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4551.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

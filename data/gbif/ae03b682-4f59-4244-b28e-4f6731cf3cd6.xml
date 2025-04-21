@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ae03b682-4f59-4244-b28e-4f6731cf3cd6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.156799</alternateIdentifier>
+                <alternateIdentifier>ae03b682-4f59-4244-b28e-4f6731cf3cd6</alternateIdentifier>
+                <alternateIdentifier>10.15468/a1r5ww</alternateIdentifier>
+                <alternateIdentifier>3F8B08FA-AFA7-46A0-8EDC-F203E238845D</alternateIdentifier>
+                <alternateIdentifier>FF9FFFB5BB48FFE1FF80FF8BFFCAFFB4</alternateIdentifier>
+        <title>Notes on the genus Iracema Pérez­Miles, 2000 with the first description of the male of I. horrida (Schmidt, 1994) (Araneae: Theraphosidae)</title>
+            <creator>
+            <individualName>
+<givenName>Rogério</givenName>                    <surName>Bertani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Silvia</givenName>                    <surName>Carla-Da-Silva</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2003-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bertani, Rogério, Carla-Da-Silva, Silvia (2003): Notes on the genus Iracema Pérez­Miles, 2000 with the first description of the male of I. horrida (Schmidt, 1994) (Araneae: Theraphosidae). Zootaxa 362: 1-8, DOI: 10.5281/zenodo.156799</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF9FFFB5BB48FFE1FF80FF8BFFCAFFB4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:53Z</dateStamp>
+                <citation>Bertani R, Carla-Da-Silva S, plazi (2003). Notes on the genus Iracema Pérez­Miles, 2000 with the first description of the male of I. horrida (Schmidt, 1994) (Araneae: Theraphosidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.156799 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

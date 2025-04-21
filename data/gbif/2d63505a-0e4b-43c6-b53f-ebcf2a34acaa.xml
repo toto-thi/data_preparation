@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2d63505a-0e4b-43c6-b53f-ebcf2a34acaa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/zoosystema2018v40a24</alternateIdentifier>
+                <alternateIdentifier>2d63505a-0e4b-43c6-b53f-ebcf2a34acaa</alternateIdentifier>
+                <alternateIdentifier>10.15468/s5ch9p</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:D7AD1558-5D6E-4C68-9F25-F7C1B5DB9C54</alternateIdentifier>
+                <alternateIdentifier>AF5A9F498B0DFFEC682E5A6FFFA2FFDC</alternateIdentifier>
+        <title>Annotated checklist of the endemic Tetrapoda species of Iran</title>
+            <creator>
+            <individualName>
+<givenName>Naeimeh</givenName>                    <surName>Eskandarzadeh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nasrullah</givenName>                    <surName>Rastegar-Pouyani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eskandar</givenName>                    <surName>Rastegar-Pouyani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Behzad</givenName>                    <surName>Fathinia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zahed</givenName>                    <surName>Bahmani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kordiyeh</givenName>                    <surName>Hamidi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ali</givenName>                    <surName>Gholamifard</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-11-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Eskandarzadeh, Naeimeh, Rastegar-Pouyani, Nasrullah, Rastegar-Pouyani, Eskandar, Fathinia, Behzad, Bahmani, Zahed, Hamidi, Kordiyeh, Gholamifard, Ali (2018): Annotated checklist of the endemic Tetrapoda species of Iran. Zoosystema 40 (24): 507-537, DOI: 10.5252/zoosystema2018v40a24</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/AF5A9F498B0DFFEC682E5A6FFFA2FFDC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:15Z</dateStamp>
+                <citation>Eskandarzadeh N, Rastegar-Pouyani N, Rastegar-Pouyani E, Fathinia B, Bahmani Z, Hamidi K, Gholamifard A, felipe (2018). Annotated checklist of the endemic Tetrapoda species of Iran. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/zoosystema2018v40a24 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

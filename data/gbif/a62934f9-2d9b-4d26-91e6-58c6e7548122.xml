@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a62934f9-2d9b-4d26-91e6-58c6e7548122"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/s2tnsc</alternateIdentifier>
+                <alternateIdentifier>FFC5B005FFCAFF91FF987667707DFFAD</alternateIdentifier>
+        <title>Xerocomellus perezmorenoi (Boletaceae, Boletales), a new edible species from Mexico</title>
+            <creator>
+            <individualName>
+<givenName>Magdalena</givenName>                    <surName>Martínez-Reyes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anaitzi</givenName>                    <surName>Carrera-Martínez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Javier Isaac De La</givenName>                    <surName>Fuente</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Uzziel</givenName>                    <surName>Ríos-García</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ivette</givenName>                    <surName>Ortiz-Lopez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olivia</givenName>                    <surName>Ayala-Vásquez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Martínez-Reyes, Magdalena, Carrera-Martínez, Anaitzi, Fuente, Javier Isaac De La, Ríos-García, Uzziel, Ortiz-Lopez, Ivette, Ayala-Vásquez, Olivia (2023): Xerocomellus perezmorenoi (Boletaceae, Boletales), a new edible species from Mexico. Phytotaxa 584 (2): 104-114, DOI: 10.11646/phytotaxa.584.2.3, URL: http://dx.doi.org/10.11646/phytotaxa.584.2.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC5B005FFCAFF91FF987667707DFFAD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:55Z</dateStamp>
+                <citation>Martínez-Reyes M, Carrera-Martínez A, Fuente J I D L, Ríos-García U, Ortiz-Lopez I, Ayala-Vásquez O, plazi (2023). Xerocomellus perezmorenoi (Boletaceae, Boletales), a new edible species from Mexico. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/s2tnsc accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

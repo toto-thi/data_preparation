@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9536b8a9-07e6-4209-92a5-5a7cefa59a35"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3764.5.5</alternateIdentifier>
+                <alternateIdentifier>9536b8a9-07e6-4209-92a5-5a7cefa59a35</alternateIdentifier>
+                <alternateIdentifier>10.15468/e882cv</alternateIdentifier>
+                <alternateIdentifier>1631DEF4-93CE-4F90-8F2E-F0208C1F63AE</alternateIdentifier>
+                <alternateIdentifier>B958FFFD244FFA1503245E5AFF9CFF9B</alternateIdentifier>
+        <title>Callogobius liolepis Bleeker, a senior synonym of Gobiopsis aporia Lachner and McKinney (Teleostei: Gobiidae: Gobiopsis)</title>
+            <creator>
+            <individualName>
+<givenName>Naomi R.</givenName>                    <surName>Delventhal</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Randall D.</givenName>                    <surName>Mooi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-02-13
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Delventhal, Naomi R., Mooi, Randall D. (2014): Callogobius liolepis Bleeker, a senior synonym of Gobiopsis aporia Lachner and McKinney (Teleostei: Gobiidae: Gobiopsis). Zootaxa 3764 (5): 571-580, DOI: http://dx.doi.org/10.11646/zootaxa.3764.5.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B958FFFD244FFA1503245E5AFF9CFF9B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:48Z</dateStamp>
+                <citation>Delventhal N R, Mooi R D, felipe (2014). Callogobius liolepis Bleeker, a senior synonym of Gobiopsis aporia Lachner and McKinney (Teleostei: Gobiidae: Gobiopsis). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3764.5.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

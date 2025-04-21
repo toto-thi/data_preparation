@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="54115d80-05ed-4ee7-b035-1ac714f9c31d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4514.3.3</alternateIdentifier>
+                <alternateIdentifier>54115d80-05ed-4ee7-b035-1ac714f9c31d</alternateIdentifier>
+                <alternateIdentifier>10.15468/fcxd5v</alternateIdentifier>
+                <alternateIdentifier>8F3F3680-5950-4FAB-B8DC-455FAC27535A</alternateIdentifier>
+                <alternateIdentifier>FFB86319FF89FF8EA52BFB78FFF4FFD0</alternateIdentifier>
+        <title>Faunistic inventory and zoogeographical analysis of the ground beetles (Coleoptera, Carabidae) of Garf Raydah Nature Reserve, Southwestern of Saudi Arabia, and description of a new species of Paussinae</title>
+            <creator>
+            <individualName>
+<givenName>Mahmoud S.</givenName>                    <surName>Abdel-Dayem</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Iftekhar</givenName>                    <surName>Rasool</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ali A.</givenName>                    <surName>Elgharbawy</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Nagel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hathal M.</givenName>                    <surName>Aldhafer</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-11-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Abdel-Dayem, Mahmoud S., Rasool, Iftekhar, Elgharbawy, Ali A., Nagel, Peter, Aldhafer, Hathal M. (2018): Faunistic inventory and zoogeographical analysis of the ground beetles (Coleoptera, Carabidae) of Garf Raydah Nature Reserve, Southwestern of Saudi Arabia, and description of a new species of Paussinae. Zootaxa 4514 (3): 341-371, DOI: https://doi.org/10.11646/zootaxa.4514.3.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB86319FF89FF8EA52BFB78FFF4FFD0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:15Z</dateStamp>
+                <citation>Abdel-Dayem M S, Rasool I, Elgharbawy A A, Nagel P, Aldhafer H M, plazi (2018). Faunistic inventory and zoogeographical analysis of the ground beetles (Coleoptera, Carabidae) of Garf Raydah Nature Reserve, Southwestern of Saudi Arabia, and description of a new species of Paussinae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4514.3.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

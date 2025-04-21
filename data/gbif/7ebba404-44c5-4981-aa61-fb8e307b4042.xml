@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7ebba404-44c5-4981-aa61-fb8e307b4042"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ky75v2</alternateIdentifier>
+                <alternateIdentifier>FF80FF9D1125FFF57434FF92FF9A9A04</alternateIdentifier>
+        <title>The review of Bulbophyllum section Tripudianthes (Orchidaceae) in the flora of Vietnam with the description of new species, B. viridipallidum</title>
+            <creator>
+            <individualName>
+<givenName>Van Canh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leonid V.</givenName>                    <surName>Averyanov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tatiana V.</givenName>                    <surName>Maisak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thi Lien Thuong</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Khuong</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thi Thanh Dat</givenName>                    <surName>Pham</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Danh Duc</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Son</givenName>                    <surName>Dang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Warapong</givenName>                    <surName>Aromyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ba Vuong</givenName>                    <surName>Truong</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-05-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nguyen, Van Canh, Averyanov, Leonid V., Maisak, Tatiana V., Nguyen, Thi Lien Thuong, Nguyen, Van Khuong, Pham, Thi Thanh Dat, Nguyen, Danh Duc, Dang, Van Son, Aromyen, Warapong, Truong, Ba Vuong (2023): The review of Bulbophyllum section Tripudianthes (Orchidaceae) in the flora of Vietnam with the description of new species, B. viridipallidum. Phytotaxa 598 (1): 59-68, DOI: 10.11646/phytotaxa.598.1.4, URL: http://dx.doi.org/10.11646/phytotaxa.598.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF80FF9D1125FFF57434FF92FF9A9A04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:58Z</dateStamp>
+                <citation>Nguyen V C, Averyanov L V, Maisak T V, Nguyen T L T, Nguyen V K, Pham T T D, Nguyen D D, Dang V S, Aromyen W, Truong B V, plazi (2023). The review of Bulbophyllum section Tripudianthes (Orchidaceae) in the flora of Vietnam with the description of new species, B. viridipallidum. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ky75v2 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Nguyen, Van Canh, Averyanov, Leonid V., Maisak, Tatiana V., Nguyen, Thi Lien Thuong, Nguyen, Van Khuong, Pham, Thi Thanh Dat, Nguyen, Danh Duc, Dang, Van Son, Aromyen, Warapong, Truong, Ba Vuong (2023): The review of Bulbophyllum section Tripudianthes (Orchidaceae) in the flora of Vietnam with the description of new species, B. viridipallidum. Phytotaxa 598 (1): 59-68, DOI: 10.11646/phytotaxa.598.1.4, URL: http://dx.doi.org/10.11646/phytotaxa.598.1.4</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

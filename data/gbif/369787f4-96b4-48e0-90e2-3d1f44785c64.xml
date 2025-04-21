@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="369787f4-96b4-48e0-90e2-3d1f44785c64"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.556084</alternateIdentifier>
+                <alternateIdentifier>369787f4-96b4-48e0-90e2-3d1f44785c64</alternateIdentifier>
+                <alternateIdentifier>10.15468/lsf4pk</alternateIdentifier>
+                <alternateIdentifier>FFF2D503FFD8154B7903FF201A02FF92</alternateIdentifier>
+        <title>Description Of Six New Species Of Spiders Of The Genera Lathys (Family: Dictynidae), Marpissa (Family: Salticidae), Misumenoides (Family: Thomisidae), Agroeca (Family: Clubionidae), Gnaphosa (Family: Gnaphosidae) And Flanona (Family: Lycosidae) - From India</title>
+            <creator>
+            <individualName>
+<givenName>Bijan</givenName>                    <surName>Biswas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rakhi</givenName>                    <surName>Roy</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Jeremy</givenName>                    <surName>Miller</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2008-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Biswas, Bijan, Roy, Rakhi (2008): Description Of Six New Species Of Spiders Of The Genera Lathys (Family: Dictynidae), Marpissa (Family: Salticidae), Misumenoides (Family: Thomisidae), Agroeca (Family: Clubionidae), Gnaphosa (Family: Gnaphosidae) And Flanona (Family: Lycosidae) - From India. Records of the Zoological Survey of India 108 (1): 43-57, DOI: 10.5281/zenodo.556084, URL: http://faunaofindia.nic.in/PDFVolumes/records/108/01/0043-0057.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF2D503FFD8154B7903FF201A02FF92</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:37Z</dateStamp>
+                <citation>Biswas B, Roy R, Miller J (2008). Description Of Six New Species Of Spiders Of The Genera Lathys (Family: Dictynidae), Marpissa (Family: Salticidae), Misumenoides (Family: Thomisidae), Agroeca (Family: Clubionidae), Gnaphosa (Family: Gnaphosidae) And Flanona (Family: Lycosidae) - From India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.556084 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

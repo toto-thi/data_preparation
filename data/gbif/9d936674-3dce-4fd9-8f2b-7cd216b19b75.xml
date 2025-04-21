@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9d936674-3dce-4fd9-8f2b-7cd216b19b75"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/phytotaxa.523.1.1</alternateIdentifier>
+                <alternateIdentifier>9d936674-3dce-4fd9-8f2b-7cd216b19b75</alternateIdentifier>
+                <alternateIdentifier>10.15468/uwhy47</alternateIdentifier>
+                <alternateIdentifier>D45DFFB4FFC3FF82FFA3FFD5FC4DFFAA</alternateIdentifier>
+        <title>Yunnan-Guizhou Plateau: a mycological hotspot</title>
+            <creator>
+            <individualName>
+<givenName>Nalin N.</givenName>                    <surName>Wijayawardene</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lakmali S.</givenName>                    <surName>Dissanayake</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Qi-Rui</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dong-Qi</givenName>                    <surName>Dai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yuanpin</givenName>                    <surName>Xiao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ting-Chi</givenName>                    <surName>Wen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Samantha C.</givenName>                    <surName>Karunarathna</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hai-Xia</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Huang</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Saowaluck</givenName>                    <surName>Tibpromma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ji-Chuan</givenName>                    <surName>Kang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yong</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiang- Chun</givenName>                    <surName>Shen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Li-Zhou</givenName>                    <surName>Tang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chun-Ying</givenName>                    <surName>Deng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yanxia</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yingqian</givenName>                    <surName>Kang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wijayawardene, Nalin N., Dissanayake, Lakmali S., Li, Qi-Rui, Dai, Dong-Qi, Xiao, Yuanpin, Wen, Ting-Chi, Karunarathna, Samantha C., Wu, Hai-Xia, Zhang, Huang, Tibpromma, Saowaluck, Kang, Ji-Chuan, Wang, Yong, Shen, Xiang- Chun, Tang, Li-Zhou, Deng, Chun-Ying, Liu, Yanxia, Kang, Yingqian (2021): Yunnan-Guizhou Plateau: a mycological hotspot. Phytotaxa 523 (1): 1-31, DOI: 10.11646/phytotaxa.523.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D45DFFB4FFC3FF82FFA3FFD5FC4DFFAA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:09Z</dateStamp>
+                <citation>Wijayawardene N N, Dissanayake L S, Li Q, Dai D, Xiao Y, Wen T, Karunarathna S C, Wu H, Zhang H, Tibpromma S, Kang J, Wang Y, Shen X C, Tang L, Deng C, Liu Y, Kang Y, plazi (2021). Yunnan-Guizhou Plateau: a mycological hotspot. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/phytotaxa.523.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

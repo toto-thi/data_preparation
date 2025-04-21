@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bb299466-515a-46a2-8ae4-806cf2e9cb92"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.278437</alternateIdentifier>
+                <alternateIdentifier>bb299466-515a-46a2-8ae4-806cf2e9cb92</alternateIdentifier>
+                <alternateIdentifier>10.15468/vhtdfy</alternateIdentifier>
+                <alternateIdentifier>464DFFB9FF8C4A1CFFC0FF842723FFED</alternateIdentifier>
+        <title>A new phytophagous Bracon Fabricius (Hymenoptera, Braconidae) associated with Protium ovatum Engl. (Burseraceae) fruits from Brazilian savannah</title>
+            <creator>
+            <individualName>
+<givenName>Nelson Wanderley</givenName>                    <surName>Perioto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rogéria Inês Rosa</givenName>                    <surName>Lara</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cleidson Soares Ferreira Daniell Rodrigo Rodrigues</givenName>                    <surName>Fernandes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elizabeth Do Carmo</givenName>                    <surName>Pedroso</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Haroldo Xavier Linhares</givenName>                    <surName>Volpe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juliana</givenName>                    <surName>Nais</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lilian Roberta Batista</givenName>                    <surName>Correa</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Perioto, Nelson Wanderley, Lara, Rogéria Inês Rosa, Fernandes, Cleidson Soares Ferreira Daniell Rodrigo Rodrigues, Pedroso, Elizabeth Do Carmo, Volpe, Haroldo Xavier Linhares, Nais, Juliana, Correa, Lilian Roberta Batista (2011): A new phytophagous Bracon Fabricius (Hymenoptera, Braconidae) associated with Protium ovatum Engl. (Burseraceae) fruits from Brazilian savannah. Zootaxa 3000: 59-65, DOI: 10.5281/zenodo.278437</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/464DFFB9FF8C4A1CFFC0FF842723FFED</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:47Z</dateStamp>
+                <citation>Perioto N W, Lara R I R, Fernandes C S F D R R, Pedroso E D C, Volpe H X L, Nais J, Correa L R B, plazi (2011). A new phytophagous Bracon Fabricius (Hymenoptera, Braconidae) associated with Protium ovatum Engl. (Burseraceae) fruits from Brazilian savannah. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.278437 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

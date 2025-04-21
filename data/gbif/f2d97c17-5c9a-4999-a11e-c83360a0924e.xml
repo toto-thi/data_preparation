@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f2d97c17-5c9a-4999-a11e-c83360a0924e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dx9kbt</alternateIdentifier>
+                <alternateIdentifier>3A54FF8EFFB7FFC7FFC9FF83FFA2FE16</alternateIdentifier>
+        <title>A new species of Aponychus (Acariformes, Tetranychidae) from China</title>
+            <creator>
+            <individualName>
+<givenName>Xiao-Juan</givenName>                    <surName>Pan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dao-Chao</givenName>                    <surName>Jin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tian-Ci</givenName>                    <surName>Yi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pan, Xiao-Juan, Jin, Dao-Chao, Yi, Tian-Ci (2022): A new species of Aponychus (Acariformes, Tetranychidae) from China. Zootaxa 5187 (1): 211-231, DOI: https://doi.org/10.11646/zootaxa.5187.1.12</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/3A54FF8EFFB7FFC7FFC9FF83FFA2FE16</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:16Z</dateStamp>
+                <citation>Pan X, Jin D, Yi T, plazi (2022). A new species of Aponychus (Acariformes, Tetranychidae) from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/dx9kbt accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

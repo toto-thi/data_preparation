@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8af27bde-abaa-4f0a-8f84-8b6cc8a97034"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/np8sxq</alternateIdentifier>
+                <alternateIdentifier>A31C8F6DFFDCFFCE4C394B044D497F0B</alternateIdentifier>
+        <title>An inordinate fondness for inconspicuous brown frogs: integration of phylogenomics, archival DNA analysis, morphology, and bioacoustics yields 24 new taxa in the subgenus Brygoomantis (genus Mantidactylus) from Madagascar</title>
+            <creator>
+            <individualName>
+<givenName>Mark D.</givenName>                    <surName>Scherz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Angelica</givenName>                    <surName>Crottini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carl R.</givenName>                    <surName>Hutter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrea</givenName>                    <surName>Hildenbrand</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Franco</givenName>                    <surName>Andreone</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thio Rosin</givenName>                    <surName>Fulgence</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gunther</givenName>                    <surName>Köhler</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Serge Herilala</givenName>                    <surName>Ndriantsoa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Annemarie</givenName>                    <surName>Ohler</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michaela</givenName>                    <surName>Preick</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andolalao</givenName>                    <surName>Rakotoarison</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Loïs</givenName>                    <surName>Rancilhac</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Achille P.</givenName>                    <surName>Raselimanana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jana C.</givenName>                    <surName>Riemann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark-Oliver</givenName>                    <surName>Rödel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gonçalo M.</givenName>                    <surName>Rosa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jeffrey W.</givenName>                    <surName>Streicher</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David R.</givenName>                    <surName>Vieites</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jörn</givenName>                    <surName>Köhler</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Hofreiter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frank</givenName>                    <surName>Glaw</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Miguel</givenName>                    <surName>Vences</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Scherz, Mark D., Crottini, Angelica, Hutter, Carl R., Hildenbrand, Andrea, Andreone, Franco, Fulgence, Thio Rosin, Köhler, Gunther, Ndriantsoa, Serge Herilala, Ohler, Annemarie, Preick, Michaela, Rakotoarison, Andolalao, Rancilhac, Loïs, Raselimanana, Achille P., Riemann, Jana C., Rödel, Mark-Oliver, Rosa, Gonçalo M., Streicher, Jeffrey W., Vieites, David R., Köhler, Jörn, Hofreiter, Michael, Glaw, Frank, Vences, Miguel (2022): An inordinate fondness for inconspicuous brown frogs: integration of phylogenomics, archival DNA analysis, morphology, and bioacoustics yields 24 new taxa in the subgenus Brygoomantis (genus Mantidactylus) from Madagascar. Megataxa 7 (2): 113-311, DOI: 10.11646/megataxa.7.2.1, URL: http://dx.doi.org/10.5281/zenodo.6687412</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A31C8F6DFFDCFFCE4C394B044D497F0B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:35Z</dateStamp>
+                <citation>Scherz M D, Crottini A, Hutter C R, Hildenbrand A, Andreone F, Fulgence T R, Köhler G, Ndriantsoa S H, Ohler A, Preick M, Rakotoarison A, Rancilhac L, Raselimanana A P, Riemann J C, Rödel M, Rosa G M, Streicher J W, Vieites D R, Köhler J, Hofreiter M, Glaw F, Vences M, plazi (2022). An inordinate fondness for inconspicuous brown frogs: integration of phylogenomics, archival DNA analysis, morphology, and bioacoustics yields 24 new taxa in the subgenus Brygoomantis (genus Mantidactylus) from Madagascar. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/np8sxq accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

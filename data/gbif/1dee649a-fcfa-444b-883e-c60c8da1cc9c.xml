@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1dee649a-fcfa-444b-883e-c60c8da1cc9c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/mycokeys.52.30461</alternateIdentifier>
+                <alternateIdentifier>10.15468/ndtrrf</alternateIdentifier>
+                <alternateIdentifier>FFA7B74D8022D466FF8FCD31FFEDFFD9</alternateIdentifier>
+        <title>Diversity of Moesziomyces (Ustilaginales, Ustilaginomycotina) on Echinochloa and Leersia (Poaceae)</title>
+            <creator>
+            <individualName>
+<givenName>Ying-Ming</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roger G.</givenName>                    <surName>Shivas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bao-Ju</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lei</givenName>                    <surName>Cai</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Li, Ying-Ming, Shivas, Roger G., Li, Bao-Ju, Cai, Lei (2019): Diversity of Moesziomyces (Ustilaginales, Ustilaginomycotina) on Echinochloa and Leersia (Poaceae). MycoKeys 52: 1-16, DOI: http://dx.doi.org/10.3897/mycokeys.52.30461, URL: http://dx.doi.org/10.3897/mycokeys.52.30461</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFA7B74D8022D466FF8FCD31FFEDFFD9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:02Z</dateStamp>
+                <citation>Li Y, Shivas R G, Li B, Cai L, pensoft (2019). Diversity of Moesziomyces (Ustilaginales, Ustilaginomycotina) on Echinochloa and Leersia (Poaceae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/mycokeys.52.30461 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

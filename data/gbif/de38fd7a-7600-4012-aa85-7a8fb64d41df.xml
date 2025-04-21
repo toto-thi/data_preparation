@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="de38fd7a-7600-4012-aa85-7a8fb64d41df"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2007.00331.x</alternateIdentifier>
+                <alternateIdentifier>10.15468/zsaj3m</alternateIdentifier>
+                <alternateIdentifier>de38fd7a-7600-4012-aa85-7a8fb64d41df</alternateIdentifier>
+                <alternateIdentifier>FFCD8559FF8BFFA9FF82625B9945FFAA</alternateIdentifier>
+        <title>Revision of the systematics of Babakina Roller, 1973 (Mollusca: Opisthobranchia) with the description of a new species and a phylogenetic analysis</title>
+            <creator>
+            <individualName>
+<givenName>Terrence M.</givenName>                    <surName>Gosliner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manuel M.</givenName>                    <surName>González-Duarte</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan Lucas</givenName>                    <surName>Cervera</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gosliner, Terrence M., González-Duarte, Manuel M., Cervera, Juan Lucas (2007): Revision of the systematics of Babakina Roller, 1973 (Mollusca: Opisthobranchia) with the description of a new species and a phylogenetic analysis. Zoological Journal of the Linnean Society 151 (4): 671-689, DOI: 10.1111/j.1096-3642.2007.00331.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2007.00331.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCD8559FF8BFFA9FF82625B9945FFAA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:41Z</dateStamp>
+                <citation>Gosliner T M, González-Duarte M M, Cervera J L, carolina (2007). Revision of the systematics of Babakina Roller, 1973 (Mollusca: Opisthobranchia) with the description of a new species and a phylogenetic analysis. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2007.00331.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

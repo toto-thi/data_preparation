@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9f78d18a-b7d7-4b2e-94b3-9a970823b6a9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.7554/elife.09560</alternateIdentifier>
+                <alternateIdentifier>10.15468/ui2r7w</alternateIdentifier>
+                <alternateIdentifier>00D1E81A-6E08-4A01-BD98-79A2CEAE2411</alternateIdentifier>
+                <alternateIdentifier>7E13611B8D29FFD8FFF4FF93FFACFFBD</alternateIdentifier>
+        <title>Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa</title>
+            <creator>
+            <individualName>
+                    <surName>Lee R Berger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>John Hawks</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Darryl J de Ruiter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Steven E Churchill</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Peter Schmid</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Lucas K Delezene</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Tracy L Kivell</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Heather M Garvin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Scott A Williams</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Jeremy M DeSilva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Matthew M Skinner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Charles M Musiba</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Noel Cameron</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Trenton W Holliday</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>William Harcourt-Smith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Rebecca R Ackermann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Markus Bastir</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Barry Bogin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Debra Bolter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Juliet Brophy</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Zachary D Cofran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Kimberly A Congdon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Andrew S Deane</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Mana Dembo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Michelle Drapeau</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marina C Elliott</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Elen M Feuerriegel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Daniel Garcia-Martinez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>David J Green</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Alia Gurtov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Joel D Irish</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ashley Kruger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Myra F Laird</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Damiano Marchi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marc R Meyer</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Shahed Nalla</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Enquye W Negash</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Caley M Orr</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Davorka Radovcic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Lauren Schroeder</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Jill E Scott</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Zachary Throckmorton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Matthew W Tocheri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Caroline VanSickle</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Christopher S Walker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Pianpian Wei</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Bernhard Zipfel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Donat</givenName>                    <surName>Agosti</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lee R Berger, John Hawks, Darryl J de Ruiter, Steven E Churchill, Peter Schmid, Lucas K Delezene, Tracy L Kivell, Heather M Garvin, Scott A Williams, Jeremy M DeSilva, Matthew M Skinner, Charles M Musiba, Noel Cameron, Trenton W Holliday, William Harcourt-Smith, Rebecca R Ackermann, Markus Bastir, Barry Bogin, Debra Bolter, Juliet Brophy, Zachary D Cofran, Kimberly A Congdon, Andrew S Deane, Mana Dembo, Michelle Drapeau, Marina C Elliott, , Elen M Feuerriegel, Daniel Garcia-Martinez, David J Green, Alia Gurtov, Joel D Irish, Ashley Kruger, Myra F Laird, Damiano Marchi, Marc R Meyer, Shahed Nalla, Enquye W Negash, Caley M Orr, Davorka Radovcic, Lauren Schroeder, Jill E Scott, Zachary Throckmorton, Matthew W Tocheri, Caroline VanSickle, Christopher S Walker, Pianpian Wei, Bernhard Zipfel (2015): Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa. eLife e 09560 4: 1-35, DOI: 10.7554/eLife.09560</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/7E13611B8D29FFD8FFF4FF93FFACFFBD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:40Z</dateStamp>
+                <citation>Lee R Berger, John Hawks, Darryl J de Ruiter, Steven E Churchill, Peter Schmid, Lucas K Delezene, Tracy L Kivell, Heather M Garvin, Scott A Williams, Jeremy M DeSilva, Matthew M Skinner, Charles M Musiba, Noel Cameron, Trenton W Holliday, William Harcourt-Smith, Rebecca R Ackermann, Markus Bastir, Barry Bogin, Debra Bolter, Juliet Brophy, Zachary D Cofran, Kimberly A Congdon, Andrew S Deane, Mana Dembo, Michelle Drapeau, Marina C Elliott, Daniel Garcia-Martinez, David J Green, Alia Gurtov, Joel D Irish, Ashley Kruger, Myra F Laird, Damiano Marchi, Marc R Meyer, Shahed Nalla, Enquye W Negash, Caley M Orr, Davorka Radovcic, Lauren Schroeder, Jill E Scott, Zachary Throckmorton, Matthew W Tocheri, Caroline VanSickle, Christopher S Walker, Pianpian Wei, Bernhard Zipfel, Agosti D (2015). Homo naledi, a new species of the genus Homo from the Dinaledi Chamber, South Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.7554/elife.09560 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="94b2e813-e5fb-4893-91d1-1b2622aced3f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11606/1807-0205/2018.58.06</alternateIdentifier>
+                <alternateIdentifier>94b2e813-e5fb-4893-91d1-1b2622aced3f</alternateIdentifier>
+                <alternateIdentifier>10.15468/9u7gtb</alternateIdentifier>
+                <alternateIdentifier>1E2FF111FFBBFFDAB962FFC4FF98AC62</alternateIdentifier>
+        <title>Annotated checklist of the millipede family Chelodesmidae Cook, 1895 from São Paulo state, Brazil (Diplopoda: Polydesmida)</title>
+            <creator>
+            <individualName>
+<givenName>Rodrigo Salvador</givenName>                    <surName>Bouzan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luiz Felipe Moretti</givenName>                    <surName>Iniesta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>João Paulo Peixoto</givenName>                    <surName>Pena-Barbosa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio Domingos</givenName>                    <surName>Brescovit</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-02-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bouzan, Rodrigo Salvador, Iniesta, Luiz Felipe Moretti, Pena-Barbosa, João Paulo Peixoto, Brescovit, Antonio Domingos (2018): Annotated checklist of the millipede family Chelodesmidae Cook, 1895 from São Paulo state, Brazil (Diplopoda: Polydesmida). Papéis Avulsos de Zoologia 58: 1-19, DOI: 10.11606/1807-0205/2018.58.06</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/1E2FF111FFBBFFDAB962FFC4FF98AC62</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:54Z</dateStamp>
+                <citation>Bouzan R S, Iniesta L F M, Pena-Barbosa J P P, Brescovit A D, carolina (2018). Annotated checklist of the millipede family Chelodesmidae Cook, 1895 from São Paulo state, Brazil (Diplopoda: Polydesmida). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11606/1807-0205/2018.58.06 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

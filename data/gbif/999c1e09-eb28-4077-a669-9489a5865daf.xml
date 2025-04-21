@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="999c1e09-eb28-4077-a669-9489a5865daf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/knnkwk</alternateIdentifier>
+                <alternateIdentifier>CF75BD0EFFEBFFCF372DFFF41D3FFFC5</alternateIdentifier>
+        <title>Taxonomic and phylogenetic appraisal of a new holomorphic Neophyllachora species from Chiang Mai, Thailand</title>
+            <creator>
+            <individualName>
+<givenName>Irish C. E.</givenName>                    <surName>Literatus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sajeewa S. N.</givenName>                    <surName>Maharachchikumbura</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patchareeya</givenName>                    <surName>Withee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sukanya</givenName>                    <surName>Haituk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nisachon</givenName>                    <surName>Tamakaew</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jeerapa</givenName>                    <surName>Nguanhom</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sararat</givenName>                    <surName>Monkhung</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vinodhini</givenName>                    <surName>Thiyagaraja</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ratchadawan</givenName>                    <surName>Cheewangkoon</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Literatus, Irish C. E., Maharachchikumbura, Sajeewa S. N., Withee, Patchareeya, Haituk, Sukanya, Tamakaew, Nisachon, Nguanhom, Jeerapa, Monkhung, Sararat, Thiyagaraja, Vinodhini, Cheewangkoon, Ratchadawan (2023): Taxonomic and phylogenetic appraisal of a new holomorphic Neophyllachora species from Chiang Mai, Thailand. Phytotaxa 600 (5): 259-271, DOI: 10.11646/phytotaxa.600.5.1, URL: http://dx.doi.org/10.11646/phytotaxa.600.5.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/CF75BD0EFFEBFFCF372DFFF41D3FFFC5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:57Z</dateStamp>
+                <citation>Literatus I C E, Maharachchikumbura S S N, Withee P, Haituk S, Tamakaew N, Nguanhom J, Monkhung S, Thiyagaraja V, Cheewangkoon R, plazi (2023). Taxonomic and phylogenetic appraisal of a new holomorphic Neophyllachora species from Chiang Mai, Thailand. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/knnkwk accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Literatus, Irish C. E., Maharachchikumbura, Sajeewa S. N., Withee, Patchareeya, Haituk, Sukanya, Tamakaew, Nisachon, Nguanhom, Jeerapa, Monkhung, Sararat, Thiyagaraja, Vinodhini, Cheewangkoon, Ratchadawan (2023): Taxonomic and phylogenetic appraisal of a new holomorphic Neophyllachora species from Chiang Mai, Thailand. Phytotaxa 600 (5): 259-271, DOI: 10.11646/phytotaxa.600.5.1, URL: http://dx.doi.org/10.11646/phytotaxa.600.5.1</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

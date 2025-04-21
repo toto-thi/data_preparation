@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="daacce49-b206-469b-8dc2-2257719f3afa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/l07d61</alternateIdentifier>
+                <alternateIdentifier>13624</alternateIdentifier>
+        <title>GBIF Backbone Patch</title>
+            <creator>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+            </metadataProvider>
+            <pubDate>
+                2023-07-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A checklist providing patches to the automatically assembled GBIF backbone taxonomy.
+				Names and their classification in this list will take precedence over other backbone sources,
+				thus allowing small manual interventions in the backbone building process.
+				The list is hosted on github allowing for wider collaboration outside of the secretariat.
+				Names in this checklist should be removed once they appear in other trusted checklists.
+				When adding new names into this list all entries should be assigned some remarks why this
+				name exists and ideally a link to some other online resource via dc:references.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://github.com/gbif/backbone-patch</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:53Z</dateStamp>
+                <citation>Döring M (2023). GBIF Backbone Patch. GBIF Secretariat. Checklist dataset https://doi.org/10.15468/l07d61 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

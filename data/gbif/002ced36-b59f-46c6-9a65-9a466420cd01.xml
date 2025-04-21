@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="002ced36-b59f-46c6-9a65-9a466420cd01"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3790.3.4</alternateIdentifier>
+                <alternateIdentifier>002ced36-b59f-46c6-9a65-9a466420cd01</alternateIdentifier>
+                <alternateIdentifier>10.15468/2ee6gi</alternateIdentifier>
+                <alternateIdentifier>D0D76C12-B028-4AA4-ACE8-4F3932012277</alternateIdentifier>
+                <alternateIdentifier>A704FFCDF96CFFF7FF80FFA7FFB9FF96</alternateIdentifier>
+        <title>Description of three new species of Ooencyrtus (Hymenoptera: Encyrtidae) from China</title>
+            <creator>
+            <individualName>
+<givenName>Xu</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yan-Zhou</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ying</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fu-Qiang</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fang</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Qing-Song</givenName>                    <surName>Zhou</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zhang, Xu, Zhang, Yan-Zhou, Wang, Ying, Chen, Fu-Qiang, Yu, Fang, Zhou, Qing-Song (2014): Description of three new species of Ooencyrtus (Hymenoptera: Encyrtidae) from China. Zootaxa 3790 (3): 451-465, DOI: http://dx.doi.org/10.11646/zootaxa.3790.3.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A704FFCDF96CFFF7FF80FFA7FFB9FF96</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:17Z</dateStamp>
+                <citation>Zhang X, Zhang Y, Wang Y, Chen F, Yu F, Zhou Q, plazi (2014). Description of three new species of Ooencyrtus (Hymenoptera: Encyrtidae) from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3790.3.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

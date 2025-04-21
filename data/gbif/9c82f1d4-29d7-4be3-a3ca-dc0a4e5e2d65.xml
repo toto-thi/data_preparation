@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9c82f1d4-29d7-4be3-a3ca-dc0a4e5e2d65"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.703</alternateIdentifier>
+                <alternateIdentifier>9c82f1d4-29d7-4be3-a3ca-dc0a4e5e2d65</alternateIdentifier>
+                <alternateIdentifier>10.15468/qywqvb</alternateIdentifier>
+                <alternateIdentifier>4D9170AC-775A-4DBB-9F04-87FF91AF5336</alternateIdentifier>
+                <alternateIdentifier>121F1F1CFFA42575FF9CFF8BEC0FFFDD</alternateIdentifier>
+        <title>First insights into past biodiversity of giraffes based on mitochondrial sequences from museum specimens</title>
+            <creator>
+            <individualName>
+<givenName>Alice</givenName>                    <surName>Petzold</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anne-Sophie</givenName>                    <surName>Magnant</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>Edderai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bertrand</givenName>                    <surName>Chardonnet</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jacques</givenName>                    <surName>Rigoulet</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michel</givenName>                    <surName>Saint-Jalme</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexandre</givenName>                    <surName>Hassanin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-08-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Petzold, Alice, Magnant, Anne-Sophie, Edderai, David, Chardonnet, Bertrand, Rigoulet, Jacques, Saint-Jalme, Michel, Hassanin, Alexandre (2020): First insights into past biodiversity of giraffes based on mitochondrial sequences from museum specimens. European Journal of Taxonomy 703: 1-33, DOI: https://doi.org/10.5852/ejt.2020.703</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/121F1F1CFFA42575FF9CFF8BEC0FFFDD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:47Z</dateStamp>
+                <citation>Petzold A, Magnant A, Edderai D, Chardonnet B, Rigoulet J, Saint-Jalme M, Hassanin A, valdenar (2020). First insights into past biodiversity of giraffes based on mitochondrial sequences from museum specimens. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.703 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

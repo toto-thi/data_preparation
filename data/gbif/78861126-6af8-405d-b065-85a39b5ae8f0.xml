@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="78861126-6af8-405d-b065-85a39b5ae8f0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/cjm27w</alternateIdentifier>
+                <alternateIdentifier>C0258376FFE3FF929746FF91FF8D9E6E</alternateIdentifier>
+        <title>Révision de la liste des Diptères Syrphidae du canton de Genève, incluant cinq espèces nouvelles pour la Suisse</title>
+            <creator>
+            <individualName>
+<givenName>Martin C. D.</givenName>                    <surName>Speight</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anouk</givenName>                    <surName>Athanasiades</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marie</givenName>                    <surName>Bessat</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Abby - Gaëlle De</givenName>                    <surName>Carvalho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean - David</givenName>                    <surName>Faye</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dominique</givenName>                    <surName>Fleury</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vinciane</givenName>                    <surName>Monod</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Karel</givenName>                    <surName>Nicolas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aurelia</givenName>                    <surName>Passaseo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gaël</givenName>                    <surName>Petremand</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sophie</givenName>                    <surName>Rochefort</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Emmanuel</givenName>                    <surName>Castella</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-06-01
+            </pubDate>
+        <language>FRENCH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Speight, Martin C. D., Athanasiades, Anouk, Bessat, Marie, Carvalho, Abby - Gaëlle De, Faye, Jean - David, Fleury, Dominique, Monod, Vinciane, Nicolas, Karel, Passaseo, Aurelia, Petremand, Gaël, Rochefort, Sophie, Castella, Emmanuel (2019): Révision de la liste des Diptères Syrphidae du canton de Genève, incluant cinq espèces nouvelles pour la Suisse. Entomo Helvetica 12: 87-98, DOI: 10.5169/seals-985864</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C0258376FFE3FF929746FF91FF8D9E6E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:59Z</dateStamp>
+                <citation>Speight M C D, Athanasiades A, Bessat M, Carvalho A - G D, Faye J - D, Fleury D, Monod V, Nicolas K, Passaseo A, Petremand G, Rochefort S, Castella E, carolina (2019). Révision de la liste des Diptères Syrphidae du canton de Genève, incluant cinq espèces nouvelles pour la Suisse. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/cjm27w accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Speight, Martin C. D., Athanasiades, Anouk, Bessat, Marie, Carvalho, Abby - Gaëlle De, Faye, Jean - David, Fleury, Dominique, Monod, Vinciane, Nicolas, Karel, Passaseo, Aurelia, Petremand, Gaël, Rochefort, Sophie, Castella, Emmanuel (2019): Révision de la liste des Diptères Syrphidae du canton de Genève, incluant cinq espèces nouvelles pour la Suisse. Entomo Helvetica 12: 87-98, DOI: 10.5169/seals-985864</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

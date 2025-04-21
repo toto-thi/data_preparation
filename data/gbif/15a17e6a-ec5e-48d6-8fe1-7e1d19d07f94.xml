@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="15a17e6a-ec5e-48d6-8fe1-7e1d19d07f94"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4780.2.11</alternateIdentifier>
+                <alternateIdentifier>15a17e6a-ec5e-48d6-8fe1-7e1d19d07f94</alternateIdentifier>
+                <alternateIdentifier>10.15468/pwhcwp</alternateIdentifier>
+                <alternateIdentifier>9FCA4ABE-0840-424D-A25A-01DAE715137C</alternateIdentifier>
+                <alternateIdentifier>FFE3FFC8FF848C3BBF72D707FF90FFEE</alternateIdentifier>
+        <title>Stabilisation of some names of European butterflies (Lepidoptera: Pieridae) in their prevailing usage</title>
+            <creator>
+            <individualName>
+<givenName>Emilio</givenName>                    <surName>Balletto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francesca</givenName>                    <surName>Barbero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Simona</givenName>                    <surName>Bonelli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luca P.</givenName>                    <surName>Casacci</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leonardo</givenName>                    <surName>Dapporto</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Balletto, Emilio, Barbero, Francesca, Bonelli, Simona, Casacci, Luca P., Dapporto, Leonardo (2020): Stabilisation of some names of European butterflies (Lepidoptera: Pieridae) in their prevailing usage. Zootaxa 4780 (2): 387-395, DOI: https://doi.org/10.11646/zootaxa.4780.2.11</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE3FFC8FF848C3BBF72D707FF90FFEE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:16Z</dateStamp>
+                <citation>Balletto E, Barbero F, Bonelli S, Casacci L P, Dapporto L, plazi (2020). Stabilisation of some names of European butterflies (Lepidoptera: Pieridae) in their prevailing usage. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4780.2.11 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

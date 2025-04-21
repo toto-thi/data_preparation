@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d7720fc3-4bb5-4b8d-9ecf-67198ea2e205"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.189083</alternateIdentifier>
+                <alternateIdentifier>d7720fc3-4bb5-4b8d-9ecf-67198ea2e205</alternateIdentifier>
+                <alternateIdentifier>10.15468/glr1h8</alternateIdentifier>
+                <alternateIdentifier>EF1FFFDFFFBDE921FF86FFAFFFCBFFA0</alternateIdentifier>
+        <title>Gastro-intestinal invasion in Hemidactylus flaviviridis with a new species of Parapharyngodon (Oxyuroidea: Pharyngodonidae)</title>
+            <creator>
+            <individualName>
+<givenName>Neelima</givenName>                    <surName>Gupta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manju</givenName>                    <surName>Bhaskar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dileep Kumar</givenName>                    <surName>Gupta</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gupta, Neelima, Bhaskar, Manju, Gupta, Dileep Kumar (2009): Gastro-intestinal invasion in Hemidactylus flaviviridis with a new species of Parapharyngodon (Oxyuroidea: Pharyngodonidae). Zootaxa 2165: 39-51, DOI: 10.5281/zenodo.189083</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EF1FFFDFFFBDE921FF86FFAFFFCBFFA0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:55Z</dateStamp>
+                <citation>Gupta N, Bhaskar M, Gupta D K, plazi (2009). Gastro-intestinal invasion in Hemidactylus flaviviridis with a new species of Parapharyngodon (Oxyuroidea: Pharyngodonidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.189083 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

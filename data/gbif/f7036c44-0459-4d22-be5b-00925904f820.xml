@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f7036c44-0459-4d22-be5b-00925904f820"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/zoosystema2021v43a23</alternateIdentifier>
+                <alternateIdentifier>f7036c44-0459-4d22-be5b-00925904f820</alternateIdentifier>
+                <alternateIdentifier>10.15468/dsb7e6</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:5469C71F-2050-4422-8CF9-B624BEB55C78</alternateIdentifier>
+                <alternateIdentifier>2C61FFF95746417A6844FF98D53B1E44</alternateIdentifier>
+        <title>New records of Dryinidae Haliday, 1833 (Hymenoptera, Chrysidoidea) from Iran</title>
+            <creator>
+            <individualName>
+<givenName>Hossein Ali</givenName>                    <surName>Derafshan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Massimo</givenName>                    <surName>Olmi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mostafa Ghafouri</givenName>                    <surName>Moghaddam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elham</givenName>                    <surName>Nader</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ehsan</givenName>                    <surName>Rakhshani</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-09-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Derafshan, Hossein Ali, Olmi, Massimo, Moghaddam, Mostafa Ghafouri, Nader, Elham, Rakhshani, Ehsan (2021): New records of Dryinidae Haliday, 1833 (Hymenoptera, Chrysidoidea) from Iran. Zoosystema 43 (23): 563-583, DOI: 10.5252/zoosystema2021v43a23</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2C61FFF95746417A6844FF98D53B1E44</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:54Z</dateStamp>
+                <citation>Derafshan H A, Olmi M, Moghaddam M G, Nader E, Rakhshani E, felipe (2021). New records of Dryinidae Haliday, 1833 (Hymenoptera, Chrysidoidea) from Iran. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/zoosystema2021v43a23 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

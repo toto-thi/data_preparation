@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d2fbe633-0542-4a0c-b4f1-43a5f4b79189"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4294.2.1</alternateIdentifier>
+                <alternateIdentifier>d2fbe633-0542-4a0c-b4f1-43a5f4b79189</alternateIdentifier>
+                <alternateIdentifier>10.15468/i7ol8n</alternateIdentifier>
+                <alternateIdentifier>E6C8FE9D-893E-4A3A-BB56-92BA6DFD2CC0</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4294.2.1</alternateIdentifier>
+                <alternateIdentifier>F835EA56FF8E7918FFD1D875A9506E5C</alternateIdentifier>
+        <title>Two new species of the genus Sinotilla Lelej, 1995 (Hymenoptera: Mutillidae), with notes on taxonomic characters</title>
+            <creator>
+            <individualName>
+<givenName>Juriya</givenName>                    <surName>Okayasu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Okayasu, Juriya (2017): Two new species of the genus Sinotilla Lelej, 1995 (Hymenoptera: Mutillidae), with notes on taxonomic characters. Zootaxa 4294 (2): 151-169, DOI: https://doi.org/10.11646/zootaxa.4294.2.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F835EA56FF8E7918FFD1D875A9506E5C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:23Z</dateStamp>
+                <citation>Okayasu J, plazi (2017). Two new species of the genus Sinotilla Lelej, 1995 (Hymenoptera: Mutillidae), with notes on taxonomic characters. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4294.2.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="da776612-e55c-47ee-997e-cb2dae59a6a0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dtqsz5</alternateIdentifier>
+                <alternateIdentifier>FF8AFFDE0D1CC5356D2B102FFFE0181B</alternateIdentifier>
+        <title>Curculigo konkanensis (Hypoxidaceae), a new species from the lateritic plateaus of Konkan region of Western Ghats based on morphological and molecular evidence</title>
+            <creator>
+            <individualName>
+<givenName>Devidas Bhausaheb</givenName>                    <surName>Borude</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Asif Shabodin</givenName>                    <surName>Tamboli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paresh Pandharinath</givenName>                    <surName>Bhalekar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rohit Nivas</givenName>                    <surName>Mane</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yeon-Sik</givenName>                    <surName>Choo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jae Hong</givenName>                    <surName>Pak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Arun Nivrutti</givenName>                    <surName>Chandore</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Borude, Devidas Bhausaheb, Tamboli, Asif Shabodin, Bhalekar, Paresh Pandharinath, Mane, Rohit Nivas, Choo, Yeon-Sik, Pak, Jae Hong, Chandore, Arun Nivrutti (2023): Curculigo konkanensis (Hypoxidaceae), a new species from the lateritic plateaus of Konkan region of Western Ghats based on morphological and molecular evidence. Phytotaxa 587 (1): 1-11, DOI: 10.11646/phytotaxa.587.1.1, URL: http://dx.doi.org/10.11646/phytotaxa.587.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF8AFFDE0D1CC5356D2B102FFFE0181B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:48Z</dateStamp>
+                <citation>Borude D B, Tamboli A S, Bhalekar P P, Mane R N, Choo Y, Pak J H, Chandore A N, plazi (2023). Curculigo konkanensis (Hypoxidaceae), a new species from the lateritic plateaus of Konkan region of Western Ghats based on morphological and molecular evidence. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/dtqsz5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

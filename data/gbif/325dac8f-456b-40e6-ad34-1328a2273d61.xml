@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="325dac8f-456b-40e6-ad34-1328a2273d61"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2005.00157.x</alternateIdentifier>
+                <alternateIdentifier>325dac8f-456b-40e6-ad34-1328a2273d61</alternateIdentifier>
+                <alternateIdentifier>10.15468/689vv6</alternateIdentifier>
+                <alternateIdentifier>7051FFA2307AC478FF1FA450D771AA19</alternateIdentifier>
+        <title>A taxonomic revision of South American species of the genus Stenostomum O. Schmidt (Platyhelminthes: Catenulida) based on morphological characters</title>
+            <creator>
+            <individualName>
+<givenName>Carolina</givenName>                    <surName>Noreña</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cristina</givenName>                    <surName>Damborenea</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francisco</givenName>                    <surName>Brusa</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2005-05-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Noreña, Carolina, Damborenea, Cristina, Brusa, Francisco (2005): A taxonomic revision of South American species of the genus Stenostomum O. Schmidt (Platyhelminthes: Catenulida) based on morphological characters. Zoological Journal of the Linnean Society 144 (1): 37-58, DOI: 10.1111/j.1096-3642.2005.00157.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2005.00157.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/7051FFA2307AC478FF1FA450D771AA19</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:33Z</dateStamp>
+                <citation>Noreña C, Damborenea C, Brusa F, carolina (2005). A taxonomic revision of South American species of the genus Stenostomum O. Schmidt (Platyhelminthes: Catenulida) based on morphological characters. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2005.00157.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

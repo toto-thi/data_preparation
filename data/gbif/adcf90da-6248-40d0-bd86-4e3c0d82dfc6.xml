@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="adcf90da-6248-40d0-bd86-4e3c0d82dfc6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4951.2.4</alternateIdentifier>
+                <alternateIdentifier>adcf90da-6248-40d0-bd86-4e3c0d82dfc6</alternateIdentifier>
+                <alternateIdentifier>10.15468/3essm9</alternateIdentifier>
+                <alternateIdentifier>36E613E6-A42F-4132-B1E9-B4A3BA210B48</alternateIdentifier>
+                <alternateIdentifier>FFCCC265FFC3FFA6BE0EFFA2FFF3FFBD</alternateIdentifier>
+        <title>Taxonomic notes on Sarju Ghauri, 1977 (Hemiptera: Heteroptera: Pentatomidae) with description of a new species from India</title>
+            <creator>
+            <individualName>
+<givenName>S.</givenName>                    <surName>Salini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>M. K.</givenName>                    <surName>Rabbani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sudhir</givenName>                    <surName>Singh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Salini, S., Rabbani, M. K., Singh, Sudhir (2021): Taxonomic notes on Sarju Ghauri, 1977 (Hemiptera: Heteroptera: Pentatomidae) with description of a new species from India. Zootaxa 4951 (2): 283-303, DOI: https://doi.org/10.11646/zootaxa.4951.2.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCCC265FFC3FFA6BE0EFFA2FFF3FFBD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:01Z</dateStamp>
+                <citation>Salini S, Rabbani M K, Singh S, plazi (2021). Taxonomic notes on Sarju Ghauri, 1977 (Hemiptera: Heteroptera: Pentatomidae) with description of a new species from India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4951.2.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

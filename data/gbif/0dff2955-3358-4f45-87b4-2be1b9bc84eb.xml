@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0dff2955-3358-4f45-87b4-2be1b9bc84eb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1590/s1984-46702010000300014</alternateIdentifier>
+                <alternateIdentifier>0dff2955-3358-4f45-87b4-2be1b9bc84eb</alternateIdentifier>
+                <alternateIdentifier>10.15468/dzv3ze</alternateIdentifier>
+                <alternateIdentifier>130C387A9A4CFFD3FF87FFEDFFBFAB7D</alternateIdentifier>
+        <title>Neotropical Pentatomidae (Insecta: Hemiptera: Heteroptera) of the collection of Massimiliano Spinola preserved in the “ Museo Regionale de Scienze Naturali ” ̡ Turin ̡ Italy</title>
+            <creator>
+            <individualName>
+<givenName>Jocélia</givenName>                    <surName>Grazia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luiz A.</givenName>                    <surName>Campos</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2010-06-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Grazia, Jocélia, Campos, Luiz A. (2010): Neotropical Pentatomidae (Insecta: Hemiptera: Heteroptera) of the collection of Massimiliano Spinola preserved in the “ Museo Regionale de Scienze Naturali ” ̡ Turin ̡ Italy. Zoologia 27 (3): 413-424, DOI: 10.1590/S1984-46702010000300014</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/130C387A9A4CFFD3FF87FFEDFFBFAB7D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:27Z</dateStamp>
+                <citation>Grazia J, Campos L A, valdenar (2010). Neotropical Pentatomidae (Insecta: Hemiptera: Heteroptera) of the collection of Massimiliano Spinola preserved in the “ Museo Regionale de Scienze Naturali ” ̡ Turin ̡ Italy. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1590/s1984-46702010000300014 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

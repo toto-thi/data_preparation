@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="274c432c-674f-4cb9-9078-7805f6010c09"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fqkmav</alternateIdentifier>
+                <alternateIdentifier>C378FFB3F160FFAD8D35FFC7F619FFB7</alternateIdentifier>
+        <title>The discovery of a Balaenomorpha (Persufflatius renefraaijeni n. gen., n. sp.) from the upper Miocene of the Netherlands sheds new light on the cranial anatomy of archaic rorqual relatives</title>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Bosselaers</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dirk K.</givenName>                    <surName>Munsterman</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-10-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bosselaers, Mark, Munsterman, Dirk K. (2022): The discovery of a Balaenomorpha (Persufflatius renefraaijeni n. gen., n. sp.) from the upper Miocene of the Netherlands sheds new light on the cranial anatomy of archaic rorqual relatives. Geodiversitas 44 (30): 933-973, DOI: 10.5252/geodiversitas2022v44a30</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C378FFB3F160FFAD8D35FFC7F619FFB7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:59Z</dateStamp>
+                <citation>Bosselaers M, Munsterman D K, felipe (2022). The discovery of a Balaenomorpha (Persufflatius renefraaijeni n. gen., n. sp.) from the upper Miocene of the Netherlands sheds new light on the cranial anatomy of archaic rorqual relatives. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/fqkmav accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

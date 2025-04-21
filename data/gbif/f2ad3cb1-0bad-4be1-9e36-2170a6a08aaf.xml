@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f2ad3cb1-0bad-4be1-9e36-2170a6a08aaf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4335.1.1</alternateIdentifier>
+                <alternateIdentifier>f2ad3cb1-0bad-4be1-9e36-2170a6a08aaf</alternateIdentifier>
+                <alternateIdentifier>10.15468/v3jecb</alternateIdentifier>
+                <alternateIdentifier>3429592D-23A8-4EBF-8412-BD57B3BC4314</alternateIdentifier>
+                <alternateIdentifier>C70FFFB87C739B24FFF0F23F9F65FFDF</alternateIdentifier>
+        <title>Review of Dissomphalus Ashmead (Hymenoptera, Bethylidae) from Panama, with key to the Central American species</title>
+            <creator>
+            <individualName>
+<givenName>Celso O.</givenName>                    <surName>Azevedo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-10-13
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Azevedo, Celso O. (2017): Review of Dissomphalus Ashmead (Hymenoptera, Bethylidae) from Panama, with key to the Central American species. Zootaxa 4335 (1): 1-72, DOI: https://doi.org/10.11646/zootaxa.4335.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C70FFFB87C739B24FFF0F23F9F65FFDF</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:00Z</dateStamp>
+                <citation>Azevedo C O, plazi (2017). Review of Dissomphalus Ashmead (Hymenoptera, Bethylidae) from Panama, with key to the Central American species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4335.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

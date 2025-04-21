@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0e484eec-261c-49fa-97f4-c8435a4c6d56"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3682.1.9</alternateIdentifier>
+                <alternateIdentifier>0e484eec-261c-49fa-97f4-c8435a4c6d56</alternateIdentifier>
+                <alternateIdentifier>10.15468/tdcxel</alternateIdentifier>
+                <alternateIdentifier>F6F98526-64C3-4D68-8852-8F6DD9407A1B</alternateIdentifier>
+                <alternateIdentifier>175F4D6CFFCC4120FFA2FF85FF94FFF8</alternateIdentifier>
+        <title>Morphological variability and taxonomy of Coraebus hastanus Gory &amp; Laporte de Castelnau, 1839 (Coleoptera: Buprestidae: Agrilinae: Coraebini: Coraebina)</title>
+            <creator>
+            <individualName>
+<givenName>Hongxia</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vítězslav</givenName>                    <surName>Kubáň</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark G.</givenName>                    <surName>Volkovitsh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Siqin</givenName>                    <surName>Ge</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ming</givenName>                    <surName>Bai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xingke</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xu, Hongxia, Kubáň, Vítězslav, Volkovitsh, Mark G., Ge, Siqin, Bai, Ming, Yang, Xingke (2013): Morphological variability and taxonomy of Coraebus hastanus Gory &amp;amp; Laporte de Castelnau, 1839 (Coleoptera: Buprestidae: Agrilinae: Coraebini: Coraebina). Zootaxa 3682 (1): 178-190, DOI: http://dx.doi.org/10.11646/zootaxa.3682.1.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/175F4D6CFFCC4120FFA2FF85FF94FFF8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:09Z</dateStamp>
+                <citation>Xu H, Kubáň V, Volkovitsh M G, Ge S, Bai M, Yang X, plazi (2013). Morphological variability and taxonomy of Coraebus hastanus Gory &amp; Laporte de Castelnau, 1839 (Coleoptera: Buprestidae: Agrilinae: Coraebini: Coraebina). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3682.1.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b0b880d0-e9e2-4ddc-9f2c-ef259c071008"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4twgpa</alternateIdentifier>
+                <alternateIdentifier>FFC0FFC8FF9A0C70315BFB38CC40D514</alternateIdentifier>
+        <title>Cunninghamella verrucosa sp. nov. (Mucorales, Mucoromycota) from Guangdong Province in China</title>
+            <creator>
+            <individualName>
+<givenName>Yu-Jie</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ting</givenName>                    <surName>Zhao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wen-Ying</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mu</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiao-Yong</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wang, Yu-Jie, Zhao, Ting, Wu, Wen-Ying, Wang, Mu, Liu, Xiao-Yong (2022): Cunninghamella verrucosa sp. nov. (Mucorales, Mucoromycota) from Guangdong Province in China. Phytotaxa 560 (3): 274-284, DOI: 10.11646/phytotaxa.560.3.2, URL: http://dx.doi.org/10.11646/phytotaxa.560.3.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC0FFC8FF9A0C70315BFB38CC40D514</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:11Z</dateStamp>
+                <citation>Wang Y, Zhao T, Wu W, Wang M, Liu X, plazi (2022). Cunninghamella verrucosa sp. nov. (Mucorales, Mucoromycota) from Guangdong Province in China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4twgpa accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

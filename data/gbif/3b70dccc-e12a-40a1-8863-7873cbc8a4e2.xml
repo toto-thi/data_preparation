@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3b70dccc-e12a-40a1-8863-7873cbc8a4e2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fcmzju</alternateIdentifier>
+                <alternateIdentifier>BC0BFF889817701D1B27FFCCFFFBAB3D</alternateIdentifier>
+        <title>New records of elasmobranchs in the Bay of Bengal, Bangladesh: further taxonomic research is essential</title>
+            <creator>
+            <individualName>
+<givenName>Alifa Bintha</givenName>                    <surName>Haque</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>William T.</givenName>                    <surName>White</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rachel D.</givenName>                    <surName>Cavanagh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aparna Riti</givenName>                    <surName>Biswas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nazia</givenName>                    <surName>Hossain</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Haque, Alifa Bintha, White, William T., Cavanagh, Rachel D., Biswas, Aparna Riti, Hossain, Nazia (2021): New records of elasmobranchs in the Bay of Bengal, Bangladesh: further taxonomic research is essential. Zootaxa 5027 (2): 211-230, DOI: https://doi.org/10.11646/zootaxa.5027.2.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/BC0BFF889817701D1B27FFCCFFFBAB3D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:17Z</dateStamp>
+                <citation>Haque A B, White W T, Cavanagh R D, Biswas A R, Hossain N, plazi (2021). New records of elasmobranchs in the Bay of Bengal, Bangladesh: further taxonomic research is essential. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/fcmzju accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

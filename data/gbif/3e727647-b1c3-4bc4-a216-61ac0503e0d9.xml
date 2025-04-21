@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3e727647-b1c3-4bc4-a216-61ac0503e0d9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/56nrrj</alternateIdentifier>
+                <alternateIdentifier>FF94FFA86A015501FF88E47BFFD1FFCC</alternateIdentifier>
+        <title>Melaminivora jejuensis sp. nov., isolated from Swinery waste</title>
+            <creator>
+            <individualName>
+<givenName>Ji-Young</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>So-Hyun</givenName>                    <surName>Park</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dong-Heon</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gwanpil</givenName>                    <surName>Song</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Young-Ju</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-01-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kim, Ji-Young, Park, So-Hyun, Lee, Dong-Heon, Song, Gwanpil, Kim, Young-Ju (2018): Melaminivora jejuensis sp. nov., isolated from Swinery waste. International Journal of Systematic and Evolutionary Microbiology 68 (1): 9-13, DOI: 10.1099/ijsem.0.002294, URL: http://dx.doi.org/10.1099/ijsem.0.002294</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF94FFA86A015501FF88E47BFFD1FFCC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:52Z</dateStamp>
+                <citation>Kim J, Park S, Lee D, Song G, Kim Y, felipe (2018). Melaminivora jejuensis sp. nov., isolated from Swinery waste. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/56nrrj accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

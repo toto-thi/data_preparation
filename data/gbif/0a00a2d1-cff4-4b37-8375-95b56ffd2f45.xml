@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0a00a2d1-cff4-4b37-8375-95b56ffd2f45"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4780.3.10</alternateIdentifier>
+                <alternateIdentifier>0a00a2d1-cff4-4b37-8375-95b56ffd2f45</alternateIdentifier>
+                <alternateIdentifier>10.15468/jpmygm</alternateIdentifier>
+                <alternateIdentifier>DA59770E-60AB-455E-87B4-270D3776A4C3</alternateIdentifier>
+                <alternateIdentifier>030BFFA01026FFF4922DFFD9FFC5EE7A</alternateIdentifier>
+        <title>A new species of the assassin bug genus Rihirbus (Hemiptera: Heteroptera Reduviidae) from Vietnam</title>
+            <creator>
+            <individualName>
+<givenName>Truong Xuan</givenName>                    <surName>Lam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bui Thi Quynh</givenName>                    <surName>Hoa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ha Ngoc</givenName>                    <surName>Linh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wanzhi</givenName>                    <surName>Cai</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lam, Truong Xuan, Hoa, Bui Thi Quynh, Linh, Ha Ngoc, Cai, Wanzhi (2020): A new species of the assassin bug genus Rihirbus (Hemiptera: Heteroptera Reduviidae) from Vietnam. Zootaxa 4780 (3): 587-593, DOI: https://doi.org/10.11646/zootaxa.4780.3.10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/030BFFA01026FFF4922DFFD9FFC5EE7A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:27Z</dateStamp>
+                <citation>Lam T X, Hoa B T Q, Linh H N, Cai W, plazi (2020). A new species of the assassin bug genus Rihirbus (Hemiptera: Heteroptera Reduviidae) from Vietnam. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4780.3.10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

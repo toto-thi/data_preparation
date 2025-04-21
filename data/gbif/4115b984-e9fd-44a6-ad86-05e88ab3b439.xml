@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4115b984-e9fd-44a6-ad86-05e88ab3b439"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3866.4.2</alternateIdentifier>
+                <alternateIdentifier>4115b984-e9fd-44a6-ad86-05e88ab3b439</alternateIdentifier>
+                <alternateIdentifier>10.15468/orwucp</alternateIdentifier>
+                <alternateIdentifier>D06E5477-4D5C-4402-B909-09A2AAFFB556</alternateIdentifier>
+                <alternateIdentifier>2028FFF33B4DFFC5B1383913E4032219</alternateIdentifier>
+        <title>New olenelloid trilobites from the Northwest Territories, Canada</title>
+            <creator>
+            <individualName>
+<givenName>I. Wesley</givenName>                    <surName>Gapp</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bruce S.</givenName>                    <surName>Lieberman</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gapp, I. Wesley, Lieberman, Bruce S. (2014): New olenelloid trilobites from the Northwest Territories, Canada. Zootaxa 3866 (4): 479-498, DOI: http://dx.doi.org/10.11646/zootaxa.3866.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2028FFF33B4DFFC5B1383913E4032219</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:40Z</dateStamp>
+                <citation>Gapp I W, Lieberman B S, plazi (2014). New olenelloid trilobites from the Northwest Territories, Canada. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3866.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

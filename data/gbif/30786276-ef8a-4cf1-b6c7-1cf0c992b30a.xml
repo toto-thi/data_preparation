@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="30786276-ef8a-4cf1-b6c7-1cf0c992b30a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3697062</alternateIdentifier>
+                <alternateIdentifier>10.15468/8o8feq</alternateIdentifier>
+                <alternateIdentifier>30786276-ef8a-4cf1-b6c7-1cf0c992b30a</alternateIdentifier>
+                <alternateIdentifier>25FAB568-5F43-47D6-8DED-B34C32E51F64</alternateIdentifier>
+                <alternateIdentifier>C07C1D53686CFF95FF833658FFB0FD20</alternateIdentifier>
+        <title>Dasymutilla Ashmead (Hymenoptera, Mutillidae) in Panama: new species, sex associations and seasonal flight activity</title>
+            <creator>
+            <individualName>
+<givenName>Roberto A.</givenName>                    <surName>Cambra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin A.</givenName>                    <surName>Williams</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diomedes</givenName>                    <surName>Quintero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Donald M.</givenName>                    <surName>Windsor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>John</givenName>                    <surName>Pickering</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daisy</givenName>                    <surName>Saavedra</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-02-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cambra, Roberto A., Williams, Kevin A., Quintero, Diomedes, Windsor, Donald M., Pickering, John, Saavedra, Daisy (2018): Dasymutilla Ashmead (Hymenoptera, Mutillidae) in Panama: new species, sex associations and seasonal flight activity. Insecta Mundi 608: 1-17, DOI: http://doi.org/10.5281/zenodo.3697062</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C07C1D53686CFF95FF833658FFB0FD20</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:35Z</dateStamp>
+                <citation>Cambra R A, Williams K A, Quintero D, Windsor D M, Pickering J, Saavedra D, felipe (2018). Dasymutilla Ashmead (Hymenoptera, Mutillidae) in Panama: new species, sex associations and seasonal flight activity. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3697062 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

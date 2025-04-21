@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="80783542-5446-42b3-a9bd-177b0e4ec73a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3726987</alternateIdentifier>
+                <alternateIdentifier>10.15468/lquucw</alternateIdentifier>
+                <alternateIdentifier>80783542-5446-42b3-a9bd-177b0e4ec73a</alternateIdentifier>
+                <alternateIdentifier>CF6C1B9C-2EC0-4220-BED7-6402A6C9D175</alternateIdentifier>
+                <alternateIdentifier>E24FA63FFFEA3127523AFFD7EC13FFD4</alternateIdentifier>
+        <title>New species of the Scarabaeus subgenus Scarabaeolus Balthasar, with a review of the subgenus (Scarabaeidae: Scarabaeinae: Scarabaeini)</title>
+            <creator>
+            <individualName>
+<givenName>Jiri</givenName>                    <surName>Zidek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Svatopluk</givenName>                    <surName>Pokorný</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zidek, Jiri, Pokorný, Svatopluk (2018): New species of the Scarabaeus subgenus Scarabaeolus Balthasar, with a review of the subgenus (Scarabaeidae: Scarabaeinae: Scarabaeini). Insecta Mundi 611: 1-35, DOI: http://doi.org/10.5281/zenodo.3726987</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E24FA63FFFEA3127523AFFD7EC13FFD4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:43Z</dateStamp>
+                <citation>Zidek J, Pokorný S, felipe (2018). New species of the Scarabaeus subgenus Scarabaeolus Balthasar, with a review of the subgenus (Scarabaeidae: Scarabaeinae: Scarabaeini). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3726987 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

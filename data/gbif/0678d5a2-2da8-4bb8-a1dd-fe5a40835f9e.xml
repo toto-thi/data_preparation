@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0678d5a2-2da8-4bb8-a1dd-fe5a40835f9e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1080/00222933.2019.1691749</alternateIdentifier>
+                <alternateIdentifier>0678d5a2-2da8-4bb8-a1dd-fe5a40835f9e</alternateIdentifier>
+                <alternateIdentifier>10.15468/nhb3ix</alternateIdentifier>
+                <alternateIdentifier>9712A865-4DD6-457B-84B0-1C7873316DE4</alternateIdentifier>
+                <alternateIdentifier>FF84D60EFFDAFFB4FFC63D4AFFC4311F</alternateIdentifier>
+        <title>Description of a new whiteflyı Pealius satakshiae Dubey (Hemiptera: Aleyrodidae) ı infesting Quercus leucotrichophora (Fagaceae) in the Western Himalayaı India</title>
+            <creator>
+            <individualName>
+<givenName>Anil Kumar</givenName>                    <surName>Dubey</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sudhir</givenName>                    <surName>Singh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-11-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dubey, Anil Kumar, Singh, Sudhir (2019): Description of a new whiteflyı Pealius satakshiae Dubey (Hemiptera: Aleyrodidae) ı infesting Quercus leucotrichophora (Fagaceae) in the Western Himalayaı India. Journal of Natural History 53 (33): 2123-2131, DOI: 10.1080/00222933.2019.1691749</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF84D60EFFDAFFB4FFC63D4AFFC4311F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:46Z</dateStamp>
+                <citation>Dubey A K, Singh S, valdenar (2019). Description of a new whiteflyı Pealius satakshiae Dubey (Hemiptera: Aleyrodidae) ı infesting Quercus leucotrichophora (Fagaceae) in the Western Himalayaı India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1080/00222933.2019.1691749 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

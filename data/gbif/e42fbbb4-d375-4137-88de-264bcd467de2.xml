@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e42fbbb4-d375-4137-88de-264bcd467de2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3673160</alternateIdentifier>
+                <alternateIdentifier>10.15468/qinpjw</alternateIdentifier>
+                <alternateIdentifier>e42fbbb4-d375-4137-88de-264bcd467de2</alternateIdentifier>
+                <alternateIdentifier>AFD3C001-14C9-4F89-8869-E2A418ABEE2D</alternateIdentifier>
+                <alternateIdentifier>FF9FA131FF9AFFD9FFAFFFEAFFA7BB72</alternateIdentifier>
+        <title>Two new species of South America Neocherentes Tippmann, 1960 (Coleoptera: Cerambycidae: Lamiinae: Onciderini)</title>
+            <creator>
+            <individualName>
+<givenName>Eugenio H.</givenName>                    <surName>Nearns</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Miguel A.</givenName>                    <surName>Monné</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-04-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nearns, Eugenio H., Monné, Miguel A. (2019): Two new species of South America Neocherentes Tippmann, 1960 (Coleoptera: Cerambycidae: Lamiinae: Onciderini). Insecta Mundi 2019 (699): 1-10, DOI: http://doi.org/10.5281/zenodo.3673160</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF9FA131FF9AFFD9FFAFFFEAFFA7BB72</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:38Z</dateStamp>
+                <citation>Nearns E H, Monné M A, felipe (2019). Two new species of South America Neocherentes Tippmann, 1960 (Coleoptera: Cerambycidae: Lamiinae: Onciderini). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3673160 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

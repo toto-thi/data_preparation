@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a9c4490f-cead-499b-accd-0b3af749586e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3878.3.2</alternateIdentifier>
+                <alternateIdentifier>a9c4490f-cead-499b-accd-0b3af749586e</alternateIdentifier>
+                <alternateIdentifier>10.15468/gyqvin</alternateIdentifier>
+                <alternateIdentifier>14A1B63D-32B6-4B6D-9CDC-C14D86F3CA9E</alternateIdentifier>
+                <alternateIdentifier>FFA5FFCEBD25785D3152FFB8FF90FFB2</alternateIdentifier>
+        <title>Description of a new genus and species of Cerophytidae (Coleoptera: Elateroidea) from Africa with a cladistic analysis of the family</title>
+            <creator>
+            <individualName>
+<givenName>Cleide</givenName>                    <surName>Costa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sergio A.</givenName>                    <surName>Vanin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Simone P.</givenName>                    <surName>Rosa</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Costa, Cleide, Vanin, Sergio A., Rosa, Simone P. (2014): Description of a new genus and species of Cerophytidae (Coleoptera: Elateroidea) from Africa with a cladistic analysis of the family. Zootaxa 3878 (3): 248-260, DOI: http://dx.doi.org/10.11646/zootaxa.3878.3.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA5FFCEBD25785D3152FFB8FF90FFB2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:05Z</dateStamp>
+                <citation>Costa C, Vanin S A, Rosa S P, plazi (2014). Description of a new genus and species of Cerophytidae (Coleoptera: Elateroidea) from Africa with a cladistic analysis of the family. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3878.3.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

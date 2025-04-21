@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="80dd9c94-241b-4d49-999f-c89de7648525"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.24436/2</alternateIdentifier>
+        <title>World Spider Catalog</title>
+            <creator>
+<organizationName>Natural History Museum Bern</organizationName><electronicMailAddress>wsc@nmbe.ch</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+<organizationName>Natural History Museum Bern</organizationName><electronicMailAddress>wsc@nmbe.ch</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The World Spider Catalog is the first fully searchable online database covering spider taxonomy, but it has a longer history of predecessors which started with Pierre Bonnet (University of Toulouse, France) and Carl Friedrich Roewer (Bremen, Germany). Bonnet&amp;#39;s seven scholarly books of his Bibliographia araneorum, published in three volumes 1945-1961, were fully comprehensive and covered literature on all aspects of spider biology through 1939, on more than 6400 pages. Roewer&amp;#39;s Katalog der Araneae von 1758 bis 1940 (three books, published in two volumes, more than 2700 pages) were published 1942-1955 and covered the taxonomically useful literature through 1940 or 1954 (depending on the taxon).
+
+The next important step was performed by Paolo M. Brignoli (University of Aquila, Italy) with his Catalogue of the Araneae described between 1940 and 1981, published 1983. This 750 pages volume filled many of the post-Roewer gaps (through 1980, with scattered coverage of later papers as well). Brignoli intended to issue Catalogue supplements at periodic intervals but this stopped due to his untimely death in 1986. Fortunately, Brignoli’s idea could be continued because Norman I. Platnick (American Museum of Natural History, New York) accepted the challenge to take over the task of preparing supplements to Brignoli&amp;#39;s volume. In the next decade, three supplement volumes (1989, 1993, 1997) of Advances in Spider Taxonomy with together 2500 pages were published, covering the literature from 1981 through 1995 and including all synonyms, transfers, and re-descriptions from 1940 to 1980.
+
+By the end of the 20th century it became obvious that the increasing quantity of taxonomic information could no longer be managed in the conventional way. So far more than 10’000 catalog pages and (currently) an annual influx of more than 300 taxonomic publications with descriptions of ca. 900 new species need an internet based solution. Platnick started this task with a first online version of his World Spider Catalog in 2000 and continued through 2014, with two updated versions per year, a total of 30 updates. The catalog was hosted at the American Museum of Natural History and served as HTML files per family. You can find a complete archive.
+
+With the retirement of Platnick in 2014, the Natural History Museum Bern (Switzerland) accepted to continue Platnick’s work and took over the World Spider Catalog. All data provided by the catalog version 14.5 has been processed in order to fit into a relational database. One of the major achievements of a true database is that it is fully searchable over the complete content of spider taxonomy since 1757 when the first now acknowledged 68 spider species were described by Carl Clerck. Another important novelty is the link to the World Spider Catalog Association (WSCA) which intends to provide access to more than 12’000 taxonomic publications which are behind this database information.
+
+The World Spider Catalog considers all taxonomically useful published work. Unpublished statements – even if correct – will not be taken over here. Also contents of websites that are not published elsewhere are not considered. Roewer and Platnick set standards for the Catalog that persist largely until today. Basically, this includes all descriptions of new species, transfers, synonymies and all taxonomically useful (i.e., illustrated) references to previously described taxa. Electronic supplements can be considered in combination with the corresponding main article. Not included are subfamilial or subgeneric divisions and allocations, or mentions of taxa in purely faunistic works (unless accompanied by useful illustrations).
+
+The catalog entries for literature prior to 1940 do not reflect a complete re-check of the classical literature. Roewer&amp;#39;s listings based on the classical literature have largely been accepted, and only discrepancies detected between Roewer&amp;#39;s and Bonnet&amp;#39;s treatments have been re-checked and resolved. These listings are not intended to supplant either Roewer&amp;#39;s or Bonnet&amp;#39;s volumes, but rather to provide a quick, electronically searchable guide to the most important literature on spider systematics, worldwide. Investigators doing original research should still check the listings in Roewer and Bonnet; we hope that omissions are few, but no project of this magnitude could ever be error-free.
+
+In certain cases, published nomenclatural or taxonomical changes will not be taken over by the catalog. This includes for example cases with violations of the provisions of the International Code of Zoological Nomenclature. In debatable cases (e.g. purely typological genus-splitting without phylogenetic reasons), an expert board will decide the case democratically. However, if some published alterations are not taken over by the catalog, the respective information and reference is given anyway.
+
+The following abbreviations are used: Male or female signs (m or f) alone indicate that palpal or epigynal illustrations are included (hence figure references without such annotations include only somatic characters, generally through scanning electron micrographs; citations are not provided for cases where authors supplied only a general view of the body). The letter D indicates an original description, either of a taxon or of a previously unknown sex. The letter T indicates that one or both sexes have been transferred from a specified genus to the one under consideration; tentative statements indicating that a species &amp;#34;possibly belongs&amp;#34; or &amp;#34;may belong&amp;#34; elsewhere are not included as transfers (or synonymies). The letter S indicates that details of one or more new synonymies can be found immediately under the generic listing; an S followed by a male or female sign indicates that a previously unknown sex has been added through a synonymy. The type species of each genus is marked with an asterisk (*).
+
+The organization of the entries is hierarchically determined; hence synonymies at the generic level are indicated under the family (and cross-referenced under the appropriate generic) listings, but affected species are listed separately only if there are significant references to them in particular. Similarly, synonymies at the species level are listed under generic, rather than familial, headings. The brief descriptions of geographic ranges are provided only as a general guide; no attempt has been made to ensure that they are comprehensive.
+
+Users who detect errors, of any sort, are urged to bring them to our attention (email to wsc(at)nmbe.ch).</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://wsc.nmbe.ch</url>
+                </online>
+            </distribution>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:59Z</dateStamp>
+                <citation>Naturhistorisches Museum Bern - NMBE (2023). World Spider Catalog. Checklist dataset https://doi.org/10.24436/2 accessed via GBIF.org on 2023-08-28.</citation>
+                    <physical>
+                        <objectName></objectName>
+                        <characterEncoding></characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName></formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://wsc.nmbe.ch/resources/species_export_20230629.csv</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

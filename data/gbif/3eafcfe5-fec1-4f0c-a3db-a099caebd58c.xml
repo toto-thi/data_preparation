@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3eafcfe5-fec1-4f0c-a3db-a099caebd58c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3853/j.0067-1975.48.1996.280</alternateIdentifier>
+                <alternateIdentifier>3eafcfe5-fec1-4f0c-a3db-a099caebd58c</alternateIdentifier>
+                <alternateIdentifier>10.15468/9gvf5c</alternateIdentifier>
+                <alternateIdentifier>8023FFBCFFA06B62FFE5FF8CFFDBFFFB</alternateIdentifier>
+        <title>Freshwater amphipods from Barrow Island, Western Australia</title>
+            <creator>
+            <individualName>
+<givenName>J. H.</givenName>                    <surName>Bradbury</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>W. D.</givenName>                    <surName>Williams</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1996-05-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bradbury, J. H., Williams, W. D. (1996): Freshwater amphipods from Barrow Island, Western Australia. Records of the Australian Museum 48 (1): 33-74, DOI: 10.3853/j.0067-1975.48.1996.280, URL: https://journals.australian.museum/bradbury-and-williams-1996-rec-aust-mus-481-3374/</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/8023FFBCFFA06B62FFE5FF8CFFDBFFFB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:49Z</dateStamp>
+                <citation>Bradbury J H, Williams W D, felipe (1996). Freshwater amphipods from Barrow Island, Western Australia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3853/j.0067-1975.48.1996.280 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

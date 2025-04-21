@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0606b144-6494-4c04-865c-66196a8e373c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/evolsyst.1.14969</alternateIdentifier>
+                <alternateIdentifier>10.15468/49xsyn</alternateIdentifier>
+                <alternateIdentifier>266BBB73E031FFD51167FFACFFCEFFA2</alternateIdentifier>
+        <title>The goblin spiders (Araneae, Oonopidae) of the OTONGA Nature Reserve in Ecuador, with the description of seven new species</title>
+            <creator>
+            <individualName>
+<givenName>Nadine</givenName>                    <surName>Duperre</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elicio</givenName>                    <surName>Tapia</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Duperre, Nadine, Tapia, Elicio (2017): The goblin spiders (Araneae, Oonopidae) of the OTONGA Nature Reserve in Ecuador, with the description of seven new species. Evolutionary Systematics 1 (1): 87-109, DOI: http://dx.doi.org/10.3897/evolsyst.1.14969, URL: http://dx.doi.org/10.3897/evolsyst.1.14969</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/266BBB73E031FFD51167FFACFFCEFFA2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:37Z</dateStamp>
+                <citation>Duperre N, Tapia E, pensoft (2017). The goblin spiders (Araneae, Oonopidae) of the OTONGA Nature Reserve in Ecuador, with the description of seven new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/evolsyst.1.14969 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

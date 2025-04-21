@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a9224831-9eb4-431d-80d7-43e24254b33b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/q4uzye</alternateIdentifier>
+                <alternateIdentifier>4845BF686B7705202F3CFFE6FFE19B36</alternateIdentifier>
+        <title>Report of 21 unrecorded bacterial species in Korea belonging to the phylum Actinobacteria, discovered during the survey in 2020</title>
+            <creator>
+            <individualName>
+<givenName>You Ju</givenName>                    <surName>Ham</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ji Won</givenName>                    <surName>Jeong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wan-Taek</givenName>                    <surName>Im</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Won-Yong</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jeong-Hun</givenName>                    <surName>Yoon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Myung Kyum</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chi Nam</givenName>                    <surName>Seong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Seung Bum</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ham, You Ju, Jeong, Ji Won, Im, Wan-Taek, Kim, Won-Yong, Yoon, Jeong-Hun, Kim, Myung Kyum, Seong, Chi Nam, Kim, Seung Bum (2022): Report of 21 unrecorded bacterial species in Korea belonging to the phylum Actinobacteria, discovered during the survey in 2020. Journal of Species Research 11 (1): 1-9, DOI: 10.12651/JSR.2022.11.1.001</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4845BF686B7705202F3CFFE6FFE19B36</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:10Z</dateStamp>
+                <citation>Ham Y J, Jeong J W, Im W, Kim W, Yoon J, Kim M K, Seong C N, Kim S B, felipe (2022). Report of 21 unrecorded bacterial species in Korea belonging to the phylum Actinobacteria, discovered during the survey in 2020. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/q4uzye accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Ham, You Ju, Jeong, Ji Won, Im, Wan-Taek, Kim, Won-Yong, Yoon, Jeong-Hun, Kim, Myung Kyum, Seong, Chi Nam, Kim, Seung Bum (2022): Report of 21 unrecorded bacterial species in Korea belonging to the phylum Actinobacteria, discovered during the survey in 2020. Journal of Species Research 11 (1): 1-9, DOI: 10.12651/JSR.2022.11.1.001</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

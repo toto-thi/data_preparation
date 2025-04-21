@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1289d439-b362-4154-b687-9ac2739747c2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/6wyun5</alternateIdentifier>
+                <alternateIdentifier>FF907F374345FFA2F41EFFF95777FFB8</alternateIdentifier>
+        <title>Brevibacterium hankyongi sp. nov., isolated from compost</title>
+            <creator>
+            <individualName>
+<givenName>Kang Duk</givenName>                    <surName>Choi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Muhammad Zubair</givenName>                    <surName>Siddiqi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Qingmei</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Siddiqi</givenName>                    <surName>Muhammad Shafi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yasser</givenName>                    <surName>Durrani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Soon Yeol</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Myung-Suk</givenName>                    <surName>Kang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wan Taek</givenName>                    <surName>Im</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-09-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Choi, Kang Duk, Siddiqi, Muhammad Zubair, Liu, Qingmei, Muhammad Shafi, Siddiqi, Durrani, Yasser, Lee, Soon Yeol, Kang, Myung-Suk, Im, Wan Taek (2018): Brevibacterium hankyongi sp. nov., isolated from compost. International Journal of Systematic and Evolutionary Microbiology 68 (9): 2783-2788, DOI: 10.1099/ijsem.0.002886, URL: http://dx.doi.org/10.1099/ijsem.0.002886</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF907F374345FFA2F41EFFF95777FFB8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:58Z</dateStamp>
+                <citation>Choi K D, Siddiqi M Z, Liu Q, Muhammad Shafi S, Durrani Y, Lee S Y, Kang M, Im W T, felipe (2018). Brevibacterium hankyongi sp. nov., isolated from compost. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/6wyun5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

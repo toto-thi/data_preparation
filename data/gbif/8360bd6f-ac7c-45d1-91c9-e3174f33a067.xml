@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8360bd6f-ac7c-45d1-91c9-e3174f33a067"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4565418</alternateIdentifier>
+                <alternateIdentifier>10.15468/u33ryc</alternateIdentifier>
+                <alternateIdentifier>803B5050-F60D-4E96-8199-7E100258A4C4</alternateIdentifier>
+                <alternateIdentifier>8360bd6f-ac7c-45d1-91c9-e3174f33a067</alternateIdentifier>
+                <alternateIdentifier>FFCBFF8D900D0901FFCAFFD2FF903313</alternateIdentifier>
+        <title>The Matsucoccus Cockerell, 1909 of Florida (Hemiptera: Coccomorpha: Matsucoccidae): Potential pests of Florida pines</title>
+            <creator>
+            <individualName>
+<givenName>Muhammad Z.</givenName>                    <surName>Ahmed</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Charles H.</givenName>                    <surName>Ray</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew R.</givenName>                    <surName>Moore</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Douglass R.</givenName>                    <surName>Miller</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ahmed, Muhammad Z., Ray, Charles H., Moore, Matthew R., Miller, Douglass R. (2020): The Matsucoccus Cockerell, 1909 of Florida (Hemiptera: Coccomorpha: Matsucoccidae): Potential pests of Florida pines. Insecta Mundi 2020 (810): 1-31, DOI: http://doi.org/10.5281/zenodo.4565418</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCBFF8D900D0901FFCAFFD2FF903313</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:30Z</dateStamp>
+                <citation>Ahmed M Z, Ray C H, Moore M R, Miller D R, felipe (2020). The Matsucoccus Cockerell, 1909 of Florida (Hemiptera: Coccomorpha: Matsucoccidae): Potential pests of Florida pines. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4565418 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

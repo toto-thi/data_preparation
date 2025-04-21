@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3bce40b0-fd50-42b6-ad1c-cd4c8feca0a0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.20140403</alternateIdentifier>
+                <alternateIdentifier>3bce40b0-fd50-42b6-ad1c-cd4c8feca0a0</alternateIdentifier>
+                <alternateIdentifier>10.15468/gs7cy5</alternateIdentifier>
+                <alternateIdentifier>270125F3-5CE6-4D30-9C0E-A10A027C0F6D</alternateIdentifier>
+                <alternateIdentifier>EA22C937BF02FFCD926CFFEFFFCD0D2E</alternateIdentifier>
+        <title>Five new species of Phyllocoptinae (Acari: Eriophyoidea: Eriophyidae) from China</title>
+            <creator>
+            <individualName>
+<givenName>Shan-Sheng</givenName>                    <surName>Ou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guo-Quan</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sui-Gai</givenName>                    <surName>Wei</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ou, Shan-Sheng, Wang, Guo-Quan, Wei, Sui-Gai (2014): Five new species of Phyllocoptinae (Acari: Eriophyoidea: Eriophyidae) from China. Zoological Systematics 39 (4): 496-506, DOI: 10.11865/zs.20140403</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EA22C937BF02FFCD926CFFEFFFCD0D2E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:48Z</dateStamp>
+                <citation>Ou S, Wang G, Wei S, carolina (2014). Five new species of Phyllocoptinae (Acari: Eriophyoidea: Eriophyidae) from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.20140403 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

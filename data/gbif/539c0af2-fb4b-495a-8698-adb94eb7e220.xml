@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="539c0af2-fb4b-495a-8698-adb94eb7e220"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4938.4.2</alternateIdentifier>
+                <alternateIdentifier>539c0af2-fb4b-495a-8698-adb94eb7e220</alternateIdentifier>
+                <alternateIdentifier>10.15468/jh99tq</alternateIdentifier>
+                <alternateIdentifier>40593C45-C2E7-4EFB-8EFB-6A57689E5D2E</alternateIdentifier>
+                <alternateIdentifier>E045FA60FF99FFFAFF967616FFEAFF82</alternateIdentifier>
+        <title>Into the Chamber of Horrors: A proposal for the resolution of nomenclatural chaos in the Scaphiophryne calcarata complex (Anura: Microhylidae), with a new species-level phylogenetic hypothesis for Scaphiophryninae</title>
+            <creator>
+            <individualName>
+<givenName>Mark D.</givenName>                    <surName>Scherz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luca</givenName>                    <surName>Schmidt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Angelica</givenName>                    <surName>Crottini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aurélien</givenName>                    <surName>Miralles</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andolalao</givenName>                    <surName>Rakotoarison</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Achille P.</givenName>                    <surName>Raselimanana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jörn</givenName>                    <surName>Köhler</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frank</givenName>                    <surName>Glaw</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Miguel</givenName>                    <surName>Vences</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-03-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Scherz, Mark D., Schmidt, Luca, Crottini, Angelica, Miralles, Aurélien, Rakotoarison, Andolalao, Raselimanana, Achille P., Köhler, Jörn, Glaw, Frank, Vences, Miguel (2021): Into the Chamber of Horrors: A proposal for the resolution of nomenclatural chaos in the Scaphiophryne calcarata complex (Anura: Microhylidae), with a new species-level phylogenetic hypothesis for Scaphiophryninae. Zootaxa 4938 (1): 392-420, DOI: https://doi.org/10.11646/zootaxa.4938.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E045FA60FF99FFFAFF967616FFEAFF82</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:50Z</dateStamp>
+                <citation>Scherz M D, Schmidt L, Crottini A, Miralles A, Rakotoarison A, Raselimanana A P, Köhler J, Glaw F, Vences M, plazi (2021). Into the Chamber of Horrors: A proposal for the resolution of nomenclatural chaos in the Scaphiophryne calcarata complex (Anura: Microhylidae), with a new species-level phylogenetic hypothesis for Scaphiophryninae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4938.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

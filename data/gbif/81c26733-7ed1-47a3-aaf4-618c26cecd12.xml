@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="81c26733-7ed1-47a3-aaf4-618c26cecd12"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/tkq4ez</alternateIdentifier>
+                <alternateIdentifier>27FC6F9BDB2A5912905C30AE27309568</alternateIdentifier>
+        <title>A matter of warts: a taxonomic treatment for Drypetes verrucosa (Putranjivaceae, Malpighiales) and a new cauliflorous species from Cameroon and Nigeria, D. stevartii</title>
+            <creator>
+            <individualName>
+<givenName>Alejandro</givenName>                    <surName>Quintanar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bonaventure</givenName>                    <surName>Sonke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Murielle</givenName>                    <surName>Simo-Droissart</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patricia</givenName>                    <surName>Barbera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Moses</givenName>                    <surName>Libalah</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David J.</givenName>                    <surName>Harris</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Quintanar, Alejandro, Sonke, Bonaventure, Simo-Droissart, Murielle, Barbera, Patricia, Libalah, Moses, Harris, David J. (2023): A matter of warts: a taxonomic treatment for Drypetes verrucosa (Putranjivaceae, Malpighiales) and a new cauliflorous species from Cameroon and Nigeria, D. stevartii. Plant Ecology and Evolution 156 (2): 160-173, DOI: http://dx.doi.org/10.5091/plecevo.102004, URL: http://dx.doi.org/10.5091/plecevo.102004</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/27FC6F9BDB2A5912905C30AE27309568</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:04Z</dateStamp>
+                <citation>Quintanar A, Sonke B, Simo-Droissart M, Barbera P, Libalah M, Harris D J, pensoft (2023). A matter of warts: a taxonomic treatment for Drypetes verrucosa (Putranjivaceae, Malpighiales) and a new cauliflorous species from Cameroon and Nigeria, D. stevartii. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/tkq4ez accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Quintanar, Alejandro, Sonke, Bonaventure, Simo-Droissart, Murielle, Barbera, Patricia, Libalah, Moses, Harris, David J. (2023): A matter of warts: a taxonomic treatment for Drypetes verrucosa (Putranjivaceae, Malpighiales) and a new cauliflorous species from Cameroon and Nigeria, D. stevartii. Plant Ecology and Evolution 156 (2): 160-173, DOI: http://dx.doi.org/10.5091/plecevo.102004, URL: http://dx.doi.org/10.5091/plecevo.102004</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4542f05d-992b-48a2-8b6e-c8128357d5e0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/phytotaxa.87.1.2</alternateIdentifier>
+                <alternateIdentifier>4542f05d-992b-48a2-8b6e-c8128357d5e0</alternateIdentifier>
+                <alternateIdentifier>10.15468/ty5fwj</alternateIdentifier>
+                <alternateIdentifier>FFA71177FFA1291E3F1BC25FFFA8374A</alternateIdentifier>
+        <title>Two new species of Mallomonas (Chrysophyceae: Synurales): Mallomonas temonis and Mallomonas divida</title>
+            <creator>
+            <individualName>
+<givenName>Yvonne</givenName>                    <surName>Němcová</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jana</givenName>                    <surName>Kreidlová</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-03-13
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Němcová, Yvonne, Kreidlová, Jana (2013): Two new species of Mallomonas (Chrysophyceae: Synurales): Mallomonas temonis and Mallomonas divida. Phytotaxa 87 (1): 11-18, DOI: 10.11646/phytotaxa.87.1.2, URL: http://dx.doi.org/10.11646/phytotaxa.87.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA71177FFA1291E3F1BC25FFFA8374A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:19Z</dateStamp>
+                <citation>Němcová Y, Kreidlová J, felipe (2013). Two new species of Mallomonas (Chrysophyceae: Synurales): Mallomonas temonis and Mallomonas divida. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/phytotaxa.87.1.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

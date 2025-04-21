@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="90d9e8a6-0ce1-472d-b682-3451095dbc5a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ymk1bx</alternateIdentifier>
+                <alternateIdentifier>13560</alternateIdentifier>
+        <title>Fauna Europaea</title>
+            <creator>
+            <individualName>
+<givenName>Yde</givenName>                    <surName>de Jong</surName>
+            </individualName>
+<organizationName>FaEu</organizationName><electronicMailAddress>Yde De Jong &lt;yjong@uva.nl&gt;</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Yde</givenName>                    <surName>de Jong</surName>
+            </individualName>
+<organizationName>FaEu</organizationName><electronicMailAddress>Yde De Jong &lt;yjong@uva.nl&gt;</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2016-09-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Fauna Europaea project (EVR1-1999-20001) has been funded by the European Commission for a period of four years (1 March 2000 - 1 March 2004) within the Fifth Framework Programme (5FP). Fauna Europaea has assembled a database of the scientific names and distribution of all living multicellular European land and fresh-water animals.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Fauna</keyword>
+                        <keyword>Europe</keyword>
+                        <keyword>Zoology</keyword>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Metadata</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.faunaeur.org/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Species and subspecies are registered at least at the level of political countries. The Fauna Europaea geographical system follows basically the ISO 3166 and TDWG 2.0 country code with minor modifications. The covered area is the same as European mainland (Western Palearctic), plus the Macaronesian islands (excluding Cape Verde Islands), Cyprus, Franz Josef Land and Novaya Zemlya, the Western Kazakhstan excluded. The geographic boundaries include: East: Ural (E 60°), West: Atlantic Ocean (Mid-Atlantic Ridge) (W 30°), South: Mediterranean (N 35°), North: Arctic Islands (N 82°)</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-16.59</westBoundingCoordinate>
+                                <eastBoundingCoordinate>74.25</eastBoundingCoordinate>
+                                <northBoundingCoordinate>82.2</northBoundingCoordinate>
+                                <southBoundingCoordinate>34.97</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Yde</givenName>                    <surName>de Jong</surName>
+            </individualName>
+<organizationName>FaEu</organizationName><electronicMailAddress>Yde De Jong &lt;yjong@uva.nl&gt;</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:52Z</dateStamp>
+                <citation>de Jong Y (2016). Fauna Europaea. Fauna Europaea Consortium. Checklist dataset https://doi.org/10.15468/ymk1bx accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

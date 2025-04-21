@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="37542e68-bc2a-4824-ad1f-2fc1ae5253d1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/joa.13588</alternateIdentifier>
+                <alternateIdentifier>37542e68-bc2a-4824-ad1f-2fc1ae5253d1</alternateIdentifier>
+                <alternateIdentifier>10.15468/xnpaz9</alternateIdentifier>
+                <alternateIdentifier>FFC8FFEFC463FF91FF90F25C343BEA73</alternateIdentifier>
+        <title>Novel evolution of a hyper‐elongated tongue in a Cretaceous enantiornithine from China and the evolution of the hyolingual apparatus and feeding in birds</title>
+            <creator>
+            <individualName>
+<givenName>Zhiheng</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Min</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thomas A.</givenName>                    <surName>Stidham</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhonghe</givenName>                    <surName>Zhou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Julia</givenName>                    <surName>Clarke</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Donat</givenName>                    <surName>Agosti</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Li, Zhiheng, Wang, Min, Stidham, Thomas A., Zhou, Zhonghe, Clarke, Julia (2021): Novel evolution of a hyper‐elongated tongue in a Cretaceous enantiornithine from China and the evolution of the hyolingual apparatus and feeding in birds. Journal of Anatomy 239 (6): 1-12, DOI: 10.1111/joa.13588, URL: http://dx.doi.org/10.1111/joa.13588</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC8FFEFC463FF91FF90F25C343BEA73</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:39Z</dateStamp>
+                <citation>Li Z, Wang M, Stidham T A, Zhou Z, Clarke J, Agosti D (2021). Novel evolution of a hyper‐elongated tongue in a Cretaceous enantiornithine from China and the evolution of the hyolingual apparatus and feeding in birds. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/joa.13588 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

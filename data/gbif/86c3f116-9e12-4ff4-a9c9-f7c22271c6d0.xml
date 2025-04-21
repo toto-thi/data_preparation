@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="86c3f116-9e12-4ff4-a9c9-f7c22271c6d0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3734.4.2</alternateIdentifier>
+                <alternateIdentifier>86c3f116-9e12-4ff4-a9c9-f7c22271c6d0</alternateIdentifier>
+                <alternateIdentifier>10.15468/s3udls</alternateIdentifier>
+                <alternateIdentifier>0B63A260-A66A-45E0-8A4B-D2395E1278F8</alternateIdentifier>
+                <alternateIdentifier>FFF9FFA986407315FFA09718FFB2FFD7</alternateIdentifier>
+        <title>Three new species of Kerria (Hemiptera: Coccoidea: Tachardiidae) from India</title>
+            <creator>
+            <individualName>
+<givenName>Ayashaa</givenName>                    <surName>Ahmad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. K.</givenName>                    <surName>Sharma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A.</givenName>                    <surName>Mohanasundaram</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A. S.</givenName>                    <surName>Vidyarthi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>R.</givenName>                    <surName>Ramani</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ahmad, Ayashaa, Sharma, K. K., Mohanasundaram, A., Vidyarthi, A. S., Ramani, R. (2013): Three new species of Kerria (Hemiptera: Coccoidea: Tachardiidae) from India. Zootaxa 3734 (4): 442-452, DOI: http://dx.doi.org/10.11646/zootaxa.3734.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF9FFA986407315FFA09718FFB2FFD7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:56Z</dateStamp>
+                <citation>Ahmad A, Sharma K K, Mohanasundaram A, Vidyarthi A S, Ramani R, plazi (2013). Three new species of Kerria (Hemiptera: Coccoidea: Tachardiidae) from India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3734.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

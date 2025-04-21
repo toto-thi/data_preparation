@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="750cac2d-2cf6-4c60-bdea-b4c947c65534"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.277771</alternateIdentifier>
+                <alternateIdentifier>750cac2d-2cf6-4c60-bdea-b4c947c65534</alternateIdentifier>
+                <alternateIdentifier>10.15468/vqkdtc</alternateIdentifier>
+                <alternateIdentifier>FFD5FF8DFF8EFFD4FFCDFB48FFD4FF99</alternateIdentifier>
+        <title>A new Afrotropical genus and species of Tetrastichinae (Hymenoptera: Eulophidae) inducing galls on Bikinia (Fabaceae: Caesalpinioideae) and a new species of Ormyrus (Hymenoptera: Ormyridae) associated with the gall</title>
+            <creator>
+            <individualName>
+<givenName>Jean-Yves</givenName>                    <surName>Rasplus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>John La</givenName>                    <surName>Salle</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gérard</givenName>                    <surName>Delvare</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Doyle</givenName>                    <surName>Mckey</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bruce L</givenName>                    <surName>Webber</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rasplus, Jean-Yves, Salle, John La, Delvare, Gérard, Mckey, Doyle, Webber, Bruce L (2011): A new Afrotropical genus and species of Tetrastichinae (Hymenoptera: Eulophidae) inducing galls on Bikinia (Fabaceae: Caesalpinioideae) and a new species of Ormyrus (Hymenoptera: Ormyridae) associated with the gall. Zootaxa 2907: 51-59, DOI: 10.5281/zenodo.277771</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD5FF8DFF8EFFD4FFCDFB48FFD4FF99</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:39Z</dateStamp>
+                <citation>Rasplus J, Salle J L, Delvare G, Mckey D, Webber B L, plazi (2011). A new Afrotropical genus and species of Tetrastichinae (Hymenoptera: Eulophidae) inducing galls on Bikinia (Fabaceae: Caesalpinioideae) and a new species of Ormyrus (Hymenoptera: Ormyridae) associated with the gall. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.277771 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

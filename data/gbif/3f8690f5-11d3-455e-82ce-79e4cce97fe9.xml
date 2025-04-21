@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3f8690f5-11d3-455e-82ce-79e4cce97fe9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1080/00222933.2019.1606356</alternateIdentifier>
+                <alternateIdentifier>3f8690f5-11d3-455e-82ce-79e4cce97fe9</alternateIdentifier>
+                <alternateIdentifier>10.15468/aqzwyt</alternateIdentifier>
+                <alternateIdentifier>5CC141EC-9140-477E-9F30-46945F09B78D</alternateIdentifier>
+                <alternateIdentifier>FFD56119FFF82803B362FFCCFF93FFC1</alternateIdentifier>
+        <title>On the tribal allocation of Cosmotomidius Melzerı 1931 ı descriptions of new taxa of Acanthoderini and notes on some tribes of Lamiinae (Coleoptera: Cerambycidae)</title>
+            <creator>
+            <individualName>
+<givenName>Francisco E. de L.</givenName>                    <surName>Nascimento</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio</givenName>                    <surName>Santos-Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maxwell V. L.</givenName>                    <surName>Barclay</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-05-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nascimento, Francisco E. de L., Santos-Silva, Antonio, Barclay, Maxwell V. L. (2019): On the tribal allocation of Cosmotomidius Melzerı 1931 ı descriptions of new taxa of Acanthoderini and notes on some tribes of Lamiinae (Coleoptera: Cerambycidae). Journal of Natural History 53 (11): 705-723, DOI: 10.1080/00222933.2019.1606356</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD56119FFF82803B362FFCCFF93FFC1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:48Z</dateStamp>
+                <citation>Nascimento F E D L, Santos-Silva A, Barclay M V L, valdenar (2019). On the tribal allocation of Cosmotomidius Melzerı 1931 ı descriptions of new taxa of Acanthoderini and notes on some tribes of Lamiinae (Coleoptera: Cerambycidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1080/00222933.2019.1606356 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

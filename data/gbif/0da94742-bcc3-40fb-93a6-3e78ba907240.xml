@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0da94742-bcc3-40fb-93a6-3e78ba907240"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/rzhfkn</alternateIdentifier>
+                <alternateIdentifier>FFB599571513FFB7AB17D009FFCDFFA7</alternateIdentifier>
+        <title>New orchids in the flora of Vietnam (Orchidaceae, Aeridinae)</title>
+            <creator>
+            <individualName>
+<givenName>Leonid V.</givenName>                    <surName>Averyanov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tran Huy</givenName>                    <surName>Thai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ba Vuong</givenName>                    <surName>Truong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Canh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tuan Hoang</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tatiana V.</givenName>                    <surName>Maisak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Khang Sinh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Khuong</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Averyanov, Leonid V., Thai, Tran Huy, Truong, Ba Vuong, Nguyen, Van Canh, Nguyen, Tuan Hoang, Maisak, Tatiana V., Nguyen, Khang Sinh, Nguyen, Van Khuong (2022): New orchids in the flora of Vietnam (Orchidaceae, Aeridinae). Phytotaxa 555 (2): 113-135, DOI: 10.11646/phytotaxa.555.2.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB599571513FFB7AB17D009FFCDFFA7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:38Z</dateStamp>
+                <citation>Averyanov L V, Thai T H, Truong B V, Nguyen V C, Nguyen T H, Maisak T V, Nguyen K S, Nguyen V K, plazi (2022). New orchids in the flora of Vietnam (Orchidaceae, Aeridinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/rzhfkn accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

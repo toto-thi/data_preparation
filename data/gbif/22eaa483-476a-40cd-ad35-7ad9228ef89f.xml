@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="22eaa483-476a-40cd-ad35-7ad9228ef89f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.202019</alternateIdentifier>
+                <alternateIdentifier>22eaa483-476a-40cd-ad35-7ad9228ef89f</alternateIdentifier>
+                <alternateIdentifier>10.15468/zhuxc2</alternateIdentifier>
+                <alternateIdentifier>485DBA90-162E-414A-B975-79CF0CFA5CE1</alternateIdentifier>
+                <alternateIdentifier>FFD89D2838092455FF9DA364FFC3FF91</alternateIdentifier>
+        <title>Chaetarthria chenjuni Jia &amp; Yang, sp. nov. (Coleoptera: Hydrophilidae), a new species from China and additional faunistic records</title>
+            <creator>
+            <individualName>
+<givenName>Fenglong</givenName>                    <surName>Jia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhenming</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lu</givenName>                    <surName>Jiang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kai</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shujiao</givenName>                    <surName>Jiang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-04-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Jia, Fenglong, Yang, Zhenming, Jiang, Lu, Chen, Kai, Jiang, Shujiao (2020): Chaetarthria chenjuni Jia &amp;amp; Yang, sp. nov. (Coleoptera: Hydrophilidae), a new species from China and additional faunistic records. Zoological Systematics 45 (2): 146-149, DOI: 10.11865/zs.202019, URL: http://zoobank.org/485dba90-162e-414a-b975-79cf0cfa5ce1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD89D2838092455FF9DA364FFC3FF91</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:52Z</dateStamp>
+                <citation>Jia F, Yang Z, Jiang L, Chen K, Jiang S, carolina (2020). Chaetarthria chenjuni Jia &amp; Yang, sp. nov. (Coleoptera: Hydrophilidae), a new species from China and additional faunistic records. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.202019 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

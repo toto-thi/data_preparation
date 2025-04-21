@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="824e203a-cf97-42ec-a9cb-a0515b6a1437"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.194395</alternateIdentifier>
+                <alternateIdentifier>824e203a-cf97-42ec-a9cb-a0515b6a1437</alternateIdentifier>
+                <alternateIdentifier>10.15468/qaokxl</alternateIdentifier>
+                <alternateIdentifier>FFE9FF80FF93FF86AA4AFFDAFF9AFFD6</alternateIdentifier>
+        <title>Note on a collection of Amphibians and Reptiles from Western Sumatra (Indonesia), with the description of a new species of the genus Bufo</title>
+            <creator>
+            <individualName>
+<givenName>Alexandre</givenName>                    <surName>Teynié</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patrick</givenName>                    <surName>David</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Annemarie</givenName>                    <surName>Ohler</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2010-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Teynié, Alexandre, David, Patrick, Ohler, Annemarie (2010): Note on a collection of Amphibians and Reptiles from Western Sumatra (Indonesia), with the description of a new species of the genus Bufo. Zootaxa 2416: 1-43, DOI: 10.5281/zenodo.194395</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE9FF80FF93FF86AA4AFFDAFF9AFFD6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:21Z</dateStamp>
+                <citation>Teynié A, David P, Ohler A, plazi (2010). Note on a collection of Amphibians and Reptiles from Western Sumatra (Indonesia), with the description of a new species of the genus Bufo. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.194395 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

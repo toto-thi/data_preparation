@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f2daf753-e802-4035-9a1f-6878de66e7ca"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.5052.2.5</alternateIdentifier>
+                <alternateIdentifier>f2daf753-e802-4035-9a1f-6878de66e7ca</alternateIdentifier>
+                <alternateIdentifier>10.15468/ynfw8u</alternateIdentifier>
+                <alternateIdentifier>9C0D1455-5E80-4D9A-BE86-7C73F05B0A3E</alternateIdentifier>
+                <alternateIdentifier>FFD2623A2658FFE6FF89FFA41D3CFFF7</alternateIdentifier>
+        <title>Type specimens of birds of the genus Batis (Aves: Platysteiridae) at the Museum für Naturkunde Berlin</title>
+            <creator>
+            <individualName>
+<givenName>Sylke</givenName>                    <surName>Frahnert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michel</givenName>                    <surName>Louette</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pascal</givenName>                    <surName>Eckhoff</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Frahnert, Sylke, Louette, Michel, Eckhoff, Pascal (2021): Type specimens of birds of the genus Batis (Aves: Platysteiridae) at the Museum für Naturkunde Berlin. Zootaxa 5052 (2): 249-260, DOI: https://doi.org/10.11646/zootaxa.5052.2.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD2623A2658FFE6FF89FFA41D3CFFF7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:00Z</dateStamp>
+                <citation>Frahnert S, Louette M, Eckhoff P, plazi (2021). Type specimens of birds of the genus Batis (Aves: Platysteiridae) at the Museum für Naturkunde Berlin. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.5052.2.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

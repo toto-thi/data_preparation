@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7bb64db6-e58b-4854-8b36-9ad0e9702e9e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.5409418</alternateIdentifier>
+                <alternateIdentifier>10.15468/vgpkzw</alternateIdentifier>
+                <alternateIdentifier>7bb64db6-e58b-4854-8b36-9ad0e9702e9e</alternateIdentifier>
+                <alternateIdentifier>FF997048FFB54138FF8DFFD8E72A9111</alternateIdentifier>
+        <title>Description of a new Nebria (Eunebria) species from Iran (Coleoptera, Carabidae: Nebriini) and faunistic data for Nebria (Eunebria) xanthacra xanthacra CHAUDOIR, 1850</title>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>W</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peer</givenName>                    <surName>H</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kerman</givenName>                    <surName>P</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>N</givenName>                    <surName>K</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-07-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article W, David, H, Peer, P, Kerman, K, N (2017): Description of a new Nebria (Eunebria) species from Iran (Coleoptera, Carabidae: Nebriini) and faunistic data for Nebria (Eunebria) xanthacra xanthacra CHAUDOIR, 1850. Linzer biologische Beiträge 49 (1): 927-935, DOI: http://doi.org/10.5281/zenodo.5409418</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF997048FFB54138FF8DFFD8E72A9111</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:54Z</dateStamp>
+                <citation>W D, H P, P K, K N, marcus (2017). Description of a new Nebria (Eunebria) species from Iran (Coleoptera, Carabidae: Nebriini) and faunistic data for Nebria (Eunebria) xanthacra xanthacra CHAUDOIR, 1850. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5409418 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

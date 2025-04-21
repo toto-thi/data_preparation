@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1301c5d5-c84b-441f-a7d5-ab01a02e119b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3831.1.1</alternateIdentifier>
+                <alternateIdentifier>1301c5d5-c84b-441f-a7d5-ab01a02e119b</alternateIdentifier>
+                <alternateIdentifier>10.15468/gj63j3</alternateIdentifier>
+                <alternateIdentifier>2EF9A3DB-0EAA-4384-8ADA-A7D269E5904D</alternateIdentifier>
+                <alternateIdentifier>930CFF94322E1B48AB08597AFF87E40D</alternateIdentifier>
+        <title>Observations on the biology of Afrotropical Hesperiidae (Lepidoptera). Part 6. Hesperiinae incertae sedis: palm feeders</title>
+            <creator>
+            <individualName>
+<givenName>Matthew J. W.</givenName>                    <surName>Cock</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Colin E.</givenName>                    <surName>Congdon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Steve C.</givenName>                    <surName>Collins</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-07-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cock, Matthew J. W., Congdon, Colin E., Collins, Steve C. (2014): Observations on the biology of Afrotropical Hesperiidae (Lepidoptera). Part 6. Hesperiinae incertae sedis: palm feeders. Zootaxa 3831 (1): 1-61, DOI: http://dx.doi.org/10.11646/zootaxa.3831.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/930CFF94322E1B48AB08597AFF87E40D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:09Z</dateStamp>
+                <citation>Cock M J W, Congdon C E, Collins S C, felipe (2014). Observations on the biology of Afrotropical Hesperiidae (Lepidoptera). Part 6. Hesperiinae incertae sedis: palm feeders. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3831.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

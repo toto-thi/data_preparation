@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9c757ead-ecac-405b-b73e-33af697c1a73"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.283012</alternateIdentifier>
+                <alternateIdentifier>9c757ead-ecac-405b-b73e-33af697c1a73</alternateIdentifier>
+                <alternateIdentifier>10.15468/olr7lo</alternateIdentifier>
+                <alternateIdentifier>E42513B2-612E-4A38-B572-0381F53AB08A</alternateIdentifier>
+                <alternateIdentifier>FFCD03029B1B81305302E20A0211E249</alternateIdentifier>
+        <title>New Records of the Genus Jessopocoris Carvalho, 1981 (Hemiptera: Miridae: Bryocorinae), with Descriptions of Two New Species Found in China</title>
+            <creator>
+            <individualName>
+<givenName>Yi-Ran</givenName>                    <surName>Mu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guo-Qing</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mu, Yi-Ran, Liu, Guo-Qing (2012): New Records of the Genus Jessopocoris Carvalho, 1981 (Hemiptera: Miridae: Bryocorinae), with Descriptions of Two New Species Found in China. Zootaxa 3573: 47-54, DOI: 10.5281/zenodo.283012</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCD03029B1B81305302E20A0211E249</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:32Z</dateStamp>
+                <citation>Mu Y, Liu G, plazi (2012). New Records of the Genus Jessopocoris Carvalho, 1981 (Hemiptera: Miridae: Bryocorinae), with Descriptions of Two New Species Found in China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.283012 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f6aa1853-fb8d-4b0f-85d0-de390bc5d713"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3701.2.6</alternateIdentifier>
+                <alternateIdentifier>f6aa1853-fb8d-4b0f-85d0-de390bc5d713</alternateIdentifier>
+                <alternateIdentifier>10.15468/swauqa</alternateIdentifier>
+                <alternateIdentifier>C424582D-0578-43EF-947C-D673EB1DF571</alternateIdentifier>
+                <alternateIdentifier>FFD9C71CFFA44C36FFF0FF8BFFE7423F</alternateIdentifier>
+        <title>Stigmaeid mites (Acari: Stigmaeidae) from vineyards in the state of Rio Grande do Sul, Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Liana</givenName>                    <surName>Johann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gervásio Silva</givenName>                    <surName>Carvalho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fernanda</givenName>                    <surName>Majolo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Noeli Juarez</givenName>                    <surName>Ferla</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Johann, Liana, Carvalho, Gervásio Silva, Majolo, Fernanda, Ferla, Noeli Juarez (2013): Stigmaeid mites (Acari: Stigmaeidae) from vineyards in the state of Rio Grande do Sul, Brazil. Zootaxa 3701 (2): 238-256, DOI: http://dx.doi.org/10.11646/zootaxa.3701.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD9C71CFFA44C36FFF0FF8BFFE7423F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:18Z</dateStamp>
+                <citation>Johann L, Carvalho G S, Majolo F, Ferla N J, plazi (2013). Stigmaeid mites (Acari: Stigmaeidae) from vineyards in the state of Rio Grande do Sul, Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3701.2.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

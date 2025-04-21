@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="598aeffb-d5ed-4fb8-bcd3-4920a0d735ab"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3985512</alternateIdentifier>
+                <alternateIdentifier>598aeffb-d5ed-4fb8-bcd3-4920a0d735ab</alternateIdentifier>
+                <alternateIdentifier>10.15468/wyspxn</alternateIdentifier>
+                <alternateIdentifier>FFFAFFB4983E3C18FF9AFFD1FFA94C42</alternateIdentifier>
+        <title>Über bemerkenswerte Faltenwespen aus der äthiopischen Region Teil 12 (Hymenoptera, Vespidae: Eumeninae)</title>
+            <creator>
+            <individualName>
+<givenName>Josef</givenName>                    <surName>Gusenleitner</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-07-27
+            </pubDate>
+        <language>GERMAN</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gusenleitner, Josef (2018): Über bemerkenswerte Faltenwespen aus der äthiopischen Region Teil 12 (Hymenoptera, Vespidae: Eumeninae). Linzer biologische Beiträge 50 (1): 291-302, DOI: http://doi.org/10.5281/zenodo.3985512</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFFAFFB4983E3C18FF9AFFD1FFA94C42</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:47Z</dateStamp>
+                <citation>Gusenleitner J, valdenar (2018). Über bemerkenswerte Faltenwespen aus der äthiopischen Region Teil 12 (Hymenoptera, Vespidae: Eumeninae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3985512 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b9788cf8-a04b-4c8f-87ee-ca3b1e1720e6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1537/ase.070501</alternateIdentifier>
+                <alternateIdentifier>b9788cf8-a04b-4c8f-87ee-ca3b1e1720e6</alternateIdentifier>
+                <alternateIdentifier>10.15468/ndjnjz</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org//ase.070501</alternateIdentifier>
+                <alternateIdentifier>FFD2FF85C8019817EB71FFC36071FF98</alternateIdentifier>
+        <title>A new great ape from the late Miocene of Turkey</title>
+            <creator>
+            <individualName>
+<givenName>Erksin Savaş</givenName>                    <surName>Güleç</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ayla</givenName>                    <surName>Sevim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cesur</givenName>                    <surName>Pehlevan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ferhat</givenName>                    <surName>Kaya</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>yanell</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2007-08-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Güleç, Erksin Savaş, Sevim, Ayla, Pehlevan, Cesur, Kaya, Ferhat (2007): A new great ape from the late Miocene of Turkey. Anthropological Science 115 (2): 153-158, DOI: 10.1537/ase.070501, URL: https://www.jstage.jst.go.jp/article/ase/115/2/115_070501/_pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD2FF85C8019817EB71FFC36071FF98</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:38Z</dateStamp>
+                <citation>Güleç E S, Sevim A, Pehlevan C, Kaya F, yanell (2007). A new great ape from the late Miocene of Turkey. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1537/ase.070501 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3669fe97-cacf-4a21-9932-f12193361e7d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2021.735.1243</alternateIdentifier>
+                <alternateIdentifier>3669fe97-cacf-4a21-9932-f12193361e7d</alternateIdentifier>
+                <alternateIdentifier>10.15468/c4uh3n</alternateIdentifier>
+                <alternateIdentifier>CF109FEA-7812-4787-A164-4F5FF0C46E21</alternateIdentifier>
+                <alternateIdentifier>780EFF9EFFFF9332FFE3D2349B4BFFCC</alternateIdentifier>
+        <title>A new genus of Achrysonini and new records in Cerambycidae (Coleoptera, Chrysomeloidea) from Colombia</title>
+            <creator>
+            <individualName>
+<givenName>Kimberly</givenName>                    <surName>García</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan Pablo</givenName>                    <surName>Botero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio</givenName>                    <surName>Santos-Silva</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-02-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article García, Kimberly, Botero, Juan Pablo, Santos-Silva, Antonio (2021): A new genus of Achrysonini and new records in Cerambycidae (Coleoptera, Chrysomeloidea) from Colombia. European Journal of Taxonomy 735: 89-109, DOI: https://doi.org/10.5852/ejt.2021.735.1243</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/780EFF9EFFFF9332FFE3D2349B4BFFCC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:02Z</dateStamp>
+                <citation>García K, Botero J P, Santos-Silva A, plazi (2021). A new genus of Achrysonini and new records in Cerambycidae (Coleoptera, Chrysomeloidea) from Colombia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2021.735.1243 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

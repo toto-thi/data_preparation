@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e28f4a7b-cf66-4488-bad6-1c972757b0a3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3852.2.6</alternateIdentifier>
+                <alternateIdentifier>e28f4a7b-cf66-4488-bad6-1c972757b0a3</alternateIdentifier>
+                <alternateIdentifier>10.15468/a0i1k0</alternateIdentifier>
+                <alternateIdentifier>9A5B4990-7171-436B-99D6-43CD639B802A</alternateIdentifier>
+                <alternateIdentifier>FFAAFFBBFFC90C28E435FFADFF93FFEB</alternateIdentifier>
+        <title>First records of Ochrotrichia Mosely, 1934 (Trichoptera: Hydroptilidae) in Northeastern Brazil: Five new species and two new geographical records</title>
+            <creator>
+            <individualName>
+<givenName>Wagner Rafael M.</givenName>                    <surName>De Souza</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Allan Paulo Moreira</givenName>                    <surName>Santos</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniela M.</givenName>                    <surName>Takiya</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article De Souza, Wagner Rafael M., Santos, Allan Paulo Moreira, Takiya, Daniela M. (2014): First records of Ochrotrichia Mosely, 1934 (Trichoptera: Hydroptilidae) in Northeastern Brazil: Five new species and two new geographical records. Zootaxa 3852 (2): 273-282, DOI: http://dx.doi.org/10.11646/zootaxa.3852.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFAAFFBBFFC90C28E435FFADFF93FFEB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:41Z</dateStamp>
+                <citation>De Souza W R M, Santos A P M, Takiya D M, plazi (2014). First records of Ochrotrichia Mosely, 1934 (Trichoptera: Hydroptilidae) in Northeastern Brazil: Five new species and two new geographical records. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3852.2.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

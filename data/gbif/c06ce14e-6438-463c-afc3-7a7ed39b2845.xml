@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c06ce14e-6438-463c-afc3-7a7ed39b2845"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4502022</alternateIdentifier>
+                <alternateIdentifier>c06ce14e-6438-463c-afc3-7a7ed39b2845</alternateIdentifier>
+                <alternateIdentifier>10.15468/6txnps</alternateIdentifier>
+                <alternateIdentifier>759928F1-E89E-412D-B49D-07236E25E648</alternateIdentifier>
+                <alternateIdentifier>FF82FFD1FF80D231FFABCC43D51AFFB1</alternateIdentifier>
+        <title>Taxonomic review of the fungal-inhabiting plant bug genera Bothriomiris and Dashymenia (Hemiptera: Heteroptera: Miridae: Cylapinae: Bothriomirini), with descriptions of two new species of Dashymenia from Thailand</title>
+            <creator>
+            <individualName>
+<givenName>Andrzej</givenName>                    <surName>Wolski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tomohide</givenName>                    <surName>Yasunaga</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-07-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wolski, Andrzej, Yasunaga, Tomohide (2016): Taxonomic review of the fungal-inhabiting plant bug genera Bothriomiris and Dashymenia (Hemiptera: Heteroptera: Miridae: Cylapinae: Bothriomirini), with descriptions of two new species of Dashymenia from Thailand. Raffles Bulletin of Zoology 64: 176-186, DOI: http://doi.org/10.5281/zenodo.4502022</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF82FFD1FF80D231FFABCC43D51AFFB1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:02Z</dateStamp>
+                <citation>Wolski A, Yasunaga T, carolina (2016). Taxonomic review of the fungal-inhabiting plant bug genera Bothriomiris and Dashymenia (Hemiptera: Heteroptera: Miridae: Cylapinae: Bothriomirini), with descriptions of two new species of Dashymenia from Thailand. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4502022 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a98cde14-7d94-4b79-80d3-bfc0ebcc87ce"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15553/c2020v751a2</alternateIdentifier>
+                <alternateIdentifier>a98cde14-7d94-4b79-80d3-bfc0ebcc87ce</alternateIdentifier>
+                <alternateIdentifier>10.15468/wukt2n</alternateIdentifier>
+                <alternateIdentifier>FFD4DA7FFFBFE401FF8AFF85FFA2D354</alternateIdentifier>
+        <title>Unraveling the taxonomic identity of Cocos nucifera f. palmyrensis (Arecaceae: Cocoseae)</title>
+            <creator>
+            <individualName>
+<givenName>Hugh C.</givenName>                    <surName>Harries</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lia</givenName>                    <surName>Pignotti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Riccardo M.</givenName>                    <surName>Baldini</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Harries, Hugh C., Pignotti, Lia, Baldini, Riccardo M. (2020): Unraveling the taxonomic identity of Cocos nucifera f. palmyrensis (Arecaceae: Cocoseae). Candollea 75 (1): 25-30, DOI: 10.15553/c2020v751a2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD4DA7FFFBFE401FF8AFF85FFA2D354</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:39Z</dateStamp>
+                <citation>Harries H C, Pignotti L, Baldini R M, carolina (2020). Unraveling the taxonomic identity of Cocos nucifera f. palmyrensis (Arecaceae: Cocoseae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15553/c2020v751a2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

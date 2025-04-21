@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0b368704-d9cc-4a82-8248-bc4c06dcf781"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3861.5.1</alternateIdentifier>
+                <alternateIdentifier>0b368704-d9cc-4a82-8248-bc4c06dcf781</alternateIdentifier>
+                <alternateIdentifier>10.15468/mofwun</alternateIdentifier>
+                <alternateIdentifier>E62DB6C3-0C5F-4898-99C4-1BEC70DD1734</alternateIdentifier>
+                <alternateIdentifier>FFCD4F56FFE6684EFFA30151FFDCFFC8</alternateIdentifier>
+        <title>Mollusks from late Mesozoic seep deposits, chiefly in California</title>
+            <creator>
+            <individualName>
+<givenName>Andrzej</givenName>                    <surName>Kaim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robert G.</givenName>                    <surName>Jenkins</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kazushige</givenName>                    <surName>Tanabe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Steffen</givenName>                    <surName>Kiel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kaim, Andrzej, Jenkins, Robert G., Tanabe, Kazushige, Kiel, Steffen (2014): Mollusks from late Mesozoic seep deposits, chiefly in California. Zootaxa 3861 (5): 401-440, DOI: http://dx.doi.org/10.11646/zootaxa.3861.5.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCD4F56FFE6684EFFA30151FFDCFFC8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:09Z</dateStamp>
+                <citation>Kaim A, Jenkins R G, Tanabe K, Kiel S, plazi (2014). Mollusks from late Mesozoic seep deposits, chiefly in California. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3861.5.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

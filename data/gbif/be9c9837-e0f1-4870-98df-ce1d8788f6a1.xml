@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="be9c9837-e0f1-4870-98df-ce1d8788f6a1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.1020.57921</alternateIdentifier>
+                <alternateIdentifier>10.15468/eq4z57</alternateIdentifier>
+                <alternateIdentifier>F6561609F0F15EE8907C94528CA44E4F</alternateIdentifier>
+        <title>Annelids of the eastern Australian abyss collected by the 2017 RV &apos; Investigator&apos; voyage</title>
+            <creator>
+            <individualName>
+<givenName>Laetitia M.</givenName>                    <surName>Gunton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elena K.</givenName>                    <surName>Kupriyanova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tom</givenName>                    <surName>Alvestad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lynda</givenName>                    <surName>Avery</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James A.</givenName>                    <surName>Blake</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olga</givenName>                    <surName>Biriukova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Boeggemann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Polina</givenName>                    <surName>Borisova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nataliya</givenName>                    <surName>Budaeva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ingo</givenName>                    <surName>Burghardt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maria</givenName>                    <surName>Capa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Magdalena N.</givenName>                    <surName>Georgieva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christopher J.</givenName>                    <surName>Glasby</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pan-Wen</givenName>                    <surName>Hsueh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pat</givenName>                    <surName>Hutchings</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Naoto</givenName>                    <surName>Jimi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jon A.</givenName>                    <surName>Kongsrud</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Joachim</givenName>                    <surName>Langeneck</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Karin</givenName>                    <surName>Meissner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anna</givenName>                    <surName>Murray</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Nikolic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hannelore</givenName>                    <surName>Paxton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dino</givenName>                    <surName>Ramos</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anja</givenName>                    <surName>Schulze</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robert</givenName>                    <surName>Sobczyk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Charlotte</givenName>                    <surName>Watson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Helena</givenName>                    <surName>Wiklund</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robin S.</givenName>                    <surName>Wilson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anna</givenName>                    <surName>Zhadan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jinghuai</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-02-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gunton, Laetitia M., Kupriyanova, Elena K., Alvestad, Tom, Avery, Lynda, Blake, James A., Biriukova, Olga, Boeggemann, Markus, Borisova, Polina, Budaeva, Nataliya, Burghardt, Ingo, Capa, Maria, Georgieva, Magdalena N., Glasby, Christopher J., Hsueh, Pan-Wen, Hutchings, Pat, Jimi, Naoto, Kongsrud, Jon A., Langeneck, Joachim, Meissner, Karin, Murray, Anna, Nikolic, Mark, Paxton, Hannelore, Ramos, Dino, Schulze, Anja, Sobczyk, Robert, Watson, Charlotte, Wiklund, Helena, Wilson, Robin S., Zhadan, Anna, Zhang, Jinghuai (2021): Annelids of the eastern Australian abyss collected by the 2017 RV &amp;#39; Investigator&amp;#39; voyage. ZooKeys 1020: 1-198, DOI: http://dx.doi.org/10.3897/zookeys.1020.57921, URL: http://dx.doi.org/10.3897/zookeys.1020.57921</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/F6561609F0F15EE8907C94528CA44E4F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:34Z</dateStamp>
+                <citation>Gunton L M, Kupriyanova E K, Alvestad T, Avery L, Blake J A, Biriukova O, Boeggemann M, Borisova P, Budaeva N, Burghardt I, Capa M, Georgieva M N, Glasby C J, Hsueh P, Hutchings P, Jimi N, Kongsrud J A, Langeneck J, Meissner K, Murray A, Nikolic M, Paxton H, Ramos D, Schulze A, Sobczyk R, Watson C, Wiklund H, Wilson R S, Zhadan A, Zhang J, pensoft (2021). Annelids of the eastern Australian abyss collected by the 2017 RV &apos; Investigator&apos; voyage. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.1020.57921 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

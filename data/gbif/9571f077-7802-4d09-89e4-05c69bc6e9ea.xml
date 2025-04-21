@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9571f077-7802-4d09-89e4-05c69bc6e9ea"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4072.2.6</alternateIdentifier>
+                <alternateIdentifier>9571f077-7802-4d09-89e4-05c69bc6e9ea</alternateIdentifier>
+                <alternateIdentifier>10.15468/c3e8eo</alternateIdentifier>
+                <alternateIdentifier>53CBC016-0CCD-42FA-89E6-F2F904CAFA5A</alternateIdentifier>
+                <alternateIdentifier>D53FFFDCFF9AFFC1FFC3411FAE35AA12</alternateIdentifier>
+        <title>Review of the fur-mite genus Soricilichus Fain, 1970 (Acariformes: Chirodiscidae) — symbionts of the African shrews of the subfamily Crocidurinae (Soricomorpha: Soricidae)</title>
+            <creator>
+            <individualName>
+<givenName>Andre V.</givenName>                    <surName>Bochkov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sylvestre G.</givenName>                    <surName>Mbalitini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Erik</givenName>                    <surName>Verheyen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bochkov, Andre V., Mbalitini, Sylvestre G., Verheyen, Erik (2016): Review of the fur-mite genus Soricilichus Fain, 1970 (Acariformes: Chirodiscidae) — symbionts of the African shrews of the subfamily Crocidurinae (Soricomorpha: Soricidae). Zootaxa 4072 (2): 235-253, DOI: http://doi.org/10.11646/zootaxa.4072.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D53FFFDCFF9AFFC1FFC3411FAE35AA12</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:09Z</dateStamp>
+                <citation>Bochkov A V, Mbalitini S G, Verheyen E, plazi (2016). Review of the fur-mite genus Soricilichus Fain, 1970 (Acariformes: Chirodiscidae) — symbionts of the African shrews of the subfamily Crocidurinae (Soricomorpha: Soricidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4072.2.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

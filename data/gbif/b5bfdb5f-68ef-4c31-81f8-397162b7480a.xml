@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b5bfdb5f-68ef-4c31-81f8-397162b7480a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4317.2.10</alternateIdentifier>
+                <alternateIdentifier>b5bfdb5f-68ef-4c31-81f8-397162b7480a</alternateIdentifier>
+                <alternateIdentifier>10.15468/veolv9</alternateIdentifier>
+                <alternateIdentifier>803Bdfbc-A2Ca-4241-92Dd-986Df008Dae0</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4317.2.10</alternateIdentifier>
+                <alternateIdentifier>FFADFFB9FFD9FF81C06FFF8FFFE6FFB6</alternateIdentifier>
+        <title>Subterranean millipedes (Diplopoda) of the Iberian Peninsula</title>
+            <creator>
+            <individualName>
+<givenName>Henrik</givenName>                    <surName>Enghoff</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-04-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Enghoff, Henrik (2017): Subterranean millipedes (Diplopoda) of the Iberian Peninsula. Zootaxa 4317 (2): 355-369, DOI: https://doi.org/10.11646/zootaxa.4317.2.10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFADFFB9FFD9FF81C06FFF8FFFE6FFB6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:09Z</dateStamp>
+                <citation>Enghoff H, plazi (2017). Subterranean millipedes (Diplopoda) of the Iberian Peninsula. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4317.2.10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

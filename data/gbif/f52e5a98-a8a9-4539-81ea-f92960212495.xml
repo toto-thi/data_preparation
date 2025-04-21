@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f52e5a98-a8a9-4539-81ea-f92960212495"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.155307</alternateIdentifier>
+                <alternateIdentifier>f52e5a98-a8a9-4539-81ea-f92960212495</alternateIdentifier>
+                <alternateIdentifier>10.15468/135j1x</alternateIdentifier>
+                <alternateIdentifier>A068DE79FFD76E41FFA42808FFD4B90F</alternateIdentifier>
+        <title>First discovery of subdichthadiigyne in Yunodorylus Xu, 2000 (Formicidae: Dorylinae)</title>
+            <creator>
+            <individualName>
+                    <surName>Katsuyuki Eguchi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Riou Mizuno</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Fuminori Ito</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Rijal Satria</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Dang Van An</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Bui Tuan Viet</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Phung Thi Hong Luong</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Katsuyuki Eguchi, Riou Mizuno, Fuminori Ito, Rijal Satria, Dang Van An, Bui Tuan Viet, Phung Thi Hong Luong (2016): First discovery of subdichthadiigyne in Yunodorylus Xu, 2000 (Formicidae: Dorylinae). Revue suisse de Zoologie 123 (2): 307-314, DOI: 10.5281/zenodo.155307</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A068DE79FFD76E41FFA42808FFD4B90F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:50Z</dateStamp>
+                <citation>Katsuyuki Eguchi, Riou Mizuno, Fuminori Ito, Rijal Satria, Dang Van An, Bui Tuan Viet, Phung Thi Hong Luong, plazi (2016). First discovery of subdichthadiigyne in Yunodorylus Xu, 2000 (Formicidae: Dorylinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.155307 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

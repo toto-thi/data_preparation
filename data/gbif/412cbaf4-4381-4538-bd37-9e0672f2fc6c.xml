@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="412cbaf4-4381-4538-bd37-9e0672f2fc6c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4540.1.4</alternateIdentifier>
+                <alternateIdentifier>10.15468/ncmowy</alternateIdentifier>
+                <alternateIdentifier>8B94142B-4D3D-4F81-8FBA-0F32436BBF30</alternateIdentifier>
+                <alternateIdentifier>FF9BAE2CFF9FFFACF46BFF8EFFF6CB13</alternateIdentifier>
+        <title>Philippinozercon, a new genus of Heterozerconidae (Parasitiformes: Mesostigmata), with description of all active instars</title>
+            <creator>
+            <individualName>
+<givenName>Beverly S.</givenName>                    <surName>Gerdeman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rufino C.</givenName>                    <surName>Garcia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrew</givenName>                    <surName>Herczak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hans</givenName>                    <surName>Klompen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-12-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gerdeman, Beverly S., Garcia, Rufino C., Herczak, Andrew, Klompen, Hans (2018): Philippinozercon, a new genus of Heterozerconidae (Parasitiformes: Mesostigmata), with description of all active instars. Zootaxa 4540 (1): 7-22, DOI: https://doi.org/10.11646/zootaxa.4540.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF9BAE2CFF9FFFACF46BFF8EFFF6CB13</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:13Z</dateStamp>
+                <citation>Gerdeman B S, Garcia R C, Herczak A, Klompen H, plazi (2018). Philippinozercon, a new genus of Heterozerconidae (Parasitiformes: Mesostigmata), with description of all active instars. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4540.1.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

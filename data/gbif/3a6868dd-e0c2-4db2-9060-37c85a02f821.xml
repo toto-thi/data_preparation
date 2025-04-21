@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3a6868dd-e0c2-4db2-9060-37c85a02f821"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2009.00540.x</alternateIdentifier>
+                <alternateIdentifier>3a6868dd-e0c2-4db2-9060-37c85a02f821</alternateIdentifier>
+                <alternateIdentifier>10.15468/fkuw9n</alternateIdentifier>
+                <alternateIdentifier>FF83FFBCFF86C17EFF89FFD571590727</alternateIdentifier>
+        <title>Three new species of deep-sea Gromia (Protista, Rhizaria) from the bathyal and abyssal Weddell Sea, Antarctica</title>
+            <creator>
+            <individualName>
+<givenName>Nina</givenName>                    <surName>Rothe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrew J.</givenName>                    <surName>Gooday</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tomas</givenName>                    <surName>Cedhagen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>José</givenName>                    <surName>Fahrni</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>J. Alan</givenName>                    <surName>Hughes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anton</givenName>                    <surName>Page</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Richard B.</givenName>                    <surName>Pearce</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jan</givenName>                    <surName>Pawlowski</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2009-10-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rothe, Nina, Gooday, Andrew J., Cedhagen, Tomas, Fahrni, José, Hughes, J. Alan, Page, Anton, Pearce, Richard B., Pawlowski, Jan (2009): Three new species of deep-sea Gromia (Protista, Rhizaria) from the bathyal and abyssal Weddell Sea, Antarctica. Zoological Journal of the Linnean Society 157 (3): 451-469, DOI: 10.1111/j.1096-3642.2009.00540.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2009.00540.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF83FFBCFF86C17EFF89FFD571590727</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:26Z</dateStamp>
+                <citation>Rothe N, Gooday A J, Cedhagen T, Fahrni J, Hughes J A, Page A, Pearce R B, Pawlowski J, carolina (2009). Three new species of deep-sea Gromia (Protista, Rhizaria) from the bathyal and abyssal Weddell Sea, Antarctica. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2009.00540.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

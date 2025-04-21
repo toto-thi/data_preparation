@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f11667ef-fc68-45d9-a1a8-111a40389151"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/mxyf9r</alternateIdentifier>
+                <alternateIdentifier>7905FF863714FF91022AAD3F0321FF90</alternateIdentifier>
+        <title>Aretidris, a new genus of ants (Hymenoptera: Formicidae: Myrmicinae) from the mountains of Luzon Island, Philippines</title>
+            <creator>
+            <individualName>
+                    <surName>David Emmanuel M. GENERAL</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Donat</givenName>                    <surName>Agosti</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article David Emmanuel M. GENERAL (2015): Aretidris, a new genus of ants (Hymenoptera: Formicidae: Myrmicinae) from the mountains of Luzon Island, Philippines. Myrmecological News 21: 131-136, URL: http://myrmecologicalnews.org/cms/index.php?option&amp;#61;com_content&amp;amp;view&amp;#61;article&amp;amp;id&amp;#61;1195</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/7905FF863714FF91022AAD3F0321FF90</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:00Z</dateStamp>
+                <citation>David Emmanuel M. GENERAL, Agosti D (2015). Aretidris, a new genus of ants (Hymenoptera: Formicidae: Myrmicinae) from the mountains of Luzon Island, Philippines. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/mxyf9r accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

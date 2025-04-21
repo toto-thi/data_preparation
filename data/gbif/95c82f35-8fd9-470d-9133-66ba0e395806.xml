@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="95c82f35-8fd9-470d-9133-66ba0e395806"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/h8x4gx</alternateIdentifier>
+                <alternateIdentifier>FFF4FFFC735BFFB186293D2B0B39FF84</alternateIdentifier>
+        <title>Four new species of Hysterocinetida (Protozoa: Ciliophora) from the digestive tract of earthworms collected to the lower Nyong estuary (South Coast, Cameroon)</title>
+            <creator>
+            <individualName>
+<givenName>Paul Alain</givenName>                    <surName>Nana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Simeon</givenName>                    <surName>Tchakonte</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anselme Crepin</givenName>                    <surName>Mama</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fils Mamert</givenName>                    <surName>Onana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zephyrin</givenName>                    <surName>Fokam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pierre</givenName>                    <surName>Ngassam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Estelle</givenName>                    <surName>Masseret</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Moïse</givenName>                    <surName>Nola</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Telesphore</givenName>                    <surName>Sime-Ngando</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-10-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nana, Paul Alain, Tchakonte, Simeon, Mama, Anselme Crepin, Onana, Fils Mamert, Fokam, Zephyrin, Ngassam, Pierre, Masseret, Estelle, Nola, Moïse, Sime-Ngando, Telesphore (2022): Four new species of Hysterocinetida (Protozoa: Ciliophora) from the digestive tract of earthworms collected to the lower Nyong estuary (South Coast, Cameroon). Zootaxa 5194 (2): 233-244, DOI: https://doi.org/10.11646/zootaxa.5194.2.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFF4FFFC735BFFB186293D2B0B39FF84</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:36Z</dateStamp>
+                <citation>Nana P A, Tchakonte S, Mama A C, Onana F M, Fokam Z, Ngassam P, Masseret E, Nola M, Sime-Ngando T, plazi (2022). Four new species of Hysterocinetida (Protozoa: Ciliophora) from the digestive tract of earthworms collected to the lower Nyong estuary (South Coast, Cameroon). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/h8x4gx accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

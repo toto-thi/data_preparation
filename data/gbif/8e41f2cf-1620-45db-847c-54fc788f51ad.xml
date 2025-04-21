@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8e41f2cf-1620-45db-847c-54fc788f51ad"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2021v43a20</alternateIdentifier>
+                <alternateIdentifier>8e41f2cf-1620-45db-847c-54fc788f51ad</alternateIdentifier>
+                <alternateIdentifier>10.15468/b7yahw</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:04F82471-9F26-4935-97CE-1A286E08C958</alternateIdentifier>
+                <alternateIdentifier>AE06FFC0FF94DC5EFFA7FFFCE63EFF9C</alternateIdentifier>
+        <title>Fossil turtles from the early Miocene localities of Mokrá-Quarry (Burdigalian, MN 4), South Moravian Region, Czech Republic</title>
+            <creator>
+            <individualName>
+<givenName>Àngel H.</givenName>                    <surName>Luján</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrej</givenName>                    <surName>Čerňanský</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Isaac</givenName>                    <surName>Bonilla-Salomón</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jakub</givenName>                    <surName>Březina</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Ivanov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Luján, Àngel H., Čerňanský, Andrej, Bonilla-Salomón, Isaac, Březina, Jakub, Ivanov, Martin (2021): Fossil turtles from the early Miocene localities of Mokrá-Quarry (Burdigalian, MN 4), South Moravian Region, Czech Republic. Geodiversitas 43 (20): 691-707, DOI: 10.5252/geodiversitas2021v43a20</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/AE06FFC0FF94DC5EFFA7FFFCE63EFF9C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:01Z</dateStamp>
+                <citation>Luján À H, Čerňanský A, Bonilla-Salomón I, Březina J, Ivanov M, felipe (2021). Fossil turtles from the early Miocene localities of Mokrá-Quarry (Burdigalian, MN 4), South Moravian Region, Czech Republic. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2021v43a20 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

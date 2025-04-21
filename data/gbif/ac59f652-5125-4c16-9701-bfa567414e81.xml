@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ac59f652-5125-4c16-9701-bfa567414e81"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/w8dmtn</alternateIdentifier>
+                <alternateIdentifier>D323FF916F67207BFFE40E37DD47FFC3</alternateIdentifier>
+        <title>Description of a new species of the genus Venturia Schrottky (Hymenoptera: Ichneumonidae: Campopleginae) from South Korea</title>
+            <creator>
+            <individualName>
+<givenName>Jin-Kyung</givenName>                    <surName>Choi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-05-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Choi, Jin-Kyung (2022): Description of a new species of the genus Venturia Schrottky (Hymenoptera: Ichneumonidae: Campopleginae) from South Korea. Journal of Species Research 11 (2): 128-131, DOI: 10.12651/JSR.2022.11.2.128</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/D323FF916F67207BFFE40E37DD47FFC3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:00Z</dateStamp>
+                <citation>Choi J, felipe (2022). Description of a new species of the genus Venturia Schrottky (Hymenoptera: Ichneumonidae: Campopleginae) from South Korea. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/w8dmtn accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Choi, Jin-Kyung (2022): Description of a new species of the genus Venturia Schrottky (Hymenoptera: Ichneumonidae: Campopleginae) from South Korea. Journal of Species Research 11 (2): 128-131, DOI: 10.12651/JSR.2022.11.2.128</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

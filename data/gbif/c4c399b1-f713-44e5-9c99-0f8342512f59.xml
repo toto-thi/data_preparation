@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c4c399b1-f713-44e5-9c99-0f8342512f59"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/qno3lz</alternateIdentifier>
+                <alternateIdentifier>FF8563F9950A19BD0648B0B038C2D645</alternateIdentifier>
+        <title>Pachycondyla nigrita and related species in Southeast Asia.</title>
+            <creator>
+            <individualName>
+<givenName>S.</givenName>                    <surName>Yamane</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Christiana</givenName>                    <surName>Klingenberg</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yamane, S. (2007): Pachycondyla nigrita and related species in Southeast Asia. In: Snelling, R. R., Fisher, B. L., Ward, P. S. (Eds): Advances in ant systematics (Hymenoptera: Formicidae): Homage to E. O. Wilson - 50 years of contributions. Memoirs of the American Entomological Institute 80: 650-663, URL: http://atbi.biosci.ohio-state.edu/HymOnline/reference-full.html?id&amp;#61;21295</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8563F9950A19BD0648B0B038C2D645</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:21Z</dateStamp>
+                <citation>Yamane S, Klingenberg C (2007). Pachycondyla nigrita and related species in Southeast Asia.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/qno3lz accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="aeb1ef2c-5c50-4d26-aa76-87d90d611e1c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ugz5xb</alternateIdentifier>
+                <alternateIdentifier>41711A09FF998D563B0EFF97FF86FFAC</alternateIdentifier>
+        <title>Homoplasy and morphological stasis revealed through multilocus phylogeny of new myrmecophilous species in Armadillidiidae (Isopoda: Oniscidea)</title>
+            <creator>
+            <individualName>
+<givenName>Ernesto</givenName>                    <surName>Recuero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paula C.</givenName>                    <surName>Rodríguez-Flores</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mario</givenName>                    <surName>García-París</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Recuero, Ernesto, Rodríguez-Flores, Paula C., García-París, Mario (2022): Homoplasy and morphological stasis revealed through multilocus phylogeny of new myrmecophilous species in Armadillidiidae (Isopoda: Oniscidea). Zoological Journal of the Linnean Society 194 (4): 1312-1340, DOI: 10.1093/zoolinnean/zlab066</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/41711A09FF998D563B0EFF97FF86FFAC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:59Z</dateStamp>
+                <citation>Recuero E, Rodríguez-Flores P C, García-París M, plazi (2021). Homoplasy and morphological stasis revealed through multilocus phylogeny of new myrmecophilous species in Armadillidiidae (Isopoda: Oniscidea). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ugz5xb accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

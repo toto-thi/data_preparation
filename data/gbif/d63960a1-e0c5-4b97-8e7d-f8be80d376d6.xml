@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d63960a1-e0c5-4b97-8e7d-f8be80d376d6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/hrpbgv</alternateIdentifier>
+                <alternateIdentifier>FFD6FFD3FFF8FFC9CE28FFAD3D1EFFF6</alternateIdentifier>
+        <title>Evolution of Janthina and Recluzia (Mollusca: Gastropoda: Epitoniidae)</title>
+            <creator>
+            <individualName>
+<givenName>Alan G.</givenName>                    <surName>Beu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-08-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Beu, Alan G. (2017): Evolution of Janthina and Recluzia (Mollusca: Gastropoda: Epitoniidae). Records of the Australian Museum (Rec. Aust. Mus.) 69 (3): 119-222, DOI: 10.3853/j.2201-4349.69.2017.1666, URL: http://dx.doi.org/10.3853/j.2201-4349.69.2017.1666</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFD6FFD3FFF8FFC9CE28FFAD3D1EFFF6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:59Z</dateStamp>
+                <citation>Beu A G, carolina (2017). Evolution of Janthina and Recluzia (Mollusca: Gastropoda: Epitoniidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/hrpbgv accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

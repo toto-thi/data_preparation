@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a15ec661-e796-4207-8509-756590c75c0e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.493.6353</alternateIdentifier>
+                <alternateIdentifier>10.15468/wefsxa</alternateIdentifier>
+                <alternateIdentifier>DD2DFF8EFFC4FFA2FFD7FFE4FFB46007</alternateIdentifier>
+        <title>Afrotropical Cynipoidea (Hymenoptera)</title>
+            <creator>
+            <individualName>
+<givenName>Simon van</givenName>                    <surName>Noort</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew L.</givenName>                    <surName>Buffington</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mattias</givenName>                    <surName>Forshage</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Noort, Simon van, Buffington, Matthew L., Forshage, Mattias (2015): Afrotropical Cynipoidea (Hymenoptera). ZooKeys 493: 1-176, DOI: http://dx.doi.org/10.3897/zookeys.493.6353, URL: http://dx.doi.org/10.3897/zookeys.493.6353</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/DD2DFF8EFFC4FFA2FFD7FFE4FFB46007</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:49Z</dateStamp>
+                <citation>Noort S V, Buffington M L, Forshage M, pensoft (2015). Afrotropical Cynipoidea (Hymenoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.493.6353 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

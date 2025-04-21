@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4bc60f17-1e45-40da-9807-a2920f7bd67e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3641.1.6</alternateIdentifier>
+                <alternateIdentifier>4bc60f17-1e45-40da-9807-a2920f7bd67e</alternateIdentifier>
+                <alternateIdentifier>10.15468/oifvup</alternateIdentifier>
+                <alternateIdentifier>E0D35D18-97D6-46D0-A5DA-1BEBE873770F</alternateIdentifier>
+                <alternateIdentifier>D61BBD3DFF84D42AFFDBFF96FFC5D905</alternateIdentifier>
+        <title>Taxonomic study of Chinese species of the genus Macropsis Lewis, 1836 (Hemiptera: Cicadellidae: Macropsinae) II: a new subgenus for Macropsis flavovirens Kuoh</title>
+            <creator>
+            <individualName>
+<givenName>Hu</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ren-Huai</givenName>                    <surName>Dai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zi-Zhong</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dmitri Yu.</givenName>                    <surName>Tishechkin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Li, Hu, Dai, Ren-Huai, Li, Zi-Zhong, Tishechkin, Dmitri Yu. (2013): Taxonomic study of Chinese species of the genus Macropsis Lewis, 1836 (Hemiptera: Cicadellidae: Macropsinae) II: a new subgenus for Macropsis flavovirens Kuoh. Zootaxa 3641 (1): 57-62, DOI: http://dx.doi.org/10.11646/zootaxa.3641.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D61BBD3DFF84D42AFFDBFF96FFC5D905</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:23Z</dateStamp>
+                <citation>Li H, Dai R, Li Z, Tishechkin D Y, plazi (2013). Taxonomic study of Chinese species of the genus Macropsis Lewis, 1836 (Hemiptera: Cicadellidae: Macropsinae) II: a new subgenus for Macropsis flavovirens Kuoh. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3641.1.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

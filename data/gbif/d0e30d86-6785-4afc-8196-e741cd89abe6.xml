@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d0e30d86-6785-4afc-8196-e741cd89abe6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2006.00237.x</alternateIdentifier>
+                <alternateIdentifier>d0e30d86-6785-4afc-8196-e741cd89abe6</alternateIdentifier>
+                <alternateIdentifier>10.15468/w96szh</alternateIdentifier>
+                <alternateIdentifier>FFABFFAAF638731DFFC68251FFEE686D</alternateIdentifier>
+        <title>A new species of the genus Lightiella: the first record of Cephalocarida (Crustacea) in Europe</title>
+            <creator>
+            <individualName>
+<givenName>Marcella</givenName>                    <surName>Carcupino</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonello</givenName>                    <surName>Floris</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Addis</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Castelli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco</givenName>                    <surName>Curini-Galletti</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2006-10-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Carcupino, Marcella, Floris, Antonello, Addis, Alberto, Castelli, Alberto, Curini-Galletti, Marco (2006): A new species of the genus Lightiella: the first record of Cephalocarida (Crustacea) in Europe. Zoological Journal of the Linnean Society 148 (2): 209-220, DOI: 10.1111/j.1096-3642.2006.00237.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2006.00237.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFABFFAAF638731DFFC68251FFEE686D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:15Z</dateStamp>
+                <citation>Carcupino M, Floris A, Addis A, Castelli A, Curini-Galletti M, carolina (2006). A new species of the genus Lightiella: the first record of Cephalocarida (Crustacea) in Europe. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2006.00237.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

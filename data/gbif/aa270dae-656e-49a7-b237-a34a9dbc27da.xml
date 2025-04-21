@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="aa270dae-656e-49a7-b237-a34a9dbc27da"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/phytotaxa.115.1.2</alternateIdentifier>
+                <alternateIdentifier>aa270dae-656e-49a7-b237-a34a9dbc27da</alternateIdentifier>
+                <alternateIdentifier>10.15468/w7e33t</alternateIdentifier>
+                <alternateIdentifier>5C06CD697800AD78FFF735706C79FFD0</alternateIdentifier>
+        <title>Envekadea metzeltinii sp. nov., a new diatom (Bacillariophyta) species from the subtropical karstic wetlands of the Florida Everglades, U. S. A.</title>
+            <creator>
+            <individualName>
+<givenName>Sylvia S.</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Franco A. C.</givenName>                    <surName>Tobias</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bart Van De</givenName>                    <surName>Vijver</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-07-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lee, Sylvia S., Tobias, Franco A. C., Vijver, Bart Van De (2013): Envekadea metzeltinii sp. nov., a new diatom (Bacillariophyta) species from the subtropical karstic wetlands of the Florida Everglades, U. S. A. Phytotaxa 115 (1): 15-24, DOI: 10.11646/phytotaxa.115.1.2, URL: http://dx.doi.org/10.11646/phytotaxa.115.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5C06CD697800AD78FFF735706C79FFD0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:24Z</dateStamp>
+                <citation>Lee S S, Tobias F A C, Vijver B V D, felipe (2013). Envekadea metzeltinii sp. nov., a new diatom (Bacillariophyta) species from the subtropical karstic wetlands of the Florida Everglades, U. S. A.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/phytotaxa.115.1.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

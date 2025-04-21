@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4823f065-aca6-4de4-ab16-4e238ee4e624"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.176090</alternateIdentifier>
+                <alternateIdentifier>4823f065-aca6-4de4-ab16-4e238ee4e624</alternateIdentifier>
+                <alternateIdentifier>10.15468/ybnzam</alternateIdentifier>
+                <alternateIdentifier>95B27C8F-AE2B-494A-9F51-66F3773F7603</alternateIdentifier>
+                <alternateIdentifier>B110FFC65A26FFFCFFFFFFF98F092319</alternateIdentifier>
+        <title>Revisionary studies on the attine ant genus Trachymyrmex Forel. Part 3: The Jamaicensis group (Hymenoptera: Formicidae)</title>
+            <creator>
+            <individualName>
+<givenName>Antonio J.</givenName>                    <surName>Mayhé-Nunes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roberto F.</givenName>                    <surName>Brandão</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mayhé-Nunes, Antonio J., Brandão, Roberto F. (2007): Revisionary studies on the attine ant genus Trachymyrmex Forel. Part 3: The Jamaicensis group (Hymenoptera: Formicidae). Zootaxa 1444: 1-21, DOI: 10.5281/zenodo.176090</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B110FFC65A26FFFCFFFFFFF98F092319</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:46Z</dateStamp>
+                <citation>Mayhé-Nunes A J, Brandão R F, plazi (2007). Revisionary studies on the attine ant genus Trachymyrmex Forel. Part 3: The Jamaicensis group (Hymenoptera: Formicidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.176090 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

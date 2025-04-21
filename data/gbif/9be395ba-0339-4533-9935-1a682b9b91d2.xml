@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9be395ba-0339-4533-9935-1a682b9b91d2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/zyh228</alternateIdentifier>
+                <alternateIdentifier>25E84D5186565D7490A2A0D1FFEB75FB</alternateIdentifier>
+        <title>NextRAD phylogenomics, sanger sequencing and morphological data to establish three new species of New Guinea stream beetles</title>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Balke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rawati</givenName>                    <surName>Panjaitan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Suriani</givenName>                    <surName>Surbakti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Helena</givenName>                    <surName>Shaverdo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lars</givenName>                    <surName>Hendrich</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew H.</givenName>                    <surName>Van Dam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Athena</givenName>                    <surName>Lam</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Balke, Michael, Panjaitan, Rawati, Surbakti, Suriani, Shaverdo, Helena, Hendrich, Lars, Van Dam, Matthew H., Lam, Athena (2022): NextRAD phylogenomics, sanger sequencing and morphological data to establish three new species of New Guinea stream beetles. Alpine Entomology 6: 51-64, DOI: http://dx.doi.org/10.3897/alpento.6.86665, URL: http://dx.doi.org/10.3897/alpento.6.86665</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/25E84D5186565D7490A2A0D1FFEB75FB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:19Z</dateStamp>
+                <citation>Balke M, Panjaitan R, Surbakti S, Shaverdo H, Hendrich L, Van Dam M H, Lam A, pensoft (2022). NextRAD phylogenomics, sanger sequencing and morphological data to establish three new species of New Guinea stream beetles. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/zyh228 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

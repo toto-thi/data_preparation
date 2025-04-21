@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="80b4b440-eaca-4860-aadf-d0dfdd3e856e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/qdvacs</alternateIdentifier>
+        <title>Official Lists and Indexes of Names in Zoology</title>
+            <creator>
+            <individualName>
+<givenName>Rich</givenName>                    <surName>Pyle</surName>
+            </individualName>
+<organizationName>Bernice Pauahi Bishop Museum</organizationName><electronicMailAddress>deepreef@bishopmuseum.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+            </metadataProvider>
+            <pubDate>
+                2007-10-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>All scientific names listed in the Official Lists and Indexes of Names in Zoology from the International Commission on Zoological Nomenclature (ICZN).</para>
+            </abstract>
+            <intellectualRights>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://iczn.org/sites/iczn.org/files/Official_List_updated_December_2012.pdf</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Markus</givenName>                    <surName>Döring</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><electronicMailAddress>mdoering@gbif.org</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0001-7757-1889</userId>
+            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:49Z</dateStamp>
+                <citation>Pyle R, Döring M (2007). Official Lists and Indexes of Names in Zoology. International Commission on Zoological Nomenclature. Checklist dataset https://doi.org/10.15468/qdvacs accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

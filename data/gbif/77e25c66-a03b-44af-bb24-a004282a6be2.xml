@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="77e25c66-a03b-44af-bb24-a004282a6be2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/smd89y</alternateIdentifier>
+                <alternateIdentifier>A365368076DE5D6B827B32F2549793EC</alternateIdentifier>
+        <title>Polygonatum praecox (Asparagaceae), a new species from mid-eastern China revealed by morphological and molecular evidence</title>
+            <creator>
+            <individualName>
+<givenName>Yingfeng</givenName>                    <surName>Hu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yujun</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maroof</givenName>                    <surName>Ali</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wei</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiaohong</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Longsheng</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jianwen</givenName>                    <surName>Shao</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-10-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hu, Yingfeng, Liu, Yujun, Ali, Maroof, Wu, Wei, Li, Xiaohong, Chen, Longsheng, Shao, Jianwen (2022): Polygonatum praecox (Asparagaceae), a new species from mid-eastern China revealed by morphological and molecular evidence. PhytoKeys 211: 125-138, DOI: http://dx.doi.org/10.3897/phytokeys.211.90456, URL: http://dx.doi.org/10.3897/phytokeys.211.90456</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A365368076DE5D6B827B32F2549793EC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:18Z</dateStamp>
+                <citation>Hu Y, Liu Y, Ali M, Wu W, Li X, Chen L, Shao J, pensoft (2022). Polygonatum praecox (Asparagaceae), a new species from mid-eastern China revealed by morphological and molecular evidence. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/smd89y accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

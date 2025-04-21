@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="12c6613e-74ee-4346-b839-f8d870cd08ec"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/zshw3p</alternateIdentifier>
+                <alternateIdentifier>BC41FF848408FF9364522E1EFFC3FF8E</alternateIdentifier>
+        <title>Varicosporellopsis shangrilaensis sp. nov. (Nectriaceae, Hypocreales), a new terricolous species isolated from the rhizosphere soil of Astragalus polycladus in northwestern Yunnan, China</title>
+            <creator>
+            <individualName>
+<givenName>Zheng-Rong</givenName>                    <surName>Dou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fa</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Guo-Jun</givenName>                    <surName>Zhou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gao-Fen</givenName>                    <surName>Gong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jia-Jie</givenName>                    <surName>Ding</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xu-Hang</givenName>                    <surName>Fan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bei</givenName>                    <surName>Jiang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kai-Ling</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dou, Zheng-Rong, Zhang, Fa, Zhou, Guo-Jun, Gong, Gao-Fen, Ding, Jia-Jie, Fan, Xu-Hang, Jiang, Bei, Wang, Kai-Ling (2023): Varicosporellopsis shangrilaensis sp. nov. (Nectriaceae, Hypocreales), a new terricolous species isolated from the rhizosphere soil of Astragalus polycladus in northwestern Yunnan, China. Phytotaxa 600 (4): 230-238, DOI: 10.11646/phytotaxa.600.4.2, URL: http://dx.doi.org/10.1094/PDIS-04-22-0755-PDN</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/BC41FF848408FF9364522E1EFFC3FF8E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:40Z</dateStamp>
+                <citation>Dou Z, Zhang F, Zhou G, Gong G, Ding J, Fan X, Jiang B, Wang K, plazi (2023). Varicosporellopsis shangrilaensis sp. nov. (Nectriaceae, Hypocreales), a new terricolous species isolated from the rhizosphere soil of Astragalus polycladus in northwestern Yunnan, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/zshw3p accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Dou, Zheng-Rong, Zhang, Fa, Zhou, Guo-Jun, Gong, Gao-Fen, Ding, Jia-Jie, Fan, Xu-Hang, Jiang, Bei, Wang, Kai-Ling (2023): Varicosporellopsis shangrilaensis sp. nov. (Nectriaceae, Hypocreales), a new terricolous species isolated from the rhizosphere soil of Astragalus polycladus in northwestern Yunnan, China. Phytotaxa 600 (4): 230-238, DOI: 10.11646/phytotaxa.600.4.2, URL: http://dx.doi.org/10.1094/PDIS-04-22-0755-PDN</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

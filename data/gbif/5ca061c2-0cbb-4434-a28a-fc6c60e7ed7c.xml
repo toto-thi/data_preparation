@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5ca061c2-0cbb-4434-a28a-fc6c60e7ed7c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/kruqdk</alternateIdentifier>
+                <alternateIdentifier>FF98C54CFFDEFFB58820FFD21740FFD4</alternateIdentifier>
+        <title>Biofouling hydroids (Cnidaria: Hydrozoa) from a Tropical Eastern Pacific island, with remarks on their biogeography</title>
+            <creator>
+            <individualName>
+<givenName>Dale R.</givenName>                    <surName>Calder</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James T.</givenName>                    <surName>Carlton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Inti</givenName>                    <surName>Keith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gail V.</givenName>                    <surName>Ashton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kristen</givenName>                    <surName>Larson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gregory M.</givenName>                    <surName>Ruiz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Esteban</givenName>                    <surName>Herrera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Geiner</givenName>                    <surName>Golfin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Calder, Dale R., Carlton, James T., Keith, Inti, Ashton, Gail V., Larson, Kristen, Ruiz, Gregory M., Herrera, Esteban, Golfin, Geiner (2022): Biofouling hydroids (Cnidaria: Hydrozoa) from a Tropical Eastern Pacific island, with remarks on their biogeography. Journal of Natural History 56 (9 - 12): 565-606, DOI: 10.1080/00222933.2022.2068387, URL: http://dx.doi.org/10.1080/00222933.2022.2068387</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF98C54CFFDEFFB58820FFD21740FFD4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:14Z</dateStamp>
+                <citation>Calder D R, Carlton J T, Keith I, Ashton G V, Larson K, Ruiz G M, Herrera E, Golfin G, plazi (2022). Biofouling hydroids (Cnidaria: Hydrozoa) from a Tropical Eastern Pacific island, with remarks on their biogeography. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/kruqdk accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

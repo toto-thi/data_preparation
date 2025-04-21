@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c815ecb1-b036-4617-b545-1bb65e0339cd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/d9u533</alternateIdentifier>
+        <title>Catalogue of the Pterophoroidea of the World</title>
+            <creator>
+            <individualName>
+<givenName>Donald</givenName>                    <surName>Hobern</surName>
+            </individualName>
+<electronicMailAddress>dhobern@gmail.com</electronicMailAddress>            </creator>
+            <associatedParty>
+            <individualName>
+<givenName>Cees</givenName>                    <surName>Gielis</surName>
+            </individualName>
+            <role>AUTHOR</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Donald</givenName>                    <surName>Hobern</surName>
+            </individualName>
+<electronicMailAddress>dhobern@gmail.com</electronicMailAddress>            <role>EDITOR</role>
+            </associatedParty>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This GSD is derived from C. Gielis (2003) Pterophoroidea &amp;amp; Alucitoidea (Lepidoptera) (World Catalogue of Insects, volume 4). The database has been edited for inclusion in the Catalogue of Life and updated by Donald Hobern. A current version of the dataset is presented as a web document at https://Pterophoroidea.hobern.net/. Version 1.0 includes updates to reflect recent changes in taxonomy and new species.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://pterophoroidea.hobern.net</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>global</geographicDescription>
+                    </geographicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Donald</givenName>                    <surName>Hobern</surName>
+            </individualName>
+<electronicMailAddress>dhobern@gmail.com</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:50Z</dateStamp>
+                <citation>Hobern D. Catalogue of the Pterophoroidea of the World. The Catalogue of Life Partnership. Checklist dataset https://doi.org/10.15468/d9u533 accessed via GBIF.org on 2023-08-28.</citation>
+                    <resourceLogoUrl>https://hobern.net/img/Deuterocopus_ritsemae.png</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

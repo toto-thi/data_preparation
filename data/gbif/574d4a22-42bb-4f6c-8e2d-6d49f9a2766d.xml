@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="574d4a22-42bb-4f6c-8e2d-6d49f9a2766d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/x3tpmj</alternateIdentifier>
+                <alternateIdentifier>218D013821E75A06B266110EB2A38790</alternateIdentifier>
+        <title>Taxonomic clarifications on the floating frogs (Anura: Dicroglossidae: Occidozyga sensu lato) in southeastern China</title>
+            <creator>
+            <individualName>
+<givenName>Zhi-Tong</givenName>                    <surName>Lyu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jian</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhao-Chi</givenName>                    <surName>Zeng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lin</givenName>                    <surName>Luo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yan-Wu</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chun-Peng</givenName>                    <surName>Guo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jin-Long</givenName>                    <surName>Ren</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shuo</givenName>                    <surName>Qi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yun-Ming</givenName>                    <surName>Mo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ying-Yong</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lyu, Zhi-Tong, Wang, Jian, Zeng, Zhao-Chi, Luo, Lin, Zhang, Yan-Wu, Guo, Chun-Peng, Ren, Jin-Long, Qi, Shuo, Mo, Yun-Ming, Wang, Ying-Yong (2022): Taxonomic clarifications on the floating frogs (Anura: Dicroglossidae: Occidozyga sensu lato) in southeastern China. Vertebrate Zoology 72: 495-512, DOI: http://dx.doi.org/10.3897/vz.72.e80019, URL: http://dx.doi.org/10.3897/vz.72.e80019</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/218D013821E75A06B266110EB2A38790</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:37Z</dateStamp>
+                <citation>Lyu Z, Wang J, Zeng Z, Luo L, Zhang Y, Guo C, Ren J, Qi S, Mo Y, Wang Y, pensoft (2022). Taxonomic clarifications on the floating frogs (Anura: Dicroglossidae: Occidozyga sensu lato) in southeastern China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/x3tpmj accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

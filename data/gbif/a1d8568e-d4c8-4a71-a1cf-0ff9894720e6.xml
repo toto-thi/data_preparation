@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a1d8568e-d4c8-4a71-a1cf-0ff9894720e6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.201627</alternateIdentifier>
+                <alternateIdentifier>a1d8568e-d4c8-4a71-a1cf-0ff9894720e6</alternateIdentifier>
+                <alternateIdentifier>10.15468/3yu5h9</alternateIdentifier>
+                <alternateIdentifier>3359ADE7-D4BC-402E-A689-C7AD4CBEC846</alternateIdentifier>
+                <alternateIdentifier>FFC1D430AC15F512FFC18810FFBEE547</alternateIdentifier>
+        <title>New synonymies and records of the stag-beetle genus Aegus MacLeay from Chinese fauna (Coleoptera: Lucanidae)</title>
+            <creator>
+            <individualName>
+<givenName>Yuyan</givenName>                    <surName>Cao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael D.</givenName>                    <surName>Webb</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ming</givenName>                    <surName>Bai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xia</givenName>                    <surName>Wan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cao, Yuyan, Webb, Michael D., Bai, Ming, Wan, Xia (2016): New synonymies and records of the stag-beetle genus Aegus MacLeay from Chinese fauna (Coleoptera: Lucanidae). Zoological Systematics 41 (3): 261-272, DOI: 10.11865/zs.201627, URL: http://zoobank.org/3359ade7-d4bc-402e-a689-c7ad4cbec846</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC1D430AC15F512FFC18810FFBEE547</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:01Z</dateStamp>
+                <citation>Cao Y, Webb M D, Bai M, Wan X, carolina (2016). New synonymies and records of the stag-beetle genus Aegus MacLeay from Chinese fauna (Coleoptera: Lucanidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.201627 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

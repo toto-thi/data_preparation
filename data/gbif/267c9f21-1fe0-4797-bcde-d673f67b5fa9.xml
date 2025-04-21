@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="267c9f21-1fe0-4797-bcde-d673f67b5fa9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4303.4.3</alternateIdentifier>
+                <alternateIdentifier>267c9f21-1fe0-4797-bcde-d673f67b5fa9</alternateIdentifier>
+                <alternateIdentifier>10.15468/d3rvmm</alternateIdentifier>
+                <alternateIdentifier>A5F4BB18-B8BF-49C6-99A3-B6DE3A2E63DD</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4303.4.3</alternateIdentifier>
+                <alternateIdentifier>FFE634107E3D1E4B2C08FFE1D9497B04</alternateIdentifier>
+        <title>A new species of shrimp of the genus Periclimenaeus Borradaile, 1915 (Decapoda: Caridea: Palaemonidae) from the southeastern Gulf of Mexico, including a key to the western Atlantic species of the genus</title>
+            <creator>
+            <individualName>
+<givenName>Gabriel E.</givenName>                    <surName>Ramos-Tafur</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rafael</givenName>                    <surName>Lemaitre</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ramos-Tafur, Gabriel E., Lemaitre, Rafael (2017): A new species of shrimp of the genus Periclimenaeus Borradaile, 1915 (Decapoda: Caridea: Palaemonidae) from the southeastern Gulf of Mexico, including a key to the western Atlantic species of the genus. Zootaxa 4303 (4): 491-508, DOI: https://doi.org/10.11646/zootaxa.4303.4.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE634107E3D1E4B2C08FFE1D9497B04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:38Z</dateStamp>
+                <citation>Ramos-Tafur G E, Lemaitre R, plazi (2017). A new species of shrimp of the genus Periclimenaeus Borradaile, 1915 (Decapoda: Caridea: Palaemonidae) from the southeastern Gulf of Mexico, including a key to the western Atlantic species of the genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4303.4.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

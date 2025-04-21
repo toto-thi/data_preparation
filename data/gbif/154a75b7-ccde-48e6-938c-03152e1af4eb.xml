@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="154a75b7-ccde-48e6-938c-03152e1af4eb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/d4myev</alternateIdentifier>
+                <alternateIdentifier>D90FFFECFFFBEE0AFFB7FFC21D6F247E</alternateIdentifier>
+        <title>An annotated type catalogue of the Cerambycidae (Insecta: Coleoptera) in the Zoological Museum Hamburg</title>
+            <creator>
+            <individualName>
+<givenName>Juan Pablo</givenName>                    <surName>Botero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gérard L.</givenName>                    <surName>Tavakilian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthias</givenName>                    <surName>Seidel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Husemann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marianna V. P.</givenName>                    <surName>Simões</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-05-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Botero, Juan Pablo, Tavakilian, Gérard L., Seidel, Matthias, Husemann, Martin, Simões, Marianna V. P. (2023): An annotated type catalogue of the Cerambycidae (Insecta: Coleoptera) in the Zoological Museum Hamburg. European Journal of Taxonomy 869: 1-50, DOI: https://doi.org/10.5852/ejt.2023.869.2111, URL: http://zoobank.org/7bfb006c-a661-4265-bb79-55239a6cda7e</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/D90FFFECFFFBEE0AFFB7FFC21D6F247E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:13Z</dateStamp>
+                <citation>Botero J P, Tavakilian G L, Seidel M, Husemann M, Simões M V P, felipe (2023). An annotated type catalogue of the Cerambycidae (Insecta: Coleoptera) in the Zoological Museum Hamburg. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/d4myev accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Botero, Juan Pablo, Tavakilian, Gérard L., Seidel, Matthias, Husemann, Martin, Simões, Marianna V. P. (2023): An annotated type catalogue of the Cerambycidae (Insecta: Coleoptera) in the Zoological Museum Hamburg. European Journal of Taxonomy 869: 1-50, DOI: https://doi.org/10.5852/ejt.2023.869.2111, URL: http://zoobank.org/7bfb006c-a661-4265-bb79-55239a6cda7e</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

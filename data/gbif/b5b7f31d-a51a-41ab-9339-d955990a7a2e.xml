@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b5b7f31d-a51a-41ab-9339-d955990a7a2e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4377.2.4</alternateIdentifier>
+                <alternateIdentifier>b5b7f31d-a51a-41ab-9339-d955990a7a2e</alternateIdentifier>
+                <alternateIdentifier>10.15468/j3xwgh</alternateIdentifier>
+                <alternateIdentifier>5ECEF505-D5F4-4D54-A65F-551758945D2B</alternateIdentifier>
+                <alternateIdentifier>6633FF9FC6576674FFCCA651FFE79A39</alternateIdentifier>
+        <title>Cribrilinidae (Bryozoa: Cheilostomata) of Korea</title>
+            <creator>
+            <individualName>
+<givenName>Ho Jin</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ji Eun</givenName>                    <surName>Seo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bum Sik</givenName>                    <surName>Min</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andrei V.</givenName>                    <surName>Grischenko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dennis P.</givenName>                    <surName>Gordon</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-02-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yang, Ho Jin, Seo, Ji Eun, Min, Bum Sik, Grischenko, Andrei V., Gordon, Dennis P. (2018): Cribrilinidae (Bryozoa: Cheilostomata) of Korea. Zootaxa 4377 (2): 216-234, DOI: https://doi.org/10.11646/zootaxa.4377.2.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6633FF9FC6576674FFCCA651FFE79A39</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:47Z</dateStamp>
+                <citation>Yang H J, Seo J E, Min B S, Grischenko A V, Gordon D P, plazi (2018). Cribrilinidae (Bryozoa: Cheilostomata) of Korea. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4377.2.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

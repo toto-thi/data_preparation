@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="46744a84-f2dd-4ded-a258-c6090c11a30a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/y5qkgg</alternateIdentifier>
+                <alternateIdentifier>7248FFF45A3B4D20FFD6482B7E4DE37B</alternateIdentifier>
+        <title>Taxonomic Review Of The Goblin Spiders Of The Genus Dysderoides Fage And Their Himalayan Relatives Of The Genera Trilacuna Tong And Li And Himalayana, New Genus (Araneae: Oonopidae)</title>
+            <creator>
+            <individualName>
+<givenName>Cristian J.</givenName>                    <surName>Grismado</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christa</givenName>                    <surName>Deeleman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luis N.</givenName>                    <surName>Piacentini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matías A.</givenName>                    <surName>Izquierdo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martín J.</givenName>                    <surName>Ramírez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2014-04-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Grismado, Cristian J., Deeleman, Christa, Piacentini, Luis N., Izquierdo, Matías A., Ramírez, Martín J. (2014): Taxonomic Review Of The Goblin Spiders Of The Genus Dysderoides Fage And Their Himalayan Relatives Of The Genera Trilacuna Tong And Li And Himalayana, New Genus (Araneae: Oonopidae). Bulletin of the American Museum of Natural History 2014 (387): 1-108, DOI: 10.1206/843.1, URL: http://www.bioone.org/doi/abs/10.1206/843.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/7248FFF45A3B4D20FFD6482B7E4DE37B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:15Z</dateStamp>
+                <citation>Grismado C J, Deeleman C, Piacentini L N, Izquierdo M A, Ramírez M J, felipe (2014). Taxonomic Review Of The Goblin Spiders Of The Genus Dysderoides Fage And Their Himalayan Relatives Of The Genera Trilacuna Tong And Li And Himalayana, New Genus (Araneae: Oonopidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/y5qkgg accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

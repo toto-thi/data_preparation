@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="85e37851-a91a-406c-8641-d9529f5bf68d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/umdk7n</alternateIdentifier>
+                <alternateIdentifier>03D4C4E8-74F9-42F2-8FD1-00A6DC22903A</alternateIdentifier>
+                <alternateIdentifier>DF4B5657B3F84A24326A16E2DD6F2CE4</alternateIdentifier>
+        <title>Catalogue of hymenopterous insects collected by Mr. A. R. Wallace at the Islands of Aru and Key.</title>
+            <creator>
+            <individualName>
+<givenName>F.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Christiana</givenName>                    <surName>Klingenberg</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1859-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Smith, F. (1859): Catalogue of hymenopterous insects collected by Mr. A. R. Wallace at the Islands of Aru and Key. Journal of the Proceedings of the Linnean Society of London, Zoology 3: 132-158, URL: http://antbase.org/ants/publications/10342/10342.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/DF4B5657B3F84A24326A16E2DD6F2CE4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:36Z</dateStamp>
+                <citation>Smith F, Klingenberg C (1859). Catalogue of hymenopterous insects collected by Mr. A. R. Wallace at the Islands of Aru and Key.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/umdk7n accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

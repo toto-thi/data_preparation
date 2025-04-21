@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c2dfa611-f356-43d7-aa12-5498a068492a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4674.4.3</alternateIdentifier>
+                <alternateIdentifier>10.5281/zenodo.3465028</alternateIdentifier>
+                <alternateIdentifier>c2dfa611-f356-43d7-aa12-5498a068492a</alternateIdentifier>
+                <alternateIdentifier>10.15468/tb37pj</alternateIdentifier>
+                <alternateIdentifier>D8DFB9B1-6135-4D1C-9CB0-CA0734F22ECE</alternateIdentifier>
+                <alternateIdentifier>C916FFCF2C0A4472FFD294258E33FFE6</alternateIdentifier>
+        <title>Asialeyrodes nicobarica sp. nov. (Hemiptera: Aleyrodidae) from the Nicobar Island, located in the Indian part of the Sundaland hotspot, and two new synonymies</title>
+            <creator>
+            <individualName>
+<givenName>Anil Kumar</givenName>                    <surName>Dubey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dubey, Anil Kumar (2019): Asialeyrodes nicobarica sp. nov. (Hemiptera: Aleyrodidae) from the Nicobar Island, located in the Indian part of the Sundaland hotspot, and two new synonymies. Zootaxa 4674 (4): 439-450, DOI: 10.11646/zootaxa.4674.4.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C916FFCF2C0A4472FFD294258E33FFE6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:42Z</dateStamp>
+                <citation>Dubey A K, plazi (2019). Asialeyrodes nicobarica sp. nov. (Hemiptera: Aleyrodidae) from the Nicobar Island, located in the Indian part of the Sundaland hotspot, and two new synonymies. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4674.4.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

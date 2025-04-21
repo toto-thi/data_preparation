@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2f220e11-9b06-4401-96b0-a9e24554974c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3796.3.7</alternateIdentifier>
+                <alternateIdentifier>2f220e11-9b06-4401-96b0-a9e24554974c</alternateIdentifier>
+                <alternateIdentifier>10.15468/tsdjqw</alternateIdentifier>
+                <alternateIdentifier>D3E1601F-74E9-4594-8820-F5365DB42AF1</alternateIdentifier>
+                <alternateIdentifier>FFD6FFE3824C25485C684B321C377D18</alternateIdentifier>
+        <title>Three new species of chewing lice of the genus Emersoniella Tendeiro, 1965 (Insecta: Phthiraptera: Ischnocera: Philopteridae) from Papua New Guinean kingfishers and kookaburras (Aves: Coraciiformes: Alcedinidae)</title>
+            <creator>
+            <individualName>
+<givenName>Daniel R.</givenName>                    <surName>Gustafsson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sarah E.</givenName>                    <surName>Bush</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gustafsson, Daniel R., Bush, Sarah E. (2014): Three new species of chewing lice of the genus Emersoniella Tendeiro, 1965 (Insecta: Phthiraptera: Ischnocera: Philopteridae) from Papua New Guinean kingfishers and kookaburras (Aves: Coraciiformes: Alcedinidae). Zootaxa 3796 (3): 528-544, DOI: http://dx.doi.org/10.11646/zootaxa.3796.3.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD6FFE3824C25485C684B321C377D18</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:46Z</dateStamp>
+                <citation>Gustafsson D R, Bush S E, plazi (2014). Three new species of chewing lice of the genus Emersoniella Tendeiro, 1965 (Insecta: Phthiraptera: Ischnocera: Philopteridae) from Papua New Guinean kingfishers and kookaburras (Aves: Coraciiformes: Alcedinidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3796.3.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

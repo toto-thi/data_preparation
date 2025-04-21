@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="83141332-dfd0-4b70-9751-6d2eb95fd9eb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/aygyp7</alternateIdentifier>
+                <alternateIdentifier>8400FF0F6D0453528D2014A21F367948</alternateIdentifier>
+        <title>Two new genera and one new species of the tribe Adeshini (Hymenoptera, Braconidae, Braconinae) from India and South Africa</title>
+            <creator>
+            <individualName>
+<givenName>Donald L. J.</givenName>                    <surName>Quicke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Avunjikkattu Parambil</givenName>                    <surName>Ranjith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dharma Rajan</givenName>                    <surName>Priyadarsanan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mannankadiyan</givenName>                    <surName>Nasser</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul D. N.</givenName>                    <surName>Hebert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Buntika A.</givenName>                    <surName>Butcher</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Quicke, Donald L. J., Ranjith, Avunjikkattu Parambil, Priyadarsanan, Dharma Rajan, Nasser, Mannankadiyan, Hebert, Paul D. N., Butcher, Buntika A. (2023): Two new genera and one new species of the tribe Adeshini (Hymenoptera, Braconidae, Braconinae) from India and South Africa. ZooKeys 1166: 235-259, DOI: http://dx.doi.org/10.3897/zookeys.1166.105589, URL: http://dx.doi.org/10.3897/zookeys.1166.105589</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/8400FF0F6D0453528D2014A21F367948</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:10Z</dateStamp>
+                <citation>Quicke D L J, Ranjith A P, Priyadarsanan D R, Nasser M, Hebert P D N, Butcher B A, pensoft (2023). Two new genera and one new species of the tribe Adeshini (Hymenoptera, Braconidae, Braconinae) from India and South Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/aygyp7 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Quicke, Donald L. J., Ranjith, Avunjikkattu Parambil, Priyadarsanan, Dharma Rajan, Nasser, Mannankadiyan, Hebert, Paul D. N., Butcher, Buntika A. (2023): Two new genera and one new species of the tribe Adeshini (Hymenoptera, Braconidae, Braconinae) from India and South Africa. ZooKeys 1166: 235-259, DOI: http://dx.doi.org/10.3897/zookeys.1166.105589, URL: http://dx.doi.org/10.3897/zookeys.1166.105589</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

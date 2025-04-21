@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5e391f36-e0f1-459e-a2c6-ed21cc1f8754"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4933.2.3</alternateIdentifier>
+                <alternateIdentifier>5e391f36-e0f1-459e-a2c6-ed21cc1f8754</alternateIdentifier>
+                <alternateIdentifier>10.15468/qjfj3b</alternateIdentifier>
+                <alternateIdentifier>C52F83E2-2D42-4964-8AC0-9503085DD625</alternateIdentifier>
+                <alternateIdentifier>FFB1FFECFFF94A22FF93FFB7FFE4FF92</alternateIdentifier>
+        <title>Revision of the Litoria watjulumensis (Anura: Pelodryadidae) group from the Australian monsoonal tropics, including the resurrection of L. spaldingi</title>
+            <creator>
+            <individualName>
+<givenName>Stephen C.</givenName>                    <surName>Donnellan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sarah R.</givenName>                    <surName>Catalano</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephen</givenName>                    <surName>Pederson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kieren J.</givenName>                    <surName>Mitchell</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aidan</givenName>                    <surName>Suhendran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luke C.</givenName>                    <surName>Price</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul</givenName>                    <surName>Doughty</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephen J.</givenName>                    <surName>Richards</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-02-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Donnellan, Stephen C., Catalano, Sarah R., Pederson, Stephen, Mitchell, Kieren J., Suhendran, Aidan, Price, Luke C., Doughty, Paul, Richards, Stephen J. (2021): Revision of the Litoria watjulumensis (Anura: Pelodryadidae) group from the Australian monsoonal tropics, including the resurrection of L. spaldingi. Zootaxa 4933 (2): 211-240, DOI: https://doi.org/10.11646/zootaxa.4933.2.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB1FFECFFF94A22FF93FFB7FFE4FF92</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:16Z</dateStamp>
+                <citation>Donnellan S C, Catalano S R, Pederson S, Mitchell K J, Suhendran A, Price L C, Doughty P, Richards S J, plazi (2021). Revision of the Litoria watjulumensis (Anura: Pelodryadidae) group from the Australian monsoonal tropics, including the resurrection of L. spaldingi. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4933.2.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

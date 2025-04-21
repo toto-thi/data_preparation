@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6b4363b1-e59c-49b2-b32d-3928329d8679"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2qs595</alternateIdentifier>
+                <alternateIdentifier>FD106E42B1226019FC5DFF91FF8AFFB0</alternateIdentifier>
+        <title>Spiky pygmy devils: revision of the genus Discotettix (Orthoptera: Tetrigidae) and synonymy of Discotettiginae with Scelimeninae</title>
+            <creator>
+            <individualName>
+<givenName>Josip</givenName>                    <surName>Skejo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Taras I.</givenName>                    <surName>Pushkar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Niko</givenName>                    <surName>Kasalo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marko</givenName>                    <surName>Pavlović</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maks</givenName>                    <surName>Deranja</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Karmela</givenName>                    <surName>Adžić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ming Kai</givenName>                    <surName>Tan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fran</givenName>                    <surName>Rebrina</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Amira Aqilah</givenName>                    <surName>Muhammad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nurul Ashikin</givenName>                    <surName>Abdullah</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Razy</givenName>                    <surName>Japir</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Arthur Y. C.</givenName>                    <surName>Chung</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Josef</givenName>                    <surName>Tumbrinck</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Skejo, Josip, Pushkar, Taras I., Kasalo, Niko, Pavlović, Marko, Deranja, Maks, Adžić, Karmela, Tan, Ming Kai, Rebrina, Fran, Muhammad, Amira Aqilah, Abdullah, Nurul Ashikin, Japir, Razy, Chung, Arthur Y. C., Tumbrinck, Josef (2022): Spiky pygmy devils: revision of the genus Discotettix (Orthoptera: Tetrigidae) and synonymy of Discotettiginae with Scelimeninae. Zootaxa 5217 (1): 1-64, DOI: https://doi.org/10.11646/zootaxa.5217.1.1, URL: http://dx.doi.org/10.1094/PDIS-04-22-0755-PDN</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FD106E42B1226019FC5DFF91FF8AFFB0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:33Z</dateStamp>
+                <citation>Skejo J, Pushkar T I, Kasalo N, Pavlović M, Deranja M, Adžić K, Tan M K, Rebrina F, Muhammad A A, Abdullah N A, Japir R, Chung A Y C, Tumbrinck J, plazi (2022). Spiky pygmy devils: revision of the genus Discotettix (Orthoptera: Tetrigidae) and synonymy of Discotettiginae with Scelimeninae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/2qs595 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

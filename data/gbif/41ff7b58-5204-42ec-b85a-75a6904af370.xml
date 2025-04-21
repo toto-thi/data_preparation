@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="41ff7b58-5204-42ec-b85a-75a6904af370"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.7717/peerj.7386</alternateIdentifier>
+                <alternateIdentifier>41ff7b58-5204-42ec-b85a-75a6904af370</alternateIdentifier>
+                <alternateIdentifier>10.15468/swtxqe</alternateIdentifier>
+                <alternateIdentifier>662A9A18-B620-45AA-B4B1-326086853316</alternateIdentifier>
+                <alternateIdentifier>FFB6FFD52B1FFFB72F375F1EFFC20D03</alternateIdentifier>
+        <title>A comprehensive molecular phylogeny of Geometridae (Lepidoptera) with a focus on enigmatic small subfamilies</title>
+            <creator>
+            <individualName>
+<givenName>Leidys</givenName>                    <surName>Murillo-Ramos</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gunnar</givenName>                    <surName>Brehm</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pasi</givenName>                    <surName>Sihvonen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Axel</givenName>                    <surName>Hausmann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sille</givenName>                    <surName>Holm</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hamid Reza</givenName>                    <surName>Ghanavi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Erki</givenName>                    <surName>Õunap</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andro</givenName>                    <surName>Truuverk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hermann</givenName>                    <surName>Staude</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Egbert</givenName>                    <surName>Friedrich</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Toomas</givenName>                    <surName>Tammaru</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Niklas</givenName>                    <surName>Wahlberg</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-08-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Murillo-Ramos, Leidys, Brehm, Gunnar, Sihvonen, Pasi, Hausmann, Axel, Holm, Sille, Ghanavi, Hamid Reza, Õunap, Erki, Truuverk, Andro, Staude, Hermann, Friedrich, Egbert, Tammaru, Toomas, Wahlberg, Niklas (2019): A comprehensive molecular phylogeny of Geometridae (Lepidoptera) with a focus on enigmatic small subfamilies. PeerJ 7: 1-39, DOI: 10.7717/peerj.7386</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFB6FFD52B1FFFB72F375F1EFFC20D03</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:53Z</dateStamp>
+                <citation>Murillo-Ramos L, Brehm G, Sihvonen P, Hausmann A, Holm S, Ghanavi H R, Õunap E, Truuverk A, Staude H, Friedrich E, Tammaru T, Wahlberg N, carolina (2019). A comprehensive molecular phylogeny of Geometridae (Lepidoptera) with a focus on enigmatic small subfamilies. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.7717/peerj.7386 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

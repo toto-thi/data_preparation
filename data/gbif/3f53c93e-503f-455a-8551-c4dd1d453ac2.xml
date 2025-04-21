@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3f53c93e-503f-455a-8551-c4dd1d453ac2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/unb83p</alternateIdentifier>
+                <alternateIdentifier>452026EF454453359F0D288BBA53CFAA</alternateIdentifier>
+        <title>The potter wasp genus Allorhynchium from Vietnam, with descriptions of three new species and a new country record (Hymenoptera, Vespidae, Eumeninae)</title>
+            <creator>
+            <individualName>
+<givenName>Lien Thi Phuong</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anh D.</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ngat Thi</givenName>                    <surName>Tran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manh Thanh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael S.</givenName>                    <surName>Engel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nguyen, Lien Thi Phuong, Nguyen, Anh D., Tran, Ngat Thi, Nguyen, Manh Thanh, Engel, Michael S. (2023): The potter wasp genus Allorhynchium from Vietnam, with descriptions of three new species and a new country record (Hymenoptera, Vespidae, Eumeninae). ZooKeys 1166: 1-32, DOI: http://dx.doi.org/10.3897/zookeys.1166.102674, URL: http://dx.doi.org/10.3897/zookeys.1166.102674</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/452026EF454453359F0D288BBA53CFAA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:56Z</dateStamp>
+                <citation>Nguyen L T P, Nguyen A D, Tran N T, Nguyen M T, Engel M S, pensoft (2023). The potter wasp genus Allorhynchium from Vietnam, with descriptions of three new species and a new country record (Hymenoptera, Vespidae, Eumeninae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/unb83p accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Nguyen, Lien Thi Phuong, Nguyen, Anh D., Tran, Ngat Thi, Nguyen, Manh Thanh, Engel, Michael S. (2023): The potter wasp genus Allorhynchium from Vietnam, with descriptions of three new species and a new country record (Hymenoptera, Vespidae, Eumeninae). ZooKeys 1166: 1-32, DOI: http://dx.doi.org/10.3897/zookeys.1166.102674, URL: http://dx.doi.org/10.3897/zookeys.1166.102674</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

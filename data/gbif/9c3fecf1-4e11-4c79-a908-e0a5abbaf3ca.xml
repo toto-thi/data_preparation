@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9c3fecf1-4e11-4c79-a908-e0a5abbaf3ca"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4541.1.1</alternateIdentifier>
+                <alternateIdentifier>10.15468/p7agps</alternateIdentifier>
+                <alternateIdentifier>B11E734C-218B-418C-84E6-719AB3C58AFF</alternateIdentifier>
+                <alternateIdentifier>FFB9FFCCFFAA8975FF95FFB47314996C</alternateIdentifier>
+        <title>Taxonomy and distribution of irregular echinoids (Echinoidea: Irregularia) from Sri Lanka</title>
+            <creator>
+            <individualName>
+<givenName>Gayashan M.</givenName>                    <surName>Arachchige</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sevvandi</givenName>                    <surName>Jayakody</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rich</givenName>                    <surName>Mooi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andreas</givenName>                    <surName>Kroh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-01-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Arachchige, Gayashan M., Jayakody, Sevvandi, Mooi, Rich, Kroh, Andreas (2019): Taxonomy and distribution of irregular echinoids (Echinoidea: Irregularia) from Sri Lanka. Zootaxa 4541 (1): 1-100, DOI: https://doi.org/10.11646/zootaxa.4541.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB9FFCCFFAA8975FF95FFB47314996C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:40Z</dateStamp>
+                <citation>Arachchige G M, Jayakody S, Mooi R, Kroh A, plazi (2019). Taxonomy and distribution of irregular echinoids (Echinoidea: Irregularia) from Sri Lanka. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4541.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

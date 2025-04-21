@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d0c2bd3b-b59c-40cd-ba2f-d850d7c288b5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/j.zs.20140406</alternateIdentifier>
+                <alternateIdentifier>d0c2bd3b-b59c-40cd-ba2f-d850d7c288b5</alternateIdentifier>
+                <alternateIdentifier>10.15468/p83v7f</alternateIdentifier>
+                <alternateIdentifier>053DEE6B-462D-483A-ABCB-7FF46C6BC8B1</alternateIdentifier>
+                <alternateIdentifier>FFE32319EF62742AFFC6FFE0FFAEFFE4</alternateIdentifier>
+        <title>Taxonomic review of East Palearctic species of Synergus section I, with description of a new species from China (Hymenoptera: Cynipidae: Cynipinae)</title>
+            <creator>
+            <individualName>
+<givenName>Juli</givenName>                    <surName>Pujade-Villar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yi-Ping</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xue-Xin</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jun-Hua</givenName>                    <surName>He</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pujade-Villar, Juli, Wang, Yi-Ping, Chen, Xue-Xin, He, Jun-Hua (2014): Taxonomic review of East Palearctic species of Synergus section I, with description of a new species from China (Hymenoptera: Cynipidae: Cynipinae). Zoological Systematics 39 (4): 534-544, DOI: 10.11865/j.zs.20140406</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE32319EF62742AFFC6FFE0FFAEFFE4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:08Z</dateStamp>
+                <citation>Pujade-Villar J, Wang Y, Chen X, He J, carolina (2014). Taxonomic review of East Palearctic species of Synergus section I, with description of a new species from China (Hymenoptera: Cynipidae: Cynipinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/j.zs.20140406 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

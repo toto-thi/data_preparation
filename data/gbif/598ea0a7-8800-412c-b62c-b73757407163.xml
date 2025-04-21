@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="598ea0a7-8800-412c-b62c-b73757407163"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1515/aemnp-2017-0113</alternateIdentifier>
+                <alternateIdentifier>598ea0a7-8800-412c-b62c-b73757407163</alternateIdentifier>
+                <alternateIdentifier>10.15468/y88ps3</alternateIdentifier>
+                <alternateIdentifier>BB191E4F-DC19-4D2F-9EBF-1EC4D6A5BE52</alternateIdentifier>
+                <alternateIdentifier>FFA74E5EF233DD7A670A3F03FFF46E4F</alternateIdentifier>
+        <title>Colotrema socotrana sp. nov. from Socotra Island, with new records of the genus from Yemen (Coleoptera: Malachiidae)</title>
+            <creator>
+            <individualName>
+<givenName>Isidor S.</givenName>                    <surName>Plonski</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Plonski, Isidor S. (2017): Colotrema socotrana sp. nov. from Socotra Island, with new records of the genus from Yemen (Coleoptera: Malachiidae). Acta Entomologica Musei Nationalis Pragae (Acta. Ent. Mus. Natl. Pragae) 57: 125-131, DOI: 10.1515/aemnp-2017-0113, URL: http://dx.doi.org/10.1515/aemnp-2017-0113</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA74E5EF233DD7A670A3F03FFF46E4F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:14Z</dateStamp>
+                <citation>Plonski I S, marcus (2017). Colotrema socotrana sp. nov. from Socotra Island, with new records of the genus from Yemen (Coleoptera: Malachiidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1515/aemnp-2017-0113 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

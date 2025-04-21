@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="73f2c6ff-3435-45e6-a8b7-c5f4ac5d4ebd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.190129</alternateIdentifier>
+                <alternateIdentifier>73f2c6ff-3435-45e6-a8b7-c5f4ac5d4ebd</alternateIdentifier>
+                <alternateIdentifier>10.15468/c1pc3g</alternateIdentifier>
+                <alternateIdentifier>FFA67843FFDF6976C6299337FFA0A13A</alternateIdentifier>
+        <title>Barrosasaurus casamiquelai gen. et sp. nov., a new titanosaur (Dinosauria, Sauropoda) from the Anacleto Formation (Late Cretaceous: early Campanian) of Sierra Barrosa (Neuquén, Argentina)</title>
+            <creator>
+            <individualName>
+<givenName>Leonardo</givenName>                    <surName>Salgado</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodolfo A.</givenName>                    <surName>Coria</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Salgado, Leonardo, Coria, Rodolfo A. (2009): Barrosasaurus casamiquelai gen. et sp. nov., a new titanosaur (Dinosauria, Sauropoda) from the Anacleto Formation (Late Cretaceous: early Campanian) of Sierra Barrosa (Neuquén, Argentina). Zootaxa 2222: 1-16, DOI: 10.5281/zenodo.190129</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA67843FFDF6976C6299337FFA0A13A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:38Z</dateStamp>
+                <citation>Salgado L, Coria R A, plazi (2009). Barrosasaurus casamiquelai gen. et sp. nov., a new titanosaur (Dinosauria, Sauropoda) from the Anacleto Formation (Late Cretaceous: early Campanian) of Sierra Barrosa (Neuquén, Argentina). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.190129 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

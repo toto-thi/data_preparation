@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5d9f7315-0593-472a-a14b-bd8f6ff42a0b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/afrinvertebr.62.62426</alternateIdentifier>
+                <alternateIdentifier>10.15468/kyy89a</alternateIdentifier>
+                <alternateIdentifier>CB8696658A1A58648E866F46E1A82055</alternateIdentifier>
+        <title>Taxonomic revision of the Calotheca parvula species group from southern Africa, with descriptions of three new species (Coleoptera, Chrysomelidae)</title>
+            <creator>
+            <individualName>
+<givenName>Paola</givenName>                    <surName>D&apos;Alessandro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mattia</givenName>                    <surName>Iannella</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elizabeth</givenName>                    <surName>Grobbelaar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maurizio</givenName>                    <surName>Biondi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article D&amp;#39;Alessandro, Paola, Iannella, Mattia, Grobbelaar, Elizabeth, Biondi, Maurizio (2021): Taxonomic revision of the Calotheca parvula species group from southern Africa, with descriptions of three new species (Coleoptera, Chrysomelidae). African Invertebrates 62 (1): 315-337, DOI: http://dx.doi.org/10.3897/AfrInvertebr.62.62426, URL: http://dx.doi.org/10.3897/AfrInvertebr.62.62426</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/CB8696658A1A58648E866F46E1A82055</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:56Z</dateStamp>
+                <citation>D&apos;Alessandro P, Iannella M, Grobbelaar E, Biondi M, pensoft (2021). Taxonomic revision of the Calotheca parvula species group from southern Africa, with descriptions of three new species (Coleoptera, Chrysomelidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/afrinvertebr.62.62426 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

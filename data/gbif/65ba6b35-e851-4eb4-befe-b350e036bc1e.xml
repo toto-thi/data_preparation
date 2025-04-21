@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="65ba6b35-e851-4eb4-befe-b350e036bc1e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.173238</alternateIdentifier>
+                <alternateIdentifier>65ba6b35-e851-4eb4-befe-b350e036bc1e</alternateIdentifier>
+                <alternateIdentifier>10.15468/degsde</alternateIdentifier>
+                <alternateIdentifier>819CF390-DBC1-401A-A16C-6A69B37B1A74</alternateIdentifier>
+                <alternateIdentifier>400BFF959E73FF90FF96F178E55E6C10</alternateIdentifier>
+        <title>Neopsittaconirmus vendulae, a new species of louse (Phthiraptera: Philopteridae) from the Cockatiel Nymphicus hollandicus (Psittaciformes: Cacatuidae)</title>
+            <creator>
+            <individualName>
+<givenName>Old Ř Ich</givenName>                    <surName>Sychra</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2006-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sychra, Old Ř Ich (2006): Neopsittaconirmus vendulae, a new species of louse (Phthiraptera: Philopteridae) from the Cockatiel Nymphicus hollandicus (Psittaciformes: Cacatuidae). Zootaxa 1270: 57-68, DOI: 10.5281/zenodo.173238</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/400BFF959E73FF90FF96F178E55E6C10</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:23Z</dateStamp>
+                <citation>Sychra O Ř I, plazi (2006). Neopsittaconirmus vendulae, a new species of louse (Phthiraptera: Philopteridae) from the Cockatiel Nymphicus hollandicus (Psittaciformes: Cacatuidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.173238 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

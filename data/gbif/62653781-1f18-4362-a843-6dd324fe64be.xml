@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="62653781-1f18-4362-a843-6dd324fe64be"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/tgqvuf</alternateIdentifier>
+                <alternateIdentifier>7664C34EFFBD291FFF95FFE4FFA0FFBD</alternateIdentifier>
+        <title>Modern taxonomic approaches to identifying diatrypaceous fungi from marine habitats, with a novel genus Halocryptovalsa Dayarathne &amp; K. D. Hyde, gen. nov.</title>
+            <creator>
+            <individualName>
+<givenName>Monika C.</givenName>                    <surName>Dayarathne</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dhanushka N.</givenName>                    <surName>Wanasinghe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>B.</givenName>                    <surName>Devadatha</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pranami</givenName>                    <surName>Abeywickrama</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>E. B.</givenName>                    <surName>G</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>areth</givenName>                    <surName>Jones</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Putarak</givenName>                    <surName>Chomnunti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>V. V.</givenName>                    <surName>Sarma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin D.</givenName>                    <surName>Hyde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Saisamorn</givenName>                    <surName>Lumyong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eric H.</givenName>                    <surName>C.</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Mckenzie</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dayarathne, Monika C., Wanasinghe, Dhanushka N., Devadatha, B., Abeywickrama, Pranami, G, E. B., Jones, areth, Chomnunti, Putarak, Sarma, V. V., Hyde, Kevin D., Lumyong, Saisamorn, C., Eric H., Mckenzie (2020): Modern taxonomic approaches to identifying diatrypaceous fungi from marine habitats, with a novel genus Halocryptovalsa Dayarathne &amp;amp; K. D. Hyde, gen. nov. Cryptogamie, Mycologie 20 (3): 21-67, DOI: 10.5252/cryptogamie-mycologie2020v41a3, URL: http://dx.doi.org/10.5252/cryptogamie-mycologie2020v41a3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/7664C34EFFBD291FFF95FFE4FFA0FFBD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:53Z</dateStamp>
+                <citation>Dayarathne M C, Wanasinghe D N, Devadatha B, Abeywickrama P, G E B, Jones A, Chomnunti P, Sarma V V, Hyde K D, Lumyong S, C. E H, Mckenzie, felipe (2020). Modern taxonomic approaches to identifying diatrypaceous fungi from marine habitats, with a novel genus Halocryptovalsa Dayarathne &amp; K. D. Hyde, gen. nov.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/tgqvuf accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

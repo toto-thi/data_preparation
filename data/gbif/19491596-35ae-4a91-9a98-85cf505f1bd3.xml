@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="19491596-35ae-4a91-9a98-85cf505f1bd3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/0qnb58</alternateIdentifier>
+                <alternateIdentifier>13623</alternateIdentifier>
+        <title>The IUCN Red List of Threatened Species</title>
+            <associatedParty>
+            <individualName>
+<givenName>Matthew</givenName>                    <surName>Blissett</surName>
+            </individualName>
+<organizationName>GBIF</organizationName><positionName>Software Developer</positionName><electronicMailAddress>mblissett@gbif.org</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0003-0623-6682</userId>
+            <role>PROGRAMMER</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Ackbar</givenName>                    <surName>Joolia</surName>
+            </individualName>
+<organizationName>International Union for Conservation of Nature</organizationName><positionName>Biodiversity Systems Manager</positionName><electronicMailAddress>Ackbar.JOOLIA@iucn.org</electronicMailAddress>            <role>TECHNICAL_POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2023-05-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Established in 1964, the International Union for Conservation of Nature’s Red List of Threatened Species has evolved to become the world’s most comprehensive information source on the global extinction risk status of animal, fungus and plant species.
+
+The IUCN Red List is a critical indicator of the health of the world’s biodiversity. Far more than a list of species and their status, it is a powerful tool to inform and catalyse action for biodiversity conservation and policy change, critical to protecting the natural resources we need to survive. It provides information about range, population size, habitat and ecology, use and/or trade, threats, and conservation actions that will help inform necessary conservation decisions.
+
+The IUCN Red List is used by government agencies, wildlife departments, conservation-related non-governmental organisations (NGOs), natural resource planners, educational organisations, students, and the business community. The Red List process has become a massive enterprise involving the IUCN Global Species Program staff, partner organisations and experts in the IUCN Species Survival Commission and partner networks who compile the species information to make The IUCN Red List the indispensable product it is today.</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.iucnredlist.org/</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Craig</givenName>                    <surName>Hilton-Taylor</surName>
+            </individualName>
+<organizationName>International Union for Conservation of Nature</organizationName><electronicMailAddress>Craig.HILTON-TAYLOR@iucn.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:19Z</dateStamp>
+                <citation>IUCN (2022). The IUCN Red List of Threatened Species. Version 2022-2. https://www.iucnredlist.org. Downloaded on 2023-05-09. https://doi.org/10.15468/0qnb58 accessed via GBIF.org on 2023-08-28.</citation>
+                    <resourceLogoUrl>https://raw.githubusercontent.com/mdoering/checklist_builder/master/src/main/resources/iucn/IUCN_Red_List.svg</resourceLogoUrl>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

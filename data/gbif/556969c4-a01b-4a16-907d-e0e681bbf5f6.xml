@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="556969c4-a01b-4a16-907d-e0e681bbf5f6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4778.3.3</alternateIdentifier>
+                <alternateIdentifier>556969c4-a01b-4a16-907d-e0e681bbf5f6</alternateIdentifier>
+                <alternateIdentifier>10.15468/m6vq73</alternateIdentifier>
+                <alternateIdentifier>6D747D40-ACB2-473D-B41C-2DA04B10F225</alternateIdentifier>
+                <alternateIdentifier>FFA86247FF88265C9134FFDCFFA7FFAD</alternateIdentifier>
+        <title>New Gnamptodontinae (Hymenoptera: Braconidae) from China and Vietnam, with two genera new for China and seven new species</title>
+            <creator>
+            <individualName>
+<givenName>Xiao-Xia</givenName>                    <surName>Tian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cornelis Van</givenName>                    <surName>Achterberg</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jia-Xuan</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jiang-Li</givenName>                    <surName>Tan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tian, Xiao-Xia, Achterberg, Cornelis Van, Wu, Jia-Xuan, Tan, Jiang-Li (2020): New Gnamptodontinae (Hymenoptera: Braconidae) from China and Vietnam, with two genera new for China and seven new species. Zootaxa 4778 (3): 471-508, DOI: https://doi.org/10.11646/zootaxa.4778.3.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA86247FF88265C9134FFDCFFA7FFAD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:30Z</dateStamp>
+                <citation>Tian X, Achterberg C V, Wu J, Tan J, plazi (2020). New Gnamptodontinae (Hymenoptera: Braconidae) from China and Vietnam, with two genera new for China and seven new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4778.3.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

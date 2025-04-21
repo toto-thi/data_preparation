@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f56dfa57-62ef-4f43-bb9a-c5368df89fc1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.190572</alternateIdentifier>
+                <alternateIdentifier>f56dfa57-62ef-4f43-bb9a-c5368df89fc1</alternateIdentifier>
+                <alternateIdentifier>10.15468/dnm5ec</alternateIdentifier>
+                <alternateIdentifier>FA78FFC0FFF9FF995562FFADAC526153</alternateIdentifier>
+        <title>Dactylogyrids (Platyhelminthes: Monogenea) from the gills of the African carp, Labeo coubie Rüppell (Cyprinidae), from Senegal, with descriptions of three new species of Dactylogyrus and the redescription of Dactylogyrus cyclocirrus Paperna, 1973</title>
+            <creator>
+            <individualName>
+<givenName>Na Ď A</givenName>                    <surName>Musilová</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eva Ř</givenName>                    <surName>Ehulková</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Milan</givenName>                    <surName>Gelnar</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Musilová, Na Ď A, Ehulková, Eva Ř, Gelnar, Milan (2009): Dactylogyrids (Platyhelminthes: Monogenea) from the gills of the African carp, Labeo coubie Rüppell (Cyprinidae), from Senegal, with descriptions of three new species of Dactylogyrus and the redescription of Dactylogyrus cyclocirrus Paperna, 1973. Zootaxa 2241: 47-68, DOI: 10.5281/zenodo.190572</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FA78FFC0FFF9FF995562FFADAC526153</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:55Z</dateStamp>
+                <citation>Musilová N Ď A, Ehulková E Ř, Gelnar M, plazi (2009). Dactylogyrids (Platyhelminthes: Monogenea) from the gills of the African carp, Labeo coubie Rüppell (Cyprinidae), from Senegal, with descriptions of three new species of Dactylogyrus and the redescription of Dactylogyrus cyclocirrus Paperna, 1973. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.190572 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5055cc26-7c64-478c-bcaf-72784931d7e4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4545.3.6</alternateIdentifier>
+                <alternateIdentifier>10.15468/9mpzhk</alternateIdentifier>
+                <alternateIdentifier>5B9851C2-AF9C-4D74-85CB-20E1BDBD98D6</alternateIdentifier>
+                <alternateIdentifier>0A1FFFF1FF9BFFD4FFF6C939C3507C16</alternateIdentifier>
+        <title>New Entodiniomorphid Ciliates, Buetschlia minuta n. sp., B. cirrata n. sp., Charonina elephanti n. sp., from Asian Elephants of Turkey</title>
+            <creator>
+            <individualName>
+<givenName>Gözde</givenName>                    <surName>Gürelli</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-01-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gürelli, Gözde (2019): New Entodiniomorphid Ciliates, Buetschlia minuta n. sp., B. cirrata n. sp., Charonina elephanti n. sp., from Asian Elephants of Turkey. Zootaxa 4545 (3): 419-433, DOI: https://doi.org/10.11646/zootaxa.4545.3.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/0A1FFFF1FF9BFFD4FFF6C939C3507C16</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:08Z</dateStamp>
+                <citation>Gürelli G, plazi (2019). New Entodiniomorphid Ciliates, Buetschlia minuta n. sp., B. cirrata n. sp., Charonina elephanti n. sp., from Asian Elephants of Turkey. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4545.3.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

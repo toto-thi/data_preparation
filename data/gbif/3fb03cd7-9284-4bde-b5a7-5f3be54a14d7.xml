@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3fb03cd7-9284-4bde-b5a7-5f3be54a14d7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3630.3.2</alternateIdentifier>
+                <alternateIdentifier>3fb03cd7-9284-4bde-b5a7-5f3be54a14d7</alternateIdentifier>
+                <alternateIdentifier>10.15468/nps7qj</alternateIdentifier>
+                <alternateIdentifier>41BD1952-5232-4332-B722-DE99777DD6B4</alternateIdentifier>
+                <alternateIdentifier>3719FF619804D67E2E011908FFCAFFF9</alternateIdentifier>
+        <title>The ANDEEP Tanaidacea (Crustacea: Peracarida) revisited I: the family Agathotanaidae Lang, with description of four new species</title>
+            <creator>
+            <individualName>
+<givenName>Kim</givenName>                    <surName>Larsen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Graham</givenName>                    <surName>Bird</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mayumi</givenName>                    <surName>Ota</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Larsen, Kim, Bird, Graham, Ota, Mayumi (2013): The ANDEEP Tanaidacea (Crustacea: Peracarida) revisited I: the family Agathotanaidae Lang, with description of four new species. Zootaxa 3630 (3): 424-444, DOI: http://dx.doi.org/10.11646/zootaxa.3630.3.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/3719FF619804D67E2E011908FFCAFFF9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:27Z</dateStamp>
+                <citation>Larsen K, Bird G, Ota M, plazi (2013). The ANDEEP Tanaidacea (Crustacea: Peracarida) revisited I: the family Agathotanaidae Lang, with description of four new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3630.3.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

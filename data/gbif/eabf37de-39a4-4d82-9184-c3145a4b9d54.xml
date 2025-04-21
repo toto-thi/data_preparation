@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="eabf37de-39a4-4d82-9184-c3145a4b9d54"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3ubesx</alternateIdentifier>
+                <alternateIdentifier>FF98FFF3B7349069ED6FFFFDFFE4EC48</alternateIdentifier>
+        <title>A new snake of the genus Dendrelaphis Boulenger, 1890 (Squamata: Colubridae) from the coastal area of southern Vietnam</title>
+            <creator>
+            <individualName>
+<givenName>Sang Ngoc</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vu Dang Hoang</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manh Van</givenName>                    <surName>Le</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luan Thanh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thi-Dieu-Hien</givenName>                    <surName>Vo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ba Dinh</givenName>                    <surName>Vo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jing</givenName>                    <surName>Che</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robert W.</givenName>                    <surName>Murphy</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nguyen, Sang Ngoc, Nguyen, Vu Dang Hoang, Le, Manh Van, Nguyen, Luan Thanh, Vo, Thi-Dieu-Hien, Vo, Ba Dinh, Che, Jing, Murphy, Robert W. (2023): A new snake of the genus Dendrelaphis Boulenger, 1890 (Squamata: Colubridae) from the coastal area of southern Vietnam. Zootaxa 5318 (1): 130-144, DOI: 10.11646/zootaxa.5318.1.6, URL: http://dx.doi.org/10.11646/zootaxa.5318.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF98FFF3B7349069ED6FFFFDFFE4EC48</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:50Z</dateStamp>
+                <citation>Nguyen S N, Nguyen V D H, Le M V, Nguyen L T, Vo T, Vo B D, Che J, Murphy R W, plazi (2023). A new snake of the genus Dendrelaphis Boulenger, 1890 (Squamata: Colubridae) from the coastal area of southern Vietnam. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3ubesx accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Nguyen, Sang Ngoc, Nguyen, Vu Dang Hoang, Le, Manh Van, Nguyen, Luan Thanh, Vo, Thi-Dieu-Hien, Vo, Ba Dinh, Che, Jing, Murphy, Robert W. (2023): A new snake of the genus Dendrelaphis Boulenger, 1890 (Squamata: Colubridae) from the coastal area of southern Vietnam. Zootaxa 5318 (1): 130-144, DOI: 10.11646/zootaxa.5318.1.6, URL: http://dx.doi.org/10.11646/zootaxa.5318.1.6</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

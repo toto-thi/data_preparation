@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cac72c82-2c83-401f-b6d0-8afb5321fde3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.28.325</alternateIdentifier>
+                <alternateIdentifier>cac72c82-2c83-401f-b6d0-8afb5321fde3</alternateIdentifier>
+                <alternateIdentifier>10.15468/cfgjh9</alternateIdentifier>
+                <alternateIdentifier>A979ECDE-871F-4AFC-9ABA-63A0FD6DC323</alternateIdentifier>
+                <alternateIdentifier>FFA25310FF879B57A576B119FF895175</alternateIdentifier>
+        <title>Cretaceous Crocodyliforms from the Sahara</title>
+            <creator>
+            <individualName>
+<givenName>Paul</givenName>                    <surName>Sereno</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hans</givenName>                    <surName>Larsson</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-11-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sereno, Paul, Larsson, Hans (2009): Cretaceous Crocodyliforms from the Sahara. ZooKeys 28 (28): 1-143, DOI: 10.3897/zookeys.28.325</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA25310FF879B57A576B119FF895175</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:19Z</dateStamp>
+                <citation>Sereno P, Larsson H, plazi (2009). Cretaceous Crocodyliforms from the Sahara. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.28.325 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

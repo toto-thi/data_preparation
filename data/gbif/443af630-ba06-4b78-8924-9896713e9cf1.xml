@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="443af630-ba06-4b78-8924-9896713e9cf1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.243.3990</alternateIdentifier>
+                <alternateIdentifier>10.15468/3jcyuf</alternateIdentifier>
+                <alternateIdentifier>AE0705BD-8F76-4ADD-92E5-D1A1AD91B01D</alternateIdentifier>
+                <alternateIdentifier>A334154EFF8AFF9C0E2B8B29FFD7FB06</alternateIdentifier>
+        <title>New neotropical species of Opiinae (Hymenoptera, Braconidae) reared from fruit-infesting and leaf-mining Tephritidae (Diptera) with comments on the Diachasmimorpha mexicana species group and the genera Lorenzopius and Tubiformopius</title>
+            <creator>
+            <individualName>
+<givenName>Robert</givenName>                    <surName>Wharton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lauren</givenName>                    <surName>Ward</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Istvan</givenName>                    <surName>Miko</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wharton, Robert, Ward, Lauren, Miko, Istvan (2012): New neotropical species of Opiinae (Hymenoptera, Braconidae) reared from fruit-infesting and leaf-mining Tephritidae (Diptera) with comments on the Diachasmimorpha mexicana species group and the genera Lorenzopius and Tubiformopius. ZooKeys 243: 27-82, DOI: http://dx.doi.org/10.3897/zookeys.243.3990, URL: http://dx.doi.org/10.3897/zookeys.243.3990</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A334154EFF8AFF9C0E2B8B29FFD7FB06</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:11Z</dateStamp>
+                <citation>Wharton R, Ward L, Miko I, pensoft (2012). New neotropical species of Opiinae (Hymenoptera, Braconidae) reared from fruit-infesting and leaf-mining Tephritidae (Diptera) with comments on the Diachasmimorpha mexicana species group and the genera Lorenzopius and Tubiformopius. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.243.3990 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

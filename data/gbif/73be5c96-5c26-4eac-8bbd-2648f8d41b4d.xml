@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="73be5c96-5c26-4eac-8bbd-2648f8d41b4d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4751.3.1</alternateIdentifier>
+                <alternateIdentifier>73be5c96-5c26-4eac-8bbd-2648f8d41b4d</alternateIdentifier>
+                <alternateIdentifier>10.15468/h2ici5</alternateIdentifier>
+                <alternateIdentifier>3855BBC8-BB60-4D5F-B96C-0204DDEEBA68</alternateIdentifier>
+                <alternateIdentifier>F263FFE8FFD1FFEE3F06F213FFE73D66</alternateIdentifier>
+        <title>Taxonomic review of the Hyphessobrycon panamensis species-group (Characiformes: Characidae)</title>
+            <creator>
+            <individualName>
+<givenName>Renata R.</givenName>                    <surName>Ota</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fernando R.</givenName>                    <surName>Carvalho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carla S.</givenName>                    <surName>Pavanelli</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ota, Renata R., Carvalho, Fernando R., Pavanelli, Carla S. (2020): Taxonomic review of the Hyphessobrycon panamensis species-group (Characiformes: Characidae). Zootaxa 4751 (3): 401-436, DOI: https://doi.org/10.11646/zootaxa.4751.3.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F263FFE8FFD1FFEE3F06F213FFE73D66</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:36Z</dateStamp>
+                <citation>Ota R R, Carvalho F R, Pavanelli C S, plazi (2020). Taxonomic review of the Hyphessobrycon panamensis species-group (Characiformes: Characidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4751.3.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="af75d1c4-70c5-4ca8-9d82-8b91b869015f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/yh6e7s</alternateIdentifier>
+                <alternateIdentifier>7F3FFFD8FFC8FC0FFFFAD827FF972B02</alternateIdentifier>
+        <title>Morphological and molecular phylogenetic data reveal another new species of bent-toed gecko (Cyrtodactylus Gray: Squamata: Gekkonidae) from Mizoram, India</title>
+            <creator>
+            <individualName>
+<givenName>Sanath Chandra</givenName>                    <surName>Bohra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hmar Tlawmte</givenName>                    <surName>Zonunsanga</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Madhurima</givenName>                    <surName>Das</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jayaditya</givenName>                    <surName>Purkayastha</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lal</givenName>                    <surName>Biakzuala</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hmar Tlawmte</givenName>                    <surName>Lalremsanga</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bohra, Sanath Chandra, Zonunsanga, Hmar Tlawmte, Das, Madhurima, Purkayastha, Jayaditya, Biakzuala, Lal, Lalremsanga, Hmar Tlawmte (2022): Morphological and molecular phylogenetic data reveal another new species of bent-toed gecko (Cyrtodactylus Gray: Squamata: Gekkonidae) from Mizoram, India. Journal of Natural History 56 (41 - 44): 1585-1608, DOI: 10.1080/00222933.2022.2119178, URL: http://dx.doi.org/10.1080/00222933.2022.2119178</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/7F3FFFD8FFC8FC0FFFFAD827FF972B02</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:57Z</dateStamp>
+                <citation>Bohra S C, Zonunsanga H T, Das M, Purkayastha J, Biakzuala L, Lalremsanga H T, plazi (2022). Morphological and molecular phylogenetic data reveal another new species of bent-toed gecko (Cyrtodactylus Gray: Squamata: Gekkonidae) from Mizoram, India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/yh6e7s accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

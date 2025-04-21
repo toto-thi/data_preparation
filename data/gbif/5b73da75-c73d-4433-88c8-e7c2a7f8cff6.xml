@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5b73da75-c73d-4433-88c8-e7c2a7f8cff6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4336.1.1</alternateIdentifier>
+                <alternateIdentifier>5b73da75-c73d-4433-88c8-e7c2a7f8cff6</alternateIdentifier>
+                <alternateIdentifier>10.15468/gziq9m</alternateIdentifier>
+                <alternateIdentifier>FA65E14F-102F-4FF1-B8D5-D7E0C9126878</alternateIdentifier>
+                <alternateIdentifier>FFE4FFE3CF43FFA1FFFDEF58FFA7FFE2</alternateIdentifier>
+        <title>New species of Colombian Triplocania Roesler (Psocodea: ‘ Psocoptera’: Ptiloneuridae)</title>
+            <creator>
+            <individualName>
+<givenName>Ranulfo</givenName>                    <surName>González-Obando</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>Carrejo-Gironza</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alfonso N.</givenName>                    <surName>García</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-10-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article González-Obando, Ranulfo, Carrejo-Gironza, Nancy, García, Alfonso N. (2017): New species of Colombian Triplocania Roesler (Psocodea: ‘ Psocoptera’: Ptiloneuridae). Zootaxa 4336 (1): 1-113, DOI: https://doi.org/10.11646/zootaxa.4336.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE4FFE3CF43FFA1FFFDEF58FFA7FFE2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:57Z</dateStamp>
+                <citation>González-Obando R, Carrejo-Gironza N, García A N, plazi (2017). New species of Colombian Triplocania Roesler (Psocodea: ‘ Psocoptera’: Ptiloneuridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4336.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

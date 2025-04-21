@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="288c1afe-5a7f-4f05-9e8f-57cb036ff030"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4044.4.1</alternateIdentifier>
+                <alternateIdentifier>288c1afe-5a7f-4f05-9e8f-57cb036ff030</alternateIdentifier>
+                <alternateIdentifier>10.15468/izizmi</alternateIdentifier>
+                <alternateIdentifier>58357227-54BB-4B37-9B03-5E8BBA9C5AC2</alternateIdentifier>
+                <alternateIdentifier>930E8A1CFFC7FFFDFFDC8462FFEA806A</alternateIdentifier>
+        <title>Revision of the pulchella - group of Alona s. lato leads to its translocation to Ovalona Van Damme et Dumont, 2008 (Branchiopoda: Anomopoda: Chydoridae)</title>
+            <creator>
+            <individualName>
+<givenName>Artem Y.</givenName>                    <surName>Sinev</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sinev, Artem Y. (2015): Revision of the pulchella - group of Alona s. lato leads to its translocation to Ovalona Van Damme et Dumont, 2008 (Branchiopoda: Anomopoda: Chydoridae). Zootaxa 4044 (4): 451-492, DOI: http://dx.doi.org/10.11646/zootaxa.4044.4.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/930E8A1CFFC7FFFDFFDC8462FFEA806A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:00Z</dateStamp>
+                <citation>Sinev A Y, plazi (2015). Revision of the pulchella - group of Alona s. lato leads to its translocation to Ovalona Van Damme et Dumont, 2008 (Branchiopoda: Anomopoda: Chydoridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4044.4.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

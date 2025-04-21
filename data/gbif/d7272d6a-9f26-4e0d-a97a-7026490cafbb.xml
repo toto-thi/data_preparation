@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d7272d6a-9f26-4e0d-a97a-7026490cafbb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3814.3.6</alternateIdentifier>
+                <alternateIdentifier>d7272d6a-9f26-4e0d-a97a-7026490cafbb</alternateIdentifier>
+                <alternateIdentifier>10.15468/5ic9jy</alternateIdentifier>
+                <alternateIdentifier>AC84A5B7-47E8-4031-B9C3-B19C1266332F</alternateIdentifier>
+                <alternateIdentifier>FFD03F58ED7BFFC83634FFF53F09C73C</alternateIdentifier>
+        <title>Flea weevils of the genus Megorchestes Kojima (Coleoptera, Curculionidae, Curculioninae, Rhamphini), with description of a second species from India</title>
+            <creator>
+            <individualName>
+<givenName>Shaloo</givenName>                    <surName>Ayri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiroaki</givenName>                    <surName>Kojima</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>V. V.</givenName>                    <surName>Ramamurthy</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ayri, Shaloo, Kojima, Hiroaki, Ramamurthy, V. V. (2014): Flea weevils of the genus Megorchestes Kojima (Coleoptera, Curculionidae, Curculioninae, Rhamphini), with description of a second species from India. Zootaxa 3814 (3): 392-398, DOI: http://dx.doi.org/10.11646/zootaxa.3814.3.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD03F58ED7BFFC83634FFF53F09C73C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:54Z</dateStamp>
+                <citation>Ayri S, Kojima H, Ramamurthy V V, plazi (2014). Flea weevils of the genus Megorchestes Kojima (Coleoptera, Curculionidae, Curculioninae, Rhamphini), with description of a second species from India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3814.3.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

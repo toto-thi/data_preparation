@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="77aa16c7-25ee-4130-a594-57ed6e914df1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.707.13042</alternateIdentifier>
+                <alternateIdentifier>10.15468/pzmogk</alternateIdentifier>
+                <alternateIdentifier>FFC7FFE8482EB03042654660FFF4EB7D</alternateIdentifier>
+        <title>Abyssal fauna of the UK- 1 polymetallic nodule exploration area, Clarion-Clipperton Zone, central Pacific Ocean: Mollusca</title>
+            <creator>
+            <individualName>
+<givenName>Helena</givenName>                    <surName>Wiklund</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>John D.</givenName>                    <surName>Taylor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thomas G.</givenName>                    <surName>Dahlgren</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christiane</givenName>                    <surName>Todt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chiho</givenName>                    <surName>Ikebe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Muriel</givenName>                    <surName>Rabone</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adrian G.</givenName>                    <surName>Glover</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wiklund, Helena, Taylor, John D., Dahlgren, Thomas G., Todt, Christiane, Ikebe, Chiho, Rabone, Muriel, Glover, Adrian G. (2017): Abyssal fauna of the UK- 1 polymetallic nodule exploration area, Clarion-Clipperton Zone, central Pacific Ocean: Mollusca. ZooKeys 707: 1-46, DOI: http://dx.doi.org/10.3897/zookeys.707.13042, URL: http://dx.doi.org/10.3897/zookeys.707.13042</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC7FFE8482EB03042654660FFF4EB7D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:44Z</dateStamp>
+                <citation>Wiklund H, Taylor J D, Dahlgren T G, Todt C, Ikebe C, Rabone M, Glover A G, pensoft (2017). Abyssal fauna of the UK- 1 polymetallic nodule exploration area, Clarion-Clipperton Zone, central Pacific Ocean: Mollusca. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.707.13042 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

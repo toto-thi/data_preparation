@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="48069658-661a-4c81-bea3-59b725356587"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.176880</alternateIdentifier>
+                <alternateIdentifier>10.15468/v4xvlx</alternateIdentifier>
+                <alternateIdentifier>0492B9D3-1D4C-47FC-BA32-63510F049884</alternateIdentifier>
+                <alternateIdentifier>B359FFB2FFF3FF882123DD060932833B</alternateIdentifier>
+        <title>Geoparnus rhinoceros sp. nov., a new edaphic dryopid with unusual sexual dimorphism (Coleoptera: Dryopidae)</title>
+            <creator>
+            <individualName>
+<givenName>Ján</givenName>                    <surName>Kodada</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manfred A.</givenName>                    <surName>Jäch</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fedor Č Iampor</givenName>                    <surName>Jr</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zuzana Č Iamporová- Za Ť Ovi Č</givenName>                    <surName>Ová</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kodada, Ján, Jäch, Manfred A., Jr, Fedor Č Iampor, Ová, Zuzana Č Iamporová- Za Ť Ovi Č (2007): Geoparnus rhinoceros sp. nov., a new edaphic dryopid with unusual sexual dimorphism (Coleoptera: Dryopidae). Zootaxa 1481: 59-68, DOI: 10.5281/zenodo.176880</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B359FFB2FFF3FF882123DD060932833B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:35Z</dateStamp>
+                <citation>Kodada J, Jäch M A, Jr F Č I, Ová Z Č I Z Ť O Č, plazi (2007). Geoparnus rhinoceros sp. nov., a new edaphic dryopid with unusual sexual dimorphism (Coleoptera: Dryopidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.176880 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

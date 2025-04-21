@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fbf65a8a-582e-4515-8e4e-0a6e58801e8f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4980.1.4</alternateIdentifier>
+                <alternateIdentifier>fbf65a8a-582e-4515-8e4e-0a6e58801e8f</alternateIdentifier>
+                <alternateIdentifier>10.15468/g7geuc</alternateIdentifier>
+                <alternateIdentifier>1C914024-9DB0-4D40-98B4-41F6DF0D4EB8</alternateIdentifier>
+                <alternateIdentifier>3064A943FFB6FFB7FF9CFFDDFFE1FF4D</alternateIdentifier>
+        <title>Type specimens of Ichneumonidae (Hymenoptera) described by Brèthes held in the Museo Argentino de Ciencias Naturales “ Bernardino Rivadavia ”, Argentina</title>
+            <creator>
+            <individualName>
+<givenName>Helena Carolina</givenName>                    <surName>Onody</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos Roberto Ferreira</givenName>                    <surName>Brandão</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pablo Ricardo</givenName>                    <surName>Mulieri</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-05-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Onody, Helena Carolina, Brandão, Carlos Roberto Ferreira, Mulieri, Pablo Ricardo (2021): Type specimens of Ichneumonidae (Hymenoptera) described by Brèthes held in the Museo Argentino de Ciencias Naturales “ Bernardino Rivadavia ”, Argentina. Zootaxa 4980 (1): 64-82, DOI: https://doi.org/10.11646/zootaxa.4980.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/3064A943FFB6FFB7FF9CFFDDFFE1FF4D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:51Z</dateStamp>
+                <citation>Onody H C, Brandão C R F, Mulieri P R, plazi (2021). Type specimens of Ichneumonidae (Hymenoptera) described by Brèthes held in the Museo Argentino de Ciencias Naturales “ Bernardino Rivadavia ”, Argentina. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4980.1.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

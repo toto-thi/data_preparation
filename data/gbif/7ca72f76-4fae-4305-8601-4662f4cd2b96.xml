@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7ca72f76-4fae-4305-8601-4662f4cd2b96"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.719.1107</alternateIdentifier>
+                <alternateIdentifier>10.5852/ejt.2020.719</alternateIdentifier>
+                <alternateIdentifier>7ca72f76-4fae-4305-8601-4662f4cd2b96</alternateIdentifier>
+                <alternateIdentifier>10.15468/nt4sqv</alternateIdentifier>
+                <alternateIdentifier>A4500016-C219-4353-B81C-5E0BB520547F</alternateIdentifier>
+                <alternateIdentifier>D919FFB21F429539FF87FFA1DC7AFFEB</alternateIdentifier>
+        <title>Widespread polytypic species or complexes of local species? Revising bumblebees of the subgenus Melanobombus world-wide (Hymenoptera, Apidae, Bombus)</title>
+            <creator>
+            <individualName>
+<givenName>Paul H.</givenName>                    <surName>Williams</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dorjsuren</givenName>                    <surName>Altanchimeg</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexandr</givenName>                    <surName>Byvaltsev</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roland De</givenName>                    <surName>Jonghe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Saleem</givenName>                    <surName>Jaffar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>George</givenName>                    <surName>Japoshvili</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sih</givenName>                    <surName>Kahono</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Huan</givenName>                    <surName>Liang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maurizio</givenName>                    <surName>Mei</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alireza</givenName>                    <surName>Monfared</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tshering</givenName>                    <surName>Nidup</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rifat</givenName>                    <surName>Raina</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zongxin</givenName>                    <surName>Ren</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chawatat</givenName>                    <surName>Thanoosing</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yanhui</givenName>                    <surName>Zhao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael C.</givenName>                    <surName>Orr</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Williams, Paul H., Altanchimeg, Dorjsuren, Byvaltsev, Alexandr, Jonghe, Roland De, Jaffar, Saleem, Japoshvili, George, Kahono, Sih, Liang, Huan, Mei, Maurizio, Monfared, Alireza, Nidup, Tshering, Raina, Rifat, Ren, Zongxin, Thanoosing, Chawatat, Zhao, Yanhui, Orr, Michael C. (2020): Widespread polytypic species or complexes of local species? Revising bumblebees of the subgenus Melanobombus world-wide (Hymenoptera, Apidae, Bombus). European Journal of Taxonomy 719: 1-120, DOI: https://doi.org/10.5852/ejt.2020.719.1107</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D919FFB21F429539FF87FFA1DC7AFFEB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:20Z</dateStamp>
+                <citation>Williams P H, Altanchimeg D, Byvaltsev A, Jonghe R D, Jaffar S, Japoshvili G, Kahono S, Liang H, Mei M, Monfared A, Nidup T, Raina R, Ren Z, Thanoosing C, Zhao Y, Orr M C, valdenar (2020). Widespread polytypic species or complexes of local species? Revising bumblebees of the subgenus Melanobombus world-wide (Hymenoptera, Apidae, Bombus). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.719.1107 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

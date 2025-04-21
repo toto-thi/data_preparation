@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7ee3e454-eff3-4ff8-8118-6ee8759e8957"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.720.1113</alternateIdentifier>
+                <alternateIdentifier>7ee3e454-eff3-4ff8-8118-6ee8759e8957</alternateIdentifier>
+                <alternateIdentifier>10.15468/w4a8kx</alternateIdentifier>
+                <alternateIdentifier>36EEBC1B-2355-43D9-B844-F321DD1E7D24</alternateIdentifier>
+                <alternateIdentifier>FF899360FFB5F75DFFD0FF99093FFFE3</alternateIdentifier>
+        <title>Revision of the lanternfly genus Limois Stål, 1863 (Hemiptera: Fulgoromorpha: Fulgoridae) with description of a new species from China</title>
+            <creator>
+            <individualName>
+<givenName>Wen-Qian</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jérôme</givenName>                    <surName>Constant</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dao-Zheng</givenName>                    <surName>Qin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wang, Wen-Qian, Constant, Jérôme, Qin, Dao-Zheng (2020): Revision of the lanternfly genus Limois Stål, 1863 (Hemiptera: Fulgoromorpha: Fulgoridae) with description of a new species from China. European Journal of Taxonomy 720: 35-61, DOI: https://doi.org/10.5852/ejt.2020.720.1113</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF899360FFB5F75DFFD0FF99093FFFE3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:33Z</dateStamp>
+                <citation>Wang W, Constant J, Qin D, valdenar (2020). Revision of the lanternfly genus Limois Stål, 1863 (Hemiptera: Fulgoromorpha: Fulgoridae) with description of a new species from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.720.1113 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

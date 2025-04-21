@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="344edf21-53fc-463c-a6a5-00a0b5e277b5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/nskgmu</alternateIdentifier>
+                <alternateIdentifier>FFABD24DFFE0B214A573FFB0FFB8FFAA</alternateIdentifier>
+        <title>Taxonomic studies on Parahellenia (Costaceae) in Vietnam: a new species, P. trongduyii, and a new combination, P. candida</title>
+            <creator>
+            <individualName>
+<givenName>Juan</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Canh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Van Khuong</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Khang Sinh</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maxim S.</givenName>                    <surName>Nuraliev</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nianhe</givenName>                    <surName>Xia</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Chen, Juan, Nguyen, Van Canh, Nguyen, Van Khuong, Nguyen, Khang Sinh, Nuraliev, Maxim S., Xia, Nianhe (2023): Taxonomic studies on Parahellenia (Costaceae) in Vietnam: a new species, P. trongduyii, and a new combination, P. candida. Phytotaxa 583 (1): 72-80, DOI: 10.11646/phytotaxa.583.1.7, URL: http://dx.doi.org/10.11646/phytotaxa.583.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFABD24DFFE0B214A573FFB0FFB8FFAA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:45Z</dateStamp>
+                <citation>Chen J, Nguyen V C, Nguyen V K, Nguyen K S, Nuraliev M S, Xia N, plazi (2023). Taxonomic studies on Parahellenia (Costaceae) in Vietnam: a new species, P. trongduyii, and a new combination, P. candida. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/nskgmu accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b21652c7-9d47-402f-bf45-a524a3181d21"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1206/3958.1</alternateIdentifier>
+                <alternateIdentifier>b21652c7-9d47-402f-bf45-a524a3181d21</alternateIdentifier>
+                <alternateIdentifier>10.15468/trqd4s</alternateIdentifier>
+                <alternateIdentifier>FE7BFFEDFFDB3C17867EFFAFFFA2FFB0</alternateIdentifier>
+        <title>Systematics of Neotropical Spiny Mice, Genus Neacomys Thomas, 1900 (Rodentia: Cricetidae), from Southeastern Amazonia, with Descriptions of Three New Species</title>
+            <creator>
+            <individualName>
+<givenName>Thiago Borges Fernandes</givenName>                    <surName>Semedo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maria Nazareth Ferreira Da</givenName>                    <surName>Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eliécer E.</givenName>                    <surName>Gutiérrez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniela Cristina</givenName>                    <surName>Ferreira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mario Da Silva</givenName>                    <surName>Nunes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana Cristina</givenName>                    <surName>Mendes-Oliveira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Izeni Pires</givenName>                    <surName>Farias</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rogério Vieira</givenName>                    <surName>Rossi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Semedo, Thiago Borges Fernandes, Silva, Maria Nazareth Ferreira Da, Gutiérrez, Eliécer E., Ferreira, Daniela Cristina, Nunes, Mario Da Silva, Mendes-Oliveira, Ana Cristina, Farias, Izeni Pires, Rossi, Rogério Vieira (2020): Systematics of Neotropical Spiny Mice, Genus Neacomys Thomas, 1900 (Rodentia: Cricetidae), from Southeastern Amazonia, with Descriptions of Three New Species. American Museum Novitates 2020 (3958): 1-43, DOI: https://doi.org/10.1206/3958.1, URL: http://dx.doi.org/10.1206/3958.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FE7BFFEDFFDB3C17867EFFAFFFA2FFB0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:31Z</dateStamp>
+                <citation>Semedo T B F, Silva M N F D, Gutiérrez E E, Ferreira D C, Nunes M D S, Mendes-Oliveira A C, Farias I P, Rossi R V, felipe (2020). Systematics of Neotropical Spiny Mice, Genus Neacomys Thomas, 1900 (Rodentia: Cricetidae), from Southeastern Amazonia, with Descriptions of Three New Species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1206/3958.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

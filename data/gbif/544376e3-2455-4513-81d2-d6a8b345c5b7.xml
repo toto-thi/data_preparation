@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="544376e3-2455-4513-81d2-d6a8b345c5b7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/mycokeys.66.50946</alternateIdentifier>
+                <alternateIdentifier>10.15468/qfgueg</alternateIdentifier>
+                <alternateIdentifier>C5A0C9E410E354A8A1FF1A8FE8F4EA98</alternateIdentifier>
+        <title>Discovery of a new species of the Hypoxylon rubiginosum complex from Iran and antagonistic activities of Hypoxylon spp. against the Ash Dieback pathogen, Hymenoscyphus fraxineus, in dual culture</title>
+            <creator>
+            <individualName>
+<givenName>Mohammad Javad</givenName>                    <surName>Pourmoghaddam</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christopher</givenName>                    <surName>Lambert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frank</givenName>                    <surName>Surup</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Seyed Akbar</givenName>                    <surName>Khodaparast</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Irmgard</givenName>                    <surName>Krisai-Greilhuber</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hermann</givenName>                    <surName>Voglmayr</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marc</givenName>                    <surName>Stadler</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pourmoghaddam, Mohammad Javad, Lambert, Christopher, Surup, Frank, Khodaparast, Seyed Akbar, Krisai-Greilhuber, Irmgard, Voglmayr, Hermann, Stadler, Marc (2020): Discovery of a new species of the Hypoxylon rubiginosum complex from Iran and antagonistic activities of Hypoxylon spp. against the Ash Dieback pathogen, Hymenoscyphus fraxineus, in dual culture. MycoKeys 66: 105-133, DOI: http://dx.doi.org/10.3897/mycokeys.66.50946, URL: http://dx.doi.org/10.3897/mycokeys.66.50946</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C5A0C9E410E354A8A1FF1A8FE8F4EA98</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:26Z</dateStamp>
+                <citation>Pourmoghaddam M J, Lambert C, Surup F, Khodaparast S A, Krisai-Greilhuber I, Voglmayr H, Stadler M, pensoft (2020). Discovery of a new species of the Hypoxylon rubiginosum complex from Iran and antagonistic activities of Hypoxylon spp. against the Ash Dieback pathogen, Hymenoscyphus fraxineus, in dual culture. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/mycokeys.66.50946 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="12425c73-75f8-47da-ad1d-72ccbdc74a06"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4344.2.10</alternateIdentifier>
+                <alternateIdentifier>12425c73-75f8-47da-ad1d-72ccbdc74a06</alternateIdentifier>
+                <alternateIdentifier>10.15468/cbq7nd</alternateIdentifier>
+                <alternateIdentifier>385A5F6E-8868-46C1-9099-3DBBFAF9EE48</alternateIdentifier>
+                <alternateIdentifier>FFACFFFEFFBD5868FFF1FF9F67318169</alternateIdentifier>
+        <title>Austrosciara Schmitz &amp; Mjöberg, 1924, a senior synonym of Ctenosciara Tuomikoski, 1960 (Diptera: Sciaridae) and the description of a new brachypterous species in the genus</title>
+            <creator>
+            <individualName>
+<givenName>Werner</givenName>                    <surName>Mohrig</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ellen</givenName>                    <surName>Kauschke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kai</givenName>                    <surName>Heller</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-11-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mohrig, Werner, Kauschke, Ellen, Heller, Kai (2017): Austrosciara Schmitz &amp;amp; Mjöberg, 1924, a senior synonym of Ctenosciara Tuomikoski, 1960 (Diptera: Sciaridae) and the description of a new brachypterous species in the genus. Zootaxa 4344 (2): 357-366, DOI: https://doi.org/10.11646/zootaxa.4344.2.10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFACFFFEFFBD5868FFF1FF9F67318169</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:39Z</dateStamp>
+                <citation>Mohrig W, Kauschke E, Heller K, plazi (2017). Austrosciara Schmitz &amp; Mjöberg, 1924, a senior synonym of Ctenosciara Tuomikoski, 1960 (Diptera: Sciaridae) and the description of a new brachypterous species in the genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4344.2.10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="22169f39-80e9-4958-8d3e-cebf1868f452"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3702740</alternateIdentifier>
+                <alternateIdentifier>10.15468/9rhvai</alternateIdentifier>
+                <alternateIdentifier>22169f39-80e9-4958-8d3e-cebf1868f452</alternateIdentifier>
+                <alternateIdentifier>E00BF925-9560-4AF9-88FD-E6EC07D9477C</alternateIdentifier>
+                <alternateIdentifier>6136E040FFF6FFE6FFA5FFB9FFD30D45</alternateIdentifier>
+        <title>El género Aleuroparadoxus Quaintance y Baker 1914, con descripción de tres nuevas especies, nuevos registros y clave para las especies (Hemiptera: Aleyrodidae)</title>
+            <creator>
+            <individualName>
+<givenName>José Francisco</givenName>                    <surName>García-Ochaeta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gregory A.</givenName>                    <surName>Evans</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-02-28
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article García-Ochaeta, José Francisco, Evans, Gregory A. (2020): El género Aleuroparadoxus Quaintance y Baker 1914, con descripción de tres nuevas especies, nuevos registros y clave para las especies (Hemiptera: Aleyrodidae). Insecta Mundi 749: 1-25, DOI: http://doi.org/10.5281/zenodo.3702740</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6136E040FFF6FFE6FFA5FFB9FFD30D45</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:39Z</dateStamp>
+                <citation>García-Ochaeta J F, Evans G A, felipe (2020). El género Aleuroparadoxus Quaintance y Baker 1914, con descripción de tres nuevas especies, nuevos registros y clave para las especies (Hemiptera: Aleyrodidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3702740 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3228103c-9c27-4ab0-9823-c31bbe817d96"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4906293</alternateIdentifier>
+                <alternateIdentifier>3228103c-9c27-4ab0-9823-c31bbe817d96</alternateIdentifier>
+                <alternateIdentifier>10.15468/7mpx6v</alternateIdentifier>
+                <alternateIdentifier>50EFA983-B329-41CC-B59A-97E1815E6E8A</alternateIdentifier>
+                <alternateIdentifier>FFF1CA61277C6A74AC0DFFC3E51AD214</alternateIdentifier>
+        <title>New data on the Triassic temnospondyls from the Karoo rift basins of Tanzania and Zambia</title>
+            <creator>
+            <individualName>
+<givenName>Jean-Sébastien</givenName>                    <surName>Steyer</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Brandon R.</givenName>                    <surName>Peecook</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Arbez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sterling J.</givenName>                    <surName>Nesbitt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Steve</givenName>                    <surName>Tolan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michelle R.</givenName>                    <surName>Stocker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roger M. H.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kenneth D.</givenName>                    <surName>Angielczyk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christian A.</givenName>                    <surName>Sidor</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-06-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Steyer, Jean-Sébastien, Peecook, Brandon R., Arbez, Thomas, Nesbitt, Sterling J., Tolan, Steve, Stocker, Michelle R., Smith, Roger M. H., Angielczyk, Kenneth D., Sidor, Christian A. (2021): New data on the Triassic temnospondyls from the Karoo rift basins of Tanzania and Zambia. Geodiversitas 43 (12): 365-376, DOI: http://doi.org/10.5281/zenodo.4906293</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF1CA61277C6A74AC0DFFC3E51AD214</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:49Z</dateStamp>
+                <citation>Steyer J, Peecook B R, Arbez T, Nesbitt S J, Tolan S, Stocker M R, Smith R M H, Angielczyk K D, Sidor C A, felipe (2021). New data on the Triassic temnospondyls from the Karoo rift basins of Tanzania and Zambia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4906293 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

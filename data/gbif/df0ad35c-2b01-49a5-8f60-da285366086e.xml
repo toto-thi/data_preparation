@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="df0ad35c-2b01-49a5-8f60-da285366086e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.276807</alternateIdentifier>
+                <alternateIdentifier>df0ad35c-2b01-49a5-8f60-da285366086e</alternateIdentifier>
+                <alternateIdentifier>10.15468/zktqif</alternateIdentifier>
+                <alternateIdentifier>FFC6F65A68651B46FFD0FFFD4656FF8C</alternateIdentifier>
+        <title>The first fossil Dufoureillini (Hemiptera: Heteroptera: Anthocoridae: Lyctocorinae) from the Eocene Baltic amber</title>
+            <creator>
+            <individualName>
+<givenName>Yuri A.</givenName>                    <surName>Popov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aleksander</givenName>                    <surName>Herczek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jola Bro Ż</givenName>                    <surName>Ek</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Popov, Yuri A., Herczek, Aleksander, Ek, Jola Bro Ż (2011): The first fossil Dufoureillini (Hemiptera: Heteroptera: Anthocoridae: Lyctocorinae) from the Eocene Baltic amber. Zootaxa 2760: 53-60, DOI: 10.5281/zenodo.276807</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC6F65A68651B46FFD0FFFD4656FF8C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:16Z</dateStamp>
+                <citation>Popov Y A, Herczek A, Ek J B Ż, plazi (2011). The first fossil Dufoureillini (Hemiptera: Heteroptera: Anthocoridae: Lyctocorinae) from the Eocene Baltic amber. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.276807 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

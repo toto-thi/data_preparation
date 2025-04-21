@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="dce368f5-0de1-41c7-9be5-d382d96315ee"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2zs55g</alternateIdentifier>
+                <alternateIdentifier>A1F724780859549BB3BBAFEBE2819876</alternateIdentifier>
+        <title>Dyscritulus europaeus sp. nov. (Hymenoptera, Braconidae, Aphidiinae): description of a new aphid parasitoid species with an identification key for species of the genus</title>
+            <creator>
+            <individualName>
+<givenName>Korana</givenName>                    <surName>Kocic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andjeljko</givenName>                    <surName>Petrovic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jelisaveta</givenName>                    <surName>Ckrkic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cornelis</givenName>                    <surName>van Achterberg</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zeljko</givenName>                    <surName>Tomanovic</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kocic, Korana, Petrovic, Andjeljko, Ckrkic, Jelisaveta, van Achterberg, Cornelis, Tomanovic, Zeljko (2023): Dyscritulus europaeus sp. nov. (Hymenoptera, Braconidae, Aphidiinae): description of a new aphid parasitoid species with an identification key for species of the genus. ZooKeys 1175: 285-297, DOI: http://dx.doi.org/10.3897/zookeys.1175.106416, URL: http://dx.doi.org/10.3897/zookeys.1175.106416</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A1F724780859549BB3BBAFEBE2819876</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:41Z</dateStamp>
+                <citation>Kocic K, Petrovic A, Ckrkic J, van Achterberg C, Tomanovic Z, pensoft (2023). Dyscritulus europaeus sp. nov. (Hymenoptera, Braconidae, Aphidiinae): description of a new aphid parasitoid species with an identification key for species of the genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/2zs55g accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Kocic, Korana, Petrovic, Andjeljko, Ckrkic, Jelisaveta, van Achterberg, Cornelis, Tomanovic, Zeljko (2023): Dyscritulus europaeus sp. nov. (Hymenoptera, Braconidae, Aphidiinae): description of a new aphid parasitoid species with an identification key for species of the genus. ZooKeys 1175: 285-297, DOI: http://dx.doi.org/10.3897/zookeys.1175.106416, URL: http://dx.doi.org/10.3897/zookeys.1175.106416</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

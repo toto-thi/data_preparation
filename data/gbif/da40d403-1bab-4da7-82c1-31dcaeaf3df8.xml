@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="da40d403-1bab-4da7-82c1-31dcaeaf3df8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/pnd64z</alternateIdentifier>
+                <alternateIdentifier>28040D0F0737FFA77860B5617E0E1D04</alternateIdentifier>
+        <title>Nomenclatural and Taxonomic Notes on Names of Hawaiian Coccinellidae (Coleoptera)</title>
+            <creator>
+            <individualName>
+<givenName>John R.</givenName>                    <surName>Leeper</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Leeper, John R. (2014): Nomenclatural and Taxonomic Notes on Names of Hawaiian Coccinellidae (Coleoptera). Proceedings of the Hawaiian Entomological Society 46: 1-7, DOI: http://doi.org/10.5281/zenodo.8159436</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/28040D0F0737FFA77860B5617E0E1D04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:11Z</dateStamp>
+                <citation>Leeper J R, felipe (2014). Nomenclatural and Taxonomic Notes on Names of Hawaiian Coccinellidae (Coleoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/pnd64z accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Leeper, John R. (2014): Nomenclatural and Taxonomic Notes on Names of Hawaiian Coccinellidae (Coleoptera). Proceedings of the Hawaiian Entomological Society 46: 1-7, DOI: http://doi.org/10.5281/zenodo.8159436</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1d5719a4-b5f9-46ff-8d27-4010f0eed663"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4ns7k3</alternateIdentifier>
+                <alternateIdentifier>1813FF894F37FFA7FF879D0BFFBFFFDA</alternateIdentifier>
+        <title>The morphological diversity of Mymaridae (Hymenoptera): an atlas of scanning electron micrographs. Part 1. General overview and structure of the head</title>
+            <creator>
+            <individualName>
+<givenName>John T.</givenName>                    <surName>Huber</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Klaus</givenName>                    <surName>Bolte</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jennifer D.</givenName>                    <surName>Read</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Huber, John T., Bolte, Klaus, Read, Jennifer D. (2023): The morphological diversity of Mymaridae (Hymenoptera): an atlas of scanning electron micrographs. Part 1. General overview and structure of the head. Zootaxa 5273 (1): 1-100, DOI: https://doi.org/10.11646/zootaxa.5273.1.1, URL: http://dx.doi.org/10.11646/zootaxa.5273.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/1813FF894F37FFA7FF879D0BFFBFFFDA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:54Z</dateStamp>
+                <citation>Huber J T, Bolte K, Read J D, plazi (2023). The morphological diversity of Mymaridae (Hymenoptera): an atlas of scanning electron micrographs. Part 1. General overview and structure of the head. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4ns7k3 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Huber, John T., Bolte, Klaus, Read, Jennifer D. (2023): The morphological diversity of Mymaridae (Hymenoptera): an atlas of scanning electron micrographs. Part 1. General overview and structure of the head. Zootaxa 5273 (1): 1-100, DOI: https://doi.org/10.11646/zootaxa.5273.1.1, URL: http://dx.doi.org/10.11646/zootaxa.5273.1.1</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5177db24-e558-4aea-bf3e-4ae656d6c216"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/yzbkb7</alternateIdentifier>
+                <alternateIdentifier>9323CC49FFD69204FFD2F63CFFA7FF95</alternateIdentifier>
+        <title>Resurrection of Pareas yunnanensis (Vogt, 1922) with description of a new species of Pareas from Yunnan Province, China (Squamata, Pareidae)</title>
+            <creator>
+            <individualName>
+<givenName>Shuo</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dongru</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nikolay A.</givenName>                    <surName>Poyarkov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mian</givenName>                    <surName>Hou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Li</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dingqi</givenName>                    <surName>Rao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tan Van</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gernot</givenName>                    <surName>Vogel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Liu, Shuo, Zhang, Dongru, Poyarkov, Nikolay A., Hou, Mian, Wu, Li, Rao, Dingqi, Nguyen, Tan Van, Vogel, Gernot (2023): Resurrection of Pareas yunnanensis (Vogt, 1922) with description of a new species of Pareas from Yunnan Province, China (Squamata, Pareidae). European Journal of Taxonomy 860 (1): 1-26, DOI: https://doi.org/10.5852/ejt.2023.860.2045, URL: http://dx.doi.org/10.5852/ejt.2023.860.2045</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/9323CC49FFD69204FFD2F63CFFA7FF95</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:51Z</dateStamp>
+                <citation>Liu S, Zhang D, Poyarkov N A, Hou M, Wu L, Rao D, Nguyen T V, Vogel G, felipe (2023). Resurrection of Pareas yunnanensis (Vogt, 1922) with description of a new species of Pareas from Yunnan Province, China (Squamata, Pareidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/yzbkb7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

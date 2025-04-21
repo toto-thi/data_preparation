@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1e77b1ae-3aaf-4403-8336-2a179fa67546"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.1068.70295</alternateIdentifier>
+                <alternateIdentifier>10.15468/7hhte7</alternateIdentifier>
+                <alternateIdentifier>2D5A42FB953E51BE83ABD467628C151D</alternateIdentifier>
+        <title>Revision of the genus Cenophengus LeConte, 1881 (Coleoptera, Phengodidae), with the description of four new species, new geographic records and a new synonymy</title>
+            <creator>
+            <individualName>
+<givenName>Viridiana</givenName>                    <surName>Vega-Badillo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan J.</givenName>                    <surName>Morrone</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Santiago</givenName>                    <surName>Zaragoza-Caballero</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-11-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Vega-Badillo, Viridiana, Morrone, Juan J., Zaragoza-Caballero, Santiago (2021): Revision of the genus Cenophengus LeConte, 1881 (Coleoptera, Phengodidae), with the description of four new species, new geographic records and a new synonymy. ZooKeys 1068: 73-148, DOI: http://dx.doi.org/10.3897/zookeys.1068.70295, URL: http://dx.doi.org/10.3897/zookeys.1068.70295</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/2D5A42FB953E51BE83ABD467628C151D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:41Z</dateStamp>
+                <citation>Vega-Badillo V, Morrone J J, Zaragoza-Caballero S, pensoft (2021). Revision of the genus Cenophengus LeConte, 1881 (Coleoptera, Phengodidae), with the description of four new species, new geographic records and a new synonymy. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.1068.70295 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

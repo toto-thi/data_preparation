@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c4a1490d-15c3-446f-8676-e6c80096bcb6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4857.1.4</alternateIdentifier>
+                <alternateIdentifier>c4a1490d-15c3-446f-8676-e6c80096bcb6</alternateIdentifier>
+                <alternateIdentifier>10.15468/shu92n</alternateIdentifier>
+                <alternateIdentifier>F0AF75AD-BAE2-4B7D-9CCB-3D9477F350BD</alternateIdentifier>
+                <alternateIdentifier>FFDBFFE44F45FF8BFFF1AB6DFFACD13A</alternateIdentifier>
+        <title>Review of the genera Berlesia Canestrini, 1884, and Katydiseius Fain &amp; Lukoschus 1983, the subfamily Katydiseiinae Fain &amp; Lukoschus, 1983, and their family group relationships (Acari: Mesostigmata: Gamasina), with description of three new species parasitic on gryllacridid crickets (Orthoptera)</title>
+            <creator>
+            <individualName>
+<givenName>Evert E.</givenName>                    <surName>Lindquist</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Barry M.</givenName>                    <surName>Oconnor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew D.</givenName>                    <surName>Shaw</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ekaterina A.</givenName>                    <surName>Sidorchuk</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lindquist, Evert E., Oconnor, Barry M., Shaw, Matthew D., Sidorchuk, Ekaterina A. (2020): Review of the genera Berlesia Canestrini, 1884, and Katydiseius Fain &amp;amp; Lukoschus 1983, the subfamily Katydiseiinae Fain &amp;amp; Lukoschus, 1983, and their family group relationships (Acari: Mesostigmata: Gamasina), with description of three new species parasitic on gryllacridid crickets (Orthoptera). Zootaxa 4857 (1): 5-70, DOI: https://doi.org/10.11646/zootaxa.4857.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFDBFFE44F45FF8BFFF1AB6DFFACD13A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:27Z</dateStamp>
+                <citation>Lindquist E E, Oconnor B M, Shaw M D, Sidorchuk E A, plazi (2020). Review of the genera Berlesia Canestrini, 1884, and Katydiseius Fain &amp; Lukoschus 1983, the subfamily Katydiseiinae Fain &amp; Lukoschus, 1983, and their family group relationships (Acari: Mesostigmata: Gamasina), with description of three new species parasitic on gryllacridid crickets (Orthoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4857.1.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

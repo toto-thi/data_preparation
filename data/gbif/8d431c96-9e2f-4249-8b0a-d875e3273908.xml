@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8d431c96-9e2f-4249-8b0a-d875e3273908"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/sbga6b</alternateIdentifier>
+                <alternateIdentifier>http://ipt.zin.ru:8080/ipt/resource?r=zin_cosmopterigidae</alternateIdentifier>
+                <alternateIdentifier>8d431c96-9e2f-4249-8b0a-d875e3273908</alternateIdentifier>
+        <title>Catalogue of the type specimens of Cosmopterigidae (Lepidoptera: Gelechioidea) from research collections of the Zoological Institute, Russian Academy of Sciences</title>
+            <creator>
+            <individualName>
+<givenName>Sergey</givenName>                    <surName>Sinev</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Head of the Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Sergey.Sinev@zin.ru</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexey</givenName>                    <surName>Golikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Senior Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-06-11</phone><electronicMailAddress>Alexey.Golikov@zin.ru</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Sergey</givenName>                    <surName>Sinev</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Head of the Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Sergey.Sinev@zin.ru</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </metadataProvider>
+            <pubDate>
+                2019-11-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Catalogue includes the images of dorsal views of the moths and its labels, detailed label and collection data, maps showing type localities, and references to original descriptions for primary types of 50 species and subspecies of the family Cosmopterigidae Heinemann &amp;amp; Wocke, [1876] (Lepidoptera: Gelechioidea) described by A.S. Danilevsky [1], S.Yu. Sinev [2–14], M.I. Falkovitsh [15] and W.F. Wocke [16]. They belong to genera Cosmopterix Hübner, [1825] (27 species), Vulcaniella Riedl, 1965 (5), Hodgesiella Riedl, 1965 (2), Labdia Walker, 1864 (2), Ressia Sinev, 1988 (2), Coccidiphila Danilevsky, 1950 (1), Pyroderces Herrich-Schäffer, 1853 (1), Anatrachyntis Meyrick, 1915 (1), Gracilosia Sinev, 1989 (1), Minivalva Sinev, 1989 (1), Diversivalva Sinev, 1991 (1), and Eteobalea Hodges, 1962 (1) from the subfamily Cosmopteriginae, Pancalia Stephens, 1829 (4) and Alloclita Staudinger, 1859 (1) from the subfamily Antequerinae.</para>
+                    <para>A collection of Cosmopterigidae is a part of general world-wide collection of micromoths deposited in the Lepidoptera Department of the Laboratory of Insect Taxonomy of the Zoological Institute RAS. Its Palaearctic part is housed in the 52 standard wooden drawers with glass lids in 3 wooden cabinets and comprises above 7500 pinned, labelled and identified specimens belonging to 22 genera and 105 species (90 % and 86 % of Palaearctic taxa, respectively). The primary types are kept separately in the individual boxes inside two standard wooden drawers. Collection also includes over 900 micropreparates of genitalia kept in alcohol-glycerol blend, and about 50 microslides of genitalia fixed in Euparal. Besides the Palaearctic taxa (primarily from the former Russian Empire and Soviet Union and adjacent countries), collection of Cosmopterigidae comprises also different taxa from Oriental (Vietnam, India, Laos, Thailand, Korea, China), Afrotropical, Nearctic and, to a lesser extent, Neotropical and Australian regions. The ‘exotic’ part of collection is housed in the 35 standard wooden drawers with glass lids and carton boxes in 2 wooden cabinets and comprises ca. 2500 pinned, labelled and partly identified specimens belonging to about 100 genera, and over 500 species.</para>
+                    <para>In the past, cosmopterigid collection was not arranged as a separate unit. Its historical nucleus comprises by material accumulated from different sources during the XIX century and by the Lepidoptera collection of Grand Duke Nikolai Michailovich Romanoff. A special importance has collection of M.F. Wocke (bought by Romanoff and donated to the Zoological Museum in 1907) which comprised mostly western European taxa, and collection of E. Eversmann (donated via Russian Entomological Society in 1908) which comprised mostly taxa from the Volga-Ural region. All the above mentioned collections were stored separately until the 80th of XX century. At that time, the additional specimens collected by the staffs of Zoological Museum/Institute and other persons, chiefly remained among the unsorted Microlepidoptera material. The most important input to the collection was made by A.N. Diakonov, N.N. Filipjev, V.V. Ermolaev, and M.G. Ponomarenko (Russian Far East), A.K. Zagulajev (Transcaucasia, Crimea), I.M. Kerzhner (Mongolia), M.I. Falkovitsh and R.K. Puplesis [Stonis] (Central Asia), Yu.I. Budashkin (Crimea), A.L. Lvovsky and S.V. Baryshnikova (Central Asia, Russian Far East), V.I. Kuznetzov (Kuril Islands, Vietnam), M.M. Omelko (Primorskiy Territory, Laos), V.V. Dubatolov (Altai, Siberia, Amur basin), V.V. Anikin (Volga region, Mongolia, Central and South Africa), S.V. Nedoshivina and V.V. Zolotuhin (Vietnam), L.V. Bolshakov and A.G. Korobkov (European part).</para>
+                    <para>Maintenance of the general collection in its present state, mounting and identification of the material has been performed during last 40 years by S.Yu. Sinev. Since 1976, the collection has been enriched greatly (nearly doubled) by the materials of numerous field trips of the author to the Russian Far East (Primorskiy and Khabarovskiy territories, Sachalin, Kuril Islands), Transbaikalia, Altai, Kazakhstan, Kirghizia, Transcaucasia, Crimea, South Ural, Middle Volga region, Republic of Komi, Cola Peninsula, as well as to the Southern Korea, Iran, China, etc. Some cosmopterigid taxa including the paratypes of new species have been received in exchange or as a gift from F. Kasy (Austria), W. Mey and W. Speidel (Germany), A. Diakonoff and E. van Nieukerken (The Netherlands), O. Karsholt (Denmark), K.T. Park (Republic of Korea), J. De Prins (Belgium), R.W. Hodges (USA). The collection has been also enriched with the doublet specimens of the species submitted for the determination by the applied entomologists and amateur collectors. The most valuable part of the general collection, along with the primary types, comprise the numerous secondary types (paratypes, paralectotypes, ca. 650 specimens in total) of 68 species and subspecies. Among the secondary types, the taxa described by such famous lepidopterologists as W. Krone, H.G. Amsel, F. Kasy, T. Riedl, and A.K. Zagulajev are also represented.</para>
+                    <para>Digitizing of research collections of the Zoological Institute is performed within the framework of RFBR №15-29-02457 (competition of oriented basic research on important interdisciplinary themes 2015) «The collections of the Zoological Institute as an important tool and information basis of fundamental biological research» (project leader Dr. N.B. Ananjeva).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.zin.ru/collections/Lepidoptera/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Sampling was carried out all over the World.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1849-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2016-01-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Cosmopterigidae (Lepidoptera: Gelechioidea) collection identified to species and subspecies.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Cosmopterigidae</taxonRankValue>
+                                        <commonName>Cosmet moths</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Sergey</givenName>                    <surName>Sinev</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Head of the Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Sergey.Sinev@zin.ru</electronicMailAddress>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Collected materials on Cosmopterigidae (mainly dry) were identified to species and subspecies level and deposited in the collections of the Zoological Institute RAS.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Sampling was carried out mainly in the Palaearctic realm, during the period from 1849 to present using different collecting methods.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling was carried out using different collecting methods – sweeping with entomological net, attracting at artificial light and different light traps, breeding from larvae.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:51Z</dateStamp>
+                <citation>Sinev S, Golikov A, Khalikov R (2019). Catalogue of the type specimens of Cosmopterigidae (Lepidoptera: Gelechioidea) from research collections of the Zoological Institute, Russian Academy of Sciences. Version 1.37. Zoological Institute, Russian Academy of Sciences, St. Petersburg. Checklist dataset https://doi.org/10.15468/sbga6b accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Danilevsky A.S. A new genus and species of a predaceous moth feeding on mealybuds, Coccidiphila gerasimovi Danilevsky, gen. et sp. n. (Lepidoptera, Momphidae). Entomologicheskoe Obozrenie, 1950, 31 (1–2): 47–53 [In Russian].</citation>
+                <citation>Sinev S.Yu. On the fauna of narrow-winged moths (Lepidoptera, Momphidae) of Mongolia. Nasekomye Mongolii, 1980, 7: 378–385 [In Russian].</citation>
+                <citation>Sinev S.Yu. New data on the fauna of narrow-winged moths (Lepidoptera, Momphidae) of Mongolia. Nasekomye Mongolii, 1982, 8: 343–346 [In Russian].</citation>
+                <citation>Sinev S.Yu. A review of the genus Pancalia Stephens (Lepidoptera, Cosmopterigidae) in the fauna of the USSR. Entomologicheskoe Obozrenie, 1985a, 64 (4): 804–822 [In Russian with English summary]. [English translation: Entomological Review, 1986, 65 (2): 119–138.].</citation>
+                <citation>Sinev S.Yu. New species of the genus Cosmopterix Hb. (Lepidoptera, Cosmopterigidae) from the Far East of the USSR. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1985b, 134: 73–94 [In Russian with English summary].</citation>
+                <citation>Sinev S.Yu. A list of the narrow-winged moths (Lepidoptera, Momphidae s.l.) in the fauna of the USSR. Trudy Vsesoyuznogo Entomologicheskogo obshchestva, 1986, 67: 19–74 [In Russian].</citation>
+                <citation>Sinev S.Yu. New data on the fauna of narrow-winged moths of the genus Cosmopterix (Lepidoptera, Cosmopterigidae) of Palaearctic. Zoologicheskii Zhurnal, 1988a, 67 (5): 705–712 [In Russian with English summary].</citation>
+                <citation>Sinev S.Yu. On the fauna of gelechioid moths (Lepidoptera: Blastobasidae, Batrachedridae, Blastodacnidae, Stathmopodidae, Chrysopeleiidae, Cosmopterigidae) of Vietnam. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1988b, 176: 98–119 [In Russian with English summary].</citation>
+                <citation>Sinev S.Yu. New taxa of the narrow-winged moths (Lepidoptera: Blastodacnidae, Cosmopterigidae, Chrysopeleiidae) from Middle-Asia. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1989, 200: 3–26 [In Russian].</citation>
+                <citation>Sinev S.Yu. A new genus and species of the narrow-winged moths of subfamily Cosmopteriginae (Lepidoptera, Cosmopterigidae) from Southern Primorye Region. Zoologicheskii Zhurnal, 1991, 70 (3): 148–151 [In Russian with English summary]. [English translation: Entomological Review, 1991, 70 (5): 128–130.].</citation>
+                <citation>Sinev S.Yu. A brief review of the genus Alloclita Stgr. (Lepidoptera, Cosmopterigidae), with description of a new species from Mongolia. Trudy Zoologicheskogo Instituta RAS, 1993a, 248: 132–138 [In Russian].</citation>
+                <citation>Sinev S.Yu. New and little-known species of narrow-winged moths (Lepidoptera: Stathmopodidae, Batrachedridae, Momphidae, Blastodacnidae, Cosmopterigidae) from Primorsk Territory. Trudy Zoologicheskogo Instituta RAS, 1993b, 251: 17–39 [In Russian with English summary].</citation>
+                <citation>Sinev S.Yu. Notes on the synonymy of the narrow-winged moths (Lepidoptera: Agonoxenidae, Cosmopterigidae, Momphidae) of Palaearctic. Entomologicheskoe Obozrenie, 1999, 78 (1): 30–39 [In Russian with English summary]. [English translation: Entomological Review, 1999, 79 (1): 30–39.].</citation>
+                <citation>Sinev S.Yu. World catalogue of cosmopterigid moths (Lepidoptera: Cosmopterigidae). Trudy Zoologicheskogo Instituta RAS, 2002, 293: 1–184.</citation>
+                <citation>Falkovitsh M.I. Lepidoptera of the Kuldzhuk-Tau Mountains and foothill plane (southern-west Kyzylkum). Trudy Vsesoyuznogo Entomologicheskogo obshchestva, 1986, 67: 131–186 [In Russian].</citation>
+                <citation>Wocke M. in Staudinger O. &amp; Wocke M. Catalog der Lepidopteren des europaeischen Faunengebiets. Dresden, 1871. XXXVIII+426 S.</citation>
+                    </bibliography>
+                    <resourceLogoUrl>http://ipt.zin.ru:8080/ipt/logo.do?r=zin_megophryidae_bufonidae</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Research collections of Lepidoptera Department, Laboratory of Insect Taxonomy, Zoological Institute RAS</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>MICROSCOPIC_PREPARATION</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>species and subspecies</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>50</beginRange>
+                                    <endRange>50</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

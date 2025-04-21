@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="dd75c7a5-e473-4119-8db8-ca35a11ca128"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/hrdj67</alternateIdentifier>
+                <alternateIdentifier>41496C6BE23DB6425411FF94C115171C</alternateIdentifier>
+        <title>Phylogeny and taxonomy of European funnel-web spiders of the Tegenaria-Malthonica complex (Araneae: Agelenidae) based upon morphological and molecular data</title>
+            <creator>
+            <individualName>
+<givenName>Angelo</givenName>                    <surName>Bolzern</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Burckhardt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ambros</givenName>                    <surName>Hänggi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-07-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bolzern, Angelo, Burckhardt, Daniel, Hänggi, Ambros (2013): Phylogeny and taxonomy of European funnel-web spiders of the Tegenaria-Malthonica complex (Araneae: Agelenidae) based upon morphological and molecular data. Zoological Journal of the Linnean Society (Zool. J. Linn. Soc.) 168 (4): 723-848, DOI: 10.1111/zoj.12040, URL: http://dx.doi.org/10.1111/zoj.12040</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/41496C6BE23DB6425411FF94C115171C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:11Z</dateStamp>
+                <citation>Bolzern A, Burckhardt D, Hänggi A, marcus (2013). Phylogeny and taxonomy of European funnel-web spiders of the Tegenaria-Malthonica complex (Araneae: Agelenidae) based upon morphological and molecular data. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/hrdj67 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

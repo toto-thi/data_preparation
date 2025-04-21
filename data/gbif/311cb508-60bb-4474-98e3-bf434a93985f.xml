@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="311cb508-60bb-4474-98e3-bf434a93985f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4231.1.6</alternateIdentifier>
+                <alternateIdentifier>311cb508-60bb-4474-98e3-bf434a93985f</alternateIdentifier>
+                <alternateIdentifier>10.15468/98popi</alternateIdentifier>
+                <alternateIdentifier>55C4AED1-B446-43B7-9676-AD79992A6CE8</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4231.1.6</alternateIdentifier>
+                <alternateIdentifier>FF85FFFE6D37FFE97110A907E725B110</alternateIdentifier>
+        <title>A new species of Protaetia Burmeister, 1842 from Armenia with taxonomic notes on Cetonia floricola fausti Kraatz, 1891 (Coleoptera: Scarabaeidae: Cetoniinae)</title>
+            <creator>
+            <individualName>
+<givenName>Tigran</givenName>                    <surName>Ghrejyan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Kalashian</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ghrejyan, Tigran, Kalashian, Mark (2017): A new species of Protaetia Burmeister, 1842 from Armenia with taxonomic notes on Cetonia floricola fausti Kraatz, 1891 (Coleoptera: Scarabaeidae: Cetoniinae). Zootaxa 4231 (1): 100-106, DOI: https://doi.org/10.11646/zootaxa.4231.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF85FFFE6D37FFE97110A907E725B110</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:52Z</dateStamp>
+                <citation>Ghrejyan T, Kalashian M, plazi (2017). A new species of Protaetia Burmeister, 1842 from Armenia with taxonomic notes on Cetonia floricola fausti Kraatz, 1891 (Coleoptera: Scarabaeidae: Cetoniinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4231.1.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

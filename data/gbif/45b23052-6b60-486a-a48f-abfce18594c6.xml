@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="45b23052-6b60-486a-a48f-abfce18594c6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/vgumjn</alternateIdentifier>
+                <alternateIdentifier>FFA4FFABA354663DD311832CFFCB214B</alternateIdentifier>
+        <title>Pseudochrobactrum algeriensis sp. nov., isolated from lymph nodes of Algerian cattle</title>
+            <creator>
+            <individualName>
+<givenName>Maite</givenName>                    <surName>Loperena-Barber</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mammar</givenName>                    <surName>Khames</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sébastien O.</givenName>                    <surName>Leclercq</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michel S.</givenName>                    <surName>Zygmunt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Esteban D.</givenName>                    <surName>Babot</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Amaia</givenName>                    <surName>Zúñiga-Ripa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana</givenName>                    <surName>Gutiérrez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mustapha</givenName>                    <surName>Oumouna</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ignacio</givenName>                    <surName>Moriyón</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Axel</givenName>                    <surName>Cloeckaert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Raquel</givenName>                    <surName>Conde-Álvarez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Loperena-Barber, Maite, Khames, Mammar, Leclercq, Sébastien O., Zygmunt, Michel S., Babot, Esteban D., Zúñiga-Ripa, Amaia, Gutiérrez, Ana, Oumouna, Mustapha, Moriyón, Ignacio, Cloeckaert, Axel, Conde-Álvarez, Raquel (2022): Pseudochrobactrum algeriensis sp. nov., isolated from lymph nodes of Algerian cattle. International Journal of Systematic and Evolutionary Microbiology (005223) 72 (2): 1-7, DOI: 10.1099/ijsem.0.005223, URL: http://dx.doi.org/10.1099/ijsem.0.005223</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA4FFABA354663DD311832CFFCB214B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:59Z</dateStamp>
+                <citation>Loperena-Barber M, Khames M, Leclercq S O, Zygmunt M S, Babot E D, Zúñiga-Ripa A, Gutiérrez A, Oumouna M, Moriyón I, Cloeckaert A, Conde-Álvarez R, felipe (2022). Pseudochrobactrum algeriensis sp. nov., isolated from lymph nodes of Algerian cattle. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/vgumjn accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

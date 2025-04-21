@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="43fbd3b8-9934-4986-b4c6-d39725751fa4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1038/nature14423</alternateIdentifier>
+                <alternateIdentifier>5B765FD5-A534-45D5-AE14-62C25EADDD2D</alternateIdentifier>
+                <alternateIdentifier>10.15468/yekc1g</alternateIdentifier>
+                <alternateIdentifier>FF92FFD19F1FE04A327CFFF7FFF85D5D</alternateIdentifier>
+        <title>A bizarre Jurassic maniraptoran theropod with preserved evidence of membranous wings</title>
+            <creator>
+            <individualName>
+<givenName>Xing</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiaoting</givenName>                    <surName>Zheng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Corwin</givenName>                    <surName>Sullivan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiaoli</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lida</givenName>                    <surName>Xing</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yan</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiaomei</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jingmai K.</givenName>                    <surName>O’Connor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fucheng</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yanhong</givenName>                    <surName>Pan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2015-05-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xu, Xing, Zheng, Xiaoting, Sullivan, Corwin, Wang, Xiaoli, Xing, Lida, Wang, Yan, Zhang, Xiaomei, O’Connor, Jingmai K., Zhang, Fucheng, Pan, Yanhong (2015): A bizarre Jurassic maniraptoran theropod with preserved evidence of membranous wings. Nature 521: 70-82, DOI: 10.1038/nature14423</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF92FFD19F1FE04A327CFFF7FFF85D5D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:02Z</dateStamp>
+                <citation>Xu X, Zheng X, Sullivan C, Wang X, Xing L, Wang Y, Zhang X, O’Connor J K, Zhang F, Pan Y, plazi (2015). A bizarre Jurassic maniraptoran theropod with preserved evidence of membranous wings. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1038/nature14423 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

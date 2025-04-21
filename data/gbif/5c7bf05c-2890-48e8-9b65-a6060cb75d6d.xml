@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5c7bf05c-2890-48e8-9b65-a6060cb75d6d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/crgfcq</alternateIdentifier>
+                <alternateIdentifier>http://ipt.zin.ru:8080/ipt/resource?r=zin_megophryidae_bufonidae</alternateIdentifier>
+                <alternateIdentifier>5c7bf05c-2890-48e8-9b65-a6060cb75d6d</alternateIdentifier>
+        <title>Catalogue of the type specimens of Bufonidae and Megophryidae (Amphibia: Anura) from research collections of the Zoological Institute, Russian Academy of Sciences</title>
+            <creator>
+            <individualName>
+<givenName>Konstantin</givenName>                    <surName>Milto</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Research scientist, Department of Herpetology, Laboratory of Ornithology and Herpetology</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Konstantin.Milto@zin.ru</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Natalia</givenName>                    <surName>Ananjeva</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Head of the Laboratory of Ornithology and Herpetology</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Natalia.Ananjeva@zin.ru</electronicMailAddress><onlineUrl>http://www.zin.ru/labs/herplab/ananjeva.html</onlineUrl>            <userId directory="http://scholar.google.com/citations?user=">U0d6Wj0AAAAJ</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexey</givenName>                    <surName>Golikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Senior Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-06-11</phone><electronicMailAddress>Alexey.Golikov@zin.ru</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Konstantin</givenName>                    <surName>Milto</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Research scientist, Department of Herpetology, Laboratory of Ornithology and Herpetology</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Konstantin.Milto@zin.ru</electronicMailAddress>            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </metadataProvider>
+            <pubDate>
+                2019-11-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The catalogue includes several images of each type specimen including the dorsal, ventral, lateral and head views of the toads and the storage jar with labels, collection data, maps showing type localities, and all available basic references. This dataset contains the information on 93 bufonid and 11 megophryid type specimens representing 27 taxa in 2 families under consideration. Among them 16 taxa are currently recognized as valid species or subspecies.</para>
+                    <para>The main portion of the collection of amphibian type specimens was formed as a result of systematic works by Russian and foreign specialists that described new species and subspecies in collections of the Zoological Institute. For example, 13 new taxa of amphibians were described by the Russian herpetologist, A. M. Nikolsky. Moreover, other new forms were described by J. von Bedriaga, A. A. Strauch, and S. Th. Tzarewsky. Recently a number of new species were described by N. L. Orlov on the basis of collections in the Zoological Institute from South-East Asia.</para>
+                    <para>An important part of the specimens was received from different zoological museums around the world. A. A. Strauch, director of Zoological Institute from 1879 to 1890 and a great Russian herpetologist, conducted an exchange of herpetological collections with museums in London, Paris, Berlin, Vienna, Copenhagen, Stuttgart, Brussels and Frankfurt am Main and with private persons such as De Betta in Verona, F. Lataste in Paris, V. L. Seoane in La Coruña, and well-known dealer Schneider in Basel. As a result, the Zoological Museum (now Institute) enriched itself from many new species including its original and authors’ specimens (Strauch, 1889). Many type specimens were received as a gift or in exchange from the Zoologisches Museum, Museum für Naturkunde, Berlin in 1857 and 1982; Warsaw Museum in 1871; Muséum National d’Histoire Naturelle, Paris in 1879; British Museum (Nat. Hist.), London in 1884 and 1892; Turin Museum of Natural History in 1896; Staatliches Museum für Tierkunde, Dresden; Cambridge University Museum in 1927; and Field Museum of Natural History, Chicago in 1959. In 1885 several specimens were bought from the Linnaea Institute situated in Frankfurt am Main and later in Berlin. This firm purchased animals from various collectors and identified them and then sold the specimens to museums. A herpetological collection from Paraguay described by O. Boettger was bought from H. Rodhe. Later a part of this collection including Boettgers’ types (Bufo levicristatus and others) went to St. Petersburg. In the 19 – early 20 century collection has grown rapidly due to extensive materials collected by expeditions of N. M. Przhewalsky, P. K. Kozlov, A. N. Kaznakov, M. V. Pewzow, G. Potanin, G. E. Grum-Grzhimailo and S. N. Alpheraky in Central Asia and Turkestan, N. A. Zarudny in Persia and other famous voyagers.</para>
+                    <para>Digitizing of research collections of the Zoological Institute is performed within the framework of RFBR №15-29-02457 (competition of oriented basic research on important interdisciplinary themes 2015) «The collections of the Zoological Institute as an important tool and information basis of fundamental biological research» (project leader Dr. N.B. Ananjeva).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.zin.ru/collections/Amphibia/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Sampling was carried out all over the World.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1876-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2016-01-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Megophryidae (Amphibia: Anura: Megophryidae) collection identified to species and subspecies.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Megophryidae</taxonRankValue>
+                                        <commonName>Litter frogs</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Bufonidae (Amphibia: Anura: Bufonidae) collection identified to species and subspecies.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Bufonidae</taxonRankValue>
+                                        <commonName>True toads</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Natalia</givenName>                    <surName>Ananjeva</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Head of the Laboratory of Ornithology and Herpetology</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Natalia.Ananjeva@zin.ru</electronicMailAddress><onlineUrl>http://www.zin.ru/labs/herplab/ananjeva.html</onlineUrl>            <userId directory="http://scholar.google.com/citations?user=">U0d6Wj0AAAAJ</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Collected materials on Bufonidae and Megophryidae (wet: alcohol) were identified to species and subspecies level and deposited in the collections of the Zoological Institute RAS.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Sampling was carried out mainly in the Palaearctic and Indomalaya realms, during the period from 1876 to present using different collecting methods.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling was carried out using different collecting methods – catching by hands and buying from locals.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:27Z</dateStamp>
+                <citation>Milto K, Ananjeva N, Golikov A, Khalikov R (2019). Catalogue of the type specimens of Bufonidae and Megophryidae (Amphibia: Anura) from research collections of the Zoological Institute, Russian Academy of Sciences. Version 1.37. Zoological Institute, Russian Academy of Sciences, St. Petersburg. Checklist dataset https://doi.org/10.15468/crgfcq accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Бедряга Я. В. 1898. Земноводные и пресмыкающиеся. Вып. 1». В кн: Научные результаты путешествий Н. М. Пржевальского по Центральной Азии. Отдел Зоологический. Том. III, ч. 1. Санкт-Петербург, с. 1–69 [Bedriaga J. V. 1898. Amphibien und Reptilien. Lfg. 1, in: Wissenschaftlische Resultate der von N. M. Przewalski nach Central-Asien unternommenen Reisen. Zool. Theil, Band 3, Abth. 1, 1–69.]</citation>
+                <citation>Боркин Л. Я., Мацуи М. 1986. О систематике двух видов жаб комплекса Bufo bufo из восточного Тибета. В кн.: Н. Б. Ананьева, Л. Я. Боркин (ред.) Систематика и экология амфибий и рептилий. Труды Зоологического института. Т. 157. С. 43–54 [Borkin L. J., Matsui M. 1986. On systematics of two toad species of the Bufo bufo complex from eastern Tibet. In: Ananjeva N. B. and Borkin L. J. (eds.), Systematics and Ecology of Amphibians and Reptiles. Proceedings of the Zoological Institute, Leningrad. Vol. 157, Leningrad, pp. 43–54].</citation>
+                <citation>Боркин Л. Я., Кузьмин С. Л. 1988. Земноводные Монголии: видовые очерки. В кн.: Воробьёва Э. И., Даревский И. С. (ред.) Земноводные и пресмыкающиеся МНР. Общие вопросы. Земноводные. Москва: Наука, с. 30–197 [Borkin L. J., Kuzmin S. L. 1988. Amphibians: species accounts. In: Vorobyeva E. I., Darevsky I. S. (eds.), Amphibians and Reptiles of Mongolian People’s Republic. General Problems. Amphibians. Moscow: Nauka, pp. 30–197].</citation>
+                <citation>Boulenger G. A. 1887. On new batrachians from Malacca. Annals and Magazine of Natural History, Ser. 5, 19, pp. 345–348.</citation>
+                <citation>Fritz U. 2002. Herpetology and herpetological type specimens at the Museum für Tierkunde Dresden with a bibliography of herpetological contributions by Fritz Jürgen Obst (Amphibia, Reptilia). Faunist. Abh. Staatl. Mus. Tierk. Dresden, 23(1), 3–34.</citation>
+                <citation>Glaw F. and Franzen M. 2006. Type catalogue of amphibians in the Zoologische Staatssammlung München. Spixiana, 29(2), 153–192.</citation>
+                <citation>Hemmer H., Schmidtler J. F., and Böhme W. 1978. Zur Systematik zentralasiatischer Grünkröten (Bufo viridis-Komplex) (Amphibia, Salientia, Bufonidae). Zool. Abh. Staatl. Mus. Tierk. Dresden, 34(24), 349–384.</citation>
+                <citation>Lichtenstein H., v. Martens E. 1856. Nomenclator Reptilium et Amphibiorum Musei Zoologici Berolinensis. Namenverziechniss der in der zoologischen Sammlung der Königlichen Universität zu Berlin aufgestellten Arten von Reptilien und Amphibien nach ihren Ordnungen, Familien und Gattungen. König. Akad. Wiss., Berlin, 48 p.</citation>
+                <citation>Litvinchuk S. N., Borkin L. J., Skorinov D. V., Rosanov J. M. 2008. A new species of common toads from the Talysh Mountains, south-eastern Caucasus: genome size, allozyme, and morphological evidences. Russian Journal of Herpetology, Vol. 15, No. 1, pp. 19–43.</citation>
+                <citation>Milto K. D., Barabanov A. V. 2011. An annotated catalogue of the amphibian types in the collection of the Zoological Institute, Russian Academy of Sciences, St. Petersburg. Russian Journal of Herpetology, Vol. 18, No. 2, pp. 137–153.</citation>
+                <citation>Nikolsky A. M. 1896. Diagnoses reptilium et amphibiorum novorum in Persia orientali a N. Zarudny collectorum,” Ann. Mus. Zool. l’Acad. Imp. Sci. St.-Pétersbourg, 1(4), 369–372.</citation>
+                <citation>Nikolsky A. M. 1900. Reptiles, amphibies et poissons, recueillis pendant le voyage de Mr. N. A. Zaroudny en 1898 dans la Perse. Ann. Mus. Zool. l’Acad. Imp. Sci. St.-Petersbourg, 4, 375–417. [Никольский А. М. 1900. Пресмыкающиеся, амфибии и рыбы второго путешествия Н. А. Зарудного в Персию в 1898 г. Ежегодник Зоологического Музея Имп. Ак. Наук. Т. IV. 1899. Санкт-Петербург. С. 375–417].</citation>
+                <citation>Никольский А. М. 1904. Новые виды гадов из В. Пepcии, привезенные Н. А. Зарудным въ 1901 г. (Alsophylax persicus sp.n., Contla bicolor sp.n., Bufo persicus sp.n.). Ежегодник Зоологического музея Имп. Акад. Наук. Т. VIII. 1903. C. 95–98. [Nikolsky A. M. 1904. Sur trois nouvelles espèces de reptiles, recueillis par Mr. N. Zarudny dans la Perse orientale en 1901 (Alsophylax persicus sp. n., Contla bicolor sp. n., et Bufo persicus sp. n.). Ann. Mus. Zool. l’Acad. Imp. Sci. St.-Petersbourg. T. VIII. 1903. P. 95–98.</citation>
+                <citation>Никольский А. М. 1905. Пресмыкающиеся и земноводные Российской империи (Herpetologia rossica). Зап. Имп. Ан. Сер. 8. Физ.-мат.отд. Т. 17, № 1. 518 с. [Nikolsky A. M. 1905. Herpetologia rossica. Mém. l’Acad. Imp. Sci. St.-Pétersbourg. Ser. 8, 17(1), 518 p.]</citation>
+                <citation>Stöck M., Günther R., Böhme W. 2001. Progress towards a taxonomic revision of the Asian Bufo viridis group: Current status of nominal taxa and unsolved problems (Amphibia: Anura: Bufonidae. Zool. Abh. Staatl. Mus. Tierk. Dresden, 51(18), 253–319.</citation>
+                <citation>Stöck M., Frynta D., Grosse W.-R., Steinlein C., Schmid M. 2001. A review of the distribution of diploid, triploid and teraploid green toads (Bufo viridis complex) in Asia including new data from Iran and Pakistan. Asiatic Herpetol. Res., 7, 77–100.</citation>
+                <citation>Tzarewsky S. Th. 1925. On a new species of Bufo from South Mongolia. Ann. Mus. Zool. l’Acad. Sci. Russie. 1924. T. XXV. P. 152-154 [Царевский С. Ф. 1925. О новом виде жабы из южной Монголии. Ежегодник Зоологического Музея Росс. Акад. Наук. 1924. Т. XXV. C. 152–154]</citation>
+                <citation>Tzarewsky S. Th. 1926. Notes on some batracians from the Palearctic region. Ann. Mus. Zool. l’Acad. Sci. URSS. T. XXVI, 1–2. 1925. P. 74–78 [Царевский С. Ф. 1926. Заметка о некоторых амфибиях из Палеарктической области. Ежегодник Зоологического Музея Акад. Наук СССР. Т. XXVI, liv. 1–2. 1925. C. 74–78].</citation>
+                <citation>Штраух А. А. 1876. Пресмыкающиеся и земноводные. В кн: Н. М. Пржевальский «Монголия и Страна Тангутов». Т 2(2). Санкт-Петербург. С. 1–55. [Strauch A. A. 1876. Reptiles and amphibians. In: N. M. Przewalsky. «Mongolia and the land of tanguts». T 2(2). St. Petersburg. P. 1–55]</citation>
+                    </bibliography>
+                    <resourceLogoUrl>http://ipt.zin.ru:8080/ipt/logo.do?r=zin_megophryidae_bufonidae</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Research collections of the Department of Herpetology, Laboratory of Ornithology and Herpetology, Zoological Institute RAS</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>specimens</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>104</beginRange>
+                                    <endRange>104</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

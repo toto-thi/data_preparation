@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8c3aaec2-64ac-4e34-a589-07137594d19c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4154.2.5</alternateIdentifier>
+                <alternateIdentifier>8c3aaec2-64ac-4e34-a589-07137594d19c</alternateIdentifier>
+                <alternateIdentifier>10.15468/5qc3xc</alternateIdentifier>
+                <alternateIdentifier>1ABDBC52-F7F4-49B0-AF41-423E8386F1E9</alternateIdentifier>
+                <alternateIdentifier>FFDEFF81FFD5FFE85747AC07FFFE2B2E</alternateIdentifier>
+        <title>Redescriptions and new host records of chewing lice of the genus Ricinus (Phthiraptera: Ricinidae) from the Neotropical Region</title>
+            <creator>
+            <individualName>
+<givenName>Miroslav</givenName>                    <surName>Valan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Oldrich</givenName>                    <surName>Sychra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ivan</givenName>                    <surName>Literak</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Valan, Miroslav, Sychra, Oldrich, Literak, Ivan (2016): Redescriptions and new host records of chewing lice of the genus Ricinus (Phthiraptera: Ricinidae) from the Neotropical Region. Zootaxa 4154 (2): 179-189, DOI: http://doi.org/10.11646/zootaxa.4154.2.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFDEFF81FFD5FFE85747AC07FFFE2B2E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:10Z</dateStamp>
+                <citation>Valan M, Sychra O, Literak I, plazi (2016). Redescriptions and new host records of chewing lice of the genus Ricinus (Phthiraptera: Ricinidae) from the Neotropical Region. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4154.2.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

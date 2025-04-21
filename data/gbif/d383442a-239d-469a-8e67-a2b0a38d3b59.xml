@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d383442a-239d-469a-8e67-a2b0a38d3b59"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3918.3.8</alternateIdentifier>
+                <alternateIdentifier>d383442a-239d-469a-8e67-a2b0a38d3b59</alternateIdentifier>
+                <alternateIdentifier>10.15468/jhtlys</alternateIdentifier>
+                <alternateIdentifier>61A020E6-1D75-463B-A9A3-D44D9705A475</alternateIdentifier>
+                <alternateIdentifier>2F32FFC0FFB87415FFAEFF88FB4AFF92</alternateIdentifier>
+        <title>A new species and two new records of the family Phytoseiidae (Acari: Mesostigmata) from Turkey</title>
+            <creator>
+            <individualName>
+<givenName>İsmail</givenName>                    <surName>Döker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cengiz</givenName>                    <surName>Kazak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kamil</givenName>                    <surName>Karut</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Döker, İsmail, Kazak, Cengiz, Karut, Kamil (2015): A new species and two new records of the family Phytoseiidae (Acari: Mesostigmata) from Turkey. Zootaxa 3918 (3): 439-445, DOI: http://dx.doi.org/10.11646/zootaxa.3918.3.8</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2F32FFC0FFB87415FFAEFF88FB4AFF92</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:02Z</dateStamp>
+                <citation>Döker İ, Kazak C, Karut K, plazi (2015). A new species and two new records of the family Phytoseiidae (Acari: Mesostigmata) from Turkey. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3918.3.8 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f7fa862f-deea-40c3-a043-82120e46102b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.173941</alternateIdentifier>
+                <alternateIdentifier>f7fa862f-deea-40c3-a043-82120e46102b</alternateIdentifier>
+                <alternateIdentifier>10.15468/wyvhnd</alternateIdentifier>
+                <alternateIdentifier>3F354C4D-BE80-4FD5-B6AD-F9C12604160F</alternateIdentifier>
+                <alternateIdentifier>6C6B6C218552FFACFF8429101576FF94</alternateIdentifier>
+        <title>Rails (Rallidae: Gallirallus) from prehistoric archaeological sites in Western Oceania</title>
+            <creator>
+            <individualName>
+<givenName>Jeremy J.</givenName>                    <surName>Kirchman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David W.</givenName>                    <surName>Steadman</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2006-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kirchman, Jeremy J., Steadman, David W. (2006): Rails (Rallidae: Gallirallus) from prehistoric archaeological sites in Western Oceania. Zootaxa 1316: 1-31, DOI: 10.5281/zenodo.173941</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6C6B6C218552FFACFF8429101576FF94</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:37Z</dateStamp>
+                <citation>Kirchman J J, Steadman D W, plazi (2006). Rails (Rallidae: Gallirallus) from prehistoric archaeological sites in Western Oceania. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.173941 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

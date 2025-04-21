@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="84af9135-8585-4ae4-b767-036cd89182e5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.24349/acarologia/20184263</alternateIdentifier>
+                <alternateIdentifier>84af9135-8585-4ae4-b767-036cd89182e5</alternateIdentifier>
+                <alternateIdentifier>10.15468/krk25w</alternateIdentifier>
+                <alternateIdentifier>77E87B16-2E25-45C4-942B-A9211E7C4BCB</alternateIdentifier>
+                <alternateIdentifier>FFC16C6EB809854AFF8D701ADF7F216B</alternateIdentifier>
+        <title>A putative fossil sejid mite (Parasitiformes: Mesostigmata) in Baltic amber re-identified as an anystine (Acariformes: Prostigmata)</title>
+            <creator>
+            <individualName>
+<givenName>Jason A.</givenName>                    <surName>Dunlop</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David E.</givenName>                    <surName>Walter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jenő</givenName>                    <surName>Kontschán</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-07-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dunlop, Jason A., Walter, David E., Kontschán, Jenő (2018): A putative fossil sejid mite (Parasitiformes: Mesostigmata) in Baltic amber re-identified as an anystine (Acariformes: Prostigmata). Acarologia 58 (3): 665-672, DOI: 10.24349/acarologia/20184263, URL: http://dx.doi.org/10.24349/acarologia/20184263</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC16C6EB809854AFF8D701ADF7F216B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:53Z</dateStamp>
+                <citation>Dunlop J A, Walter D E, Kontschán J, marcus (2018). A putative fossil sejid mite (Parasitiformes: Mesostigmata) in Baltic amber re-identified as an anystine (Acariformes: Prostigmata). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.24349/acarologia/20184263 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

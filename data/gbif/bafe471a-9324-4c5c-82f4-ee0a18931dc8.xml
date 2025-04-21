@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bafe471a-9324-4c5c-82f4-ee0a18931dc8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3777.1.1</alternateIdentifier>
+                <alternateIdentifier>bafe471a-9324-4c5c-82f4-ee0a18931dc8</alternateIdentifier>
+                <alternateIdentifier>10.15468/zyq63m</alternateIdentifier>
+                <alternateIdentifier>AD9C21E1-A326-49F0-93BF-FE6BDCEDF256</alternateIdentifier>
+                <alternateIdentifier>315C263D1264590F784DEA240934FFC3</alternateIdentifier>
+        <title>A taxonomic revision of the genus Edosa Walker, 1886 from China (Lepidoptera, Tineidae, Perissomasticinae)</title>
+            <creator>
+            <individualName>
+<givenName>Linlin</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shuxia</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Houhun</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yang, Linlin, Wang, Shuxia, Li, Houhun (2014): A taxonomic revision of the genus Edosa Walker, 1886 from China (Lepidoptera, Tineidae, Perissomasticinae). Zootaxa 3777 (1): 1-102, DOI: http://dx.doi.org/10.11646/zootaxa.3777.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/315C263D1264590F784DEA240934FFC3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:37Z</dateStamp>
+                <citation>Yang L, Wang S, Li H, plazi (2014). A taxonomic revision of the genus Edosa Walker, 1886 from China (Lepidoptera, Tineidae, Perissomasticinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3777.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

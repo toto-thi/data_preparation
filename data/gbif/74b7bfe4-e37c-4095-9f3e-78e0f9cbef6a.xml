@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="74b7bfe4-e37c-4095-9f3e-78e0f9cbef6a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.201604</alternateIdentifier>
+                <alternateIdentifier>74b7bfe4-e37c-4095-9f3e-78e0f9cbef6a</alternateIdentifier>
+                <alternateIdentifier>10.15468/mv4drt</alternateIdentifier>
+                <alternateIdentifier>9AAF42BB-D96D-4B3F-BE8E-8FCD05D4EA7D</alternateIdentifier>
+                <alternateIdentifier>FFCC290BFF981058FFB4FFAFFFE93071</alternateIdentifier>
+        <title>A revision of Chinese species of Mesopolobus Westwood (Hymenoptera: Pteromalidae) with descriptions of four new species from China</title>
+            <creator>
+            <individualName>
+<givenName>Hui</givenName>                    <surName>Xiao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lei</givenName>                    <surName>Sun</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tianyang</givenName>                    <surName>Jiao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zi</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xiao, Hui, Sun, Lei, Jiao, Tianyang, Li, Zi (2016): A revision of Chinese species of Mesopolobus Westwood (Hymenoptera: Pteromalidae) with descriptions of four new species from China. Zoological Systematics 41 (1): 64-81, DOI: 10.11865/zs.201604, URL: http://zoobank.org/9aaf42bb-d96d-4b3f-be8e-8fcd05d4ea7d</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCC290BFF981058FFB4FFAFFFE93071</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:30Z</dateStamp>
+                <citation>Xiao H, Sun L, Jiao T, Li Z, carolina (2016). A revision of Chinese species of Mesopolobus Westwood (Hymenoptera: Pteromalidae) with descriptions of four new species from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.201604 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

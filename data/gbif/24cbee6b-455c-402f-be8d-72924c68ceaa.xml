@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="24cbee6b-455c-402f-be8d-72924c68ceaa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/9xhg9j</alternateIdentifier>
+                <alternateIdentifier>B7335D01806E55E680BA6ABD2A801103</alternateIdentifier>
+        <title>Selaginella densiciliata (subg. Heterostachys, Selaginellaceae), a new spikemoss species from China based on morphological and molecular data</title>
+            <creator>
+            <individualName>
+<givenName>Shao-Li</givenName>                    <surName>Fang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bo</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Liang</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhao-Rong</givenName>                    <surName>He</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xin-Mao</givenName>                    <surName>Zhou</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Fang, Shao-Li, Xu, Bo, Zhang, Liang, He, Zhao-Rong, Zhou, Xin-Mao (2023): Selaginella densiciliata (subg. Heterostachys, Selaginellaceae), a new spikemoss species from China based on morphological and molecular data. PhytoKeys 227: 135-149, DOI: http://dx.doi.org/10.3897/phytokeys.227.101222, URL: http://dx.doi.org/10.3897/phytokeys.227.101222</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/B7335D01806E55E680BA6ABD2A801103</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:30Z</dateStamp>
+                <citation>Fang S, Xu B, Zhang L, He Z, Zhou X, pensoft (2023). Selaginella densiciliata (subg. Heterostachys, Selaginellaceae), a new spikemoss species from China based on morphological and molecular data. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/9xhg9j accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Fang, Shao-Li, Xu, Bo, Zhang, Liang, He, Zhao-Rong, Zhou, Xin-Mao (2023): Selaginella densiciliata (subg. Heterostachys, Selaginellaceae), a new spikemoss species from China based on morphological and molecular data. PhytoKeys 227: 135-149, DOI: http://dx.doi.org/10.3897/phytokeys.227.101222, URL: http://dx.doi.org/10.3897/phytokeys.227.101222</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

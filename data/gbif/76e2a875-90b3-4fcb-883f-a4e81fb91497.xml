@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="76e2a875-90b3-4fcb-883f-a4e81fb91497"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/n3peu7</alternateIdentifier>
+                <alternateIdentifier>FFE6B37DFFD18019FFC7FFAE2A3CFFE9</alternateIdentifier>
+        <title>Changes in the genus Euplocania (Psocodea: Ptiloneuridae): invalidation of the species group Marginata and establishment of the species group Uariniensis, with description of two new species</title>
+            <creator>
+            <individualName>
+<givenName>Ranulfo</givenName>                    <surName>González-Obando</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>Carrejo-Gironza</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alfonso Neri García</givenName>                    <surName>Aldrete</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-04-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article González-Obando, Ranulfo, Carrejo-Gironza, Nancy, Aldrete, Alfonso Neri García (2022): Changes in the genus Euplocania (Psocodea: Ptiloneuridae): invalidation of the species group Marginata and establishment of the species group Uariniensis, with description of two new species. Zootaxa 5129 (1): 129-136, DOI: https://doi.org/10.11646/zootaxa.5129.1.8</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE6B37DFFD18019FFC7FFAE2A3CFFE9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:11Z</dateStamp>
+                <citation>González-Obando R, Carrejo-Gironza N, Aldrete A N G, plazi (2022). Changes in the genus Euplocania (Psocodea: Ptiloneuridae): invalidation of the species group Marginata and establishment of the species group Uariniensis, with description of two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/n3peu7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

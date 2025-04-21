@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fb0d8b09-a0fc-47d2-9af1-37d24cc23e56"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3742118</alternateIdentifier>
+                <alternateIdentifier>fb0d8b09-a0fc-47d2-9af1-37d24cc23e56</alternateIdentifier>
+                <alternateIdentifier>10.15468/iz0okd</alternateIdentifier>
+                <alternateIdentifier>FFBBFFB24155FFBFFFB64875FFEFFFBF</alternateIdentifier>
+        <title>Beitrag zur Symphyta-Fauna des Naturparks Villacher Alpe (Dobratsch) im Kärntner Gailtal (Insecta, Hymenoptera)</title>
+            <creator>
+            <individualName>
+<givenName>Wolfgang</givenName>                    <surName>Schedl</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-20
+            </pubDate>
+        <language>GERMAN</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Schedl, Wolfgang (2019): Beitrag zur Symphyta-Fauna des Naturparks Villacher Alpe (Dobratsch) im Kärntner Gailtal (Insecta, Hymenoptera). Linzer biologische Beiträge 51 (2): 1185-1193, DOI: http://doi.org/10.5281/zenodo.3742118</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBBFFB24155FFBFFFB64875FFEFFFBF</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:20Z</dateStamp>
+                <citation>Schedl W, valdenar (2019). Beitrag zur Symphyta-Fauna des Naturparks Villacher Alpe (Dobratsch) im Kärntner Gailtal (Insecta, Hymenoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3742118 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

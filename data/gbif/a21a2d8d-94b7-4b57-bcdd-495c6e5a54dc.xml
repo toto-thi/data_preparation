@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a21a2d8d-94b7-4b57-bcdd-495c6e5a54dc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3768.3.3</alternateIdentifier>
+                <alternateIdentifier>a21a2d8d-94b7-4b57-bcdd-495c6e5a54dc</alternateIdentifier>
+                <alternateIdentifier>10.15468/wt3ci2</alternateIdentifier>
+                <alternateIdentifier>D223B938-DB44-4738-AA6D-9C5627B9C7A1</alternateIdentifier>
+                <alternateIdentifier>FFBCCA1D95263A75544EFFC0FFF6FFE2</alternateIdentifier>
+        <title>Faunistic survey of Hydromedusae (Cnidaria, Medusozoa) from the coast of Paraná State, Southern Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Renato Mitsuo</givenName>                    <surName>Nagata</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Miodeli Nogueira</givenName>                    <surName>Júnior</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maria Angélica</givenName>                    <surName>Haddad</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nagata, Renato Mitsuo, Júnior, Miodeli Nogueira, Haddad, Maria Angélica (2014): Faunistic survey of Hydromedusae (Cnidaria, Medusozoa) from the coast of Paraná State, Southern Brazil. Zootaxa 3768 (3): 291-326, DOI: http://dx.doi.org/10.11646/zootaxa.3768.3.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBCCA1D95263A75544EFFC0FFF6FFE2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:17Z</dateStamp>
+                <citation>Nagata R M, Júnior M N, Haddad M A, plazi (2014). Faunistic survey of Hydromedusae (Cnidaria, Medusozoa) from the coast of Paraná State, Southern Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3768.3.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

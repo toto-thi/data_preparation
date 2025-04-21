@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="aa2af867-04e4-4d4d-b40f-5d3d530c15d2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.269136</alternateIdentifier>
+                <alternateIdentifier>aa2af867-04e4-4d4d-b40f-5d3d530c15d2</alternateIdentifier>
+                <alternateIdentifier>10.15468/a2wc7x</alternateIdentifier>
+                <alternateIdentifier>FFB7FFB42940FFE2FFD6E610FFCD4D5D</alternateIdentifier>
+        <title>NEW SPECIES OF SPIDERS (ARANEAE) FROM HAINAN ISLAND, CHINA</title>
+            <creator>
+            <individualName>
+                    <surName>Alberto T. Barrion</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Aimee Lynn A. Barrion-Dupo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Josie Lynn A. Catindig</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Sylvia C. Villareal</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ducheng Cai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Qianhua Yuan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Kong Luen Heong</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Alberto T. Barrion, Aimee Lynn A. Barrion-Dupo, Josie Lynn A. Catindig, Sylvia C. Villareal, Ducheng Cai, Qianhua Yuan, Kong Luen Heong (2016): NEW SPECIES OF SPIDERS (ARANEAE) FROM HAINAN ISLAND, CHINA. UPLB Museum Publications in Natural History 3: 1-103, DOI: 10.5281/zenodo.269136</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB7FFB42940FFE2FFD6E610FFCD4D5D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:49Z</dateStamp>
+                <citation>Alberto T. Barrion, Aimee Lynn A. Barrion-Dupo, Josie Lynn A. Catindig, Sylvia C. Villareal, Ducheng Cai, Qianhua Yuan, Kong Luen Heong, plazi (2016). NEW SPECIES OF SPIDERS (ARANEAE) FROM HAINAN ISLAND, CHINA. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.269136 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

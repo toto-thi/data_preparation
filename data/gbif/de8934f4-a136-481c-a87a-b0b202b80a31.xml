@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="de8934f4-a136-481c-a87a-b0b202b80a31"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/j43wfc</alternateIdentifier>
+                <alternateIdentifier>de8934f4-a136-481c-a87a-b0b202b80a31</alternateIdentifier>
+                <alternateIdentifier>14319</alternateIdentifier>
+        <title>Dyntaxa. Svensk taxonomisk databas</title>
+            <creator>
+            <individualName>
+<givenName>Maria</givenName>                    <surName>Backlund</surName>
+            </individualName>
+<organizationName>SLU Swedish University of Agricultural Sciences</organizationName><positionName>Dyntaxa Manager</positionName>            <address>
+<deliveryPoint>PO Box 7007</deliveryPoint><city>Uppsala</city><postalCode>SE-750 07</postalCode><country>SWEDEN</country>            </address>
+<phone>+4618672341</phone><electronicMailAddress>maria.backlund@slu.se</electronicMailAddress><onlineUrl>http://www.slu.se/artdatabanken</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Maria</givenName>                    <surName>Backlund</surName>
+            </individualName>
+<organizationName>SLU Swedish University of Agricultural Sciences</organizationName><positionName>Dyntaxa Manager</positionName>            <address>
+<deliveryPoint>PO Box 7007</deliveryPoint><city>Uppsala</city><postalCode>SE-750 07</postalCode><country>SWEDEN</country>            </address>
+<phone>+4618672341</phone><electronicMailAddress>maria.backlund@slu.se</electronicMailAddress><onlineUrl>http://www.slu.se/artdatabanken</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Maria</givenName>                    <surName>Backlund</surName>
+            </individualName>
+<electronicMailAddress>maria.backlund@slu.se</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Dyntaxa is a Swedish taxonomic database of organisms occurring in Swedish nature. For other databases at the Swedish Species Information Centre, e.g. Artportalen, it has a normative function for taxonomic concepts, and is increasingly referenced by external Swedish users. To date (October 2021) Dyntaxa contains information about 62,200 species occurring in Sweden. This includes about 95% of known multicellular species – remaining gaps mainly found among the fungi. Our goal is to include in the database all species documented from Sweden – at least the multicellular ones and such unicellular species that are included in environmental monitoring by the Swedish EPA. In addition to these species there are many names at other taxonomic levels, scientific synonyms, Swedish vernaculars, etc. In all, the database includes more than 307,000 names (October 2021). Dyntaxa is continuously updated with new species, changes in taxonomy and added Swedish names and scientific synonyms.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Taxonomicauthority</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.dyntaxa.se/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>The country of Sweden including territorial waters.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>10.74</westBoundingCoordinate>
+                                <eastBoundingCoordinate>24.37</eastBoundingCoordinate>
+                                <northBoundingCoordinate>69.13</northBoundingCoordinate>
+                                <southBoundingCoordinate>55.16</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>All life with a focus on multicellular organisms.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Viruses</taxonRankValue>
+                                        <commonName>Viruses</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Bacteria</taxonRankValue>
+                                        <commonName>Bacteria</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Archaea</taxonRankValue>
+                                        <commonName>Archaea</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                        <commonName>Animals</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Chromista</taxonRankValue>
+                                        <commonName>chromists</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Eukarya unassigned</taxonRankValue>
+                                        <commonName>Unassigned eukaryotes</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Fungi</taxonRankValue>
+                                        <commonName>Fungi</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                        <commonName>Plants</commonName>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Protozoa</taxonRankValue>
+                                        <commonName>Protozoans</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Maria</givenName>                    <surName>Backlund</surName>
+            </individualName>
+<organizationName>&gt;SLU Swedish University of Agricultural Sciences</organizationName><positionName>Dyntaxa Manager</positionName>            <address>
+<deliveryPoint>PO Box 7007</deliveryPoint><city>Uppsala</city><postalCode>SE-750 07</postalCode><country>SWEDEN</country>            </address>
+<phone>+4618672341</phone><electronicMailAddress>maria.backlund@slu.se</electronicMailAddress><onlineUrl>http://www.slu.se/artdatabanken</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:44Z</dateStamp>
+                <citation>Backlund M (2023). Dyntaxa. Svensk taxonomisk databas. SLU Artdatabanken. Checklist dataset https://doi.org/10.15468/j43wfc accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

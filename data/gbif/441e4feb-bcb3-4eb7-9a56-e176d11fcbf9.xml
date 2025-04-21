@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="441e4feb-bcb3-4eb7-9a56-e176d11fcbf9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dzs5nb</alternateIdentifier>
+                <alternateIdentifier>FFC07C53B27DBE37FFD19038FFEAFFE2</alternateIdentifier>
+        <title>Six new species of Aleuromarginatus Corbett, 1935 and Paramarginatus sarawakensis Dubey gen. and sp. nov. (Hemiptera: Aleyrodidae) from Southeast Asia</title>
+            <creator>
+            <individualName>
+<givenName>Anil Kumar</givenName>                    <surName>Dubey</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul A.</givenName>                    <surName>Brown</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-01-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dubey, Anil Kumar, Brown, Paul A. (2022): Six new species of Aleuromarginatus Corbett, 1935 and Paramarginatus sarawakensis Dubey gen. and sp. nov. (Hemiptera: Aleyrodidae) from Southeast Asia. Journal of Natural History 55 (41 - 42): 2605-2649, DOI: 10.1080/00222933.2021.2008038</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC07C53B27DBE37FFD19038FFEAFFE2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:19Z</dateStamp>
+                <citation>Dubey A K, Brown P A, plazi (2022). Six new species of Aleuromarginatus Corbett, 1935 and Paramarginatus sarawakensis Dubey gen. and sp. nov. (Hemiptera: Aleyrodidae) from Southeast Asia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/dzs5nb accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

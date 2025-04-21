@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c3f2744c-6fc2-4240-bced-69e24ba21edd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.210107</alternateIdentifier>
+                <alternateIdentifier>c3f2744c-6fc2-4240-bced-69e24ba21edd</alternateIdentifier>
+                <alternateIdentifier>10.15468/3tsxis</alternateIdentifier>
+                <alternateIdentifier>4645FFACC262FF93FFC6E66EFF8C5650</alternateIdentifier>
+        <title>New species and new records of millipedes of the genus Rhinocricus Karsch, 1881 (Spirobolida: Rhinocricidae) from southern Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Patrícia E. S.</givenName>                    <surName>Rodrigues</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Ott</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Everton N. L.</givenName>                    <surName>Rodrigues</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rodrigues, Patrícia E. S., Ott, Ricardo, Rodrigues, Everton N. L. (2012): New species and new records of millipedes of the genus Rhinocricus Karsch, 1881 (Spirobolida: Rhinocricidae) from southern Brazil. Zootaxa 3172: 55-64, DOI: 10.5281/zenodo.210107</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/4645FFACC262FF93FFC6E66EFF8C5650</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:33Z</dateStamp>
+                <citation>Rodrigues P E S, Ott R, Rodrigues E N L, plazi (2012). New species and new records of millipedes of the genus Rhinocricus Karsch, 1881 (Spirobolida: Rhinocricidae) from southern Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.210107 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

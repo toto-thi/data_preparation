@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5fc7d161-29d4-4928-bb09-3f62fdf34fe7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8r2nd2</alternateIdentifier>
+                <alternateIdentifier>B61E7B03B308528C9FC150520EABBE19</alternateIdentifier>
+        <title>The earliest evidence of Omophroninae (Coleoptera: Carabidae) from mid-Cretaceous Kachin amber and the description of a larva of a new genus</title>
+            <creator>
+            <individualName>
+<givenName>Katerina</givenName>                    <surName>Rosova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jakub</givenName>                    <surName>Prokop</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Joerg U.</givenName>                    <surName>Hammel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rolf G.</givenName>                    <surName>Beutel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rosova, Katerina, Prokop, Jakub, Hammel, Joerg U., Beutel, Rolf G. (2023): The earliest evidence of Omophroninae (Coleoptera: Carabidae) from mid-Cretaceous Kachin amber and the description of a larva of a new genus. Arthropod Systematics &amp;amp; amp; Phylogeny 81: 689-704, DOI: http://dx.doi.org/10.3897/asp.81.e101374, URL: http://dx.doi.org/10.3897/asp.81.e101374</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/B61E7B03B308528C9FC150520EABBE19</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:10Z</dateStamp>
+                <citation>Rosova K, Prokop J, Hammel J U, Beutel R G, pensoft (2023). The earliest evidence of Omophroninae (Coleoptera: Carabidae) from mid-Cretaceous Kachin amber and the description of a larva of a new genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/8r2nd2 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Rosova, Katerina, Prokop, Jakub, Hammel, Joerg U., Beutel, Rolf G. (2023): The earliest evidence of Omophroninae (Coleoptera: Carabidae) from mid-Cretaceous Kachin amber and the description of a larva of a new genus. Arthropod Systematics &amp; amp; Phylogeny 81: 689-704, DOI: http://dx.doi.org/10.3897/asp.81.e101374, URL: http://dx.doi.org/10.3897/asp.81.e101374</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

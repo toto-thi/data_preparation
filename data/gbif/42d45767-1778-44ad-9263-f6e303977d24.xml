@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="42d45767-1778-44ad-9263-f6e303977d24"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/x5qscx</alternateIdentifier>
+                <alternateIdentifier>C558FFBDFF91334BFFEEFF8B6525FFE4</alternateIdentifier>
+        <title>Pontibacter brevis sp. nov., isolated from rhizosphere soil of Tamarix ramosissima</title>
+            <creator>
+            <individualName>
+<givenName>Ghenijan</givenName>                    <surName>Osman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yan</givenName>                    <surName>Gao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ning</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Otkur</givenName>                    <surName>Mahmud</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jian</givenName>                    <surName>Sun</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tao</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Faqiang</givenName>                    <surName>Zhan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhidong</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kai</givenName>                    <surName>Lou</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-01-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Osman, Ghenijan, Gao, Yan, Wang, Ning, Mahmud, Otkur, Sun, Jian, Zhang, Tao, Zhan, Faqiang, Zhang, Zhidong, Lou, Kai (2018): Pontibacter brevis sp. nov., isolated from rhizosphere soil of Tamarix ramosissima. International Journal of Systematic and Evolutionary Microbiology 68 (1): 81-86, DOI: 10.1099/ijsem.0.002455, URL: http://dx.doi.org/10.1099/ijsem.0.002455</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C558FFBDFF91334BFFEEFF8B6525FFE4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:47Z</dateStamp>
+                <citation>Osman G, Gao Y, Wang N, Mahmud O, Sun J, Zhang T, Zhan F, Zhang Z, Lou K, felipe (2018). Pontibacter brevis sp. nov., isolated from rhizosphere soil of Tamarix ramosissima. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/x5qscx accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

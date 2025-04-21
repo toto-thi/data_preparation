@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="55eab727-20e9-4593-a2b9-92f2473f1b63"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3161/00034541anz2015.65.1.008</alternateIdentifier>
+                <alternateIdentifier>55eab727-20e9-4593-a2b9-92f2473f1b63</alternateIdentifier>
+                <alternateIdentifier>10.15468/d22z1c</alternateIdentifier>
+                <alternateIdentifier>A860FF9A870C602F693DFD11B150FFEE</alternateIdentifier>
+        <title>Two new Opadometa species (Araneae: Tetragnathidae) from Sarawak, Malaysia</title>
+            <creator>
+            <individualName>
+<givenName>Muhammad Nasir</givenName>                    <surName>Dzulhelmi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Su</givenName>                    <surName>Suriyanti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mohamed</givenName>                    <surName>Zulqarnain</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Che Yusoff</givenName>                    <surName>Norma</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Jeremy</givenName>                    <surName>Miller</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dzulhelmi, Muhammad Nasir, Suriyanti, Su, Zulqarnain, Mohamed, Norma, Che Yusoff (2015): Two new Opadometa species (Araneae: Tetragnathidae) from Sarawak, Malaysia. Annales Zoologici 65: 101-107, DOI: 10.3161/00034541anz2015.65.1.008</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A860FF9A870C602F693DFD11B150FFEE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:35Z</dateStamp>
+                <citation>Dzulhelmi M N, Suriyanti S, Zulqarnain M, Norma C Y, Miller J (2015). Two new Opadometa species (Araneae: Tetragnathidae) from Sarawak, Malaysia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3161/00034541anz2015.65.1.008 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

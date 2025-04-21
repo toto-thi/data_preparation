@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="120db7ca-e885-4d5e-bc3d-83af0671f8d1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/zoosystema2021v43a10</alternateIdentifier>
+                <alternateIdentifier>120db7ca-e885-4d5e-bc3d-83af0671f8d1</alternateIdentifier>
+                <alternateIdentifier>10.15468/h2a2q3</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:2763DA07-4D8F-4CA2-BB63-E5BC26470296</alternateIdentifier>
+                <alternateIdentifier>FFBFB54DFF9CFFA0757CFF9F44099755</alternateIdentifier>
+        <title>A taxonomic review of the mygalomorph spider genus Linothele Karsch, 1879 (Araneae, Dipluridae)</title>
+            <creator>
+            <individualName>
+<givenName>Bastian</givenName>                    <surName>Drolshagen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christian M.</givenName>                    <surName>Bäckstam</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Drolshagen, Bastian, Bäckstam, Christian M. (2021): A taxonomic review of the mygalomorph spider genus Linothele Karsch, 1879 (Araneae, Dipluridae). Zoosystema 43 (10): 163-196, DOI: 10.5252/zoosystema2021v43a10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBFB54DFF9CFFA0757CFF9F44099755</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:27Z</dateStamp>
+                <citation>Drolshagen B, Bäckstam C M, felipe (2021). A taxonomic review of the mygalomorph spider genus Linothele Karsch, 1879 (Araneae, Dipluridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/zoosystema2021v43a10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

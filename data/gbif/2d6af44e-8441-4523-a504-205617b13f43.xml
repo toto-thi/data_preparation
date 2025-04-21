@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2d6af44e-8441-4523-a504-205617b13f43"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4651.1.6</alternateIdentifier>
+                <alternateIdentifier>2d6af44e-8441-4523-a504-205617b13f43</alternateIdentifier>
+                <alternateIdentifier>10.15468/bwd4od</alternateIdentifier>
+                <alternateIdentifier>3C4B2F10-DD27-44FD-AB41-CA41FC8ECEE6</alternateIdentifier>
+                <alternateIdentifier>067DFFA5FFA9A408FFC30C13FF81FFE5</alternateIdentifier>
+        <title>Description of Ditylenchus paraparvus n. sp. from Iran with an updated list of Ditylenchus Filipjev, 1936 (Nematoda: Anguinidae)</title>
+            <creator>
+            <individualName>
+<givenName>Kobra</givenName>                    <surName>Hashemi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Akbar</givenName>                    <surName>Karegar</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-08-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hashemi, Kobra, Karegar, Akbar (2019): Description of Ditylenchus paraparvus n. sp. from Iran with an updated list of Ditylenchus Filipjev, 1936 (Nematoda: Anguinidae). Zootaxa 4651 (1): 85-113, DOI: https://doi.org/10.11646/zootaxa.4651.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/067DFFA5FFA9A408FFC30C13FF81FFE5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:09Z</dateStamp>
+                <citation>Hashemi K, Karegar A, plazi (2019). Description of Ditylenchus paraparvus n. sp. from Iran with an updated list of Ditylenchus Filipjev, 1936 (Nematoda: Anguinidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4651.1.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

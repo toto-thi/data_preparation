@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b8965a84-547b-4855-ac3d-2a9286b327d5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1206/0003-0082(2002)364&lt;0001:caocot&gt;2.0.co;2</alternateIdentifier>
+                <alternateIdentifier>b8965a84-547b-4855-ac3d-2a9286b327d5</alternateIdentifier>
+                <alternateIdentifier>10.15468/hk5dqh</alternateIdentifier>
+                <alternateIdentifier>987D417F28487E6AFFB79F22FF97A906</alternateIdentifier>
+        <title>Cranial Anatomy of Citipati osmolskae (Theropoda, Oviraptorosauria), and a Reinterpretation of the Holotype of Oviraptor philoceratops</title>
+            <creator>
+            <individualName>
+<givenName>JAMES M.</givenName>                    <surName>CLARK</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>MARK A.</givenName>                    <surName>NORELL</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>TIMOTHY</givenName>                    <surName>ROWE</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2002-03-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article CLARK, JAMES M., NORELL, MARK A., ROWE, TIMOTHY (2002): Cranial Anatomy of Citipati osmolskae (Theropoda, Oviraptorosauria), and a Reinterpretation of the Holotype of Oviraptor philoceratops. American Museum Novitates 3364: 1-24, DOI: 10.1206/0003-0082(2002)364&amp;lt;0001:CAOCOT&amp;gt;2.0.CO;2, URL: http://www.bioone.org/doi/abs/10.1206/0003-0082%282002%29364%3C0001%3ACAOCOT%3E2.0.CO%3B2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/987D417F28487E6AFFB79F22FF97A906</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:23Z</dateStamp>
+                <citation>CLARK J M, NORELL M A, ROWE T, felipe (2002). Cranial Anatomy of Citipati osmolskae (Theropoda, Oviraptorosauria), and a Reinterpretation of the Holotype of Oviraptor philoceratops. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1206/0003-0082(2002)364&lt;0001:caocot&gt;2.0.co;2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

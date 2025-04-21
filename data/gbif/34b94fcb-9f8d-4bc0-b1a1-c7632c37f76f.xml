@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="34b94fcb-9f8d-4bc0-b1a1-c7632c37f76f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fzvvth</alternateIdentifier>
+                <alternateIdentifier>F021A86A-3265-40FB-97B8-8EDC7937DEFC</alternateIdentifier>
+                <alternateIdentifier>517877F8828A5483E8B33997A25DCDC8</alternateIdentifier>
+        <title>Apteronotus eschmeyeri, a new species of ghost knifefish from the Magdalena Basin, Colombia (Gymnotiformes: Apteronotidae).</title>
+            <creator>
+            <individualName>
+                    <surName>Carlos David de Santana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Javier A. Maldonado-Ocampo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>William Severi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>George Nilson Mendes</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Stierhof</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2004-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Carlos David de Santana, Javier A. Maldonado-Ocampo, William Severi, George Nilson Mendes (2004): Apteronotus eschmeyeri, a new species of ghost knifefish from the Magdalena Basin, Colombia (Gymnotiformes: Apteronotidae). Zootaxa 410: 1-11, URL: http://www.zoobank.org/urn:lsid:zoobank.org:pub:F021A86A-3265-40FB-97B8-8EDC7937DEFC</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/517877F8828A5483E8B33997A25DCDC8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:40Z</dateStamp>
+                <citation>Carlos David de Santana, Javier A. Maldonado-Ocampo, William Severi, George Nilson Mendes, Stierhof T (2004). Apteronotus eschmeyeri, a new species of ghost knifefish from the Magdalena Basin, Colombia (Gymnotiformes: Apteronotidae).. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/fzvvth accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

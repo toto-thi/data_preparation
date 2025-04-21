@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c4f7d09a-ce6a-4956-a0c7-1e83c5c1b038"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3467083</alternateIdentifier>
+                <alternateIdentifier>10.5281/zenodo.3467091</alternateIdentifier>
+                <alternateIdentifier>10.15468/ynwm8w</alternateIdentifier>
+                <alternateIdentifier>c4f7d09a-ce6a-4956-a0c7-1e83c5c1b038</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:AD5A1C09-C805-47AD-ADBE-020722FEC0E6</alternateIdentifier>
+                <alternateIdentifier>FFCA6A599F48611F2449FFB9FFCCFFF1</alternateIdentifier>
+        <title>Unifying systematics and taxonomy: Nomenclatural changes to Nearctic tiger beetles (Coleoptera: Carabidae: Cicindelinae) based on phylogenetics, morphology and life history</title>
+            <creator>
+            <individualName>
+<givenName>Daniel P.</givenName>                    <surName>Duran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Harlan M.</givenName>                    <surName>Gough</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Duran, Daniel P., Gough, Harlan M. (2019): Unifying systematics and taxonomy: Nomenclatural changes to Nearctic tiger beetles (Coleoptera: Carabidae: Cicindelinae) based on phylogenetics, morphology and life history. Insecta Mundi 2019 (727): 1-12, DOI: http://doi.org/10.5281/zenodo.3467083</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCA6A599F48611F2449FFB9FFCCFFF1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:16Z</dateStamp>
+                <citation>Duran D P, Gough H M, plazi (2019). Unifying systematics and taxonomy: Nomenclatural changes to Nearctic tiger beetles (Coleoptera: Carabidae: Cicindelinae) based on phylogenetics, morphology and life history. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3467083 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

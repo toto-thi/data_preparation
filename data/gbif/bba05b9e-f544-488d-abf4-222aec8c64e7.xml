@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bba05b9e-f544-488d-abf4-222aec8c64e7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4881.3.9</alternateIdentifier>
+                <alternateIdentifier>bba05b9e-f544-488d-abf4-222aec8c64e7</alternateIdentifier>
+                <alternateIdentifier>10.15468/5mvbew</alternateIdentifier>
+                <alternateIdentifier>DCA548C5-E514-4C1F-86F6-8D99360738E9</alternateIdentifier>
+                <alternateIdentifier>FFAA7E56FFE16228FF85FFBAD143FFF3</alternateIdentifier>
+        <title>Indian Hecalina (Hemiptera: Cicadellidae: Deltocephalinae: Hecalini) with description of three new species</title>
+            <creator>
+            <individualName>
+<givenName>Akash P.</givenName>                    <surName>Nikoshe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Naresh M.</givenName>                    <surName>Meshram</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Stuti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Debjani</givenName>                    <surName>Dey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-11-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nikoshe, Akash P., Meshram, Naresh M., Stuti, Dey, Debjani (2020): Indian Hecalina (Hemiptera: Cicadellidae: Deltocephalinae: Hecalini) with description of three new species. Zootaxa 4881 (3): 573-585, DOI: https://doi.org/10.11646/zootaxa.4881.3.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFAA7E56FFE16228FF85FFBAD143FFF3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:47Z</dateStamp>
+                <citation>Nikoshe A P, Meshram N M, Stuti, Dey D, plazi (2020). Indian Hecalina (Hemiptera: Cicadellidae: Deltocephalinae: Hecalini) with description of three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4881.3.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0f21db24-8908-4777-9839-ae42884c8707"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4363.3.7</alternateIdentifier>
+                <alternateIdentifier>0f21db24-8908-4777-9839-ae42884c8707</alternateIdentifier>
+                <alternateIdentifier>10.15468/vz9rhg</alternateIdentifier>
+                <alternateIdentifier>9C8E62E5-60D9-45FA-818A-CF78304FC52C</alternateIdentifier>
+                <alternateIdentifier>FFD9FF97CA736A14FFD31D02FFF9FFFA</alternateIdentifier>
+        <title>Resurgence of a forgotten Southern Brazil endemic species: taxonomic position, redescription, and spatio-temporal distribution of Porosagrotis carolia Schaus, 1929 (Lepidoptera: Noctuidae: Noctuinae)</title>
+            <creator>
+            <individualName>
+<givenName>Fernando M. S.</givenName>                    <surName>Dias</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexandre</givenName>                    <surName>Specht</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>German San</givenName>                    <surName>Blas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mirna M.</givenName>                    <surName>Casagrande</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olaf H. H.</givenName>                    <surName>Mielke</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Dias, Fernando M. S., Specht, Alexandre, Blas, German San, Casagrande, Mirna M., Mielke, Olaf H. H. (2017): Resurgence of a forgotten Southern Brazil endemic species: taxonomic position, redescription, and spatio-temporal distribution of Porosagrotis carolia Schaus, 1929 (Lepidoptera: Noctuidae: Noctuinae). Zootaxa 4363 (3): 421-433, DOI: https://doi.org/10.11646/zootaxa.4363.3.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD9FF97CA736A14FFD31D02FFF9FFFA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:53Z</dateStamp>
+                <citation>Dias F M S, Specht A, Blas G S, Casagrande M M, Mielke O H H, plazi (2017). Resurgence of a forgotten Southern Brazil endemic species: taxonomic position, redescription, and spatio-temporal distribution of Porosagrotis carolia Schaus, 1929 (Lepidoptera: Noctuidae: Noctuinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4363.3.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

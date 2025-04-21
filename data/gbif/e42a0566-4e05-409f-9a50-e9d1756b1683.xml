@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e42a0566-4e05-409f-9a50-e9d1756b1683"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.2478/aemnp-2018-0011</alternateIdentifier>
+                <alternateIdentifier>e42a0566-4e05-409f-9a50-e9d1756b1683</alternateIdentifier>
+                <alternateIdentifier>10.15468/npopx6</alternateIdentifier>
+                <alternateIdentifier>5D64E6E7-2F4C-4B40-821F-CBF20E864D7D</alternateIdentifier>
+                <alternateIdentifier>0447FFE0FF81D5390711867AFF91FFC2</alternateIdentifier>
+        <title>A new species of Synopeas (Hymenoptera: Platygastridae) parasitizing Pauropsylla cf. depressa (Psylloidea: Triozidae) in India</title>
+            <creator>
+            <individualName>
+<givenName>Kamalanathan</givenName>                    <surName>Veenakumari</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter Neerup</givenName>                    <surName>Buhl</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Prashanth</givenName>                    <surName>Mohanraj</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-05-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Veenakumari, Kamalanathan, Buhl, Peter Neerup, Mohanraj, Prashanth (2018): A new species of Synopeas (Hymenoptera: Platygastridae) parasitizing Pauropsylla cf. depressa (Psylloidea: Triozidae) in India. Acta Entomologica Musei Nationalis Pragae 58 (1): 137-141, DOI: 10.2478/aemnp-2018-0011</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/0447FFE0FF81D5390711867AFF91FFC2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:07Z</dateStamp>
+                <citation>Veenakumari K, Buhl P N, Mohanraj P, tatiana (2018). A new species of Synopeas (Hymenoptera: Platygastridae) parasitizing Pauropsylla cf. depressa (Psylloidea: Triozidae) in India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.2478/aemnp-2018-0011 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

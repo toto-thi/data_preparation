@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d5bbf3e3-b837-4012-a3c1-06e967ab318d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.769.21144</alternateIdentifier>
+                <alternateIdentifier>10.15468/y8y8gd</alternateIdentifier>
+                <alternateIdentifier>FF81FF8C0643973EC169FFAEDF14FFD6</alternateIdentifier>
+        <title>Morphological re-description and molecular identification of Tabanidae (Diptera) in East Africa</title>
+            <creator>
+            <individualName>
+<givenName>Claire M.</givenName>                    <surName>Mugasa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jandouwe</givenName>                    <surName>Villinger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Joseph</givenName>                    <surName>Gitau</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nelly</givenName>                    <surName>Ndungu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marc Ciosi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Masiga</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-06-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mugasa, Claire M., Villinger, Jandouwe, Gitau, Joseph, Ndungu, Nelly, Marc Ciosi,, Masiga, Daniel (2018): Morphological re-description and molecular identification of Tabanidae (Diptera) in East Africa. ZooKeys 769: 117-144, DOI: http://dx.doi.org/10.3897/zookeys.769.21144, URL: http://dx.doi.org/10.3897/zookeys.769.21144</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF81FF8C0643973EC169FFAEDF14FFD6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:04Z</dateStamp>
+                <citation>Mugasa C M, Villinger J, Gitau J, Ndungu N, Marc Ciosi, Masiga D, pensoft (2018). Morphological re-description and molecular identification of Tabanidae (Diptera) in East Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.769.21144 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

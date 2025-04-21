@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9aaf6711-748d-4067-a759-26d37802b7fc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4619.1.1</alternateIdentifier>
+                <alternateIdentifier>9aaf6711-748d-4067-a759-26d37802b7fc</alternateIdentifier>
+                <alternateIdentifier>10.15468/97mikg</alternateIdentifier>
+                <alternateIdentifier>CA6AEB18-2F97-449C-AE34-E1509DFFC841</alternateIdentifier>
+                <alternateIdentifier>FFF0D4111E6EFFAA6408FFAEB427EC58</alternateIdentifier>
+        <title>Deep-sea spider crabs of the family Epialtidae MacLeay, 1838, from Papua New Guinea, with a redefinition of Tunepugettia Ng, Komai &amp; Sato, 2017, and descriptions of two new genera (Crustacea: Decapoda: Brachyura: Majoidea)</title>
+            <creator>
+            <individualName>
+<givenName>Bee Yan</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bertrand Richer De</givenName>                    <surName>Forges</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter K. L.</givenName>                    <surName>Ng</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-06-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lee, Bee Yan, Forges, Bertrand Richer De, Ng, Peter K. L. (2019): Deep-sea spider crabs of the family Epialtidae MacLeay, 1838, from Papua New Guinea, with a redefinition of Tunepugettia Ng, Komai &amp;amp; Sato, 2017, and descriptions of two new genera (Crustacea: Decapoda: Brachyura: Majoidea). Zootaxa 4619 (1): 1-44, DOI: https://doi.org/10.11646/zootaxa.4619.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF0D4111E6EFFAA6408FFAEB427EC58</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:10Z</dateStamp>
+                <citation>Lee B Y, Forges B R D, Ng P K L, plazi (2019). Deep-sea spider crabs of the family Epialtidae MacLeay, 1838, from Papua New Guinea, with a redefinition of Tunepugettia Ng, Komai &amp; Sato, 2017, and descriptions of two new genera (Crustacea: Decapoda: Brachyura: Majoidea). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4619.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

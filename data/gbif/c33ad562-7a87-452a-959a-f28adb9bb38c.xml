@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c33ad562-7a87-452a-959a-f28adb9bb38c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/yb5t99</alternateIdentifier>
+                <alternateIdentifier>CF0F547AFFB2FFDE491AFFFCFFC9FF91</alternateIdentifier>
+        <title>Sperberacris, a new Neotropical genus of Gomphocerinae (Orthoptera: Acridoidea Acrididae) from State of Alagoas, Brazil with chromosome complement</title>
+            <creator>
+            <individualName>
+<givenName>Maria Kátia Matiotti Da</givenName>                    <surName>Costa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Anelise</givenName>                    <surName>Fernandes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Riuler Corrêa</givenName>                    <surName>Acosta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Edison</givenName>                    <surName>Zefa</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Costa, Maria Kátia Matiotti Da, Fernandes, Anelise, Acosta, Riuler Corrêa, Zefa, Edison (2023): Sperberacris, a new Neotropical genus of Gomphocerinae (Orthoptera: Acridoidea Acrididae) from State of Alagoas, Brazil with chromosome complement. Zootaxa 5228 (1): 73-80, DOI: https://doi.org/10.11646/zootaxa.5228.1.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/CF0F547AFFB2FFDE491AFFFCFFC9FF91</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:17Z</dateStamp>
+                <citation>Costa M K M D, Fernandes A, Acosta R C, Zefa E, plazi (2023). Sperberacris, a new Neotropical genus of Gomphocerinae (Orthoptera: Acridoidea Acrididae) from State of Alagoas, Brazil with chromosome complement. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/yb5t99 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

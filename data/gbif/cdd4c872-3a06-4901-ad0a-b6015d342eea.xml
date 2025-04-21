@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cdd4c872-3a06-4901-ad0a-b6015d342eea"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/kkq2ck</alternateIdentifier>
+                <alternateIdentifier>ACEBCCF1F1AF5F749FED9578467C6B3D</alternateIdentifier>
+        <title>Chaenothecopsis (Mycocaliciales, Ascomycota) from exudates of endemic New Zealand Podocarpaceae</title>
+            <creator>
+            <individualName>
+<givenName>Christina</givenName>                    <surName>Beimforde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexander R.</givenName>                    <surName>Schmidt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hanna</givenName>                    <surName>Tuovila</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Uwe</givenName>                    <surName>Kaulfuss</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juliane</givenName>                    <surName>Germer</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>William G.</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jouko</givenName>                    <surName>Rikkinen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Beimforde, Christina, Schmidt, Alexander R., Tuovila, Hanna, Kaulfuss, Uwe, Germer, Juliane, Lee, William G., Rikkinen, Jouko (2023): Chaenothecopsis (Mycocaliciales, Ascomycota) from exudates of endemic New Zealand Podocarpaceae. MycoKeys 95: 101-129, DOI: http://dx.doi.org/10.3897/mycokeys.95.97601, URL: http://dx.doi.org/10.3897/mycokeys.95.97601</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/ACEBCCF1F1AF5F749FED9578467C6B3D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:11Z</dateStamp>
+                <citation>Beimforde C, Schmidt A R, Tuovila H, Kaulfuss U, Germer J, Lee W G, Rikkinen J, pensoft (2023). Chaenothecopsis (Mycocaliciales, Ascomycota) from exudates of endemic New Zealand Podocarpaceae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/kkq2ck accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

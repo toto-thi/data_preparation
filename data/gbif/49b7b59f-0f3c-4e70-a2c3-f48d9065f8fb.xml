@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="49b7b59f-0f3c-4e70-a2c3-f48d9065f8fb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/pvn9cy</alternateIdentifier>
+                <alternateIdentifier>715ED75E5F74FFA82F74DA6CF57A5F04</alternateIdentifier>
+        <title>Scuttle flies (Diptera: Phoridae) from the canopies of ash trees in Norway, with six new species</title>
+            <creator>
+            <individualName>
+<givenName>R. Henry L.</givenName>                    <surName>DISNEY</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article DISNEY, R. Henry L. (2020): Scuttle flies (Diptera: Phoridae) from the canopies of ash trees in Norway, with six new species. Fragmenta Faunistica 63 (1): 29-45, DOI: 10.3161/00159301FF2020.63.1.029, URL: http://dx.doi.org/10.3161/00159301ff2020.63.1.029</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/715ED75E5F74FFA82F74DA6CF57A5F04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:48Z</dateStamp>
+                <citation>DISNEY R H L, felipe (2020). Scuttle flies (Diptera: Phoridae) from the canopies of ash trees in Norway, with six new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/pvn9cy accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

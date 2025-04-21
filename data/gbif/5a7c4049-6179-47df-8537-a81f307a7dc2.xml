@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5a7c4049-6179-47df-8537-a81f307a7dc2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.663</alternateIdentifier>
+                <alternateIdentifier>5a7c4049-6179-47df-8537-a81f307a7dc2</alternateIdentifier>
+                <alternateIdentifier>10.15468/7g7kxb</alternateIdentifier>
+                <alternateIdentifier>78E7049C-F592-4D01-9D15-C7715119B584</alternateIdentifier>
+                <alternateIdentifier>520110163059FF86FFF7FF98FFFF091D</alternateIdentifier>
+        <title>Taxonomic revision of West African cone snails (Gastropoda: Conidae) based upon mitogenomic studies: implications for conservation</title>
+            <creator>
+            <individualName>
+<givenName>Manuel J.</givenName>                    <surName>Tenorio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Samuel</givenName>                    <surName>Abalde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>José R.</givenName>                    <surName>Pardos-Blas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rafael Zardoya Departamento</givenName>                    <surName>Cmim</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-06-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tenorio, Manuel J., Abalde, Samuel, Pardos-Blas, José R., Cmim, Rafael Zardoya Departamento (2020): Taxonomic revision of West African cone snails (Gastropoda: Conidae) based upon mitogenomic studies: implications for conservation. European Journal of Taxonomy 663: 1-89, DOI: https://doi.org/10.5852/ejt.2020.663</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/520110163059FF86FFF7FF98FFFF091D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:45Z</dateStamp>
+                <citation>Tenorio M J, Abalde S, Pardos-Blas J R, Cmim R Z D, valdenar (2020). Taxonomic revision of West African cone snails (Gastropoda: Conidae) based upon mitogenomic studies: implications for conservation. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.663 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

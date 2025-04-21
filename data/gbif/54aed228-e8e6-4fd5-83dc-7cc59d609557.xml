@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="54aed228-e8e6-4fd5-83dc-7cc59d609557"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2007.00357.x</alternateIdentifier>
+                <alternateIdentifier>54aed228-e8e6-4fd5-83dc-7cc59d609557</alternateIdentifier>
+                <alternateIdentifier>10.15468/yrqae3</alternateIdentifier>
+                <alternateIdentifier>FFD79C2DFFADFF95FFFEF14BE47EFF97</alternateIdentifier>
+        <title>A new dwarf boa (Serpentes, Booidea, ‘ Tropidophiidae’) from the Early Oligocene of Belgium: a case of the isolation of Western European snake faunas</title>
+            <creator>
+            <individualName>
+<givenName>Zbigniew</givenName>                    <surName>Szyndlar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean-Claude</givenName>                    <surName>Rage</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2008-02-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Szyndlar, Zbigniew, Smith, Richard, Rage, Jean-Claude (2008): A new dwarf boa (Serpentes, Booidea, ‘ Tropidophiidae’) from the Early Oligocene of Belgium: a case of the isolation of Western European snake faunas. Zoological Journal of the Linnean Society 152 (2): 393-406, DOI: 10.1111/j.1096-3642.2007.00357.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2007.00357.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD79C2DFFADFF95FFFEF14BE47EFF97</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:59Z</dateStamp>
+                <citation>Szyndlar Z, Smith R, Rage J, carolina (2008). A new dwarf boa (Serpentes, Booidea, ‘ Tropidophiidae’) from the Early Oligocene of Belgium: a case of the isolation of Western European snake faunas. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2007.00357.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

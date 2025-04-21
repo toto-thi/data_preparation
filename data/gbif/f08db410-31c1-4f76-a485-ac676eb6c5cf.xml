@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f08db410-31c1-4f76-a485-ac676eb6c5cf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4565390</alternateIdentifier>
+                <alternateIdentifier>10.15468/caxavw</alternateIdentifier>
+                <alternateIdentifier>1EBF8DAB-3EC5-4671-9E15-C3D2213E3164</alternateIdentifier>
+                <alternateIdentifier>f08db410-31c1-4f76-a485-ac676eb6c5cf</alternateIdentifier>
+                <alternateIdentifier>CC29FFCCAF70FFB8FFFEFF9EFFD1FFAC</alternateIdentifier>
+        <title>Additional type designations for fireflies (Coleoptera: Lampyridae) of the Biologia Centrali Americana housed in the Natural History Museum, London</title>
+            <creator>
+            <individualName>
+<givenName>Gavin J.</givenName>                    <surName>Martin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Natalie A.</givenName>                    <surName>Saxton</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Martin, Gavin J., Saxton, Natalie A. (2020): Additional type designations for fireflies (Coleoptera: Lampyridae) of the Biologia Centrali Americana housed in the Natural History Museum, London. Insecta Mundi 2020 (806): 1-10, DOI: http://doi.org/10.5281/zenodo.4565390</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/CC29FFCCAF70FFB8FFFEFF9EFFD1FFAC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:30Z</dateStamp>
+                <citation>Martin G J, Saxton N A, felipe (2020). Additional type designations for fireflies (Coleoptera: Lampyridae) of the Biologia Centrali Americana housed in the Natural History Museum, London. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4565390 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

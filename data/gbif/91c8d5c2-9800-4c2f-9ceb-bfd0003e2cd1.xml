@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="91c8d5c2-9800-4c2f-9ceb-bfd0003e2cd1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8sse3h</alternateIdentifier>
+                <alternateIdentifier>FFA8FFCB693C5A18FFD4FFDA0103FF99</alternateIdentifier>
+        <title>Eucyon khoikhoi sp. nov. (Carnivora: Canidae) from Langebaanweg ‘ E’ Quarry (early Pliocene, South Africa): the most complete African canini from the Mio-Pliocene</title>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Valenciano</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jorge</givenName>                    <surName>Morales</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Romala</givenName>                    <surName>Govender</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-05-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Valenciano, Alberto, Morales, Jorge, Govender, Romala (2022): Eucyon khoikhoi sp. nov. (Carnivora: Canidae) from Langebaanweg ‘ E’ Quarry (early Pliocene, South Africa): the most complete African canini from the Mio-Pliocene. Zoological Journal of the Linnean Society 194: 366-394, DOI: 10.1093/zoolinnean/zlab022</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA8FFCB693C5A18FFD4FFDA0103FF99</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:21Z</dateStamp>
+                <citation>Valenciano A, Morales J, Govender R, plazi (2021). Eucyon khoikhoi sp. nov. (Carnivora: Canidae) from Langebaanweg ‘ E’ Quarry (early Pliocene, South Africa): the most complete African canini from the Mio-Pliocene. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/8sse3h accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

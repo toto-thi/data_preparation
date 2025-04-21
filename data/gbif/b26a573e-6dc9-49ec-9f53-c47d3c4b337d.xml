@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b26a573e-6dc9-49ec-9f53-c47d3c4b337d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2021v43a7</alternateIdentifier>
+                <alternateIdentifier>b26a573e-6dc9-49ec-9f53-c47d3c4b337d</alternateIdentifier>
+                <alternateIdentifier>10.15468/95ntjt</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:74E9AB7F-BE18-428A-BB93-FE8B79AFC455</alternateIdentifier>
+                <alternateIdentifier>FF85FFE8935DB556FFA7FFE5FF9EFFB2</alternateIdentifier>
+        <title>New material of the frog Hungarobatrachus szukacsi Szentesi &amp; Venczel, 2010, from the Santonian of Hungary, supports its neobatrachian affinities and reveals a Gondwanan influence on the European Late Cretaceous anuran fauna</title>
+            <creator>
+            <individualName>
+<givenName>Márton</givenName>                    <surName>Venczel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zoltán</givenName>                    <surName>Szentesi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James D.</givenName>                    <surName>Gardner</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Venczel, Márton, Szentesi, Zoltán, Gardner, James D. (2021): New material of the frog Hungarobatrachus szukacsi Szentesi &amp;amp; Venczel, 2010, from the Santonian of Hungary, supports its neobatrachian affinities and reveals a Gondwanan influence on the European Late Cretaceous anuran fauna. Geodiversitas 43 (7): 187-207, DOI: 10.5252/geodiversitas2021v43a7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF85FFE8935DB556FFA7FFE5FF9EFFB2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:00Z</dateStamp>
+                <citation>Venczel M, Szentesi Z, Gardner J D, felipe (2021). New material of the frog Hungarobatrachus szukacsi Szentesi &amp; Venczel, 2010, from the Santonian of Hungary, supports its neobatrachian affinities and reveals a Gondwanan influence on the European Late Cretaceous anuran fauna. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2021v43a7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

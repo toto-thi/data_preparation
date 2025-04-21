@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5877af3e-4ffa-4d1c-ac32-401f5b4d5ce5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.862.34766</alternateIdentifier>
+                <alternateIdentifier>10.15468/pwb4i4</alternateIdentifier>
+                <alternateIdentifier>95DFBA70-B39C-45D3-AC65-E9E824D2A17D</alternateIdentifier>
+                <alternateIdentifier>373D5524BD16FFA97E75FFD6FFBF3527</alternateIdentifier>
+        <title>Ten newly recorded species of xyleborine ambrosia beetles (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Thailand</title>
+            <creator>
+            <individualName>
+<givenName>Wisut</givenName>                    <surName>Sittichaya</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sarah M.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roger A.</givenName>                    <surName>Beaver</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sittichaya, Wisut, Smith, Sarah M., Beaver, Roger A. (2019): Ten newly recorded species of xyleborine ambrosia beetles (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Thailand. ZooKeys 862: 109-127, DOI: http://dx.doi.org/10.3897/zookeys.862.34766, URL: http://dx.doi.org/10.3897/zookeys.862.34766</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/373D5524BD16FFA97E75FFD6FFBF3527</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:08Z</dateStamp>
+                <citation>Sittichaya W, Smith S M, Beaver R A, pensoft (2019). Ten newly recorded species of xyleborine ambrosia beetles (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Thailand. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.862.34766 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

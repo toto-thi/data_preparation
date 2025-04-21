@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d179f900-b01e-4559-840b-52a19fab1c59"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3wsj96</alternateIdentifier>
+                <alternateIdentifier>1F361CEA4AB558ED89B4811EDF5C21A6</alternateIdentifier>
+        <title>A remarkable new genus of Thripinae (Thysanoptera, Thripidae) without anteocellar setae from India</title>
+            <creator>
+            <individualName>
+<givenName>Remani Rajan</givenName>                    <surName>Rachana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bellapu</givenName>                    <surName>Amarendra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ramasamy Gandhi</givenName>                    <surName>Gracy</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Katasani Venkata</givenName>                    <surName>Nagarjuna Reddy</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rachana, Remani Rajan, Amarendra, Bellapu, Gracy, Ramasamy Gandhi, Nagarjuna Reddy, Katasani Venkata (2023): A remarkable new genus of Thripinae (Thysanoptera, Thripidae) without anteocellar setae from India. ZooKeys 1141: 65-73, DOI: http://dx.doi.org/10.3897/zookeys.1141.96170, URL: http://dx.doi.org/10.3897/zookeys.1141.96170</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/1F361CEA4AB558ED89B4811EDF5C21A6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:20Z</dateStamp>
+                <citation>Rachana R R, Amarendra B, Gracy R G, Nagarjuna Reddy K V, pensoft (2023). A remarkable new genus of Thripinae (Thysanoptera, Thripidae) without anteocellar setae from India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3wsj96 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cca6c92f-c9fd-4df7-ae27-56273bd0df97"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/kx48b5</alternateIdentifier>
+                <alternateIdentifier>FF81FFD6006BFFBAFFB2FFBFFFE00A43</alternateIdentifier>
+        <title>Revealing the cryptic diversity of the widespread and poorly known South American blind snake genus Amerotyphlops (Typhlopidae: Scolecophidia) through integrative taxonomy</title>
+            <creator>
+            <individualName>
+<givenName>Roberta</givenName>                    <surName>Graboski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan C.</givenName>                    <surName>Arredondo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Felipe G.</givenName>                    <surName>Grazziotin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricardo Arturo</givenName>                    <surName>Guerra-Fuentes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ariane A. A.</givenName>                    <surName>Da Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana L. C.</givenName>                    <surName>Prudente</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roberta R.</givenName>                    <surName>Pinto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Miguel T.</givenName>                    <surName>Rodrigues</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sandro L.</givenName>                    <surName>Bonatto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hussam</givenName>                    <surName>Zaher</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Graboski, Roberta, Arredondo, Juan C., Grazziotin, Felipe G., Guerra-Fuentes, Ricardo Arturo, Da Silva, Ariane A. A., Prudente, Ana L. C., Pinto, Roberta R., Rodrigues, Miguel T., Bonatto, Sandro L., Zaher, Hussam (2023): Revealing the cryptic diversity of the widespread and poorly known South American blind snake genus Amerotyphlops (Typhlopidae: Scolecophidia) through integrative taxonomy. Zoological Journal of the Linnean Society 197: 719-751, DOI: 10.1093/zoolinnean/zlac059</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF81FFD6006BFFBAFFB2FFBFFFE00A43</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:05Z</dateStamp>
+                <citation>Graboski R, Arredondo J C, Grazziotin F G, Guerra-Fuentes R A, Da Silva A A A, Prudente A L C, Pinto R R, Rodrigues M T, Bonatto S L, Zaher H, plazi (2022). Revealing the cryptic diversity of the widespread and poorly known South American blind snake genus Amerotyphlops (Typhlopidae: Scolecophidia) through integrative taxonomy. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/kx48b5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

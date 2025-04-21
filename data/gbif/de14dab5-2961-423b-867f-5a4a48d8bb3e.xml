@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="de14dab5-2961-423b-867f-5a4a48d8bb3e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2019.520</alternateIdentifier>
+                <alternateIdentifier>de14dab5-2961-423b-867f-5a4a48d8bb3e</alternateIdentifier>
+                <alternateIdentifier>10.15468/qkodjh</alternateIdentifier>
+                <alternateIdentifier>085164DC-B31D-4293-A037-9C31940E24CD</alternateIdentifier>
+                <alternateIdentifier>6E59C75C68537B2C9976645DFD5BCB04</alternateIdentifier>
+        <title>Revision of the African shieldbug genus Afrius Stål, 1870 (Hemiptera: Heteroptera: Pentatomidae: Asopinae)</title>
+            <creator>
+            <individualName>
+<givenName>Talita</givenName>                    <surName>Roell</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Valérie A.</givenName>                    <surName>Lemaître</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael D.</givenName>                    <surName>Webb</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-04-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Roell, Talita, Lemaître, Valérie A., Webb, Michael D. (2019): Revision of the African shieldbug genus Afrius Stål, 1870 (Hemiptera: Heteroptera: Pentatomidae: Asopinae). European Journal of Taxonomy 520: 1-44, DOI: https://doi.org/10.5852/ejt.2019.520</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6E59C75C68537B2C9976645DFD5BCB04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:19Z</dateStamp>
+                <citation>Roell T, Lemaître V A, Webb M D, plazi (2019). Revision of the African shieldbug genus Afrius Stål, 1870 (Hemiptera: Heteroptera: Pentatomidae: Asopinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2019.520 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

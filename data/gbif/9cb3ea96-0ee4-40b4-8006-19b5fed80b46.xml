@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9cb3ea96-0ee4-40b4-8006-19b5fed80b46"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.622</alternateIdentifier>
+                <alternateIdentifier>9cb3ea96-0ee4-40b4-8006-19b5fed80b46</alternateIdentifier>
+                <alternateIdentifier>10.15468/ermd6m</alternateIdentifier>
+                <alternateIdentifier>9CD3B2CD-F072-4994-8CA9-24145D343401</alternateIdentifier>
+                <alternateIdentifier>FFA0FFD93812FFCE2949FFEEFF9CFF98</alternateIdentifier>
+        <title>A revision of Cissidium Motschulsky (Coleoptera: Ptiliidae) with seventy seven new species</title>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Darby</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-04-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Darby, Michael (2020): A revision of Cissidium Motschulsky (Coleoptera: Ptiliidae) with seventy seven new species. European Journal of Taxonomy 622: 1-188, DOI: https://doi.org/10.5852/ejt.2020.622</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA0FFD93812FFCE2949FFEEFF9CFF98</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:42Z</dateStamp>
+                <citation>Darby M, valdenar (2020). A revision of Cissidium Motschulsky (Coleoptera: Ptiliidae) with seventy seven new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.622 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

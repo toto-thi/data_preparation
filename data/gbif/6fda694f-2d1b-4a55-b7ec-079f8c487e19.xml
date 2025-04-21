@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6fda694f-2d1b-4a55-b7ec-079f8c487e19"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.186734</alternateIdentifier>
+                <alternateIdentifier>6fda694f-2d1b-4a55-b7ec-079f8c487e19</alternateIdentifier>
+                <alternateIdentifier>10.15468/ccklhv</alternateIdentifier>
+                <alternateIdentifier>FFF2FF98FFBC560AEE11FF9FFFBFFFB8</alternateIdentifier>
+        <title>A taxonomic revision of the genus Anoplocephaloides Baer, 1923 sensu Rausch (1976), with the description of four new genera (Cestoda: Anoplocephalidae)</title>
+            <creator>
+            <individualName>
+<givenName>Voitto</givenName>                    <surName>Haukisalmi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Haukisalmi, Voitto (2009): A taxonomic revision of the genus Anoplocephaloides Baer, 1923 sensu Rausch (1976), with the description of four new genera (Cestoda: Anoplocephalidae). Zootaxa 2057: 1-31, DOI: 10.5281/zenodo.186734</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF2FF98FFBC560AEE11FF9FFFBFFFB8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:57Z</dateStamp>
+                <citation>Haukisalmi V, plazi (2009). A taxonomic revision of the genus Anoplocephaloides Baer, 1923 sensu Rausch (1976), with the description of four new genera (Cestoda: Anoplocephalidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.186734 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

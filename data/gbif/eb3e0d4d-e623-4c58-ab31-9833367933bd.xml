@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="eb3e0d4d-e623-4c58-ab31-9833367933bd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.618</alternateIdentifier>
+                <alternateIdentifier>eb3e0d4d-e623-4c58-ab31-9833367933bd</alternateIdentifier>
+                <alternateIdentifier>10.15468/r8j9jb</alternateIdentifier>
+                <alternateIdentifier>FB1B58E6-7E40-4C16-9DFF-2EA5D43BC0B3</alternateIdentifier>
+                <alternateIdentifier>FFFBFFAC871BAA04461DFFF2DB60AA25</alternateIdentifier>
+        <title>The bees of the genus Centris Fabricius, 1804 described by Theodore Dru Alison Cockerell (Hymenoptera: Apidae)</title>
+            <creator>
+            <individualName>
+<givenName>Felipe</givenName>                    <surName>Vivallo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-03-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Vivallo, Felipe (2020): The bees of the genus Centris Fabricius, 1804 described by Theodore Dru Alison Cockerell (Hymenoptera: Apidae). European Journal of Taxonomy 618: 1-47, DOI: https://doi.org/10.5852/ejt.2020.618</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFFBFFAC871BAA04461DFFF2DB60AA25</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:29Z</dateStamp>
+                <citation>Vivallo F, plazi (2020). The bees of the genus Centris Fabricius, 1804 described by Theodore Dru Alison Cockerell (Hymenoptera: Apidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.618 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

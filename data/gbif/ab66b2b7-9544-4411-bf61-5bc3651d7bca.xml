@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ab66b2b7-9544-4411-bf61-5bc3651d7bca"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/r73nyr</alternateIdentifier>
+                <alternateIdentifier>FFC9156BFFAE20670D37145C0837FFDB</alternateIdentifier>
+        <title>Cricetidae</title>
+            <creator>
+            <individualName>
+                    <surName>Don E. Wilson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Russell A. Mittermeier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jr</givenName>                    <surName>Thomas E. Lacher</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-11-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Don E. Wilson, Russell A. Mittermeier, Thomas E. Lacher, Jr (2017): Cricetidae. In: Handbook of the Mammals of the World – Volume 7 Rodents II. Barcelona: Lynx Edicions: 204-535, ISBN: 978-84-16728-04-6, DOI: http://doi.org/10.5281/zenodo.6707142</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC9156BFFAE20670D37145C0837FFDB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:42Z</dateStamp>
+                <citation>Don E. Wilson, Russell A. Mittermeier, Thomas E. Lacher J, carolina (2017). Cricetidae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/r73nyr accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

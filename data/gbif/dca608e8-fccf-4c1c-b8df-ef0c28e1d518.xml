@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="dca608e8-fccf-4c1c-b8df-ef0c28e1d518"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2019.585</alternateIdentifier>
+                <alternateIdentifier>dca608e8-fccf-4c1c-b8df-ef0c28e1d518</alternateIdentifier>
+                <alternateIdentifier>10.15468/08n4ht</alternateIdentifier>
+                <alternateIdentifier>181B6FBA-ED75-4BB4-84C4-FB512B794749</alternateIdentifier>
+                <alternateIdentifier>E42E3539FF85FFAFFFC69F344D4B0F37</alternateIdentifier>
+        <title>Taxonomy and biostratigraphy of the elasmobranchs and bony fishes (Chondrichthyes and Osteichthyes) of the lower-to-middle Eocene (Ypresian to Bartonian) Claiborne Group in Alabama, USA, including an analysis of otoliths</title>
+            <creator>
+            <individualName>
+<givenName>Jun A.</givenName>                    <surName>Ebersole</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David J.</givenName>                    <surName>Cicimurri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gary L.</givenName>                    <surName>Stringer</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-12-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ebersole, Jun A., Cicimurri, David J., Stringer, Gary L. (2019): Taxonomy and biostratigraphy of the elasmobranchs and bony fishes (Chondrichthyes and Osteichthyes) of the lower-to-middle Eocene (Ypresian to Bartonian) Claiborne Group in Alabama, USA, including an analysis of otoliths. European Journal of Taxonomy 585: 1-274, DOI: https://doi.org/10.5852/ejt.2019.585</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E42E3539FF85FFAFFFC69F344D4B0F37</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:01Z</dateStamp>
+                <citation>Ebersole J A, Cicimurri D J, Stringer G L, plazi (2019). Taxonomy and biostratigraphy of the elasmobranchs and bony fishes (Chondrichthyes and Osteichthyes) of the lower-to-middle Eocene (Ypresian to Bartonian) Claiborne Group in Alabama, USA, including an analysis of otoliths. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2019.585 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

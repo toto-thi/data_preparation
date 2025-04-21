@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="172fa5c5-c0c4-4bd7-b710-d608237b8458"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.35929/rsz.0049</alternateIdentifier>
+                <alternateIdentifier>172fa5c5-c0c4-4bd7-b710-d608237b8458</alternateIdentifier>
+                <alternateIdentifier>10.15468/ftpqzh</alternateIdentifier>
+                <alternateIdentifier>8382D1CA-7C0E-4B1C-9591-4CEAA2F296FB</alternateIdentifier>
+                <alternateIdentifier>2C28F2045B0C0014FFCFFF96FFDB7820</alternateIdentifier>
+        <title>Hydromedusae observed during night dives in the Gulf Stream</title>
+            <creator>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Schuchert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Richard</givenName>                    <surName>Collins</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-10-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Schuchert, Peter, Collins, Richard (2021): Hydromedusae observed during night dives in the Gulf Stream. Revue suisse de Zoologie 128 (2): 237-356, DOI: 10.35929/RSZ.0049</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/2C28F2045B0C0014FFCFFF96FFDB7820</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:07Z</dateStamp>
+                <citation>Schuchert P, Collins R, felipe (2021). Hydromedusae observed during night dives in the Gulf Stream. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.35929/rsz.0049 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Schuchert, Peter, Collins, Richard (2021): Hydromedusae observed during night dives in the Gulf Stream. Revue suisse de Zoologie 128 (2): 237-356, DOI: 10.35929/RSZ.0049</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

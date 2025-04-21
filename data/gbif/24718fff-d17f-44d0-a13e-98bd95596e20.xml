@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="24718fff-d17f-44d0-a13e-98bd95596e20"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1206/766.1</alternateIdentifier>
+                <alternateIdentifier>24718fff-d17f-44d0-a13e-98bd95596e20</alternateIdentifier>
+                <alternateIdentifier>10.15468/vsmxfn</alternateIdentifier>
+                <alternateIdentifier>FFF9FFEBFE42D8583F08F8457209FFD3</alternateIdentifier>
+        <title>The Brazilian Goblin Spiders Of The New Genus Predatoroonops (Araneae: Oonopidae)</title>
+            <creator>
+            <individualName>
+<givenName>Antonio D.</givenName>                    <surName>Brescovit</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexandre B.</givenName>                    <surName>Bonaldo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adalberto J.</givenName>                    <surName>Santos</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Ott</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cristina A.</givenName>                    <surName>Rheims</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2012-06-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Brescovit, Antonio D., Bonaldo, Alexandre B., Santos, Adalberto J., Ott, Ricardo, Rheims, Cristina A. (2012): The Brazilian Goblin Spiders Of The New Genus Predatoroonops (Araneae: Oonopidae). Bulletin of the American Museum of Natural History 2012 (370): 1-68, DOI: 10.1206/766.1, URL: http://www.bioone.org/doi/abs/10.1206/766.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF9FFEBFE42D8583F08F8457209FFD3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:41Z</dateStamp>
+                <citation>Brescovit A D, Bonaldo A B, Santos A J, Ott R, Rheims C A, felipe (2012). The Brazilian Goblin Spiders Of The New Genus Predatoroonops (Araneae: Oonopidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1206/766.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

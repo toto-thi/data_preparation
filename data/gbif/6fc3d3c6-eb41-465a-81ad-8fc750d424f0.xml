@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6fc3d3c6-eb41-465a-81ad-8fc750d424f0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.26107/rbz-2020-0002</alternateIdentifier>
+                <alternateIdentifier>6fc3d3c6-eb41-465a-81ad-8fc750d424f0</alternateIdentifier>
+                <alternateIdentifier>10.15468/qad0bo</alternateIdentifier>
+                <alternateIdentifier>FFD6FFB0FFA5AD67542A0D38FFE2FF89</alternateIdentifier>
+        <title>Platygobiopsis hadiatyae, a new species of deepwater gobiid from Indonesia (Teleostei, Gobiidae, Gobiinae)</title>
+            <creator>
+            <individualName>
+<givenName>Zeehan Jaafar 2, Tan Heok Hui 3</givenName>                    <surName>Helen K. Larson 1 *</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Teguh Peristiwady 4</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>cbelab20</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-01-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Helen K. Larson 1 *, Zeehan Jaafar 2, Tan Heok Hui 3, Teguh Peristiwady 4 (2020): Platygobiopsis hadiatyae, a new species of deepwater gobiid from Indonesia (Teleostei, Gobiidae, Gobiinae). Raffles Bulletin Of Zoology 68: 14-18, DOI: 10.26107/RBZ-2020-0002, URL: http://zoobank.org/urn:lsid:zoobank.org:pub:E66C3850-278E-4892-B96C-00EC40A3F8EC</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD6FFB0FFA5AD67542A0D38FFE2FF89</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:32Z</dateStamp>
+                <citation>Helen K. Larson 1 * Z J 2 T H H 3, Teguh Peristiwady 4, cbelab20 (2020). Platygobiopsis hadiatyae, a new species of deepwater gobiid from Indonesia (Teleostei, Gobiidae, Gobiinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.26107/rbz-2020-0002 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

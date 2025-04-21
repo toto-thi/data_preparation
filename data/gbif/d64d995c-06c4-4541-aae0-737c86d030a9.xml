@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d64d995c-06c4-4541-aae0-737c86d030a9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2020v42a13</alternateIdentifier>
+                <alternateIdentifier>d64d995c-06c4-4541-aae0-737c86d030a9</alternateIdentifier>
+                <alternateIdentifier>10.15468/kn33xq</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:52D33BB7-2713-4F9D-AACF-3FAA90FDB31F</alternateIdentifier>
+                <alternateIdentifier>FFF9FFFAFFDBFFE0FFE73A2CFF8FFFB3</alternateIdentifier>
+        <title>The hyaenodonts (Mammalia) from the French locality of Aumelas (Hérault), with possible new representatives from the late Ypresian</title>
+            <creator>
+            <individualName>
+<givenName>Floréal</givenName>                    <surName>Solé</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bernard</givenName>                    <surName>Marandat</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fabrice</givenName>                    <surName>Lihoreau</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-06-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Solé, Floréal, Marandat, Bernard, Lihoreau, Fabrice (2020): The hyaenodonts (Mammalia) from the French locality of Aumelas (Hérault), with possible new representatives from the late Ypresian. Geodiversitas 42 (13): 185-214, DOI: 10.5252/geodiversitas2020v42a13</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF9FFFAFFDBFFE0FFE73A2CFF8FFFB3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:40Z</dateStamp>
+                <citation>Solé F, Marandat B, Lihoreau F, valdenar (2020). The hyaenodonts (Mammalia) from the French locality of Aumelas (Hérault), with possible new representatives from the late Ypresian. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2020v42a13 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

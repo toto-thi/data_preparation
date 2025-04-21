@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2c6b6e14-1bc7-4ee6-9750-11c534af7e7c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4382.2.2</alternateIdentifier>
+                <alternateIdentifier>2c6b6e14-1bc7-4ee6-9750-11c534af7e7c</alternateIdentifier>
+                <alternateIdentifier>10.15468/hdxlgv</alternateIdentifier>
+                <alternateIdentifier>B1B44DB9-BE6E-4EDA-96F2-362AA7E3A218</alternateIdentifier>
+                <alternateIdentifier>FFE3FFEFFFEDC5511B36FFD7FF8A8550</alternateIdentifier>
+        <title>Meatopida gen. nov., a new genus to accommodate two species originally described in Atopida White, 1846 (Coleoptera: Scirtoidea: Scirtidae)</title>
+            <creator>
+            <individualName>
+<givenName>Agata</givenName>                    <surName>Kiałka</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rafał</givenName>                    <surName>Ruta</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-02-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kiałka, Agata, Ruta, Rafał (2018): Meatopida gen. nov., a new genus to accommodate two species originally described in Atopida White, 1846 (Coleoptera: Scirtoidea: Scirtidae). Zootaxa 4382 (2): 242-260, DOI: https://doi.org/10.11646/zootaxa.4382.2.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE3FFEFFFEDC5511B36FFD7FF8A8550</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:39Z</dateStamp>
+                <citation>Kiałka A, Ruta R, plazi (2018). Meatopida gen. nov., a new genus to accommodate two species originally described in Atopida White, 1846 (Coleoptera: Scirtoidea: Scirtidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4382.2.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

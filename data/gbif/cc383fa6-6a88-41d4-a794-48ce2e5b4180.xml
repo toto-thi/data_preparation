@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cc383fa6-6a88-41d4-a794-48ce2e5b4180"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1093/zoolinnean/zlx049</alternateIdentifier>
+                <alternateIdentifier>cc383fa6-6a88-41d4-a794-48ce2e5b4180</alternateIdentifier>
+                <alternateIdentifier>10.15468/r4hcjv</alternateIdentifier>
+                <alternateIdentifier>40E93982-666C-4623-96EF-C828F8CF23A1</alternateIdentifier>
+                <alternateIdentifier>FFB2FFD4FFB6FFF5441D503FFFACA549</alternateIdentifier>
+        <title>Integrated taxonomy reveals multiple species in the Dendrobaena byblica (Rosa, 1893) complex (Oligochaeta: Lumbricidae)</title>
+            <creator>
+            <individualName>
+<givenName>Tímea</givenName>                    <surName>Szederjesi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Victor V.</givenName>                    <surName>Pop</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tomáš</givenName>                    <surName>Pavlíček</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Orsolya</givenName>                    <surName>Márton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Virág</givenName>                    <surName>Krízsik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Csaba</givenName>                    <surName>Csuzdi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-08-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Szederjesi, Tímea, Pop, Victor V., Pavlíček, Tomáš, Márton, Orsolya, Krízsik, Virág, Csuzdi, Csaba (2018): Integrated taxonomy reveals multiple species in the Dendrobaena byblica (Rosa, 1893) complex (Oligochaeta: Lumbricidae). Zoological Journal of the Linnean Society 182: 500-516, DOI: 10.1093/zoolinnean/zlx049</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB2FFD4FFB6FFF5441D503FFFACA549</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:11Z</dateStamp>
+                <citation>Szederjesi T, Pop V V, Pavlíček T, Márton O, Krízsik V, Csuzdi C, carolina (2017). Integrated taxonomy reveals multiple species in the Dendrobaena byblica (Rosa, 1893) complex (Oligochaeta: Lumbricidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1093/zoolinnean/zlx049 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

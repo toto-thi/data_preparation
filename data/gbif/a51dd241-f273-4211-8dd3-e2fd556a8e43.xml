@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a51dd241-f273-4211-8dd3-e2fd556a8e43"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.207090</alternateIdentifier>
+                <alternateIdentifier>a51dd241-f273-4211-8dd3-e2fd556a8e43</alternateIdentifier>
+                <alternateIdentifier>10.15468/9016uh</alternateIdentifier>
+                <alternateIdentifier>FFBBFF8CFFCE1A18C84C3429441AFD55</alternateIdentifier>
+        <title>Synopsis of Aenictus species groups and revision of the A. curra x and A. laeviceps groups in the eastern Oriental, Indo-Australian, and Australasian regions (Hymenoptera: Formicidae: Aenictinae)</title>
+            <creator>
+            <individualName>
+<givenName>Weeyawat</givenName>                    <surName>Jaitrong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Seiki</givenName>                    <surName>Yamane</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Jaitrong, Weeyawat, Yamane, Seiki (2011): Synopsis of Aenictus species groups and revision of the A. curra x and A. laeviceps groups in the eastern Oriental, Indo-Australian, and Australasian regions (Hymenoptera: Formicidae: Aenictinae). Zootaxa 3128: 1-46, DOI: 10.5281/zenodo.207090</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBBFF8CFFCE1A18C84C3429441AFD55</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:32Z</dateStamp>
+                <citation>Jaitrong W, Yamane S, plazi (2011). Synopsis of Aenictus species groups and revision of the A. curra x and A. laeviceps groups in the eastern Oriental, Indo-Australian, and Australasian regions (Hymenoptera: Formicidae: Aenictinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.207090 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

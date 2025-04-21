@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10af3127-3b6f-4332-928b-a0f40de1bd4f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4786.1.9</alternateIdentifier>
+                <alternateIdentifier>10af3127-3b6f-4332-928b-a0f40de1bd4f</alternateIdentifier>
+                <alternateIdentifier>10.15468/t9p9hg</alternateIdentifier>
+                <alternateIdentifier>460CF386-862F-4044-B931-9D06F329C526</alternateIdentifier>
+                <alternateIdentifier>D908BB67FFDDFF98FF87FFB7E63E386E</alternateIdentifier>
+        <title>Suphisellus grossoi sp. n., a new burrowing water beetle from South America and notes on S. flavolineatus (Régimbart, 1889) and S. grammicus (Sharp, 1882) (Coleoptera: Noteridae)</title>
+            <creator>
+            <individualName>
+<givenName>Juan I.</givenName>                    <surName>Urcola</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cesar J.</givenName>                    <surName>Benetti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephen M.</givenName>                    <surName>Baca</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mariano C.</givenName>                    <surName>Michat</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Urcola, Juan I., Benetti, Cesar J., Baca, Stephen M., Michat, Mariano C. (2020): Suphisellus grossoi sp. n., a new burrowing water beetle from South America and notes on S. flavolineatus (Régimbart, 1889) and S. grammicus (Sharp, 1882) (Coleoptera: Noteridae). Zootaxa 4786 (1): 122-130, DOI: https://doi.org/10.11646/zootaxa.4786.1.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D908BB67FFDDFF98FF87FFB7E63E386E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:38Z</dateStamp>
+                <citation>Urcola J I, Benetti C J, Baca S M, Michat M C, plazi (2020). Suphisellus grossoi sp. n., a new burrowing water beetle from South America and notes on S. flavolineatus (Régimbart, 1889) and S. grammicus (Sharp, 1882) (Coleoptera: Noteridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4786.1.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

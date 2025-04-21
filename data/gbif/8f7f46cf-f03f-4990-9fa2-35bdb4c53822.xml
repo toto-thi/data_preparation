@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8f7f46cf-f03f-4990-9fa2-35bdb4c53822"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4877.2.3</alternateIdentifier>
+                <alternateIdentifier>8f7f46cf-f03f-4990-9fa2-35bdb4c53822</alternateIdentifier>
+                <alternateIdentifier>10.15468/bprhsx</alternateIdentifier>
+                <alternateIdentifier>1448417D-AD7D-42B7-8289-7FDB5956F6F2</alternateIdentifier>
+                <alternateIdentifier>FFC1FFCBFF9B1326FFD9FF897C16E366</alternateIdentifier>
+        <title>Two new species of Cosmocercidae (Nematoda: Cosmocercoidea) of Leptodactylus macrosternum Miranda-Ribeiro (Anura: Leptodactylidae) from Caatinga Biome Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Gabriela</givenName>                    <surName>Felix-Nascimento</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fabiano Matos</givenName>                    <surName>Vieira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luís Cláudio</givenName>                    <surName>Muniz-Pereira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Geraldo Jorge Barbosa De</givenName>                    <surName>Moura</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leonardo Barros</givenName>                    <surName>Ribeiro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jaqueline Bianque De</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-11-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Felix-Nascimento, Gabriela, Vieira, Fabiano Matos, Muniz-Pereira, Luís Cláudio, Moura, Geraldo Jorge Barbosa De, Ribeiro, Leonardo Barros, Oliveira, Jaqueline Bianque De (2020): Two new species of Cosmocercidae (Nematoda: Cosmocercoidea) of Leptodactylus macrosternum Miranda-Ribeiro (Anura: Leptodactylidae) from Caatinga Biome Brazil. Zootaxa 4877 (2): 274-290, DOI: https://doi.org/10.11646/zootaxa.4877.2.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC1FFCBFF9B1326FFD9FF897C16E366</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:01Z</dateStamp>
+                <citation>Felix-Nascimento G, Vieira F M, Muniz-Pereira L C, Moura G J B D, Ribeiro L B, Oliveira J B D, plazi (2020). Two new species of Cosmocercidae (Nematoda: Cosmocercoidea) of Leptodactylus macrosternum Miranda-Ribeiro (Anura: Leptodactylidae) from Caatinga Biome Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4877.2.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

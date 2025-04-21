@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="020d1bb2-ac0f-4e13-9c01-adb3fd816a39"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.128.1804</alternateIdentifier>
+                <alternateIdentifier>10.15468/euvrpl</alternateIdentifier>
+                <alternateIdentifier>6157FFBE34536B410C79CB5C11170069</alternateIdentifier>
+        <title>A key to species of subgenus Lithochlaenius (Coleoptera, Carabidae, Chlaeniini, Chlaenius), with descriptions of three new species</title>
+            <creator>
+            <individualName>
+<givenName>Ye</givenName>                    <surName>Valim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David H.</givenName>                    <surName>Kavanaugh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hongliang</givenName>                    <surName>Shi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hongbin</givenName>                    <surName>Liang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2011-09-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Valim, Ye, Kavanaugh, David H., Shi, Hongliang, Liang, Hongbin (2011): A key to species of subgenus Lithochlaenius (Coleoptera, Carabidae, Chlaeniini, Chlaenius), with descriptions of three new species. ZooKeys 128: 15-52, DOI: http://dx.doi.org/10.3897/zookeys.128.1804, URL: http://dx.doi.org/10.3897/zookeys.128.1804</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/6157FFBE34536B410C79CB5C11170069</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:57Z</dateStamp>
+                <citation>Valim Y, Kavanaugh D H, Shi H, Liang H, pensoft (2011). A key to species of subgenus Lithochlaenius (Coleoptera, Carabidae, Chlaeniini, Chlaenius), with descriptions of three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.128.1804 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

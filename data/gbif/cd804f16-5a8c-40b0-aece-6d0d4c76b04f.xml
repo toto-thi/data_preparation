@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cd804f16-5a8c-40b0-aece-6d0d4c76b04f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/bgmspg</alternateIdentifier>
+                <alternateIdentifier>86764B0ACD9453CD965B288014B441CD</alternateIdentifier>
+        <title>Revision of 18 ichneumonid fossil species (Hymenoptera, Ichneumonidae) highlights the need for open nomenclature in palaeontology</title>
+            <creator>
+            <individualName>
+<givenName>Tamara</givenName>                    <surName>Spasojevic</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gavin R.</givenName>                    <surName>Broad</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Seraina</givenName>                    <surName>Klopfstein</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-06-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Spasojevic, Tamara, Broad, Gavin R., Klopfstein, Seraina (2022): Revision of 18 ichneumonid fossil species (Hymenoptera, Ichneumonidae) highlights the need for open nomenclature in palaeontology. Fossil Record 25 (1): 187-212, DOI: http://dx.doi.org/10.3897/fr.25.83034, URL: http://dx.doi.org/10.3897/fr.25.83034</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/86764B0ACD9453CD965B288014B441CD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:19Z</dateStamp>
+                <citation>Spasojevic T, Broad G R, Klopfstein S, pensoft (2022). Revision of 18 ichneumonid fossil species (Hymenoptera, Ichneumonidae) highlights the need for open nomenclature in palaeontology. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/bgmspg accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

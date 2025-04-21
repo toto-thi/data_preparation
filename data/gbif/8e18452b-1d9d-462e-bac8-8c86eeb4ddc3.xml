@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8e18452b-1d9d-462e-bac8-8c86eeb4ddc3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3678492</alternateIdentifier>
+                <alternateIdentifier>8e18452b-1d9d-462e-bac8-8c86eeb4ddc3</alternateIdentifier>
+                <alternateIdentifier>10.15468/aho62r</alternateIdentifier>
+                <alternateIdentifier>930EAB11-37FA-41B0-980A-1A4736527842</alternateIdentifier>
+                <alternateIdentifier>FFEE8764FFCBFFEDFF88FB6E317CFFF0</alternateIdentifier>
+        <title>An annotated checklist of the Scarabaeoidea (Insecta: Coleoptera) of the Guianas</title>
+            <creator>
+            <individualName>
+<givenName>Auke J.</givenName>                    <surName>Hielkema</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Meindert A.</givenName>                    <surName>Hielkema</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hielkema, Auke J., Hielkema, Meindert A. (2019): An annotated checklist of the Scarabaeoidea (Insecta: Coleoptera) of the Guianas. Insecta Mundi 732 (732): 1-306, DOI: http://doi.org/10.5281/zenodo.3678492</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFEE8764FFCBFFEDFF88FB6E317CFFF0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:02Z</dateStamp>
+                <citation>Hielkema A J, Hielkema M A, felipe (2019). An annotated checklist of the Scarabaeoidea (Insecta: Coleoptera) of the Guianas. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3678492 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

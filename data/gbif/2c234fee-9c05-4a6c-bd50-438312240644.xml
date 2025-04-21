@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2c234fee-9c05-4a6c-bd50-438312240644"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.2645999</alternateIdentifier>
+                <alternateIdentifier>2c234fee-9c05-4a6c-bd50-438312240644</alternateIdentifier>
+                <alternateIdentifier>10.15468/hpssdb</alternateIdentifier>
+                <alternateIdentifier>ECEB191E-EB8D-4F6E-A88E-72A77FB73CED</alternateIdentifier>
+                <alternateIdentifier>FFBDFF8EA876266AFFAFFFC872061B35</alternateIdentifier>
+        <title>Checklist of the Decapods (Crustacea) from the outer continental shelf and seamounts from Northeast of Brazil REVIZEE Program (NE III)</title>
+            <creator>
+            <individualName>
+<givenName>Petrônio Alves Coelho</givenName>                    <surName>Filho</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2006-04-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Filho, Petrônio Alves Coelho (2006): Checklist of the Decapods (Crustacea) from the outer continental shelf and seamounts from Northeast of Brazil REVIZEE Program (NE III). Zootaxa 1184: 1-27, DOI: 10.11646/zootaxa.1184.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFBDFF8EA876266AFFAFFFC872061B35</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:05Z</dateStamp>
+                <citation>Filho P A C, plazi (2006). Checklist of the Decapods (Crustacea) from the outer continental shelf and seamounts from Northeast of Brazil REVIZEE Program (NE III). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.2645999 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Filho, Petrônio Alves Coelho (2006): Checklist of the Decapods (Crustacea) from the outer continental shelf and seamounts from Northeast of Brazil REVIZEE Program (NE III). Zootaxa 1184: 1-27, DOI: 10.11646/zootaxa.1184.1.1</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

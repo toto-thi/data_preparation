@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e4804bc4-8183-435b-8397-3be4c5537bb9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dapwau</alternateIdentifier>
+                <alternateIdentifier>FFBBFF8CFFE1AA28D237FF96FF979022</alternateIdentifier>
+        <title>Evidence for the evolution of eusociality in stem ants and a systematic revision of † Gerontoformica (Hymenoptera: Formicidae)</title>
+            <creator>
+            <individualName>
+<givenName>Brendon E.</givenName>                    <surName>Boudinot</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adrian</givenName>                    <surName>Richter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Julian</givenName>                    <surName>Katzke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Júlio C. M.</givenName>                    <surName>Chaul</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roberto A.</givenName>                    <surName>Keller</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Evan P.</givenName>                    <surName>Economo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rolf Georg</givenName>                    <surName>Beutel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shûhei</givenName>                    <surName>Yamamoto</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Boudinot, Brendon E., Richter, Adrian, Katzke, Julian, Chaul, Júlio C. M., Keller, Roberto A., Economo, Evan P., Beutel, Rolf Georg, Yamamoto, Shûhei (2022): Evidence for the evolution of eusociality in stem ants and a systematic revision of † Gerontoformica (Hymenoptera: Formicidae). Zoological Journal of the Linnean Society 195: 1355-1389, DOI: 10.1093/zoolinnean/zlab097</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBBFF8CFFE1AA28D237FF96FF979022</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:31Z</dateStamp>
+                <citation>Boudinot B E, Richter A, Katzke J, Chaul J C M, Keller R A, Economo E P, Beutel R G, Yamamoto S, plazi (2022). Evidence for the evolution of eusociality in stem ants and a systematic revision of † Gerontoformica (Hymenoptera: Formicidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/dapwau accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

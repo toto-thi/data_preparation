@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="46e05d1b-511b-4d8e-8b1e-0c733d66f878"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dwubyd</alternateIdentifier>
+                <alternateIdentifier>1ACF6E07EE8A54DB9906143C0532304D</alternateIdentifier>
+        <title>Review of Chinese species of the genus Thoracostrongylus Bernhauer, 1915 (Coleoptera, Staphylinidae, Staphylininae)</title>
+            <creator>
+            <individualName>
+<givenName>Mei-Hua</givenName>                    <surName>Xia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Liang</givenName>                    <surName>Tang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Harald</givenName>                    <surName>Schillhammer</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xia, Mei-Hua, Tang, Liang, Schillhammer, Harald (2022): Review of Chinese species of the genus Thoracostrongylus Bernhauer, 1915 (Coleoptera, Staphylinidae, Staphylininae). ZooKeys 1131: 99-134, DOI: http://dx.doi.org/10.3897/zookeys.1131.95038, URL: http://dx.doi.org/10.3897/zookeys.1131.95038</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/1ACF6E07EE8A54DB9906143C0532304D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:52Z</dateStamp>
+                <citation>Xia M, Tang L, Schillhammer H, pensoft (2022). Review of Chinese species of the genus Thoracostrongylus Bernhauer, 1915 (Coleoptera, Staphylinidae, Staphylininae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/dwubyd accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

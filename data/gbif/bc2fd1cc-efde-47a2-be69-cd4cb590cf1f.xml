@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bc2fd1cc-efde-47a2-be69-cd4cb590cf1f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2qqgf8</alternateIdentifier>
+                <alternateIdentifier>711D6523FFD4257DFF83FF84FFE8FFE3</alternateIdentifier>
+        <title>Systematics of the Central African Spiny Reed Frog Afrixalus laevis (Anura Hyperoliidae), with the description of two new species from the Albertine Rift</title>
+            <creator>
+            <individualName>
+<givenName>Eli</givenName>                    <surName>Greenbaum</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel M.</givenName>                    <surName>Portik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kaitlin E.</givenName>                    <surName>Allen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eugene R.</givenName>                    <surName>Vaughan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gabriel</givenName>                    <surName>Badjedjea</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael F.</givenName>                    <surName>Barej</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mathias</givenName>                    <surName>Behangana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nancy</givenName>                    <surName>Conkey</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bonny</givenName>                    <surName>Dumbo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Legrand N.</givenName>                    <surName>Gonwouo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mareike</givenName>                    <surName>Hirschfeld</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel F.</givenName>                    <surName>Hughes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Félix</givenName>                    <surName>Igunzi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chifundera</givenName>                    <surName>Kusamba</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wilber</givenName>                    <surName>Lukwago</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Franck M.</givenName>                    <surName>Masudi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Johannes</givenName>                    <surName>Penner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jesús M.</givenName>                    <surName>Reyes</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark-Oliver</givenName>                    <surName>Rödel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Corey E.</givenName>                    <surName>Roelke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Soraya</givenName>                    <surName>Romero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>J. Maximilian</givenName>                    <surName>Dehling</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Greenbaum, Eli, Portik, Daniel M., Allen, Kaitlin E., Vaughan, Eugene R., Badjedjea, Gabriel, Barej, Michael F., Behangana, Mathias, Conkey, Nancy, Dumbo, Bonny, Gonwouo, Legrand N., Hirschfeld, Mareike, Hughes, Daniel F., Igunzi, Félix, Kusamba, Chifundera, Lukwago, Wilber, Masudi, Franck M., Penner, Johannes, Reyes, Jesús M., Rödel, Mark-Oliver, Roelke, Corey E., Romero, Soraya, Dehling, J. Maximilian (2022): Systematics of the Central African Spiny Reed Frog Afrixalus laevis (Anura Hyperoliidae), with the description of two new species from the Albertine Rift. Zootaxa 5174 (3): 201-232, DOI: https://doi.org/10.11646/zootaxa.5174.3.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/711D6523FFD4257DFF83FF84FFE8FFE3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:43Z</dateStamp>
+                <citation>Greenbaum E, Portik D M, Allen K E, Vaughan E R, Badjedjea G, Barej M F, Behangana M, Conkey N, Dumbo B, Gonwouo L N, Hirschfeld M, Hughes D F, Igunzi F, Kusamba C, Lukwago W, Masudi F M, Penner J, Reyes J M, Rödel M, Roelke C E, Romero S, Dehling J M, plazi (2022). Systematics of the Central African Spiny Reed Frog Afrixalus laevis (Anura Hyperoliidae), with the description of two new species from the Albertine Rift. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/2qqgf8 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="275eefd5-b053-4ca8-8be3-ace9cd425667"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4244.3.2</alternateIdentifier>
+                <alternateIdentifier>275eefd5-b053-4ca8-8be3-ace9cd425667</alternateIdentifier>
+                <alternateIdentifier>10.15468/7beycd</alternateIdentifier>
+                <alternateIdentifier>F5F9C97F-04B8-42C8-BED3-FC8CC10B3CEE</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4244.3.2</alternateIdentifier>
+                <alternateIdentifier>FF64AD66FFEB197F5613FFF713463D26</alternateIdentifier>
+        <title>Capricornella bicornuta, a new genus and species of mite from eastern Australia (Acari: Uropodina)</title>
+            <creator>
+            <individualName>
+<givenName>Jerzy</givenName>                    <surName>Błoszyk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bruce</givenName>                    <surName>Halliday</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zbigniew</givenName>                    <surName>Adamski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zofia</givenName>                    <surName>Książkiewicz-Parulska</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Błoszyk, Jerzy, Halliday, Bruce, Adamski, Zbigniew, Książkiewicz-Parulska, Zofia (2017): Capricornella bicornuta, a new genus and species of mite from eastern Australia (Acari: Uropodina). Zootaxa 4244 (3): 321-338, DOI: https://doi.org/10.11646/zootaxa.4244.3.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF64AD66FFEB197F5613FFF713463D26</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:20Z</dateStamp>
+                <citation>Błoszyk J, Halliday B, Adamski Z, Książkiewicz-Parulska Z, plazi (2017). Capricornella bicornuta, a new genus and species of mite from eastern Australia (Acari: Uropodina). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4244.3.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

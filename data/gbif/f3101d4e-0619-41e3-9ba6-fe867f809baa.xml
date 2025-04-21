@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f3101d4e-0619-41e3-9ba6-fe867f809baa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3718.1.6</alternateIdentifier>
+                <alternateIdentifier>f3101d4e-0619-41e3-9ba6-fe867f809baa</alternateIdentifier>
+                <alternateIdentifier>10.15468/3xwxb3</alternateIdentifier>
+                <alternateIdentifier>AB6DE98C-D4C9-4E05-BBC8-41CE3F742611</alternateIdentifier>
+                <alternateIdentifier>FFB4FF9AFFA44129FFE0D27EA646B71B</alternateIdentifier>
+        <title>A new species and new record of Reticulolaelaps Costa (Acari: Laelapidae) from Iran</title>
+            <creator>
+            <individualName>
+<givenName>Alireza</givenName>                    <surName>Nemati</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Omid</givenName>                    <surName>Joharchi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Esmaeil</givenName>                    <surName>Babaeian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dariusz J.</givenName>                    <surName>Gwiazdowicz</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nemati, Alireza, Joharchi, Omid, Babaeian, Esmaeil, Gwiazdowicz, Dariusz J. (2013): A new species and new record of Reticulolaelaps Costa (Acari: Laelapidae) from Iran. Zootaxa 3718 (1): 73-80, DOI: http://dx.doi.org/10.11646/zootaxa.3718.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB4FF9AFFA44129FFE0D27EA646B71B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:27Z</dateStamp>
+                <citation>Nemati A, Joharchi O, Babaeian E, Gwiazdowicz D J, plazi (2013). A new species and new record of Reticulolaelaps Costa (Acari: Laelapidae) from Iran. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3718.1.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

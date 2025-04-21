@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4e850c9f-64ea-4ce5-80c6-773fbbabcafe"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3717.1.2</alternateIdentifier>
+                <alternateIdentifier>4e850c9f-64ea-4ce5-80c6-773fbbabcafe</alternateIdentifier>
+                <alternateIdentifier>10.15468/mp857x</alternateIdentifier>
+                <alternateIdentifier>FF5A940A-FAA1-440F-A815-FD954E3283BD</alternateIdentifier>
+                <alternateIdentifier>392493191E4F542AFF84FFB8A26C290F</alternateIdentifier>
+        <title>Novel techniques for biodiversity studies of gordiids and description of a new species of Chordodes (Gordiida, Nematomorpha) from Kenya, Africa</title>
+            <creator>
+            <individualName>
+<givenName>Matthew G.</givenName>                    <surName>Bolek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cleo</givenName>                    <surName>Szmygiel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Austin</givenName>                    <surName>Kubat</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andreas</givenName>                    <surName>Schmidt-Rhaesa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ben</givenName>                    <surName>Hanelt</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-09-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bolek, Matthew G., Szmygiel, Cleo, Kubat, Austin, Schmidt-Rhaesa, Andreas, Hanelt, Ben (2013): Novel techniques for biodiversity studies of gordiids and description of a new species of Chordodes (Gordiida, Nematomorpha) from Kenya, Africa. Zootaxa 3717 (1): 23-38, DOI: http://dx.doi.org/10.11646/zootaxa.3717.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/392493191E4F542AFF84FFB8A26C290F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:50Z</dateStamp>
+                <citation>Bolek M G, Szmygiel C, Kubat A, Schmidt-Rhaesa A, Hanelt B, felipe (2013). Novel techniques for biodiversity studies of gordiids and description of a new species of Chordodes (Gordiida, Nematomorpha) from Kenya, Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3717.1.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

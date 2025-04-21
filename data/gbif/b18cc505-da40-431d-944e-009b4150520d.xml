@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b18cc505-da40-431d-944e-009b4150520d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ogns5i</alternateIdentifier>
+                <alternateIdentifier>478E0DB4-21A2-4A50-B59D-774B53696A70</alternateIdentifier>
+                <alternateIdentifier>85F6F0F122EC4D0C8C33D1D6092FA725</alternateIdentifier>
+        <title>Catalogue of hymenopterous insects collected by Mr. A. R. Wallace in the Islands of Ceram, Celebes, Ternate, and Gilolo.</title>
+            <creator>
+            <individualName>
+<givenName>F.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Christiana</givenName>                    <surName>Klingenberg</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1861-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Smith, F. (1861): Catalogue of hymenopterous insects collected by Mr. A. R. Wallace in the Islands of Ceram, Celebes, Ternate, and Gilolo. Journal of the Proceedings of the Linnean Society of London, Zoology 6: 36-48, URL: http://antbase.org/ants/publications/2596/2596.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/85F6F0F122EC4D0C8C33D1D6092FA725</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:26Z</dateStamp>
+                <citation>Smith F, Klingenberg C (1861). Catalogue of hymenopterous insects collected by Mr. A. R. Wallace in the Islands of Ceram, Celebes, Ternate, and Gilolo.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ogns5i accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

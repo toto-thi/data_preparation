@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="64f4ca9e-4556-45ac-8a57-00fc3a16e837"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/nmjs95</alternateIdentifier>
+                <alternateIdentifier>AC02F64E676EB140FF8DA501ED46586F</alternateIdentifier>
+        <title>Vichai cyanapelou gen. et sp. nov. (Crustacea: Deckeniidae: Hydrothelphusinae), a new genus and new species of freshwater crab from northern Madagascar</title>
+            <creator>
+            <individualName>
+<givenName>Neil</givenName>                    <surName>Cumberlidge</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Savel R.</givenName>                    <surName>Daniels</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Julia B.</givenName>                    <surName>Soma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ellen M.</givenName>                    <surName>Leever</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cumberlidge, Neil, Daniels, Savel R., Soma, Julia B., Leever, Ellen M. (2023): Vichai cyanapelou gen. et sp. nov. (Crustacea: Deckeniidae: Hydrothelphusinae), a new genus and new species of freshwater crab from northern Madagascar. Journal of Natural History 57 (5 - 8): 463-474, DOI: 10.1080/00222933.2023.2192431, URL: http://dx.doi.org/10.1080/00222933.2023.2192431</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/AC02F64E676EB140FF8DA501ED46586F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:58Z</dateStamp>
+                <citation>Cumberlidge N, Daniels S R, Soma J B, Leever E M, plazi (2023). Vichai cyanapelou gen. et sp. nov. (Crustacea: Deckeniidae: Hydrothelphusinae), a new genus and new species of freshwater crab from northern Madagascar. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/nmjs95 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

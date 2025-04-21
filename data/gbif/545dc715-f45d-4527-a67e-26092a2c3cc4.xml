@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="545dc715-f45d-4527-a67e-26092a2c3cc4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.37520/aemnp.2020.002</alternateIdentifier>
+                <alternateIdentifier>545dc715-f45d-4527-a67e-26092a2c3cc4</alternateIdentifier>
+                <alternateIdentifier>10.15468/6eatt8</alternateIdentifier>
+                <alternateIdentifier>A92539F8-4273-415B-A985-E0A0F03CE6A6</alternateIdentifier>
+                <alternateIdentifier>FFC9FFE8FFB19D18B240FFBCFFA37809</alternateIdentifier>
+        <title>New water strider species of Eurymetra from Madagascar (Hemiptera: Heteroptera: Gerridae)</title>
+            <creator>
+            <individualName>
+<givenName>Herbert</givenName>                    <surName>Zettel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-02-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zettel, Herbert (2020): New water strider species of Eurymetra from Madagascar (Hemiptera: Heteroptera: Gerridae). Acta Entomologica Musei Nationalis Pragae 60 (1): 15-22, DOI: 10.37520/aemnp.2020.002</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC9FFE8FFB19D18B240FFBCFFA37809</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:54Z</dateStamp>
+                <citation>Zettel H, tatiana (2020). New water strider species of Eurymetra from Madagascar (Hemiptera: Heteroptera: Gerridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.37520/aemnp.2020.002 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

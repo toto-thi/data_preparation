@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0773b0e3-7cb9-4377-8b3f-19ea40f513b1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4122.1.17</alternateIdentifier>
+                <alternateIdentifier>0773b0e3-7cb9-4377-8b3f-19ea40f513b1</alternateIdentifier>
+                <alternateIdentifier>10.15468/x3qfsp</alternateIdentifier>
+                <alternateIdentifier>446C7E51-6B93-470E-A9FD-F815516CFD96</alternateIdentifier>
+                <alternateIdentifier>FFB9FF946D698B3FFFC52E23FFA3DC04</alternateIdentifier>
+        <title>FAMILY SIMULIIDAE</title>
+            <creator>
+            <individualName>
+<givenName>Marta I.</givenName>                    <surName>Wolff</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel Rafael</givenName>                    <surName>Miranda-Esquivel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ligia Ines</givenName>                    <surName>Moncada-Alvarez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wolff, Marta I., Miranda-Esquivel, Daniel Rafael, Moncada-Alvarez, Ligia Ines (2016): FAMILY SIMULIIDAE. Zootaxa 4122 (1): 154-177, DOI: http://dx.doi.org/10.11646/zootaxa.4122.1.17</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB9FF946D698B3FFFC52E23FFA3DC04</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:28Z</dateStamp>
+                <citation>Wolff M I, Miranda-Esquivel D R, Moncada-Alvarez L I, plazi (2016). FAMILY SIMULIIDAE. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4122.1.17 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

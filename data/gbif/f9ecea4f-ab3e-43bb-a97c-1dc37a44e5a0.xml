@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f9ecea4f-ab3e-43bb-a97c-1dc37a44e5a0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/7j26s5</alternateIdentifier>
+                <alternateIdentifier>E2371C1E5967557EACA222A563CB482F</alternateIdentifier>
+        <title>Spiradiclis liboensis (Rubiaceae), a new species from limestone mountain areas in Guizhou, China</title>
+            <creator>
+            <individualName>
+<givenName>Xiao-Fei</givenName>                    <surName>Song</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wen-Jian</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ao-Xue</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zheng-Ming</givenName>                    <surName>Yao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hong-Bo</givenName>                    <surName>Lan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lei</givenName>                    <surName>Wu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Song, Xiao-Fei, Liu, Wen-Jian, Chen, Ao-Xue, Yao, Zheng-Ming, Lan, Hong-Bo, Wu, Lei (2022): Spiradiclis liboensis (Rubiaceae), a new species from limestone mountain areas in Guizhou, China. PhytoKeys 204: 73-81, DOI: http://dx.doi.org/10.3897/phytokeys.204.84397, URL: http://dx.doi.org/10.3897/phytokeys.204.84397</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E2371C1E5967557EACA222A563CB482F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:11Z</dateStamp>
+                <citation>Song X, Liu W, Chen A, Yao Z, Lan H, Wu L, pensoft (2022). Spiradiclis liboensis (Rubiaceae), a new species from limestone mountain areas in Guizhou, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/7j26s5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

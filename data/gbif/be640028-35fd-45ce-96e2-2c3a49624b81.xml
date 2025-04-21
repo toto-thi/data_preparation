@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="be640028-35fd-45ce-96e2-2c3a49624b81"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.2478/aemnp-2019-0017</alternateIdentifier>
+                <alternateIdentifier>be640028-35fd-45ce-96e2-2c3a49624b81</alternateIdentifier>
+                <alternateIdentifier>10.15468/c8xbw4</alternateIdentifier>
+                <alternateIdentifier>6F29895E-9EA2-493A-BD20-E0DBB74088B9</alternateIdentifier>
+                <alternateIdentifier>5D21FFCFA92EEF6B4804DC5D0B1D2600</alternateIdentifier>
+        <title>New taxa and new records of Erythroneurini from China (Hemiptera: Cicadellidae: Typhlocybinae)</title>
+            <creator>
+            <individualName>
+<givenName>Yanghui</givenName>                    <surName>Cao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dmitry A.</givenName>                    <surName>Dmitriev</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christopher H.</givenName>                    <surName>Dietrich</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yalin</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-06-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cao, Yanghui, Dmitriev, Dmitry A., Dietrich, Christopher H., Zhang, Yalin (2019): New taxa and new records of Erythroneurini from China (Hemiptera: Cicadellidae: Typhlocybinae). Acta Entomologica Musei Nationalis Pragae (Acta. Ent. Mus. Natl. Pragae) 59 (1): 189-210, DOI: 10.2478/aemnp-2019-0017, URL: http://dx.doi.org/10.2478/aemnp-2019-0017</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5D21FFCFA92EEF6B4804DC5D0B1D2600</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:58Z</dateStamp>
+                <citation>Cao Y, Dmitriev D A, Dietrich C H, Zhang Y, felipe (2019). New taxa and new records of Erythroneurini from China (Hemiptera: Cicadellidae: Typhlocybinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.2478/aemnp-2019-0017 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

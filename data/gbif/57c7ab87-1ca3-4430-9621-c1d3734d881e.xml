@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="57c7ab87-1ca3-4430-9621-c1d3734d881e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4543.4.1</alternateIdentifier>
+                <alternateIdentifier>10.15468/kkpqrd</alternateIdentifier>
+                <alternateIdentifier>4F591303-AF92-4BBB-8B68-EDD27AA229DE</alternateIdentifier>
+                <alternateIdentifier>FFD08712FFF5FFEFFFE40D03F163A24C</alternateIdentifier>
+        <title>Twelve new species of Guimaraesiella (Phthiraptera: Ischnocera: Philopteridae) from “ babblers ” (Passeriformes: Leiothrichidae, Pellorneidae, Timaliidae) with a description of a new subgenus and a key to its species</title>
+            <creator>
+            <individualName>
+<givenName>Daniel R.</givenName>                    <surName>Gustafsson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dale H.</givenName>                    <surName>Clayton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sarah E.</givenName>                    <surName>Bush</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-01-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gustafsson, Daniel R., Clayton, Dale H., Bush, Sarah E. (2019): Twelve new species of Guimaraesiella (Phthiraptera: Ischnocera: Philopteridae) from “ babblers ” (Passeriformes: Leiothrichidae, Pellorneidae, Timaliidae) with a description of a new subgenus and a key to its species. Zootaxa 4543 (4): 451-497, DOI: https://doi.org/10.11646/zootaxa.4543.4.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD08712FFF5FFEFFFE40D03F163A24C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:20Z</dateStamp>
+                <citation>Gustafsson D R, Clayton D H, Bush S E, plazi (2019). Twelve new species of Guimaraesiella (Phthiraptera: Ischnocera: Philopteridae) from “ babblers ” (Passeriformes: Leiothrichidae, Pellorneidae, Timaliidae) with a description of a new subgenus and a key to its species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4543.4.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

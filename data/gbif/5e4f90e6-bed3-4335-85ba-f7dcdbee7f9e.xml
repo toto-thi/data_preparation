@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5e4f90e6-bed3-4335-85ba-f7dcdbee7f9e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4958.1.18</alternateIdentifier>
+                <alternateIdentifier>5e4f90e6-bed3-4335-85ba-f7dcdbee7f9e</alternateIdentifier>
+                <alternateIdentifier>10.15468/yzfhfd</alternateIdentifier>
+                <alternateIdentifier>45AA47B6-7C5E-4F04-9B4D-F03B7D235700</alternateIdentifier>
+                <alternateIdentifier>FF4AFFF90D0BFFA0611B5E05D265F423</alternateIdentifier>
+        <title>Graziaphylus, a new genus and two new species of Eremophila-feeding (Scrophulariceae) Phylinae (Insecta: Heteroptera: Miridae) from Australia</title>
+            <creator>
+            <individualName>
+<givenName>Randall T.</givenName>                    <surName>Schuh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ruth</givenName>                    <surName>Salas</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Schuh, Randall T., Salas, Ruth (2021): Graziaphylus, a new genus and two new species of Eremophila-feeding (Scrophulariceae) Phylinae (Insecta: Heteroptera: Miridae) from Australia. Zootaxa 4958 (1): 319-326, DOI: https://doi.org/10.11646/zootaxa.4958.1.18</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF4AFFF90D0BFFA0611B5E05D265F423</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:52Z</dateStamp>
+                <citation>Schuh R T, Salas R, plazi (2021). Graziaphylus, a new genus and two new species of Eremophila-feeding (Scrophulariceae) Phylinae (Insecta: Heteroptera: Miridae) from Australia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4958.1.18 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

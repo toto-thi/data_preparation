@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d0184974-bea3-4f97-a2f8-98887ec4f87e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/5s9qzx</alternateIdentifier>
+                <alternateIdentifier>FFF1FFC1FFB6FFEB753AA238FFEBFFB1</alternateIdentifier>
+        <title>Vertebrate paleobiodiversity of the Early Cretaceous (Berriasian) Angeac-Charente Lagerstätte (southwestern France): implications for continental faunal turnover at the J / K boundary</title>
+            <creator>
+            <individualName>
+<givenName>Ronan</givenName>                    <surName>Allain</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Romain</givenName>                    <surName>Vullo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lee</givenName>                    <surName>Rozada</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jérémy</givenName>                    <surName>Anquetin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Renaud</givenName>                    <surName>Bourgeais</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean</givenName>                    <surName>Goedert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maxime</givenName>                    <surName>Lasseron</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jeremy E.</givenName>                    <surName>Martin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adán</givenName>                    <surName>Pérez-García</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Claire Peyre De</givenName>                    <surName>Fabrègues</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rafael</givenName>                    <surName>Royo-Torres</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dominique</givenName>                    <surName>Augier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gilles</givenName>                    <surName>Bailly</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Allain, Ronan, Vullo, Romain, Rozada, Lee, Anquetin, Jérémy, Bourgeais, Renaud, Goedert, Jean, Lasseron, Maxime, Martin, Jeremy E., Pérez-García, Adán, Fabrègues, Claire Peyre De, Royo-Torres, Rafael, Augier, Dominique, Bailly, Gilles (2022): Vertebrate paleobiodiversity of the Early Cretaceous (Berriasian) Angeac-Charente Lagerstätte (southwestern France): implications for continental faunal turnover at the J / K boundary. Geodiversitas 44 (25): 683-752, DOI: 10.5252/geodiversitas2022v44a25</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF1FFC1FFB6FFEB753AA238FFEBFFB1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:43Z</dateStamp>
+                <citation>Allain R, Vullo R, Rozada L, Anquetin J, Bourgeais R, Goedert J, Lasseron M, Martin J E, Pérez-García A, Fabrègues C P D, Royo-Torres R, Augier D, Bailly G, felipe (2022). Vertebrate paleobiodiversity of the Early Cretaceous (Berriasian) Angeac-Charente Lagerstätte (southwestern France): implications for continental faunal turnover at the J / K boundary. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/5s9qzx accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

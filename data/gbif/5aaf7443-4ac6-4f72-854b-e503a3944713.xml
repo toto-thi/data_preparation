@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5aaf7443-4ac6-4f72-854b-e503a3944713"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/evhwq5</alternateIdentifier>
+                <alternateIdentifier>FF87FFDB1335DA1DFFF0EF39E803FFA9</alternateIdentifier>
+        <title>New insights on Polianthes montana (Asparagaceae, Agavoideae) and the description of P. aarodriguezii a new species, both from Sierra Madre Occidental, Mexico</title>
+            <creator>
+            <individualName>
+<givenName>Arturo</givenName>                    <surName>Castro-Castro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco Antonio</givenName>                    <surName>González-Bernal</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Edmi Itzel Rojas-</givenName>                    <surName>Aguilar</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Castro-Castro, Arturo, González-Bernal, Marco Antonio, Aguilar, Edmi Itzel Rojas- (2023): New insights on Polianthes montana (Asparagaceae, Agavoideae) and the description of P. aarodriguezii a new species, both from Sierra Madre Occidental, Mexico. Phytotaxa 583 (1): 61-71, DOI: 10.11646/phytotaxa.583.1.6, URL: http://dx.doi.org/10.11646/phytotaxa.583.1.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF87FFDB1335DA1DFFF0EF39E803FFA9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:18Z</dateStamp>
+                <citation>Castro-Castro A, González-Bernal M A, Aguilar E I R, plazi (2023). New insights on Polianthes montana (Asparagaceae, Agavoideae) and the description of P. aarodriguezii a new species, both from Sierra Madre Occidental, Mexico. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/evhwq5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

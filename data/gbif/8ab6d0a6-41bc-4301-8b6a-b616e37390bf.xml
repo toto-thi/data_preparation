@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8ab6d0a6-41bc-4301-8b6a-b616e37390bf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1046/j.1096-3642.2003.00068.x</alternateIdentifier>
+                <alternateIdentifier>8ab6d0a6-41bc-4301-8b6a-b616e37390bf</alternateIdentifier>
+                <alternateIdentifier>10.15468/f4t92v</alternateIdentifier>
+                <alternateIdentifier>BD0FFFEFFF99965FEF6DFF81AA7E6C4A</alternateIdentifier>
+        <title>Pindamoraria boraceiae, a new genus and species of freshwater Canthocamptidae (Copepoda, Harpacticoida) from Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Janet Warner</givenName>                    <surName>Reid</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos Eduardo Falavigna</givenName>                    <surName>Rocha</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2003-09-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Reid, Janet Warner, Rocha, Carlos Eduardo Falavigna (2003): Pindamoraria boraceiae, a new genus and species of freshwater Canthocamptidae (Copepoda, Harpacticoida) from Brazil. Zoological Journal of the Linnean Society 139 (1): 81-92, DOI: 10.1046/j.1096-3642.2003.00068.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1046/j.1096-3642.2003.00068.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/BD0FFFEFFF99965FEF6DFF81AA7E6C4A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:05Z</dateStamp>
+                <citation>Reid J W, Rocha C E F, carolina (2003). Pindamoraria boraceiae, a new genus and species of freshwater Canthocamptidae (Copepoda, Harpacticoida) from Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1046/j.1096-3642.2003.00068.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

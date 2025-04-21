@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="629da307-3103-42a9-a960-732841c67c14"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.2478/aemnp-2018-0008</alternateIdentifier>
+                <alternateIdentifier>629da307-3103-42a9-a960-732841c67c14</alternateIdentifier>
+                <alternateIdentifier>10.15468/jjfmoy</alternateIdentifier>
+                <alternateIdentifier>CA1ECED6-3669-4FB5-8BF9-734CBC551131</alternateIdentifier>
+                <alternateIdentifier>FFD89465FD44D8733F382462794C467A</alternateIdentifier>
+        <title>Taxonomic revision of Pygodiscodon (Coleoptera: Cantharidae)</title>
+            <creator>
+            <individualName>
+<givenName>Gabriel</givenName>                    <surName>Biffi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robert</givenName>                    <surName>Constantin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-04-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Biffi, Gabriel, Constantin, Robert (2018): Taxonomic revision of Pygodiscodon (Coleoptera: Cantharidae). Acta Entomologica Musei Nationalis Pragae 58 (1): 77-90, DOI: 10.2478/aemnp-2018-0008</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD89465FD44D8733F382462794C467A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:52Z</dateStamp>
+                <citation>Biffi G, Constantin R, tatiana (2018). Taxonomic revision of Pygodiscodon (Coleoptera: Cantharidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.2478/aemnp-2018-0008 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

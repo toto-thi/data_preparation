@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4f2d5446-9799-4427-a9b3-1a281ba944b3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/palaeoentomology.4.4.11</alternateIdentifier>
+                <alternateIdentifier>4f2d5446-9799-4427-a9b3-1a281ba944b3</alternateIdentifier>
+                <alternateIdentifier>10.15468/9hxz4q</alternateIdentifier>
+                <alternateIdentifier>4B078CFF-88E1-42B7-89FD-7E8B8A46B11C</alternateIdentifier>
+                <alternateIdentifier>B11CFFE1FF26FFBCFFDAFFF253495C6D</alternateIdentifier>
+        <title>Three new species of the fossil Cantacaderinae genus Paleocader Froeschner, 1996 from the Baltic and Rovno amber (Hemiptera, Heteroptera, Tingidae)</title>
+            <creator>
+            <individualName>
+<givenName>ERNST</givenName>                    <surName>HEISS</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>VIKTOR B.</givenName>                    <surName>GOLUB</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article HEISS, ERNST, GOLUB, VIKTOR B. (2021): Three new species of the fossil Cantacaderinae genus Paleocader Froeschner, 1996 from the Baltic and Rovno amber (Hemiptera, Heteroptera, Tingidae). Palaeoentomology 4 (4): 360-366, DOI: 10.11646/palaeoentomology.4.4.11, URL: http://dx.doi.org/10.11646/palaeoentomology.4.4.11</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B11CFFE1FF26FFBCFFDAFFF253495C6D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:59Z</dateStamp>
+                <citation>HEISS E, GOLUB V B, carolina (2021). Three new species of the fossil Cantacaderinae genus Paleocader Froeschner, 1996 from the Baltic and Rovno amber (Hemiptera, Heteroptera, Tingidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/palaeoentomology.4.4.11 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

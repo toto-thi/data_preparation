@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="06992002-8592-45f5-ab21-cf1ec5fd61fa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4761063</alternateIdentifier>
+                <alternateIdentifier>06992002-8592-45f5-ab21-cf1ec5fd61fa</alternateIdentifier>
+                <alternateIdentifier>10.15468/wtchay</alternateIdentifier>
+                <alternateIdentifier>F7668389-D0A8-4697-938F-C8D1DF8D129</alternateIdentifier>
+                <alternateIdentifier>BF1AFFBF410DFF8CBF0F2A4EFFD09F1F</alternateIdentifier>
+        <title>Studies On The Stoneflies Of Georgia With The Description Of A New Species Of Soyedina Ricker, New State Records And An Annotated Checklist</title>
+            <creator>
+            <individualName>
+<givenName>Chris J.</givenName>                    <surName>Verdone</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Boris C.</givenName>                    <surName>Kondratieff</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>R. Edward</givenName>                    <surName>DeWalt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eric J.</givenName>                    <surName>South</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Verdone, Chris J., Kondratieff, Boris C., DeWalt, R. Edward, South, Eric J. (2017): Studies On The Stoneflies Of Georgia With The Description Of A New Species Of Soyedina Ricker, New State Records And An Annotated Checklist. Illiesia 13 (3): 30-49, DOI: http://doi.org/10.5281/zenodo.4761063</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/BF1AFFBF410DFF8CBF0F2A4EFFD09F1F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:15Z</dateStamp>
+                <citation>Verdone C J, Kondratieff B C, DeWalt R E, South E J, felipe (2017). Studies On The Stoneflies Of Georgia With The Description Of A New Species Of Soyedina Ricker, New State Records And An Annotated Checklist. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4761063 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

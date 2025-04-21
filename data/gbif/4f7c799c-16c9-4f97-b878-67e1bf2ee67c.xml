@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4f7c799c-16c9-4f97-b878-67e1bf2ee67c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3r9z2z</alternateIdentifier>
+                <alternateIdentifier>8927FF83FFCA9712F57582483172FFF5</alternateIdentifier>
+        <title>Fossil Felidae (Carnivora: Mammalia) from the Yuanmou hominid site, southern China (Late Miocene) and its significance in the living environment of the fossil ape</title>
+            <creator>
+            <individualName>
+<givenName>Qigao</givenName>                    <surName>Jiangzuo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shijie</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jiao</givenName>                    <surName>Fu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shiqi Wang Xueping Ji Mei</givenName>                    <surName>Duan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Decai</givenName>                    <surName>Che</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-04-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Jiangzuo, Qigao, Li, Shijie, Fu, Jiao, Duan, Shiqi Wang Xueping Ji Mei, Che, Decai (2022): Fossil Felidae (Carnivora: Mammalia) from the Yuanmou hominid site, southern China (Late Miocene) and its significance in the living environment of the fossil ape. Zoological Journal of the Linnean Society 196: 1156-1174, DOI: 10.1093/zoolinnean/zlab116, URL: https://doi.org/10.1093/zoolinnean/zlab116</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/8927FF83FFCA9712F57582483172FFF5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:19Z</dateStamp>
+                <citation>Jiangzuo Q, Li S, Fu J, Duan S W X J M, Che D, plazi (2022). Fossil Felidae (Carnivora: Mammalia) from the Yuanmou hominid site, southern China (Late Miocene) and its significance in the living environment of the fossil ape. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3r9z2z accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="415f2ff3-44f3-48fd-8165-b46b25ca49f2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.189189</alternateIdentifier>
+                <alternateIdentifier>415f2ff3-44f3-48fd-8165-b46b25ca49f2</alternateIdentifier>
+                <alternateIdentifier>10.15468/rogohh</alternateIdentifier>
+                <alternateIdentifier>FFA3B77CFFF25030FFCADB1BEB62FFC1</alternateIdentifier>
+        <title>Two new species of the genus Gunarus Des Gozis, 1886 (Coleoptera: Tenebrionidae: Helopini) from Southern Turkey</title>
+            <creator>
+            <individualName>
+<givenName>Maxim V.</givenName>                    <surName>Nabozhenko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bekir</givenName>                    <surName>Keskin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nabozhenko, Maxim V., Keskin, Bekir (2009): Two new species of the genus Gunarus Des Gozis, 1886 (Coleoptera: Tenebrionidae: Helopini) from Southern Turkey. Zootaxa 2170: 53-60, DOI: 10.5281/zenodo.189189</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA3B77CFFF25030FFCADB1BEB62FFC1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:43Z</dateStamp>
+                <citation>Nabozhenko M V, Keskin B, plazi (2009). Two new species of the genus Gunarus Des Gozis, 1886 (Coleoptera: Tenebrionidae: Helopini) from Southern Turkey. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.189189 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3b1cb71a-4a88-47e3-91bd-9afbd85a1ea2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.182657</alternateIdentifier>
+                <alternateIdentifier>10.15468/js48tj</alternateIdentifier>
+                <alternateIdentifier>2859FFEAFF8CFF95FFD5FFFDFF95FFDE</alternateIdentifier>
+        <title>On the identity of Rhinusa hispida (Brullé) and its current synonyms (Coleoptera: Curculionidae)</title>
+            <creator>
+            <individualName>
+<givenName>Roberto</givenName>                    <surName>Caldara</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Milana Desan Č</givenName>                    <surName>Ić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andre</givenName>                    <surName>Gassmann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lorenza</givenName>                    <surName>Legarreta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Brent C.</givenName>                    <surName>Emerson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ivo</givenName>                    <surName>Toševski</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2008-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Caldara, Roberto, Ić, Milana Desan Č, Gassmann, Andre, Legarreta, Lorenza, Emerson, Brent C., Toševski, Ivo (2008): On the identity of Rhinusa hispida (Brullé) and its current synonyms (Coleoptera: Curculionidae). Zootaxa 1805: 61-68, DOI: 10.5281/zenodo.182657</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2859FFEAFF8CFF95FFD5FFFDFF95FFDE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:48Z</dateStamp>
+                <citation>Caldara R, Ić M D Č, Gassmann A, Legarreta L, Emerson B C, Toševski I, plazi (2008). On the identity of Rhinusa hispida (Brullé) and its current synonyms (Coleoptera: Curculionidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.182657 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

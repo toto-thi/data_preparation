@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6e3d77a2-fb26-4043-b9d3-6c98b6ee9baf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xjjjn3</alternateIdentifier>
+                <alternateIdentifier>2740FF9FEB28FF85FFB9FFB1DD66FF9A</alternateIdentifier>
+        <title>Ulva L. (Ulvales, Chlorophyta) from Manawatāwhi / Three Kings Islands, New Zealand: Ulva piritoka Ngāti Kuri, Heesch &amp; W. A. Nelson, sp. nov. and records of two nonnative species, U. compressa and U. rigida</title>
+            <creator>
+            <individualName>
+<givenName>Svenja</givenName>                    <surName>Heesch</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Judy E.</givenName>                    <surName>Sutherland</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sandi</givenName>                    <surName>Ringham</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wendy A.</givenName>                    <surName>Nelson</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-06-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Heesch, Svenja, Sutherland, Judy E., Ringham, Sandi, Nelson, Wendy A. (2021): Ulva L. (Ulvales, Chlorophyta) from Manawatāwhi / Three Kings Islands, New Zealand: Ulva piritoka Ngāti Kuri, Heesch &amp;amp; W. A. Nelson, sp. nov. and records of two nonnative species, U. compressa and U. rigida. Cryptogamie, Algologie 20 (9): 129-140, DOI: 10.5252/cryptogamiealgologie2021v42a9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/2740FF9FEB28FF85FFB9FFB1DD66FF9A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:38Z</dateStamp>
+                <citation>Heesch S, Sutherland J E, Ringham S, Nelson W A, felipe (2021). Ulva L. (Ulvales, Chlorophyta) from Manawatāwhi / Three Kings Islands, New Zealand: Ulva piritoka Ngāti Kuri, Heesch &amp; W. A. Nelson, sp. nov. and records of two nonnative species, U. compressa and U. rigida. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/xjjjn3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

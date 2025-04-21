@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a2aaf6cb-e726-4610-aee7-ef554191be1c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/n34ucu</alternateIdentifier>
+                <alternateIdentifier>4212FFBBFF90FFB07569FFF0FFEDFFF7</alternateIdentifier>
+        <title>Fossorial morphotype does not make a species in water voles</title>
+            <creator>
+            <individualName>
+<givenName>Boris</givenName>                    <surName>Kryštufek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Toni</givenName>                    <surName>Koren</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Simon</givenName>                    <surName>Engelberger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Győző F.</givenName>                    <surName>Horváth</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jenő J.</givenName>                    <surName>Purger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Atilla</givenName>                    <surName>Arslan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gabriel</givenName>                    <surName>Chişamera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dumitru</givenName>                    <surName>Murariu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2015-01-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kryštufek, Boris, Koren, Toni, Engelberger, Simon, Horváth, Győző F., Purger, Jenő J., Arslan, Atilla, Chişamera, Gabriel, Murariu, Dumitru (2015): Fossorial morphotype does not make a species in water voles. Mammalia (Warsaw, Poland) 79 (3): 293-303, DOI: 10.1515/mammalia-2014-0059, URL: https://doi.org/10.1515/mammalia-2014-0059</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4212FFBBFF90FFB07569FFF0FFEDFFF7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:38Z</dateStamp>
+                <citation>Kryštufek B, Koren T, Engelberger S, Horváth G F, Purger J J, Arslan A, Chişamera G, Murariu D, felipe (2015). Fossorial morphotype does not make a species in water voles. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/n34ucu accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

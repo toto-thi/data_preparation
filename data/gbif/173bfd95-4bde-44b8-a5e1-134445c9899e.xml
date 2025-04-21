@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="173bfd95-4bde-44b8-a5e1-134445c9899e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4899.1.7</alternateIdentifier>
+                <alternateIdentifier>173bfd95-4bde-44b8-a5e1-134445c9899e</alternateIdentifier>
+                <alternateIdentifier>10.15468/n9z4mf</alternateIdentifier>
+                <alternateIdentifier>EF34A7E6-068C-4AC1-8DBB-38F04D9137B3</alternateIdentifier>
+                <alternateIdentifier>FF99FF97F66CA43A28014220FFDFF556</alternateIdentifier>
+        <title>New species of Peckhamia Simon, 1900 (Salticidae: Dendryphantini: Synagelina) from the Greater Antilles</title>
+            <creator>
+            <individualName>
+<givenName>Franklyn</givenName>                    <surName>Cala-Riquelme</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Abel A.</givenName>                    <surName>Bustamante</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sarah C.</givenName>                    <surName>Crews</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bruce</givenName>                    <surName>Cutler</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cala-Riquelme, Franklyn, Bustamante, Abel A., Crews, Sarah C., Cutler, Bruce (2020): New species of Peckhamia Simon, 1900 (Salticidae: Dendryphantini: Synagelina) from the Greater Antilles. Zootaxa 4899 (1): 141-160, DOI: https://doi.org/10.11646/zootaxa.4899.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF99FF97F66CA43A28014220FFDFF556</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:16Z</dateStamp>
+                <citation>Cala-Riquelme F, Bustamante A A, Crews S C, Cutler B, plazi (2020). New species of Peckhamia Simon, 1900 (Salticidae: Dendryphantini: Synagelina) from the Greater Antilles. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4899.1.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

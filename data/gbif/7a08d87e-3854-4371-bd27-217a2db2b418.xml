@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7a08d87e-3854-4371-bd27-217a2db2b418"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/palaeoentomology.4.4.9</alternateIdentifier>
+                <alternateIdentifier>10.15468/rkr8rn</alternateIdentifier>
+                <alternateIdentifier>0FFADB22-01BB-46F1-A954-029773517815</alternateIdentifier>
+                <alternateIdentifier>7a08d87e-3854-4371-bd27-217a2db2b418</alternateIdentifier>
+                <alternateIdentifier>FFAC557DFFBFFF82FD28E55DA6765042</alternateIdentifier>
+        <title>Redescription of Neponymphes godoii Zamboni, 2001 from the Lower Cretaceous of Brazil, based on the adult and nymphal stages (Hemiptera: Nepomorpha: Belostomatidae)</title>
+            <creator>
+            <individualName>
+<givenName>DIONIZIO A.</givenName>                    <surName>MOURA-JÚNIOR</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>VICTOR</givenName>                    <surName>QUINTAS</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>SANDRO M.</givenName>                    <surName>SCHEFFLER</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>ANDRÉ</givenName>                    <surName>NEL</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>JOSÉ RICARDO I.</givenName>                    <surName>RIBEIRO</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>GABRIEL</givenName>                    <surName>MEJDALANI</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article MOURA-JÚNIOR, DIONIZIO A., QUINTAS, VICTOR, SCHEFFLER, SANDRO M., NEL, ANDRÉ, RIBEIRO, JOSÉ RICARDO I., MEJDALANI, GABRIEL (2021): Redescription of Neponymphes godoii Zamboni, 2001 from the Lower Cretaceous of Brazil, based on the adult and nymphal stages (Hemiptera: Nepomorpha: Belostomatidae). Palaeoentomology 4 (4): 339-352, DOI: 10.11646/palaeoentomology.4.4.9, URL: http://dx.doi.org/10.11646/palaeoentomology.4.4.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFAC557DFFBFFF82FD28E55DA6765042</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:50Z</dateStamp>
+                <citation>MOURA-JÚNIOR D A, QUINTAS V, SCHEFFLER S M, NEL A, RIBEIRO J R I, MEJDALANI G, carolina (2021). Redescription of Neponymphes godoii Zamboni, 2001 from the Lower Cretaceous of Brazil, based on the adult and nymphal stages (Hemiptera: Nepomorpha: Belostomatidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/palaeoentomology.4.4.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

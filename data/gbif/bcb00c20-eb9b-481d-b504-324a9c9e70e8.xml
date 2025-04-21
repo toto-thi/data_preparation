@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bcb00c20-eb9b-481d-b504-324a9c9e70e8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.585.8330</alternateIdentifier>
+                <alternateIdentifier>10.15468/ktfcs1</alternateIdentifier>
+                <alternateIdentifier>5C1AFFE0FFC2B305FFC6FFACFFDE2B7B</alternateIdentifier>
+        <title>Records of Limoniidae and Pediciidae (Diptera) from Armenia, with the first Armenian checklist of these families</title>
+            <creator>
+            <individualName>
+<givenName>Jozef</givenName>                    <surName>Obona</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jaroslav</givenName>                    <surName>Stary</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Manko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ľubos</givenName>                    <surName>Hrivniak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Levon</givenName>                    <surName>Papyan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-04-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Obona, Jozef, Stary, Jaroslav, Manko, Peter, Hrivniak, Ľubos, Papyan, Levon (2016): Records of Limoniidae and Pediciidae (Diptera) from Armenia, with the first Armenian checklist of these families. ZooKeys 585: 125-142, DOI: http://dx.doi.org/10.3897/zookeys.585.8330, URL: http://dx.doi.org/10.3897/zookeys.585.8330</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/5C1AFFE0FFC2B305FFC6FFACFFDE2B7B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:12Z</dateStamp>
+                <citation>Obona J, Stary J, Manko P, Hrivniak Ľ, Papyan L, pensoft (2016). Records of Limoniidae and Pediciidae (Diptera) from Armenia, with the first Armenian checklist of these families. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.585.8330 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

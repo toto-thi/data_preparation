@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e2ed26bf-60f8-4dca-b769-b6029e9e00fa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1163/1876312x-04401002</alternateIdentifier>
+                <alternateIdentifier>e2ed26bf-60f8-4dca-b769-b6029e9e00fa</alternateIdentifier>
+                <alternateIdentifier>10.15468/1kw8nr</alternateIdentifier>
+                <alternateIdentifier>FFD6C947FFA8FF84FFA9FF936A44FFB4</alternateIdentifier>
+        <title>Cladistic analysis and synopsis of Chloropepla Stål (Hemiptera: Heteroptera: Pentatomidae) with the description of three new species</title>
+            <creator>
+            <individualName>
+<givenName>Caroline</givenName>                    <surName>Grevea</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Cristiano F.</givenName>                    <surName>Schwertnerb</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jocelia</givenName>                    <surName>Grazia</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>tatiana</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-04-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Grevea, Caroline, Schwertnerb, Cristiano F., Grazia, Jocelia (2013): Cladistic analysis and synopsis of Chloropepla Stål (Hemiptera: Heteroptera: Pentatomidae) with the description of three new species. Insect Systematics &amp;amp; Evolution 44: 1-43, DOI: 10.1163/1876312X-04401002</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD6C947FFA8FF84FFA9FF936A44FFB4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:00Z</dateStamp>
+                <citation>Grevea C, Schwertnerb C F, Grazia J, tatiana (2013). Cladistic analysis and synopsis of Chloropepla Stål (Hemiptera: Heteroptera: Pentatomidae) with the description of three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1163/1876312x-04401002 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

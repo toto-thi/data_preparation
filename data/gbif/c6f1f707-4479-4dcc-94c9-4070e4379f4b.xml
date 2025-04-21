@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c6f1f707-4479-4dcc-94c9-4070e4379f4b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.273790</alternateIdentifier>
+                <alternateIdentifier>10.15468/wroe6a</alternateIdentifier>
+                <alternateIdentifier>CCB9A9B4-1150-4D4F-ACD2-014B6607C291</alternateIdentifier>
+                <alternateIdentifier>FFE46979FFFEFF94FFC7FFF3602AB945</alternateIdentifier>
+        <title>A catalogue of the types of Limoniidae and Tipulidae (Diptera: Tipulomorpha) in the collection of the Museu de Zoologia da Universidade de São Paulo, Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Guilherme Cunha</givenName>                    <surName>Ribeiro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos José Einicker</givenName>                    <surName>Lamas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leisa Nathalie Silva De</givenName>                    <surName>Azevedo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2007-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ribeiro, Guilherme Cunha, Lamas, Carlos José Einicker, Azevedo, Leisa Nathalie Silva De (2007): A catalogue of the types of Limoniidae and Tipulidae (Diptera: Tipulomorpha) in the collection of the Museu de Zoologia da Universidade de São Paulo, Brazil. Zootaxa 1497: 1-22, DOI: 10.5281/zenodo.273790</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE46979FFFEFF94FFC7FFF3602AB945</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:15Z</dateStamp>
+                <citation>Ribeiro G C, Lamas C J E, Azevedo L N S D, plazi (2007). A catalogue of the types of Limoniidae and Tipulidae (Diptera: Tipulomorpha) in the collection of the Museu de Zoologia da Universidade de São Paulo, Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.273790 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="600097c0-88e6-4a65-a5f6-a303c48a1221"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.29077/bol/113/ce02_martinez</alternateIdentifier>
+                <alternateIdentifier>6F3B8DDB-1E72-47E6-8454-08E7B68524E0</alternateIdentifier>
+                <alternateIdentifier>600097c0-88e6-4a65-a5f6-a303c48a1221</alternateIdentifier>
+                <alternateIdentifier>10.15468/afqkfu</alternateIdentifier>
+                <alternateIdentifier>FF80EB360753FFFFFF96624FFFDCFF8C</alternateIdentifier>
+        <title>Una nueva especie del género Streblospio Webster, 1879 (Annelida, Spionidae) procedente del sureste del golfo de Vizcaya A new species of the genus Streblospio Webster, 1879 (Annelida, Spionidae) from SE of Bay of Biscay</title>
+            <creator>
+            <individualName>
+<givenName>Julián</givenName>                    <surName>Martínez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Idoia</givenName>                    <surName>Adarraga</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-02-15
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Martínez, Julián, Adarraga, Idoia (2019): Una nueva especie del género Streblospio Webster, 1879 (Annelida, Spionidae) procedente del sureste del golfo de Vizcaya A new species of the genus Streblospio Webster, 1879 (Annelida, Spionidae) from SE of Bay of Biscay. Boletín de la Real Sociedad Española de Historia Natural 113: 1-10, DOI: 10.29077/bol/113/ce02_martinez</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF80EB360753FFFFFF96624FFFDCFF8C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:51Z</dateStamp>
+                <citation>Martínez J, Adarraga I, plazi (2019). Una nueva especie del género Streblospio Webster, 1879 (Annelida, Spionidae) procedente del sureste del golfo de Vizcaya A new species of the genus Streblospio Webster, 1879 (Annelida, Spionidae) from SE of Bay of Biscay. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.29077/bol/113/ce02_martinez accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

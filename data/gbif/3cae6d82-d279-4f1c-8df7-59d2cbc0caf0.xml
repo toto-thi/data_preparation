@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3cae6d82-d279-4f1c-8df7-59d2cbc0caf0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3683.2.1</alternateIdentifier>
+                <alternateIdentifier>3cae6d82-d279-4f1c-8df7-59d2cbc0caf0</alternateIdentifier>
+                <alternateIdentifier>10.15468/dgvbud</alternateIdentifier>
+                <alternateIdentifier>D33F3EA9-E734-4940-9521-0FB3C86A39CD</alternateIdentifier>
+                <alternateIdentifier>C51FFFBCFFF2FFE66B0D1F78FFAAA02F</alternateIdentifier>
+        <title>Discovery of new species and country records for the North American sap beetle fauna (Coleoptera: Nitidulidae)</title>
+            <creator>
+            <individualName>
+<givenName>Andrew R.</givenName>                    <surName>Cline</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul E.</givenName>                    <surName>Skelley</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cline, Andrew R., Skelley, Paul E. (2013): Discovery of new species and country records for the North American sap beetle fauna (Coleoptera: Nitidulidae). Zootaxa 3683 (2): 101-116, DOI: http://dx.doi.org/10.11646/zootaxa.3683.2.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C51FFFBCFFF2FFE66B0D1F78FFAAA02F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:28Z</dateStamp>
+                <citation>Cline A R, Skelley P E, plazi (2013). Discovery of new species and country records for the North American sap beetle fauna (Coleoptera: Nitidulidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3683.2.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

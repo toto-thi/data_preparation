@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5a5c40f6-e3a9-4cf4-9ec0-898275a1d786"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4991.1.11</alternateIdentifier>
+                <alternateIdentifier>5a5c40f6-e3a9-4cf4-9ec0-898275a1d786</alternateIdentifier>
+                <alternateIdentifier>10.15468/7njfut</alternateIdentifier>
+                <alternateIdentifier>B74D7881-915D-47C2-A9D3-82634048E753</alternateIdentifier>
+                <alternateIdentifier>8718FF8FFF0DFFA8FFE7C414FFF6FFCA</alternateIdentifier>
+        <title>Another new exotic bark beetle in Florida: Ernoporus parvulus (Eggers, 1943) (Coleoptera: Curculionidae: Scolytinae), with additional taxonomic changes</title>
+            <creator>
+            <individualName>
+<givenName>Andrew J.</givenName>                    <surName>Johnson</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-06-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Johnson, Andrew J. (2021): Another new exotic bark beetle in Florida: Ernoporus parvulus (Eggers, 1943) (Coleoptera: Curculionidae: Scolytinae), with additional taxonomic changes. Zootaxa 4991 (1): 185-191, DOI: https://doi.org/10.11646/zootaxa.4991.1.11</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/8718FF8FFF0DFFA8FFE7C414FFF6FFCA</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:27Z</dateStamp>
+                <citation>Johnson A J, plazi (2021). Another new exotic bark beetle in Florida: Ernoporus parvulus (Eggers, 1943) (Coleoptera: Curculionidae: Scolytinae), with additional taxonomic changes. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4991.1.11 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

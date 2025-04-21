@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="66a31d74-23f7-49fe-906b-540f9c8b026e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/er3wtq</alternateIdentifier>
+                <alternateIdentifier>64E5E553414C55E4939A325B9ADF5818</alternateIdentifier>
+        <title>A new Asian leaf litter toad of the genus Leptobrachella (Amphibia, Anura, Megophryidae) from central south China</title>
+            <creator>
+            <individualName>
+<givenName>Jing</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shengchao</givenName>                    <surName>Shi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shize</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mengfei</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sunjun</givenName>                    <surName>Xiang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gang</givenName>                    <surName>Wei</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bin</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Liu, Jing, Shi, Shengchao, Li, Shize, Zhang, Mengfei, Xiang, Sunjun, Wei, Gang, Wang, Bin (2023): A new Asian leaf litter toad of the genus Leptobrachella (Amphibia, Anura, Megophryidae) from central south China. ZooKeys 1149: 103-134, DOI: http://dx.doi.org/10.3897/zookeys.1149.85895, URL: http://dx.doi.org/10.3897/zookeys.1149.85895</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/64E5E553414C55E4939A325B9ADF5818</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:38Z</dateStamp>
+                <citation>Liu J, Shi S, Li S, Zhang M, Xiang S, Wei G, Wang B, pensoft (2023). A new Asian leaf litter toad of the genus Leptobrachella (Amphibia, Anura, Megophryidae) from central south China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/er3wtq accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

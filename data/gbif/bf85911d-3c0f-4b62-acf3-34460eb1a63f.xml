@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bf85911d-3c0f-4b62-acf3-34460eb1a63f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/wyuzvm</alternateIdentifier>
+                <alternateIdentifier>FFF90218FF99FF9BFFA48549B47EFFA6</alternateIdentifier>
+        <title>The genus Neoseiulus Hughes (Mesostigmata: Phytoseiidae) in the Espinhaço Range, a great reservoir of biodiversity in Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Francisco</givenName>                    <surName>Ferragut</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Denise</givenName>                    <surName>Navia</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ferragut, Francisco, Navia, Denise (2022): The genus Neoseiulus Hughes (Mesostigmata: Phytoseiidae) in the Espinhaço Range, a great reservoir of biodiversity in Brazil. Zootaxa 5120 (4): 523-542, DOI: https://doi.org/10.11646/zootaxa.5120.4.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFF90218FF99FF9BFFA48549B47EFFA6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:22Z</dateStamp>
+                <citation>Ferragut F, Navia D, plazi (2022). The genus Neoseiulus Hughes (Mesostigmata: Phytoseiidae) in the Espinhaço Range, a great reservoir of biodiversity in Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/wyuzvm accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

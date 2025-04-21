@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ec30cbc7-c9ad-427c-952d-b0fdcc29f958"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/6fvr68</alternateIdentifier>
+                <alternateIdentifier>BC74FFE4FF82FF8EFFB3C9450F77FFA2</alternateIdentifier>
+        <title>Three new species of pseudoscorpions (Arachnida: Pseudoscorpiones: Pseudotyrannochthoniidae) from caves in Yunnan and Guizhou Provinces, China</title>
+            <creator>
+            <individualName>
+                    <surName>Yun-Chun LI</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yun-Chun LI (2023): Three new species of pseudoscorpions (Arachnida: Pseudoscorpiones: Pseudotyrannochthoniidae) from caves in Yunnan and Guizhou Provinces, China. European Journal of Taxonomy 861: 48-64, DOI: https://doi.org/10.5852/ejt.2023.861.2065</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/BC74FFE4FF82FF8EFFB3C9450F77FFA2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:49Z</dateStamp>
+                <citation>Yun-Chun LI, felipe (2023). Three new species of pseudoscorpions (Arachnida: Pseudoscorpiones: Pseudotyrannochthoniidae) from caves in Yunnan and Guizhou Provinces, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/6fvr68 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

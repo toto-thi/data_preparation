@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ff939f9c-7e1e-4a82-8f77-720150b07bba"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/uh2fwn</alternateIdentifier>
+                <alternateIdentifier>FF836F7FFF8A841FFF9E2C5CFFF4FFF7</alternateIdentifier>
+        <title>Tulipa toktogulica (Liliaceae), a cryptic, endangered new species from the western Tien-Shan, Kyrgyzstan</title>
+            <creator>
+            <individualName>
+<givenName>Brett</givenName>                    <surName>Wilson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Georgy A.</givenName>                    <surName>Lazkov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kaiyrkul T.</givenName>                    <surName>Shalpykov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Samuel F.</givenName>                    <surName>Brockington</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wilson, Brett, Lazkov, Georgy A., Shalpykov, Kaiyrkul T., Brockington, Samuel F. (2022): Tulipa toktogulica (Liliaceae), a cryptic, endangered new species from the western Tien-Shan, Kyrgyzstan. Phytotaxa 566 (1): 1-12, DOI: 10.11646/phytotaxa.566.1.1, URL: http://dx.doi.org/10.11646/phytotaxa.566.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF836F7FFF8A841FFF9E2C5CFFF4FFF7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:42Z</dateStamp>
+                <citation>Wilson B, Lazkov G A, Shalpykov K T, Brockington S F, plazi (2022). Tulipa toktogulica (Liliaceae), a cryptic, endangered new species from the western Tien-Shan, Kyrgyzstan. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/uh2fwn accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

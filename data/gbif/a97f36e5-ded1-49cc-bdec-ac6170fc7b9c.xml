@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a97f36e5-ded1-49cc-bdec-ac6170fc7b9c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/dpzg84</alternateIdentifier>
+        <title>Genome Taxonomy Database r207</title>
+            <creator>
+            <individualName>
+<givenName>Donovan</givenName>                    <surName>Parks</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Dr</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>donovan.parks@gmail.com</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/dr-donovan-parks</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-6662-9010</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Phil</givenName>                    <surName>Hugenholtz</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Professor</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Donovan</givenName>                    <surName>Parks</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Dr</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>donovan.parks@gmail.com</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/dr-donovan-parks</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-6662-9010</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Phil</givenName>                    <surName>Hugenholtz</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Professor</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Pierre</givenName>                    <surName>Chaumeil</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Software developer</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>p.chaumeil@qfab.org</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/mr-pierre-chaumeil</onlineUrl>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2022-04-28
+            </pubDate>
+        <language>DANISH</language>
+            <abstract>
+                    <para>The Genome Taxonomy Database (GTDB) is an initiative to establish a standardised microbial taxonomy based on genome phylogeny, primarily funded by the Australian Research Council via a Laureate Fellowship (FL150100038) and Discovery Project (DP220100900), with the welcome assistance of strategic funding from The University of Queensland.
+
+        The genomes used to construct the phylogeny are obtained from RefSeq and GenBank, and GTDB releases are indexed to RefSeq releases, starting with release 76. Importantly and increasingly, this dataset includes draft genomes of uncultured microorganisms obtained from metagenomes and single cells, ensuring improved genomic representation of the microbial world. All genomes are independently quality controlled using CheckM before inclusion in GTDB, see statistics here .
+        
+        The GTDB taxonomy is based on genome trees inferred using FastTree from an aligned concatenated set of 120 single copy marker proteins for Bacteria, and with IQ-TREE from a concatenated set of 53 (starting with R07-RS207) and 122 (prior to R07-RS207) marker proteins for Archaea (download page here ). Additional marker sets are also used to cross-validate tree topologies including concatenated ribosomal proteins and ribosomal RNA genes.
+        
+        NCBI taxonomy was initially used to decorate the genome tree via tax2tree and subsequently used as a reference source of new taxonomic opinions including new names. The 16S rRNA-based Greengenes and SILVA taxonomies were intially used to supplement the taxonomy particularly in regions of the tree with no cultured representatives, however genome assembly identifiers are now used to create placeholder names for uncultured taxa.
+        
+        LPSN is used as the primary nomenclatural reference for establishing naming priorities and nomenclature types. All taxonomic ranks except species are normalised using PhyloRank and the taxonomy manually curated to remove polyphyletic groups. Polyphyly and rank evenness can be visualised in PhyloRank plots . Species were originally delineated based on phylogeny and rank normalization but this was replaced with an ANI-based method (starting with R04-RS89) to enable scalable and automated assignment of genomes to species clusters. 
+
+The GTDB taxonomy can be queried and downloaded through a number of tools at https://gtdb.ecogenomic.org/</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>globalSpeciesDataset</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://gtdb.ecogenomic.org/</url>
+                </online>
+            </distribution>
+            <coverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Domain</taxonRankName>
+                                    <taxonRankValue>Archaea</taxonRankValue>
+                                        <commonName>Archaea</commonName>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Donovan</givenName>                    <surName>Parks</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Dr</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>donovan.parks@gmail.com</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/dr-donovan-parks</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-6662-9010</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Phil</givenName>                    <surName>Hugenholtz</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Professor</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>p.hugenholtz@uq.edu.au</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/prof-phil-hugenholtz</onlineUrl>            <userId directory="http://orcid.org/">0000-0001-5386-7925</userId>
+            </contact>
+            <contact>
+            <individualName>
+<givenName>Pierre</givenName>                    <surName>Chaumeil</surName>
+            </individualName>
+<organizationName>Australian Centre for Ecogenomics</organizationName><positionName>Software developer</positionName>            <address>
+<country>AUSTRALIA</country>            </address>
+<electronicMailAddress>p.chaumeil@qfab.org</electronicMailAddress><onlineUrl>https://ecogenomic.org/personnel/mr-pierre-chaumeil</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:39Z</dateStamp>
+                <citation>Parks D, Hugenholtz P (2022). Genome Taxonomy Database r207. Version 1.92. The University of Queensland. Checklist dataset https://doi.org/10.15468/dpzg84 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation identifier="DOI:10.1038/s41587-020-0501-8">Parks, D.H., et al. (2020). A complete domain-to-species taxonomy for Bacteria and Archaea. Nature Biotechnology</citation>
+                <citation identifier="DOI:10.1038/nbt.4229">Parks, D.H., et al. (2018). A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life. Nature Biotechnology, 36: 996-1004</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

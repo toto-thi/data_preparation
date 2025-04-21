@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9e158e87-d3c0-4aed-98b8-13f83d1fc542"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3uj6rq</alternateIdentifier>
+                <alternateIdentifier>EF0C6F63FF85FFF33D741063FFC1FF86</alternateIdentifier>
+        <title>Nymphanthus calcicola (Phyllanthaceae) - a new species from Southeast Chongqing, China</title>
+            <creator>
+            <individualName>
+<givenName>Gang</givenName>                    <surName>Yao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ya</givenName>                    <surName>Huang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hongyuan</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sirong</givenName>                    <surName>Yi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-06-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yao, Gang, Huang, Ya, Chen, Hongyuan, Yi, Sirong (2022): Nymphanthus calcicola (Phyllanthaceae) - a new species from Southeast Chongqing, China. Phytotaxa 552 (1): 84-90, DOI: 10.11646/phytotaxa.552.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EF0C6F63FF85FFF33D741063FFC1FF86</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:28Z</dateStamp>
+                <citation>Yao G, Huang Y, Chen H, Yi S, plazi (2022). Nymphanthus calcicola (Phyllanthaceae) - a new species from Southeast Chongqing, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3uj6rq accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

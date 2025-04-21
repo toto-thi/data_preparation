@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="93e1bd9a-8e6b-4e3f-8131-fedc99563a16"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/v868tp</alternateIdentifier>
+                <alternateIdentifier>BAC9EB1C9E8750258A2167E352221044</alternateIdentifier>
+        <title>More than 80 years without new taxa: analysis of morphological variation among members of Mexican Aeneolamia Fennah (Hemiptera, Cercopidae) support a new species in the genus</title>
+            <creator>
+            <individualName>
+<givenName>Francisco</givenName>                    <surName>Armendariz-Toledano</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Misael Adrian</givenName>                    <surName>Lopez-Posadas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Youssef</givenName>                    <surName>Utrera-Velez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jesus</givenName>                    <surName>Romero Napoles</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ulises</givenName>                    <surName>Castro-Valderrama</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Armendariz-Toledano, Francisco, Lopez-Posadas, Misael Adrian, Utrera-Velez, Youssef, Romero Napoles, Jesus, Castro-Valderrama, Ulises (2023): More than 80 years without new taxa: analysis of morphological variation among members of Mexican Aeneolamia Fennah (Hemiptera, Cercopidae) support a new species in the genus. ZooKeys 1139: 71-106, DOI: http://dx.doi.org/10.3897/zookeys.1139.85270, URL: http://dx.doi.org/10.3897/zookeys.1139.85270</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/BAC9EB1C9E8750258A2167E352221044</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:38Z</dateStamp>
+                <citation>Armendariz-Toledano F, Lopez-Posadas M A, Utrera-Velez Y, Romero Napoles J, Castro-Valderrama U, pensoft (2023). More than 80 years without new taxa: analysis of morphological variation among members of Mexican Aeneolamia Fennah (Hemiptera, Cercopidae) support a new species in the genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/v868tp accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

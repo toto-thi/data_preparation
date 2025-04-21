@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9938488f-b51e-426d-8e49-1f5e12985e55"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4896.2.10</alternateIdentifier>
+                <alternateIdentifier>9938488f-b51e-426d-8e49-1f5e12985e55</alternateIdentifier>
+                <alternateIdentifier>10.15468/zegwpd</alternateIdentifier>
+                <alternateIdentifier>872E6481-0D12-469D-8581-3498F6F9D556</alternateIdentifier>
+                <alternateIdentifier>FFC5DE639A705214FFC5FF8FFF8E887A</alternateIdentifier>
+        <title>Contribution to the knowledge of Mediterranean lichen-feeding darkling beetles of the genus Stenohelops Reitter, 1922 (Coleoptera: Tenebrionidae)</title>
+            <creator>
+            <individualName>
+<givenName>Maxim V.</givenName>                    <surName>Nabozhenko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Athanasios</givenName>                    <surName>Mpamnaras</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Konstantinos</givenName>                    <surName>Kalaentzis</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nabozhenko, Maxim V., Mpamnaras, Athanasios, Kalaentzis, Konstantinos (2020): Contribution to the knowledge of Mediterranean lichen-feeding darkling beetles of the genus Stenohelops Reitter, 1922 (Coleoptera: Tenebrionidae). Zootaxa 4896 (2): 292-300, DOI: https://doi.org/10.11646/zootaxa.4896.2.10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFC5DE639A705214FFC5FF8FFF8E887A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:31Z</dateStamp>
+                <citation>Nabozhenko M V, Mpamnaras A, Kalaentzis K, plazi (2020). Contribution to the knowledge of Mediterranean lichen-feeding darkling beetles of the genus Stenohelops Reitter, 1922 (Coleoptera: Tenebrionidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4896.2.10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

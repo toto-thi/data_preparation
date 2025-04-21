@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b9c69748-4773-430c-b2ba-5660199d1295"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/qek85t</alternateIdentifier>
+                <alternateIdentifier>29CD4EF8FB525DBAA022DF25CDB649C9</alternateIdentifier>
+        <title>Flora of Cameroon - Annonaceae Vol 45</title>
+            <creator>
+            <individualName>
+<givenName>Thomas L. P.</givenName>                    <surName>Couvreur</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leo-Paul M. J.</givenName>                    <surName>Dagallier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francoise</givenName>                    <surName>Crozier</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean-Paul</givenName>                    <surName>Ghogue</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul H.</givenName>                    <surName>Hoekstra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Narcisse G.</givenName>                    <surName>Kamdem</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David M.</givenName>                    <surName>Johnson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nancy A.</givenName>                    <surName>Murray</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bonaventure</givenName>                    <surName>Sonke</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Couvreur, Thomas L. P., Dagallier, Leo-Paul M. J., Crozier, Francoise, Ghogue, Jean-Paul, Hoekstra, Paul H., Kamdem, Narcisse G., Johnson, David M., Murray, Nancy A., Sonke, Bonaventure (2022): Flora of Cameroon - Annonaceae Vol 45. PhytoKeys 207: 1-532, DOI: http://dx.doi.org/10.3897/phytokeys.207.61432, URL: http://dx.doi.org/10.3897/phytokeys.207.61432</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/29CD4EF8FB525DBAA022DF25CDB649C9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:52Z</dateStamp>
+                <citation>Couvreur T L P, Dagallier L M J, Crozier F, Ghogue J, Hoekstra P H, Kamdem N G, Johnson D M, Murray N A, Sonke B, pensoft (2022). Flora of Cameroon - Annonaceae Vol 45. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/qek85t accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

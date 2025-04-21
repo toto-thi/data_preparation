@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c333dbe9-41a8-43a8-b612-4fa13b535775"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/mycokeys.81.67850</alternateIdentifier>
+                <alternateIdentifier>10.15468/pcpgfv</alternateIdentifier>
+                <alternateIdentifier>FA1AF851F5F55EDD8F5D8C009E82B7CF</alternateIdentifier>
+        <title>Unravelling unexplored diversity of cercosporoid fungi (Mycosphaerellaceae, Mycosphaerellales, Ascomycota) in tropical Africa</title>
+            <creator>
+            <individualName>
+<givenName>Yalemwork</givenName>                    <surName>Meswaet</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ralph</givenName>                    <surName>Mangelsdorff</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nourou S.</givenName>                    <surName>Yorou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Meike</givenName>                    <surName>Piepenbring</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-06-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Meswaet, Yalemwork, Mangelsdorff, Ralph, Yorou, Nourou S., Piepenbring, Meike (2021): Unravelling unexplored diversity of cercosporoid fungi (Mycosphaerellaceae, Mycosphaerellales, Ascomycota) in tropical Africa. MycoKeys 81: 69-138, DOI: http://dx.doi.org/10.3897/mycokeys.81.67850, URL: http://dx.doi.org/10.3897/mycokeys.81.67850</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FA1AF851F5F55EDD8F5D8C009E82B7CF</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:13Z</dateStamp>
+                <citation>Meswaet Y, Mangelsdorff R, Yorou N S, Piepenbring M, pensoft (2021). Unravelling unexplored diversity of cercosporoid fungi (Mycosphaerellaceae, Mycosphaerellales, Ascomycota) in tropical Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/mycokeys.81.67850 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

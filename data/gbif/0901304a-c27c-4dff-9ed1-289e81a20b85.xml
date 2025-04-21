@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0901304a-c27c-4dff-9ed1-289e81a20b85"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4088.4.1</alternateIdentifier>
+                <alternateIdentifier>0901304a-c27c-4dff-9ed1-289e81a20b85</alternateIdentifier>
+                <alternateIdentifier>10.15468/symnvu</alternateIdentifier>
+                <alternateIdentifier>3A08C8E6-0516-40D8-B96F-5C6311B9B775</alternateIdentifier>
+                <alternateIdentifier>C8422136FFD44A27FFD4FFC2C852FF9A</alternateIdentifier>
+        <title>Eight new species of Cycloneuroterus Melika &amp; Tang gallwasps from Taiwan and mainland China (Hymenoptera: Cynipidae: Cynipini)</title>
+            <creator>
+            <individualName>
+<givenName>Chang-Ti</givenName>                    <surName>Tang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frazer</givenName>                    <surName>Sinclair</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jack</givenName>                    <surName>Hearn</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Man-Miao</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Graham N.</givenName>                    <surName>Stone</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James A.</givenName>                    <surName>Nicholls</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Szabina</givenName>                    <surName>Schwéger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>George</givenName>                    <surName>Melika</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tang, Chang-Ti, Sinclair, Frazer, Hearn, Jack, Yang, Man-Miao, Stone, Graham N., Nicholls, James A., Schwéger, Szabina, Melika, George (2016): Eight new species of Cycloneuroterus Melika &amp;amp; Tang gallwasps from Taiwan and mainland China (Hymenoptera: Cynipidae: Cynipini). Zootaxa 4088 (4): 451-488, DOI: http://doi.org/10.11646/zootaxa.4088.4.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C8422136FFD44A27FFD4FFC2C852FF9A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:43Z</dateStamp>
+                <citation>Tang C, Sinclair F, Hearn J, Yang M, Stone G N, Nicholls J A, Schwéger S, Melika G, plazi (2016). Eight new species of Cycloneuroterus Melika &amp; Tang gallwasps from Taiwan and mainland China (Hymenoptera: Cynipidae: Cynipini). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4088.4.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

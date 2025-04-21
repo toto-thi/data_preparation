@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="356a4c29-470b-4ca5-8503-76191b4fef6f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.690.13751</alternateIdentifier>
+                <alternateIdentifier>10.15468/vraekt</alternateIdentifier>
+                <alternateIdentifier>FE026465FF86843AE44A7B6EFF8DC422</alternateIdentifier>
+        <title>A taxonomic review of the Selenophori group (Coleoptera, Carabidae, Harpalini) in the West Indies, with descriptions of new species and notes about classification and biogeography</title>
+            <creator>
+            <individualName>
+<givenName>Danny</givenName>                    <surName>Shpeley</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wesley</givenName>                    <surName>Hunting</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>George E.</givenName>                    <surName>Ball</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Shpeley, Danny, Hunting, Wesley, Ball, George E. (2017): A taxonomic review of the Selenophori group (Coleoptera, Carabidae, Harpalini) in the West Indies, with descriptions of new species and notes about classification and biogeography. ZooKeys 690: 1-195, DOI: http://dx.doi.org/10.3897/zookeys.690.13751, URL: http://dx.doi.org/10.3897/zookeys.690.13751</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FE026465FF86843AE44A7B6EFF8DC422</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:56Z</dateStamp>
+                <citation>Shpeley D, Hunting W, Ball G E, pensoft (2017). A taxonomic review of the Selenophori group (Coleoptera, Carabidae, Harpalini) in the West Indies, with descriptions of new species and notes about classification and biogeography. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.690.13751 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="30d744f5-bae6-47ca-a859-50a5059e9a0f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/zoosystema2021v43a1</alternateIdentifier>
+                <alternateIdentifier>30d744f5-bae6-47ca-a859-50a5059e9a0f</alternateIdentifier>
+                <alternateIdentifier>10.15468/ana6wb</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:6A6C06FA-2A60-41F1-8F6D-92EAE415087D</alternateIdentifier>
+                <alternateIdentifier>C0602545FFEFFFA5FFF1FFFEFFEEFFC2</alternateIdentifier>
+        <title>Revision of the Traumatomutilla gemella species-group (Hymenoptera, Mutillidae) with the description of its hitherto unknown males</title>
+            <creator>
+            <individualName>
+<givenName>Pedro R.</givenName>                    <surName>Bartholomay</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin A.</givenName>                    <surName>Williams</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roberto A.</givenName>                    <surName>Cambra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marcio L.</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-01-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bartholomay, Pedro R., Williams, Kevin A., Cambra, Roberto A., Oliveira, Marcio L. (2021): Revision of the Traumatomutilla gemella species-group (Hymenoptera, Mutillidae) with the description of its hitherto unknown males. Zoosystema 43 (1): 1-28, DOI: 10.5252/zoosystema2021v43a1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C0602545FFEFFFA5FFF1FFFEFFEEFFC2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:00Z</dateStamp>
+                <citation>Bartholomay P R, Williams K A, Cambra R A, Oliveira M L, felipe (2021). Revision of the Traumatomutilla gemella species-group (Hymenoptera, Mutillidae) with the description of its hitherto unknown males. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/zoosystema2021v43a1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

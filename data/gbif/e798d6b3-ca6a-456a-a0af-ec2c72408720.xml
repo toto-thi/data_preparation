@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e798d6b3-ca6a-456a-a0af-ec2c72408720"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4894.4.5</alternateIdentifier>
+                <alternateIdentifier>e798d6b3-ca6a-456a-a0af-ec2c72408720</alternateIdentifier>
+                <alternateIdentifier>10.15468/3etjwd</alternateIdentifier>
+                <alternateIdentifier>19BD5D89-5C9C-4111-A271-98E819A03D8E</alternateIdentifier>
+                <alternateIdentifier>FF824573FF80FFF3FF93FFED3035FFF9</alternateIdentifier>
+        <title>On a new Melanosuchus species (Alligatoroidea: Caimaninae) from Solimões Formation (Eocene-Pliocene), Northern Brazil, and evolution of Caimaninae</title>
+            <creator>
+            <individualName>
+<givenName>Jonas Pereira De</givenName>                    <surName>Souza-Filho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Edson</givenName>                    <surName>Guilherme</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter Mann De</givenName>                    <surName>Toledo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ismar De Souza</givenName>                    <surName>Carvalho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Francisco Ricardo</givenName>                    <surName>Negri</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Andréa Aparecida Da Rocha</givenName>                    <surName>Maciente</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Giovanne M.</givenName>                    <surName>Cidade</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mauro Bruno Da Silva</givenName>                    <surName>Lacerda</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lucy Gomes De</givenName>                    <surName>Souza</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Souza-Filho, Jonas Pereira De, Guilherme, Edson, Toledo, Peter Mann De, Carvalho, Ismar De Souza, Negri, Francisco Ricardo, Maciente, Andréa Aparecida Da Rocha, Cidade, Giovanne M., Lacerda, Mauro Bruno Da Silva, Souza, Lucy Gomes De (2020): On a new Melanosuchus species (Alligatoroidea: Caimaninae) from Solimões Formation (Eocene-Pliocene), Northern Brazil, and evolution of Caimaninae. Zootaxa 4894 (4): 561-593, DOI: https://doi.org/10.11646/zootaxa.4894.4.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF824573FF80FFF3FF93FFED3035FFF9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:15Z</dateStamp>
+                <citation>Souza-Filho J P D, Guilherme E, Toledo P M D, Carvalho I D S, Negri F R, Maciente A A D R, Cidade G M, Lacerda M B D S, Souza L G D, plazi (2020). On a new Melanosuchus species (Alligatoroidea: Caimaninae) from Solimões Formation (Eocene-Pliocene), Northern Brazil, and evolution of Caimaninae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4894.4.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="187c2858-8677-4e36-aae7-88f012b979e3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/5yz5jk</alternateIdentifier>
+                <alternateIdentifier>9C4D080CFF81EE0FFF81FFB81777FFF4</alternateIdentifier>
+        <title>Cortiella yatungense, a new species of Cortiella (Apiaceae) from Xizang, China</title>
+            <creator>
+            <individualName>
+<givenName>Jiao-Jiao</givenName>                    <surName>Deng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chang</givenName>                    <surName>Peng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chang-Kun</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Deng-Feng</givenName>                    <surName>Xie</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ling-Jian</givenName>                    <surName>Gui</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Song- Dong</givenName>                    <surName>Zhou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xing-Jin</givenName>                    <surName>He</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Deng, Jiao-Jiao, Peng, Chang, Liu, Chang-Kun, Xie, Deng-Feng, Gui, Ling-Jian, Zhou, Song- Dong, He, Xing-Jin (2022): Cortiella yatungense, a new species of Cortiella (Apiaceae) from Xizang, China. Phytotaxa 566 (2): 189-199, DOI: 10.11646/phytotaxa.566.2.3, URL: http://dx.doi.org/10.11646/phytotaxa.566.2.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/9C4D080CFF81EE0FFF81FFB81777FFF4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:29Z</dateStamp>
+                <citation>Deng J, Peng C, Liu C, Xie D, Gui L, Zhou S D, He X, plazi (2022). Cortiella yatungense, a new species of Cortiella (Apiaceae) from Xizang, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/5yz5jk accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

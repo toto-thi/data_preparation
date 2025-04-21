@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9ff37989-fe94-4548-86ca-2b7647a831c1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/g2013n3a1</alternateIdentifier>
+                <alternateIdentifier>9ff37989-fe94-4548-86ca-2b7647a831c1</alternateIdentifier>
+                <alternateIdentifier>10.15468/aur7qz</alternateIdentifier>
+                <alternateIdentifier>0314FFC0FFE4FF8BFF96706CFFCB0F1F</alternateIdentifier>
+        <title>Application of morphometric techniques for taxonomic revision of Berabichia oratrix (Orłowski, 1985) (Trilobita, Cambrian) from the Holy Cross Mountains, Poland</title>
+            <creator>
+            <individualName>
+<givenName>Anna</givenName>                    <surName>Żylińska</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adrian</givenName>                    <surName>Kin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jakub</givenName>                    <surName>Nowicki</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-09-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Żylińska, Anna, Kin, Adrian, Nowicki, Jakub (2013): Application of morphometric techniques for taxonomic revision of Berabichia oratrix (Orłowski, 1985) (Trilobita, Cambrian) from the Holy Cross Mountains, Poland. Geodiversitas 35 (3): 505-528, DOI: 10.5252/g2013n3a1, URL: http://dx.doi.org/10.5252/g2013n3a1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/0314FFC0FFE4FF8BFF96706CFFCB0F1F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:05Z</dateStamp>
+                <citation>Żylińska A, Kin A, Nowicki J, felipe (2013). Application of morphometric techniques for taxonomic revision of Berabichia oratrix (Orłowski, 1985) (Trilobita, Cambrian) from the Holy Cross Mountains, Poland. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/g2013n3a1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

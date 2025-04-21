@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="726bd2a8-d57a-4c4b-b2c0-053713adb218"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.886193</alternateIdentifier>
+                <alternateIdentifier>726bd2a8-d57a-4c4b-b2c0-053713adb218</alternateIdentifier>
+                <alternateIdentifier>10.15468/ttfflt</alternateIdentifier>
+                <alternateIdentifier>FFCC15663224F60957170530FFBA9030</alternateIdentifier>
+        <title>Vanmanenia orcicampus ı a new species of loach from the Plain of Jarsı Laos (Teleostei: Gastromyzontidae)</title>
+            <creator>
+            <individualName>
+                    <surName>Maurice Kottelat</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-08-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Maurice Kottelat (2017): Vanmanenia orcicampus ı a new species of loach from the Plain of Jarsı Laos (Teleostei: Gastromyzontidae). Ichthyol. Explor. Freshwaters 28 (1): 87-95, DOI: 10.5281/zenodo.886193</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCC15663224F60957170530FFBA9030</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:19Z</dateStamp>
+                <citation>Maurice Kottelat, plazi (2017). Vanmanenia orcicampus ı a new species of loach from the Plain of Jarsı Laos (Teleostei: Gastromyzontidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.886193 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

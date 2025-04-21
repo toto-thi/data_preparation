@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0291f4e5-4544-4d8e-b4bd-94aa3d3486ea"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/v4z2t5</alternateIdentifier>
+                <alternateIdentifier>C34AFFABFF89691FFFF4FFD6FFCAFFF8</alternateIdentifier>
+        <title>Catalogue and red list of Acalypha L. (Euphorbiaceae) from South America</title>
+            <creator>
+            <individualName>
+<givenName>José María</givenName>                    <surName>Cardiel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pablo</givenName>                    <surName>Muñoz-Rodríguez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Álvaro</givenName>                    <surName>González-Berdasco</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Iris</givenName>                    <surName>Montero-Muñoz</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cardiel, José María, Muñoz-Rodríguez, Pablo, González-Berdasco, Álvaro, Montero-Muñoz, Iris (2023): Catalogue and red list of Acalypha L. (Euphorbiaceae) from South America. European Journal of Taxonomy 886: 1-92, DOI: https://doi.org/10.5852/ejt.2023.886.2201, URL: http://dx.doi.org/10.5852/ejt.2023.886.2201</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C34AFFABFF89691FFFF4FFD6FFCAFFF8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:53Z</dateStamp>
+                <citation>Cardiel J M, Muñoz-Rodríguez P, González-Berdasco Á, Montero-Muñoz I, felipe (2023). Catalogue and red list of Acalypha L. (Euphorbiaceae) from South America. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/v4z2t5 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Cardiel, José María, Muñoz-Rodríguez, Pablo, González-Berdasco, Álvaro, Montero-Muñoz, Iris (2023): Catalogue and red list of Acalypha L. (Euphorbiaceae) from South America. European Journal of Taxonomy 886: 1-92, DOI: https://doi.org/10.5852/ejt.2023.886.2201, URL: http://dx.doi.org/10.5852/ejt.2023.886.2201</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

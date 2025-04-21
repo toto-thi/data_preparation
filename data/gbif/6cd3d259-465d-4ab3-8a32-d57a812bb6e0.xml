@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6cd3d259-465d-4ab3-8a32-d57a812bb6e0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/palaeoentomology.4.4.13</alternateIdentifier>
+                <alternateIdentifier>6cd3d259-465d-4ab3-8a32-d57a812bb6e0</alternateIdentifier>
+                <alternateIdentifier>10.15468/snb8ws</alternateIdentifier>
+                <alternateIdentifier>D1F5A853-32D1-470B-A609-D54F7B8C60CA</alternateIdentifier>
+                <alternateIdentifier>FF8BFFFFAB42067DFF858453FF89FB0A</alternateIdentifier>
+        <title>Further evidence of Cretaceous termitophily: Description of new termite hosts of the trichopseniine Cretotrichopsenius (Coleoptera: Staphylinidae), with emendations to the classification of lower termites (Isoptera)</title>
+            <creator>
+            <individualName>
+<givenName>RI-XIN</givenName>                    <surName>JIANG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>HONG-RUI</givenName>                    <surName>ZHANG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. TARO</givenName>                    <surName>ELDREDGE</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>XIAO-BIN</givenName>                    <surName>SONG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>YAN-DA</givenName>                    <surName>LI</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>ERIK</givenName>                    <surName>TIHELKA</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>DI-YING</givenName>                    <surName>HUANG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>SHUO</givenName>                    <surName>WANG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>MICHAEL S.</givenName>                    <surName>ENGEL</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>CHEN-YANG</givenName>                    <surName>CAI</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-08-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article JIANG, RI-XIN, ZHANG, HONG-RUI, ELDREDGE, K. TARO, SONG, XIAO-BIN, LI, YAN-DA, TIHELKA, ERIK, HUANG, DI-YING, WANG, SHUO, ENGEL, MICHAEL S., CAI, CHEN-YANG (2021): Further evidence of Cretaceous termitophily: Description of new termite hosts of the trichopseniine Cretotrichopsenius (Coleoptera: Staphylinidae), with emendations to the classification of lower termites (Isoptera). Palaeoentomology 4 (4): 374-389, DOI: 10.11646/palaeoentomology.4.4.13, URL: http://dx.doi.org/10.11646/palaeoentomology.4.4.13</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8BFFFFAB42067DFF858453FF89FB0A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:37Z</dateStamp>
+                <citation>JIANG R, ZHANG H, ELDREDGE K T, SONG X, LI Y, TIHELKA E, HUANG D, WANG S, ENGEL M S, CAI C, carolina (2021). Further evidence of Cretaceous termitophily: Description of new termite hosts of the trichopseniine Cretotrichopsenius (Coleoptera: Staphylinidae), with emendations to the classification of lower termites (Isoptera). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/palaeoentomology.4.4.13 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

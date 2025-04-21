@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5c2fac83-e9e2-401f-897d-d495205b617d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4728.3.5</alternateIdentifier>
+                <alternateIdentifier>5c2fac83-e9e2-401f-897d-d495205b617d</alternateIdentifier>
+                <alternateIdentifier>10.15468/6ljx4d</alternateIdentifier>
+                <alternateIdentifier>7B2EA43C-DB8E-4CB4-991D-5869D10415BF</alternateIdentifier>
+                <alternateIdentifier>541FFFE9FE6D5B70A27BFFA0FFF0F24D</alternateIdentifier>
+        <title>Two new species of freshwater sponges from Neotropical and Afrotropical Regions</title>
+            <creator>
+            <individualName>
+<givenName>Ulisses</givenName>                    <surName>Pinheiro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ludimila</givenName>                    <surName>Calheira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Celina</givenName>                    <surName>Martins</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Liesl</givenName>                    <surName>Janson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricky</givenName>                    <surName>Taylor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Toufiek</givenName>                    <surName>Samaai</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-01-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pinheiro, Ulisses, Calheira, Ludimila, Martins, Celina, Janson, Liesl, Taylor, Ricky, Samaai, Toufiek (2020): Two new species of freshwater sponges from Neotropical and Afrotropical Regions. Zootaxa 4728 (3): 363-371, DOI: https://doi.org/10.11646/zootaxa.4728.3.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/541FFFE9FE6D5B70A27BFFA0FFF0F24D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:54Z</dateStamp>
+                <citation>Pinheiro U, Calheira L, Martins C, Janson L, Taylor R, Samaai T, plazi (2020). Two new species of freshwater sponges from Neotropical and Afrotropical Regions. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4728.3.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

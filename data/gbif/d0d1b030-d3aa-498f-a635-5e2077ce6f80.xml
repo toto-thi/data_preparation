@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d0d1b030-d3aa-498f-a635-5e2077ce6f80"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ggcbtv</alternateIdentifier>
+                <alternateIdentifier>E80BDF06C34C5803BECCBEFCF0027932</alternateIdentifier>
+        <title>Phylogeny, morphology and chemistry reveal two new multispored species in the Lecanora subfusca group (Lecanoraceae, Ascomycota)</title>
+            <creator>
+            <individualName>
+<givenName>Lijuan</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yanyun</givenName>                    <surName>Zhang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christian</givenName>                    <surName>Printzen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Li, Lijuan, Zhang, Yanyun, Printzen, Christian (2023): Phylogeny, morphology and chemistry reveal two new multispored species in the Lecanora subfusca group (Lecanoraceae, Ascomycota). MycoKeys 99: 25-43, DOI: http://dx.doi.org/10.3897/mycokeys.99.108462, URL: http://dx.doi.org/10.3897/mycokeys.99.108462</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/E80BDF06C34C5803BECCBEFCF0027932</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:36Z</dateStamp>
+                <citation>Li L, Zhang Y, Printzen C, pensoft (2023). Phylogeny, morphology and chemistry reveal two new multispored species in the Lecanora subfusca group (Lecanoraceae, Ascomycota). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ggcbtv accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Li, Lijuan, Zhang, Yanyun, Printzen, Christian (2023): Phylogeny, morphology and chemistry reveal two new multispored species in the Lecanora subfusca group (Lecanoraceae, Ascomycota). MycoKeys 99: 25-43, DOI: http://dx.doi.org/10.3897/mycokeys.99.108462, URL: http://dx.doi.org/10.3897/mycokeys.99.108462</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

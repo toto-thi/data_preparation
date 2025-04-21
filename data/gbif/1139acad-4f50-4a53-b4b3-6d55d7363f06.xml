@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1139acad-4f50-4a53-b4b3-6d55d7363f06"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4852.5.2</alternateIdentifier>
+                <alternateIdentifier>1139acad-4f50-4a53-b4b3-6d55d7363f06</alternateIdentifier>
+                <alternateIdentifier>10.15468/cag4d8</alternateIdentifier>
+                <alternateIdentifier>5DE48C24-B9B4-41D3-8AA3-F94C669EE938</alternateIdentifier>
+                <alternateIdentifier>E723762EFFC2F1408A69C303FFFFFFC2</alternateIdentifier>
+        <title>Review of the Scorpaena papillosa species complex (Teleostei: Scorpaenidae) with description of a new species from southwestern Australia</title>
+            <creator>
+            <individualName>
+<givenName>Kunto</givenName>                    <surName>Wibowo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiroyuki</givenName>                    <surName>Motomura</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wibowo, Kunto, Motomura, Hiroyuki (2020): Review of the Scorpaena papillosa species complex (Teleostei: Scorpaenidae) with description of a new species from southwestern Australia. Zootaxa 4852 (5): 527-546, DOI: https://doi.org/10.11646/zootaxa.4852.5.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/E723762EFFC2F1408A69C303FFFFFFC2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:33Z</dateStamp>
+                <citation>Wibowo K, Motomura H, plazi (2020). Review of the Scorpaena papillosa species complex (Teleostei: Scorpaenidae) with description of a new species from southwestern Australia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4852.5.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

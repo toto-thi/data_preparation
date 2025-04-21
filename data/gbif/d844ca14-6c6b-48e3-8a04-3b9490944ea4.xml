@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d844ca14-6c6b-48e3-8a04-3b9490944ea4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4312.3.6</alternateIdentifier>
+                <alternateIdentifier>d844ca14-6c6b-48e3-8a04-3b9490944ea4</alternateIdentifier>
+                <alternateIdentifier>10.15468/bdcr6x</alternateIdentifier>
+                <alternateIdentifier>98Ff26A8-1662-45Bc-8F37-12411B2945F0</alternateIdentifier>
+                <alternateIdentifier>http://dx.doi.org/https://doi.org/10.11646/zootaxa.4312.3.6</alternateIdentifier>
+                <alternateIdentifier>FF921C70FFEE3E1E4F0FFFA0D02DFFFE</alternateIdentifier>
+        <title>Taxonomic changes in Salyavatinae (Heteroptera: Reduviidae), with an updated generic key</title>
+            <creator>
+            <individualName>
+<givenName>Daniel R.</givenName>                    <surName>Swanson</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-08-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Swanson, Daniel R. (2017): Taxonomic changes in Salyavatinae (Heteroptera: Reduviidae), with an updated generic key. Zootaxa 4312 (3): 515-530, DOI: https://doi.org/10.11646/zootaxa.4312.3.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF921C70FFEE3E1E4F0FFFA0D02DFFFE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:19Z</dateStamp>
+                <citation>Swanson D R, plazi (2017). Taxonomic changes in Salyavatinae (Heteroptera: Reduviidae), with an updated generic key. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4312.3.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

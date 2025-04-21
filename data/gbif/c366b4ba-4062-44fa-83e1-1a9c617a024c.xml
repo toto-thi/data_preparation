@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c366b4ba-4062-44fa-83e1-1a9c617a024c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/8utqsw</alternateIdentifier>
+                <alternateIdentifier>2D047D0092739245FFB6DC75FFFCFFBD</alternateIdentifier>
+        <title>A New Genus and Two New Species of Arboreal Toads from the Highlands of Sumatra with a Phylogeny of Sundaland Toad Genera</title>
+            <creator>
+            <individualName>
+<givenName>Utpal</givenName>                    <surName>Smart</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Goutam C.</givenName>                    <surName>Sarker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Umilaela</givenName>                    <surName>Arifin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael B.</givenName>                    <surName>Harvey</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Irvan</givenName>                    <surName>Sidik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Amir</givenName>                    <surName>Hamidy</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nia</givenName>                    <surName>Kurniawan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eric N.</givenName>                    <surName>Smith</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-03-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Smart, Utpal, Sarker, Goutam C., Arifin, Umilaela, Harvey, Michael B., Sidik, Irvan, Hamidy, Amir, Kurniawan, Nia, Smith, Eric N. (2017): A New Genus and Two New Species of Arboreal Toads from the Highlands of Sumatra with a Phylogeny of Sundaland Toad Genera. Herpetologica 73 (1): 63-75, DOI: 10.1655/Herpetologica-D-16-00041, URL: http://dx.doi.org/10.1655/herpetologica-d-16-00041</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/2D047D0092739245FFB6DC75FFFCFFBD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:32Z</dateStamp>
+                <citation>Smart U, Sarker G C, Arifin U, Harvey M B, Sidik I, Hamidy A, Kurniawan N, Smith E N, felipe (2017). A New Genus and Two New Species of Arboreal Toads from the Highlands of Sumatra with a Phylogeny of Sundaland Toad Genera. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/8utqsw accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

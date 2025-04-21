@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7b59820e-be57-4450-a0bd-dd11d5f81993"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4890.2.9</alternateIdentifier>
+                <alternateIdentifier>7b59820e-be57-4450-a0bd-dd11d5f81993</alternateIdentifier>
+                <alternateIdentifier>10.15468/58dqrn</alternateIdentifier>
+                <alternateIdentifier>AD634530-E088-4536-B478-1BC9A75388F0</alternateIdentifier>
+                <alternateIdentifier>D9249364FF973F12F85AB32BFFD52030</alternateIdentifier>
+        <title>Two new species of Flintiella Angrisano 1995 (Trichoptera: Hydroptilidae Stactobiini) from northern Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Jaime De Liege Gama</givenName>                    <surName>Neto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>José Moacir Ferreira</givenName>                    <surName>Ribeiro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mahedy Araujo Bastos</givenName>                    <surName>Passos</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Neto, Jaime De Liege Gama, Ribeiro, José Moacir Ferreira, Passos, Mahedy Araujo Bastos (2020): Two new species of Flintiella Angrisano 1995 (Trichoptera: Hydroptilidae Stactobiini) from northern Brazil. Zootaxa 4890 (2): 283-288, DOI: https://doi.org/10.11646/zootaxa.4890.2.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D9249364FF973F12F85AB32BFFD52030</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:39Z</dateStamp>
+                <citation>Neto J D L G, Ribeiro J M F, Passos M A B, plazi (2020). Two new species of Flintiella Angrisano 1995 (Trichoptera: Hydroptilidae Stactobiini) from northern Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4890.2.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

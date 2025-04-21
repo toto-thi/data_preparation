@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="353cfdc2-dda2-46fc-b613-18d519536ec0"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/gy9rca</alternateIdentifier>
+                <alternateIdentifier>C4029A4FA67FFFEC6C35C22E5641290B</alternateIdentifier>
+        <title>A new Hyalella species (Crustacea: Amphipoda: Hyalellidae) from South American Highlands (Argentina) with comments on its cuticular ultrastructure</title>
+            <creator>
+            <individualName>
+<givenName>Isa Miranda Águeda</givenName>                    <surName>Verónica</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peralta Marcela</givenName>                    <surName>Alejandra</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-03
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Verónica, Isa Miranda Águeda, Alejandra, Peralta Marcela (2022): A new Hyalella species (Crustacea: Amphipoda: Hyalellidae) from South American Highlands (Argentina) with comments on its cuticular ultrastructure. Zootaxa 5105 (2): 202-218, DOI: https://doi.org/10.11646/zootaxa.5105.2.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C4029A4FA67FFFEC6C35C22E5641290B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:45Z</dateStamp>
+                <citation>Verónica I M Á, Alejandra P M, plazi (2022). A new Hyalella species (Crustacea: Amphipoda: Hyalellidae) from South American Highlands (Argentina) with comments on its cuticular ultrastructure. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/gy9rca accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

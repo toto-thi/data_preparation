@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="cf34087f-8dc9-443b-b4f8-8718384187ec"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.183505</alternateIdentifier>
+                <alternateIdentifier>cf34087f-8dc9-443b-b4f8-8718384187ec</alternateIdentifier>
+                <alternateIdentifier>10.15468/wu9cgt</alternateIdentifier>
+                <alternateIdentifier>0D5EFA5BFFFCFFF1B624A04F7F0DFFD9</alternateIdentifier>
+        <title>A monograph of the genus Westwoodia (Hymenoptera: Ichneumonidae)</title>
+            <creator>
+            <individualName>
+<givenName>Robert A.</givenName>                    <surName>Wharton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Karl</givenName>                    <surName>Roeder</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Matthew J.</givenName>                    <surName>Yoder</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2008-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wharton, Robert A., Roeder, Karl, Yoder, Matthew J. (2008): A monograph of the genus Westwoodia (Hymenoptera: Ichneumonidae). Zootaxa 1855: 1-40, DOI: 10.5281/zenodo.183505</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/0D5EFA5BFFFCFFF1B624A04F7F0DFFD9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:43Z</dateStamp>
+                <citation>Wharton R A, Roeder K, Yoder M J, plazi (2008). A monograph of the genus Westwoodia (Hymenoptera: Ichneumonidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.183505 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

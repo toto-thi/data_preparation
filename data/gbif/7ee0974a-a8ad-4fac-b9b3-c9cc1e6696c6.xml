@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7ee0974a-a8ad-4fac-b9b3-c9cc1e6696c6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/phytokeys.140.49529</alternateIdentifier>
+                <alternateIdentifier>10.15468/kldk5m</alternateIdentifier>
+                <alternateIdentifier>50DFBF80D580550FBEAE3D1BC944766A</alternateIdentifier>
+        <title>Pinguicula rosmarieae Casper, Bussmann &amp; T. Henning (Lentibulariaceae), a new butterwort from the Amotape-Huancabamba Zone (northern Peru)</title>
+            <creator>
+            <individualName>
+<givenName>S. Jost</givenName>                    <surName>Casper</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rainer W.</givenName>                    <surName>Bussmann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tilo</givenName>                    <surName>Henning</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Casper, S. Jost, Bussmann, Rainer W., Henning, Tilo (2020): Pinguicula rosmarieae Casper, Bussmann &amp;amp; T. Henning (Lentibulariaceae), a new butterwort from the Amotape-Huancabamba Zone (northern Peru). PhytoKeys 140: 107-123, DOI: http://dx.doi.org/10.3897/phytokeys.140.49529, URL: http://dx.doi.org/10.3897/phytokeys.140.49529</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/50DFBF80D580550FBEAE3D1BC944766A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:00Z</dateStamp>
+                <citation>Casper S J, Bussmann R W, Henning T, pensoft (2020). Pinguicula rosmarieae Casper, Bussmann &amp; T. Henning (Lentibulariaceae), a new butterwort from the Amotape-Huancabamba Zone (northern Peru). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/phytokeys.140.49529 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

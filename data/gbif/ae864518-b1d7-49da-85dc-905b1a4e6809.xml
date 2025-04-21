@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ae864518-b1d7-49da-85dc-905b1a4e6809"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/p8h4n2</alternateIdentifier>
+                <alternateIdentifier>FFB66963FF87F208FFFFFFA92110BA43</alternateIdentifier>
+        <title>The botanical legacy of Martinus Houttuyn (1720 - 1798) in Geneva</title>
+            <creator>
+            <individualName>
+<givenName>Dirk Onno</givenName>                    <surName>Wijnands</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Johannes</givenName>                    <surName>Heniger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jan Frederik</givenName>                    <surName>Veldkamp</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nicolas</givenName>                    <surName>Fumeaux</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin W.</givenName>                    <surName>Callmander</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-05-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wijnands, Dirk Onno, Heniger, Johannes, Veldkamp, Jan Frederik, Fumeaux, Nicolas, Callmander, Martin W. (2017): The botanical legacy of Martinus Houttuyn (1720 - 1798) in Geneva. Candollea 72 (1): 155-198, DOI: 10.15553/c2017v721a11</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB66963FF87F208FFFFFFA92110BA43</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:39Z</dateStamp>
+                <citation>Wijnands D O, Heniger J, Veldkamp J F, Fumeaux N, Callmander M W, carolina (2017). The botanical legacy of Martinus Houttuyn (1720 - 1798) in Geneva. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/p8h4n2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

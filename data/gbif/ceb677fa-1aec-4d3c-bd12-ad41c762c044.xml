@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ceb677fa-1aec-4d3c-bd12-ad41c762c044"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.4526089</alternateIdentifier>
+                <alternateIdentifier>ceb677fa-1aec-4d3c-bd12-ad41c762c044</alternateIdentifier>
+                <alternateIdentifier>10.15468/86uah6</alternateIdentifier>
+                <alternateIdentifier>F72A7D38271BFFE3FFA8FFF4FFF9AE5D</alternateIdentifier>
+        <title>Two new species of Eumeninae from Iran (Hymenoptera: Vespidae)</title>
+            <creator>
+            <individualName>
+<givenName>J.</givenName>                    <surName>Gusenleitner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>M.</givenName>                    <surName>Fallahzadeh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A.</givenName>                    <surName>Haghighi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>A. F.</givenName>                    <surName>Dousti</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-07-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gusenleitner, J., Fallahzadeh, M., Haghighi, A., Dousti, A. F. (2013): Two new species of Eumeninae from Iran (Hymenoptera: Vespidae). Linzer biologische Beiträge 45 (1): 109-116, DOI: http://doi.org/10.5281/zenodo.4526089</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F72A7D38271BFFE3FFA8FFF4FFF9AE5D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:23Z</dateStamp>
+                <citation>Gusenleitner J, Fallahzadeh M, Haghighi A, Dousti A F, felipe (2013). Two new species of Eumeninae from Iran (Hymenoptera: Vespidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.4526089 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

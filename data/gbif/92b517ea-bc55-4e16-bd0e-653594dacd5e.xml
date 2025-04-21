@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="92b517ea-bc55-4e16-bd0e-653594dacd5e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/kkf22j</alternateIdentifier>
+                <alternateIdentifier>493CFFDFFFA4FFFCFFCCFFC89F78B429</alternateIdentifier>
+        <title>Description of Acaralox latifolia n. sp. (Acari: Trombidiformes: Eriophyoidea) on water bamboo from Taiwan</title>
+            <creator>
+            <individualName>
+<givenName>Kun-Wei</givenName>                    <surName>Huang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shu-Chen</givenName>                    <surName>Chang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tzay-Tien</givenName>                    <surName>Hsieh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hsuan</givenName>                    <surName>Shentu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Huang, Kun-Wei, Chang, Shu-Chen, Hsieh, Tzay-Tien, Shentu, Hsuan (2022): Description of Acaralox latifolia n. sp. (Acari: Trombidiformes: Eriophyoidea) on water bamboo from Taiwan. Zootaxa 5209 (2): 285-292, DOI: https://doi.org/10.11646/zootaxa.5209.2.8</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/493CFFDFFFA4FFFCFFCCFFC89F78B429</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:01Z</dateStamp>
+                <citation>Huang K, Chang S, Hsieh T, Shentu H, plazi (2022). Description of Acaralox latifolia n. sp. (Acari: Trombidiformes: Eriophyoidea) on water bamboo from Taiwan. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/kkf22j accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

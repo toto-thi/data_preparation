@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bbf04a36-7745-4cd9-88dd-a82d65f2d04f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2020v42a21</alternateIdentifier>
+                <alternateIdentifier>bbf04a36-7745-4cd9-88dd-a82d65f2d04f</alternateIdentifier>
+                <alternateIdentifier>10.15468/yxdgxh</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:7EC0E4FA-D538-4CE2-91B8-D7F549C32985</alternateIdentifier>
+                <alternateIdentifier>A601FFD0FF910E740F11FFAE1B5E0863</alternateIdentifier>
+        <title>Ostracods from the ‘ Raibl Beds’ (Carnian, Late Triassic) of Belca section in Karavanke Mountains, northwestern Slovenia</title>
+            <creator>
+            <individualName>
+<givenName>Marie-Béatrice</givenName>                    <surName>Forel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tea</givenName>                    <surName>Kolar-Jurkovšek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bogdan</givenName>                    <surName>Jurkovšek</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Forel, Marie-Béatrice, Kolar-Jurkovšek, Tea, Jurkovšek, Bogdan (2020): Ostracods from the ‘ Raibl Beds’ (Carnian, Late Triassic) of Belca section in Karavanke Mountains, northwestern Slovenia. Geodiversitas 42 (21): 377-407, DOI: 10.5252/geodiversitas2020v42a21</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A601FFD0FF910E740F11FFAE1B5E0863</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:05Z</dateStamp>
+                <citation>Forel M, Kolar-Jurkovšek T, Jurkovšek B, felipe (2020). Ostracods from the ‘ Raibl Beds’ (Carnian, Late Triassic) of Belca section in Karavanke Mountains, northwestern Slovenia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2020v42a21 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="41ef1a7c-815c-4c38-8588-9032d3360b27"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/z4fyvd</alternateIdentifier>
+                <alternateIdentifier>EDEF170ABBDF545AB1FB9AE51C6D5B6F</alternateIdentifier>
+        <title>A review of the subgenus Parapisa of Apisa (Lepidoptera: Erebidae: Arctiinae) with description of a remarkable species from Cameroonian Highlands</title>
+            <creator>
+            <individualName>
+<givenName>Anna</givenName>                    <surName>Pasnik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sebastian</givenName>                    <surName>Tarcz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lukasz</givenName>                    <surName>Przybylowicz</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-04-06
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pasnik, Anna, Tarcz, Sebastian, Przybylowicz, Lukasz (2023): A review of the subgenus Parapisa of Apisa (Lepidoptera: Erebidae: Arctiinae) with description of a remarkable species from Cameroonian Highlands. Arthropod Systematics &amp;amp; amp; Phylogeny 81: 371-394, DOI: http://dx.doi.org/10.3897/asp.81.e96319, URL: http://dx.doi.org/10.3897/asp.81.e96319</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/EDEF170ABBDF545AB1FB9AE51C6D5B6F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:40Z</dateStamp>
+                <citation>Pasnik A, Tarcz S, Przybylowicz L, pensoft (2023). A review of the subgenus Parapisa of Apisa (Lepidoptera: Erebidae: Arctiinae) with description of a remarkable species from Cameroonian Highlands. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/z4fyvd accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="18e80f90-c3cc-4085-a554-b4e8c4620234"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.1011.1.2</alternateIdentifier>
+                <alternateIdentifier>18e80f90-c3cc-4085-a554-b4e8c4620234</alternateIdentifier>
+                <alternateIdentifier>10.15468/963gvm</alternateIdentifier>
+                <alternateIdentifier>87936C3F-00BC-4874-B658-29CA90F13AFC</alternateIdentifier>
+                <alternateIdentifier>EB0FFFBEFF92FFE0A241FFC11E31DB77</alternateIdentifier>
+        <title>Description of the female, redescription of the male, and host associations of the Nearctic species Sphaeropthalma jacala Schuster (Hymenoptera: Mutillidae)</title>
+            <creator>
+            <individualName>
+<givenName>James P.</givenName>                    <surName>Pitts</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Frank D.</givenName>                    <surName>Parker</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2005-06-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pitts, James P., Parker, Frank D. (2005): Description of the female, redescription of the male, and host associations of the Nearctic species Sphaeropthalma jacala Schuster (Hymenoptera: Mutillidae). Zootaxa 1011 (1): 55-64, DOI: 10.11646/zootaxa.1011.1.2, URL: https://biotaxa.org/Zootaxa/article/view/zootaxa.1011.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EB0FFFBEFF92FFE0A241FFC11E31DB77</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:45Z</dateStamp>
+                <citation>Pitts J P, Parker F D, felipe (2005). Description of the female, redescription of the male, and host associations of the Nearctic species Sphaeropthalma jacala Schuster (Hymenoptera: Mutillidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.1011.1.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

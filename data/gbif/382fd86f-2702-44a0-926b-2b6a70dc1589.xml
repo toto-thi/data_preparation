@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="382fd86f-2702-44a0-926b-2b6a70dc1589"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4958.1.19</alternateIdentifier>
+                <alternateIdentifier>382fd86f-2702-44a0-926b-2b6a70dc1589</alternateIdentifier>
+                <alternateIdentifier>10.15468/tegpgk</alternateIdentifier>
+                <alternateIdentifier>152A2C79-FE05-4FC4-892B-3366C1258122</alternateIdentifier>
+                <alternateIdentifier>6D18FF823801AA27FFE2C248FFC5FFCC</alternateIdentifier>
+        <title>Hypsipyrgias joseliae, a new species of lace bugs (Heteroptera: Tingidae: Tinginae) from New Guinea with a key to species of the genus Hypsipyrgias, and comments on three allied genera Hypsipyrgias Kirkaldy, 1908, Diplocysta Horváth, 1925, and Hypsotingis Drake, 1960</title>
+            <creator>
+            <individualName>
+<givenName>Barbara</givenName>                    <surName>Lis</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jerzy A.</givenName>                    <surName>Lis</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lis, Barbara, Lis, Jerzy A. (2021): Hypsipyrgias joseliae, a new species of lace bugs (Heteroptera: Tingidae: Tinginae) from New Guinea with a key to species of the genus Hypsipyrgias, and comments on three allied genera Hypsipyrgias Kirkaldy, 1908, Diplocysta Horváth, 1925, and Hypsotingis Drake, 1960. Zootaxa 4958 (1): 327-333, DOI: https://doi.org/10.11646/zootaxa.4958.1.19</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6D18FF823801AA27FFE2C248FFC5FFCC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:09Z</dateStamp>
+                <citation>Lis B, Lis J A, plazi (2021). Hypsipyrgias joseliae, a new species of lace bugs (Heteroptera: Tingidae: Tinginae) from New Guinea with a key to species of the genus Hypsipyrgias, and comments on three allied genera Hypsipyrgias Kirkaldy, 1908, Diplocysta Horváth, 1925, and Hypsotingis Drake, 1960. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4958.1.19 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

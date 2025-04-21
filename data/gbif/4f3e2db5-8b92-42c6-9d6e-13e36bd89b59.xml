@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4f3e2db5-8b92-42c6-9d6e-13e36bd89b59"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4dcueu</alternateIdentifier>
+                <alternateIdentifier>7F60E749FFF9FFDA8E62FFA0CB78FF9A</alternateIdentifier>
+        <title>Discovery of a new species of Paronesimoides (Crustacea: Amphipoda: Tryphosidae) from a cold seep of Mariana Trench</title>
+            <creator>
+            <individualName>
+<givenName>Ko</givenName>                    <surName>Tomikawa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiromi Kayama</givenName>                    <surName>Watanabe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Katsuhiko</givenName>                    <surName>Tanaka</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yasuhiko</givenName>                    <surName>Ohara</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-07-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tomikawa, Ko, Watanabe, Hiromi Kayama, Tanaka, Katsuhiko, Ohara, Yasuhiko (2022): Discovery of a new species of Paronesimoides (Crustacea: Amphipoda: Tryphosidae) from a cold seep of Mariana Trench. Journal of Natural History 56 (5 - 8): 463-474, DOI: 10.1080/00222933.2022.2074906, URL: http://dx.doi.org/10.1080/00222933.2022.2074906</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/7F60E749FFF9FFDA8E62FFA0CB78FF9A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:53Z</dateStamp>
+                <citation>Tomikawa K, Watanabe H K, Tanaka K, Ohara Y, plazi (2022). Discovery of a new species of Paronesimoides (Crustacea: Amphipoda: Tryphosidae) from a cold seep of Mariana Trench. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4dcueu accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

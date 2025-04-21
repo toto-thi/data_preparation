@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="36e5551d-3881-45a2-810a-386e517c86fc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.363.6482</alternateIdentifier>
+                <alternateIdentifier>10.15468/vpsoxk</alternateIdentifier>
+                <alternateIdentifier>780695A9-CB2E-4FEC-A056-0BA6F456185E</alternateIdentifier>
+                <alternateIdentifier>FFF2FFCA0333765855689824FFCDB839</alternateIdentifier>
+        <title>A revision of the shore-fly genus Hydrochasma Hendel (Diptera, Ephydridae)</title>
+            <creator>
+            <individualName>
+<givenName>Wayne N.</givenName>                    <surName>Mathis</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tadeusz</givenName>                    <surName>Zatwarnicki</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mathis, Wayne N., Zatwarnicki, Tadeusz (2013): A revision of the shore-fly genus Hydrochasma Hendel (Diptera, Ephydridae). ZooKeys 363: 1-161, DOI: http://dx.doi.org/10.3897/zookeys.363.6482, URL: http://dx.doi.org/10.3897/zookeys.363.6482</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFF2FFCA0333765855689824FFCDB839</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:12Z</dateStamp>
+                <citation>Mathis W N, Zatwarnicki T, pensoft (2013). A revision of the shore-fly genus Hydrochasma Hendel (Diptera, Ephydridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.363.6482 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

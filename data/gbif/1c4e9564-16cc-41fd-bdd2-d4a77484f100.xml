@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1c4e9564-16cc-41fd-bdd2-d4a77484f100"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.58.507</alternateIdentifier>
+                <alternateIdentifier>10.15468/mui8pt</alternateIdentifier>
+                <alternateIdentifier>06DCC96F-D25E-4DFF-B87E-3CE8025CC4C0</alternateIdentifier>
+                <alternateIdentifier>8968FFC5A95F7F195B2A10735E18FFA1</alternateIdentifier>
+        <title>Australian gall-inducing scale insects on Eucalyptus: revision of Opisthoscelis Schrader (Coccoidea, Eriococcidae) and descriptions of a new genus and nine new species</title>
+            <creator>
+            <individualName>
+<givenName>Nate B.</givenName>                    <surName>Hardy</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Penny J.</givenName>                    <surName>Gullan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2010-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hardy, Nate B., Gullan, Penny J. (2010): Australian gall-inducing scale insects on Eucalyptus: revision of Opisthoscelis Schrader (Coccoidea, Eriococcidae) and descriptions of a new genus and nine new species. ZooKeys 58: 1-74, DOI: http://dx.doi.org/10.3897/zookeys.58.507, URL: http://dx.doi.org/10.3897/zookeys.58.507</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/8968FFC5A95F7F195B2A10735E18FFA1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:41Z</dateStamp>
+                <citation>Hardy N B, Gullan P J, pensoft (2010). Australian gall-inducing scale insects on Eucalyptus: revision of Opisthoscelis Schrader (Coccoidea, Eriococcidae) and descriptions of a new genus and nine new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.58.507 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

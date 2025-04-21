@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4db9cc14-9463-4a62-b4a4-582e866328ae"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3697168</alternateIdentifier>
+                <alternateIdentifier>10.15468/bcbprc</alternateIdentifier>
+                <alternateIdentifier>4db9cc14-9463-4a62-b4a4-582e866328ae</alternateIdentifier>
+                <alternateIdentifier>76E135EB-2671-4081-9C83-6E15073BC6DA</alternateIdentifier>
+                <alternateIdentifier>FFA92C0A6B22FFA1FFC0F073FFA57030</alternateIdentifier>
+        <title>Parasitoids (Hymenoptera: Chalcidoidea) reared from Pseudaulacaspis cockerelli (Cooley) (Hemiptera: Coccoidea) in the Republic of Korea</title>
+            <creator>
+            <individualName>
+<givenName>Soo-Jung</givenName>                    <surName>Suh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Suh, Soo-Jung (2018): Parasitoids (Hymenoptera: Chalcidoidea) reared from Pseudaulacaspis cockerelli (Cooley) (Hemiptera: Coccoidea) in the Republic of Korea. Insecta Mundi 612: 1-6, DOI: http://doi.org/10.5281/zenodo.3697168</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA92C0A6B22FFA1FFC0F073FFA57030</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:06Z</dateStamp>
+                <citation>Suh S, felipe (2018). Parasitoids (Hymenoptera: Chalcidoidea) reared from Pseudaulacaspis cockerelli (Cooley) (Hemiptera: Coccoidea) in the Republic of Korea. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3697168 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

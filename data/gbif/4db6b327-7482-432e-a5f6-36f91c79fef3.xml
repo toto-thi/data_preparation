@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4db6b327-7482-432e-a5f6-36f91c79fef3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.36.306</alternateIdentifier>
+                <alternateIdentifier>4db6b327-7482-432e-a5f6-36f91c79fef3</alternateIdentifier>
+                <alternateIdentifier>10.15468/65eejv</alternateIdentifier>
+                <alternateIdentifier>ADCACC88-6C78-4386-8E33-3F98234ECE92</alternateIdentifier>
+                <alternateIdentifier>822AFFF6FFB61B7BFFBE1F57FFE98D05</alternateIdentifier>
+        <title>The spider family Micropholcommatidae (Arachnida: Araneae: Araneoidea): a relimitation and revision at the generic level</title>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Rix</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Harvey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2010-02-22
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rix, Michael, Harvey, Mark (2010): The spider family Micropholcommatidae (Arachnida: Araneae: Araneoidea): a relimitation and revision at the generic level. ZooKeys 36 (36): 1-321, DOI: 10.3897/zookeys.36.306</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/822AFFF6FFB61B7BFFBE1F57FFE98D05</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:25Z</dateStamp>
+                <citation>Rix M, Harvey M, plazi (2010). The spider family Micropholcommatidae (Arachnida: Araneae: Araneoidea): a relimitation and revision at the generic level. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.36.306 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

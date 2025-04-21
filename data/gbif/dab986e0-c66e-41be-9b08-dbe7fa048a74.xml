@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="dab986e0-c66e-41be-9b08-dbe7fa048a74"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/svp9dt</alternateIdentifier>
+                <alternateIdentifier>FF968957FFD96D13FF93FF9D174EFD65</alternateIdentifier>
+        <title>A heavyweight early whale pushes the boundaries of vertebrate morphology</title>
+            <creator>
+            <individualName>
+<givenName>Giovanni</givenName>                    <surName>Bianucci</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olivier</givenName>                    <surName>Lambert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mario</givenName>                    <surName>Urbina</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco</givenName>                    <surName>Merella</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Collareta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rebecca</givenName>                    <surName>Bennion</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodolfo</givenName>                    <surName>Salas-Gismondi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aldo</givenName>                    <surName>Benites-Palomino</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Klaas</givenName>                    <surName>Post</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Christian de</givenName>                    <surName>Muizon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Giulia</givenName>                    <surName>Bosio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Claudio Di</givenName>                    <surName>Celma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Elisa</givenName>                    <surName>Malinverno</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pietro Paolo</givenName>                    <surName>Pierantoni</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Igor Maria</givenName>                    <surName>Villa 1</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Eli</givenName>                    <surName>Amson 1</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>julia</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-06-28
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bianucci, Giovanni, Lambert, Olivier, Urbina, Mario, Merella, Marco, Collareta, Alberto, Bennion, Rebecca, Salas-Gismondi, Rodolfo, Benites-Palomino, Aldo, Post, Klaas, Muizon, Christian de, Bosio, Giulia, Celma, Claudio Di, Malinverno, Elisa, Pierantoni, Pietro Paolo, Villa 1, Igor Maria, Amson 1, Eli (2023): A heavyweight early whale pushes the boundaries of vertebrate morphology. Nature 2023: 1-22, DOI: 10.1038/s41586-023-06381-1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF968957FFD96D13FF93FF9D174EFD65</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:31Z</dateStamp>
+                <citation>Bianucci G, Lambert O, Urbina M, Merella M, Collareta A, Bennion R, Salas-Gismondi R, Benites-Palomino A, Post K, Muizon C D, Bosio G, Celma C D, Malinverno E, Pierantoni P P, Villa 1 I M, Amson 1 E, julia (2023). A heavyweight early whale pushes the boundaries of vertebrate morphology. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/svp9dt accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Bianucci, Giovanni, Lambert, Olivier, Urbina, Mario, Merella, Marco, Collareta, Alberto, Bennion, Rebecca, Salas-Gismondi, Rodolfo, Benites-Palomino, Aldo, Post, Klaas, Muizon, Christian de, Bosio, Giulia, Celma, Claudio Di, Malinverno, Elisa, Pierantoni, Pietro Paolo, Villa 1, Igor Maria, Amson 1, Eli (2023): A heavyweight early whale pushes the boundaries of vertebrate morphology. Nature 2023: 1-22, DOI: 10.1038/s41586-023-06381-1</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

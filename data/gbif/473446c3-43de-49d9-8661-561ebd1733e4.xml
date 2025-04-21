@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="473446c3-43de-49d9-8661-561ebd1733e4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4514.4.2</alternateIdentifier>
+                <alternateIdentifier>10.15468/t1je1q</alternateIdentifier>
+                <alternateIdentifier>3AE23650-DD95-4742-95C4-AD708FCC77A5</alternateIdentifier>
+                <alternateIdentifier>FFEB7F02FF93D84AFFED312DA302FF84</alternateIdentifier>
+        <title>Aprostocetus chilophagae new species (Hymenoptera: Eulophidae) from South Dakota, with taxonomic notes on A. bromi (Kostjukov) and A. nebraskensis (Girault)</title>
+            <creator>
+            <individualName>
+<givenName>Paul J.</givenName>                    <surName>Johnson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zoya A.</givenName>                    <surName>Yefremova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juan Manuel Perilla</givenName>                    <surName>López</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ekaterina N.</givenName>                    <surName>Yegorenkova</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-11-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Johnson, Paul J., Yefremova, Zoya A., López, Juan Manuel Perilla, Yegorenkova, Ekaterina N. (2018): Aprostocetus chilophagae new species (Hymenoptera: Eulophidae) from South Dakota, with taxonomic notes on A. bromi (Kostjukov) and A. nebraskensis (Girault). Zootaxa 4514 (4): 473-486, DOI: https://doi.org/10.11646/zootaxa.4514.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFEB7F02FF93D84AFFED312DA302FF84</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:50Z</dateStamp>
+                <citation>Johnson P J, Yefremova Z A, López J M P, Yegorenkova E N, plazi (2018). Aprostocetus chilophagae new species (Hymenoptera: Eulophidae) from South Dakota, with taxonomic notes on A. bromi (Kostjukov) and A. nebraskensis (Girault). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4514.4.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

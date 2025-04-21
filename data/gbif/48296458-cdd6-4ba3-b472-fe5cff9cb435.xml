@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="48296458-cdd6-4ba3-b472-fe5cff9cb435"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/fmury6</alternateIdentifier>
+                <alternateIdentifier>22EA20E1A9255729AAA61C4099DDD686</alternateIdentifier>
+        <title>Rhagophthalmidae Olivier, 1907 (Coleoptera, Elateroidea): described genera and species, current problems, and prospects for the bioluminescent and paedomorphic beetle lineage</title>
+            <creator>
+            <individualName>
+<givenName>Robin</givenName>                    <surName>Kundrata</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Johana</givenName>                    <surName>Hoffmannova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kevin R.</givenName>                    <surName>Hinson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Oliver</givenName>                    <surName>Keller</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gabriela</givenName>                    <surName>Packova</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kundrata, Robin, Hoffmannova, Johana, Hinson, Kevin R., Keller, Oliver, Packova, Gabriela (2022): Rhagophthalmidae Olivier, 1907 (Coleoptera, Elateroidea): described genera and species, current problems, and prospects for the bioluminescent and paedomorphic beetle lineage. ZooKeys 1126: 55-130, DOI: http://dx.doi.org/10.3897/zookeys.1126.90233, URL: http://dx.doi.org/10.3897/zookeys.1126.90233</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/22EA20E1A9255729AAA61C4099DDD686</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:45Z</dateStamp>
+                <citation>Kundrata R, Hoffmannova J, Hinson K R, Keller O, Packova G, pensoft (2022). Rhagophthalmidae Olivier, 1907 (Coleoptera, Elateroidea): described genera and species, current problems, and prospects for the bioluminescent and paedomorphic beetle lineage. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/fmury6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

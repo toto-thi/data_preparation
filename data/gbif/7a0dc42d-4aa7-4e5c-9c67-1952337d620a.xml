@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7a0dc42d-4aa7-4e5c-9c67-1952337d620a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.2478/aemnp-2019-0023</alternateIdentifier>
+                <alternateIdentifier>7a0dc42d-4aa7-4e5c-9c67-1952337d620a</alternateIdentifier>
+                <alternateIdentifier>10.15468/a7pv3z</alternateIdentifier>
+                <alternateIdentifier>8756ECD6-DBD2-4626-86C3-58E98B44C569</alternateIdentifier>
+                <alternateIdentifier>7A26FFC13A2CA53AFFAED440DC4A7602</alternateIdentifier>
+        <title>Two new species and ten new records of Heteroptera from Turkey, including the first record of the potential alien Campylomma miyamotoi in the Western Palaearctic</title>
+            <creator>
+            <individualName>
+<givenName>Barış</givenName>                    <surName>Çerçi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Özgür</givenName>                    <surName>Koçak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Serdar</givenName>                    <surName>Tezcan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-07-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Çerçi, Barış, Koçak, Özgür, Tezcan, Serdar (2019): Two new species and ten new records of Heteroptera from Turkey, including the first record of the potential alien Campylomma miyamotoi in the Western Palaearctic. Acta Entomologica Musei Nationalis Pragae 59 (1): 295-306, DOI: 10.2478/aemnp-2019-0023</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/7A26FFC13A2CA53AFFAED440DC4A7602</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:02Z</dateStamp>
+                <citation>Çerçi B, Koçak Ö, Tezcan S, felipe (2019). Two new species and ten new records of Heteroptera from Turkey, including the first record of the potential alien Campylomma miyamotoi in the Western Palaearctic. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.2478/aemnp-2019-0023 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9d667866-47c7-4e0c-9fa9-22a0e202f36c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1093/zoolinnean/zly035</alternateIdentifier>
+                <alternateIdentifier>9d667866-47c7-4e0c-9fa9-22a0e202f36c</alternateIdentifier>
+                <alternateIdentifier>10.15468/ulrc5s</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:FB357841</alternateIdentifier>
+                <alternateIdentifier>440AFFC1FF84F13CFF867C56FFD8EF1A</alternateIdentifier>
+        <title>Cryptic diversity in the North American Dromochorus tiger beetles (Coleoptera: Carabidae: Cicindelinae): a congruence-based method for species discovery</title>
+            <creator>
+            <individualName>
+<givenName>Daniel P.</givenName>                    <surName>Duran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David P.</givenName>                    <surName>Herrmann</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stephen J.</givenName>                    <surName>Roman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodger A.</givenName>                    <surName>Gwiazdowski</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jennifer A.</givenName>                    <surName>Drummond</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Glen R.</givenName>                    <surName>Hood</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Scott P.</givenName>                    <surName>Egan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-09-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Duran, Daniel P., Herrmann, David P., Roman, Stephen J., Gwiazdowski, Rodger A., Drummond, Jennifer A., Hood, Glen R., Egan, Scott P. (2019): Cryptic diversity in the North American Dromochorus tiger beetles (Coleoptera: Carabidae: Cicindelinae): a congruence-based method for species discovery. Zoological Journal of the Linnean Society 186: 250-285, DOI: 10.1093/zoolinnean/zly035</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/440AFFC1FF84F13CFF867C56FFD8EF1A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:23Z</dateStamp>
+                <citation>Duran D P, Herrmann D P, Roman S J, Gwiazdowski R A, Drummond J A, Hood G R, Egan S P, plazi (2018). Cryptic diversity in the North American Dromochorus tiger beetles (Coleoptera: Carabidae: Cicindelinae): a congruence-based method for species discovery. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1093/zoolinnean/zly035 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

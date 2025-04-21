@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="09c3d81e-e5bd-4be9-90d2-c3079db45c5c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4686.2.3</alternateIdentifier>
+                <alternateIdentifier>09c3d81e-e5bd-4be9-90d2-c3079db45c5c</alternateIdentifier>
+                <alternateIdentifier>10.15468/nd9sgn</alternateIdentifier>
+                <alternateIdentifier>9D0F4B6D-56D4-4F57-923F-0BA725C9AAF0</alternateIdentifier>
+                <alternateIdentifier>F660FFCD6619FFD5FFFC28595829FFE3</alternateIdentifier>
+        <title>Review of the genus Meganola Dyar, 1898 (Lepidoptera: Nolidae, Nolinae) from Korea, with the description of a new species</title>
+            <creator>
+            <individualName>
+<givenName>Yeong-Bin</givenName>                    <surName>Cha</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sung-Hwan</givenName>                    <surName>Oh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ulziijargal</givenName>                    <surName>Bayarsaikhan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sol-Moon</givenName>                    <surName>Na</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dong-June</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jae-Ho</givenName>                    <surName>Ko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tak-Gi</givenName>                    <surName>Lee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hyeong-Kyu</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chang-Moon</givenName>                    <surName>Jang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yang-Seop</givenName>                    <surName>Bae</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cha, Yeong-Bin, Oh, Sung-Hwan, Bayarsaikhan, Ulziijargal, Na, Sol-Moon, Lee, Dong-June, Ko, Jae-Ho, Lee, Tak-Gi, Kim, Hyeong-Kyu, Jang, Chang-Moon, Bae, Yang-Seop (2019): Review of the genus Meganola Dyar, 1898 (Lepidoptera: Nolidae, Nolinae) from Korea, with the description of a new species. Zootaxa 4686 (2): 215-240, DOI: https://doi.org/10.11646/zootaxa.4686.2.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F660FFCD6619FFD5FFFC28595829FFE3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:55Z</dateStamp>
+                <citation>Cha Y, Oh S, Bayarsaikhan U, Na S, Lee D, Ko J, Lee T, Kim H, Jang C, Bae Y, plazi (2019). Review of the genus Meganola Dyar, 1898 (Lepidoptera: Nolidae, Nolinae) from Korea, with the description of a new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4686.2.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

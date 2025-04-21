@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a47376ec-9516-470a-9af8-9f819651c2bf"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4858.1.1</alternateIdentifier>
+                <alternateIdentifier>a47376ec-9516-470a-9af8-9f819651c2bf</alternateIdentifier>
+                <alternateIdentifier>10.15468/vqwht4</alternateIdentifier>
+                <alternateIdentifier>4CDBAC51-FBCA-4157-B361-F56CA3EAC107</alternateIdentifier>
+                <alternateIdentifier>2F04FFF6FFB47465FFA4FFDF5508FFD1</alternateIdentifier>
+        <title>Revalidation of Vareuptychia Forster, 1964, description of Vanima gen. nov., and notes on Euptychia cleophes Godman &amp; Salvin, 1889 (Lepidoptera: Nymphalidae Satyrinae)</title>
+            <creator>
+            <individualName>
+<givenName>Thamara</givenName>                    <surName>Zacca</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mirna M.</givenName>                    <surName>Casagrande</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olaf H. H.</givenName>                    <surName>Mielke</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Blanca</givenName>                    <surName>Huertas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marianne</givenName>                    <surName>Espeland</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>André V. L.</givenName>                    <surName>Freitas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Keith R.</givenName>                    <surName>Willmott</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shinichi</givenName>                    <surName>Nakahara</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gerardo</givenName>                    <surName>Lamas</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-09-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zacca, Thamara, Casagrande, Mirna M., Mielke, Olaf H. H., Huertas, Blanca, Espeland, Marianne, Freitas, André V. L., Willmott, Keith R., Nakahara, Shinichi, Lamas, Gerardo (2020): Revalidation of Vareuptychia Forster, 1964, description of Vanima gen. nov., and notes on Euptychia cleophes Godman &amp;amp; Salvin, 1889 (Lepidoptera: Nymphalidae Satyrinae). Zootaxa 4858 (1): 1-34, DOI: https://doi.org/10.11646/zootaxa.4858.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/2F04FFF6FFB47465FFA4FFDF5508FFD1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:14Z</dateStamp>
+                <citation>Zacca T, Casagrande M M, Mielke O H H, Huertas B, Espeland M, Freitas A V L, Willmott K R, Nakahara S, Lamas G, plazi (2020). Revalidation of Vareuptychia Forster, 1964, description of Vanima gen. nov., and notes on Euptychia cleophes Godman &amp; Salvin, 1889 (Lepidoptera: Nymphalidae Satyrinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4858.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

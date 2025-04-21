@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d15c737e-c0cb-4f09-98dd-d707de72a43a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2004.00124.x</alternateIdentifier>
+                <alternateIdentifier>d15c737e-c0cb-4f09-98dd-d707de72a43a</alternateIdentifier>
+                <alternateIdentifier>10.15468/bqg2rf</alternateIdentifier>
+                <alternateIdentifier>FFBBFF9A7E47FFC8FFF2FFAE4E1B3E1E</alternateIdentifier>
+        <title>Revision of Trigonostomum Schmidt, 1852 (Platyhelminthes, Typhloplanoida, Trigonostomidae) with the description of seven new species</title>
+            <creator>
+            <individualName>
+<givenName>Wim R.</givenName>                    <surName>Willems</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tom J.</givenName>                    <surName>Artois</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wouter A.</givenName>                    <surName>Vermin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ernest R.</givenName>                    <surName>Schockaert</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2004-06-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Willems, Wim R., Artois, Tom J., Vermin, Wouter A., Schockaert, Ernest R. (2004): Revision of Trigonostomum Schmidt, 1852 (Platyhelminthes, Typhloplanoida, Trigonostomidae) with the description of seven new species. Zoological Journal of the Linnean Society 141 (2): 271-296, DOI: 10.1111/j.1096-3642.2004.00124.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2004.00124.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBBFF9A7E47FFC8FFF2FFAE4E1B3E1E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:21Z</dateStamp>
+                <citation>Willems W R, Artois T J, Vermin W A, Schockaert E R, carolina (2004). Revision of Trigonostomum Schmidt, 1852 (Platyhelminthes, Typhloplanoida, Trigonostomidae) with the description of seven new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2004.00124.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

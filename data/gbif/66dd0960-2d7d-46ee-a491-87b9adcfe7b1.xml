@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="66dd0960-2d7d-46ee-a491-87b9adcfe7b1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ao14pp</alternateIdentifier>
+                <alternateIdentifier>13563</alternateIdentifier>
+        <title>GRIN Taxonomy</title>
+            <creator>
+            <individualName>
+<givenName>John H.</givenName>                    <surName>Wiersema</surName>
+            </individualName>
+<organizationName>National Germplasm Resources Laboratory (NGRL)</organizationName><onlineUrl>http://www.ars-grin.gov/cgi-bin/npgs/html/index.pl</onlineUrl>            </creator>
+            <pubDate>
+                2019-09-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>GRIN taxonomic data provide the structure and nomenclature for accessions of the National Plant Germplasm System (NPGS), part of the National Genetic Resources Program (NGRP) of the United States Department of Agriculture&amp;#39;s (USDA&amp;#39;s) Agricultural Research Service (ARS). In GRIN Taxonomy for Plants all families and genera of vascular plants and over 46,000 species from throughout the world are represented, especially economic plants and their relatives. Information on scientific and common names, classification, distribution, references, and economic impacts are provided.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Germplasm</keyword>
+                        <keyword>Checklist</keyword>
+                </keywordSet>
+            <intellectualRights>
+            </intellectualRights>
+            <contact>
+            <individualName>
+<givenName>David</givenName>                    <surName>Remsen</surName>
+            </individualName>
+<organizationName>GBIF Secretariat</organizationName><positionName>Programme Officer</positionName>            <address>
+<deliveryPoint>GBIF Secretariat</deliveryPoint><deliveryPoint>Universitetsparken 15</deliveryPoint><city>Copenhagen</city><administrativeArea>Ø</administrativeArea><postalCode>2100</postalCode><country>DENMARK</country>            </address>
+<phone>+45 28751472</phone><electronicMailAddress>dremsen@gbif.org</electronicMailAddress><onlineUrl>https://www.gbif.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:53Z</dateStamp>
+                <citation>Wiersema J H (2019). GRIN Taxonomy. US National Plant Germplasm System. Checklist dataset https://doi.org/10.15468/ao14pp accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

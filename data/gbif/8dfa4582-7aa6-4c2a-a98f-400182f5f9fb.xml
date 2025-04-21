@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8dfa4582-7aa6-4c2a-a98f-400182f5f9fb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/az92ta</alternateIdentifier>
+                <alternateIdentifier>C21F222C29BF5095A8D4A296DFDDD0E0</alternateIdentifier>
+        <title>The genus Anacaena Thomson from the Ryukyu Archipelago of Japan (Coleoptera, Hydrophilidae)</title>
+            <creator>
+            <individualName>
+<givenName>Yusuke N.</givenName>                    <surName>Minoshima</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yuuki</givenName>                    <surName>Kamite</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Fikacek</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Minoshima, Yusuke N., Kamite, Yuuki, Fikacek, Martin (2023): The genus Anacaena Thomson from the Ryukyu Archipelago of Japan (Coleoptera, Hydrophilidae). Deutsche Entomologische Zeitschrift 70 (1): 143-157, DOI: http://dx.doi.org/10.3897/dez.70.96994, URL: http://dx.doi.org/10.3897/dez.70.96994</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/C21F222C29BF5095A8D4A296DFDDD0E0</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:48Z</dateStamp>
+                <citation>Minoshima Y N, Kamite Y, Fikacek M, pensoft (2023). The genus Anacaena Thomson from the Ryukyu Archipelago of Japan (Coleoptera, Hydrophilidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/az92ta accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1209aa0f-27c6-4c65-b408-ffe1c136cb2f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3853/j.0067-1975.46.1994.16</alternateIdentifier>
+                <alternateIdentifier>1209aa0f-27c6-4c65-b408-ffe1c136cb2f</alternateIdentifier>
+                <alternateIdentifier>10.15468/v3uwzn</alternateIdentifier>
+                <alternateIdentifier>FFD7FFE9FFD0FF976B0612357434D106</alternateIdentifier>
+        <title>Planktic ostracodes from the antarctic and subantarctic collected by the 1989 – 1990 Italian Antarctic Expedition</title>
+            <creator>
+            <individualName>
+<givenName>G.</givenName>                    <surName>Benassi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>I.</givenName>                    <surName>Ferrari</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>P.</givenName>                    <surName>Menozzi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>K. G.</givenName>                    <surName>McKenzie</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1994-05-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Benassi, G., Ferrari, I., Menozzi, P., McKenzie, K. G. (1994): Planktic ostracodes from the antarctic and subantarctic collected by the 1989 – 1990 Italian Antarctic Expedition. Records of the Australian Museum 46 (1): 25-37, DOI: 10.3853/j.0067-1975.46.1994.16, URL: https://journals.australian.museum/benassi-et-al-1994-rec-aust-mus-461-2537/</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD7FFE9FFD0FF976B0612357434D106</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:39Z</dateStamp>
+                <citation>Benassi G, Ferrari I, Menozzi P, McKenzie K G, felipe (1994). Planktic ostracodes from the antarctic and subantarctic collected by the 1989 – 1990 Italian Antarctic Expedition. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3853/j.0067-1975.46.1994.16 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

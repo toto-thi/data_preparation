@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f30f953f-f745-452b-8498-a53ce12e04ba"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4576.1.5</alternateIdentifier>
+                <alternateIdentifier>10.15468/clzx0z</alternateIdentifier>
+                <alternateIdentifier>A5242453-3D24-43A3-8EF9-07F841C6B314</alternateIdentifier>
+                <alternateIdentifier>FF8E755FFFE8FFBFFFC2F602DD44FFE9</alternateIdentifier>
+        <title>Redescription of Orthopristis ruber and Orthopristis scapularis (Haemulidae: Perciformes), with a hybridization zone off the Atlantic coast of South America</title>
+            <creator>
+            <individualName>
+<givenName>Alexandre Pires</givenName>                    <surName>Marceniuk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodrigo Antunes</givenName>                    <surName>Caires</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leonardo</givenName>                    <surName>Machado</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Najila Nolie Catarine Dantas</givenName>                    <surName>Cerqueira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rayla Roberta M. De S.</givenName>                    <surName>Serra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Claudio</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-04-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Marceniuk, Alexandre Pires, Caires, Rodrigo Antunes, Machado, Leonardo, Cerqueira, Najila Nolie Catarine Dantas, Serra, Rayla Roberta M. De S., Oliveira, Claudio (2019): Redescription of Orthopristis ruber and Orthopristis scapularis (Haemulidae: Perciformes), with a hybridization zone off the Atlantic coast of South America. Zootaxa 4576 (1): 109-126, DOI: https://doi.org/10.11646/zootaxa.4576.1.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8E755FFFE8FFBFFFC2F602DD44FFE9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:21Z</dateStamp>
+                <citation>Marceniuk A P, Caires R A, Machado L, Cerqueira N N C D, Serra R R M D S, Oliveira C, plazi (2019). Redescription of Orthopristis ruber and Orthopristis scapularis (Haemulidae: Perciformes), with a hybridization zone off the Atlantic coast of South America. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4576.1.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

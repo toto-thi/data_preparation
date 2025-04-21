@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ca02e93b-ab73-4138-9746-7267fb11fb6d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.483.9111</alternateIdentifier>
+                <alternateIdentifier>10.15468/ko6zi0</alternateIdentifier>
+                <alternateIdentifier>9323F207-90A7-465B-8486-3468E839BC32</alternateIdentifier>
+                <alternateIdentifier>863B3A0BB161FF8E5B63E17A5A40FF99</alternateIdentifier>
+        <title>Palearctic elements in the old world tropics: a taxonomic revision of the ant genus Temnothorax Mayr (Hymenoptera, Formicidae) for the Afrotropical biogeographical region</title>
+            <creator>
+            <individualName>
+<givenName>Matthew</givenName>                    <surName>Prebus</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Prebus, Matthew (2015): Palearctic elements in the old world tropics: a taxonomic revision of the ant genus Temnothorax Mayr (Hymenoptera, Formicidae) for the Afrotropical biogeographical region. ZooKeys 483: 23-57, DOI: http://dx.doi.org/10.3897/zookeys.483.9111, URL: http://dx.doi.org/10.3897/zookeys.483.9111</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/863B3A0BB161FF8E5B63E17A5A40FF99</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:49Z</dateStamp>
+                <citation>Prebus M, pensoft (2015). Palearctic elements in the old world tropics: a taxonomic revision of the ant genus Temnothorax Mayr (Hymenoptera, Formicidae) for the Afrotropical biogeographical region. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.483.9111 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

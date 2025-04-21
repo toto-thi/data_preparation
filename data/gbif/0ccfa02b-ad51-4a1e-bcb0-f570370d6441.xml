@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0ccfa02b-ad51-4a1e-bcb0-f570370d6441"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.5081.3.1</alternateIdentifier>
+                <alternateIdentifier>0ccfa02b-ad51-4a1e-bcb0-f570370d6441</alternateIdentifier>
+                <alternateIdentifier>10.15468/3qxwt8</alternateIdentifier>
+                <alternateIdentifier>5C42BEA8-4D3E-4659-9A16-B60C19012B7B</alternateIdentifier>
+                <alternateIdentifier>DB3CFFFDFFDF2052FF9D2148290E5421</alternateIdentifier>
+        <title>A new species of red toad, Schismaderma Smith, 1849 (Anura: Bufonidae), from central Angola</title>
+            <creator>
+            <individualName>
+<givenName>Ninda L.</givenName>                    <surName>Baptista</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pedro Vaz</givenName>                    <surName>Pinto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chad</givenName>                    <surName>Keates</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shelley</givenName>                    <surName>Edwards</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mark-Oliver</givenName>                    <surName>Rödel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Werner</givenName>                    <surName>Conradie</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-12-13
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Baptista, Ninda L., Pinto, Pedro Vaz, Keates, Chad, Edwards, Shelley, Rödel, Mark-Oliver, Conradie, Werner (2021): A new species of red toad, Schismaderma Smith, 1849 (Anura: Bufonidae), from central Angola. Zootaxa 5081 (3): 301-332, DOI: https://doi.org/10.11646/zootaxa.5081.3.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/DB3CFFFDFFDF2052FF9D2148290E5421</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:15Z</dateStamp>
+                <citation>Baptista N L, Pinto P V, Keates C, Edwards S, Rödel M, Conradie W, plazi (2021). A new species of red toad, Schismaderma Smith, 1849 (Anura: Bufonidae), from central Angola. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.5081.3.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

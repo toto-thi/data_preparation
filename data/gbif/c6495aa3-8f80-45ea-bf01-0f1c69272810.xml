@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c6495aa3-8f80-45ea-bf01-0f1c69272810"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3753.5.7</alternateIdentifier>
+                <alternateIdentifier>c6495aa3-8f80-45ea-bf01-0f1c69272810</alternateIdentifier>
+                <alternateIdentifier>10.15468/ni2ecn</alternateIdentifier>
+                <alternateIdentifier>224622B3-EFAB-482F-96AF-7737AB09F962</alternateIdentifier>
+                <alternateIdentifier>FFBF2104506F4A2A9B20315BFFA3FFC5</alternateIdentifier>
+        <title>A new species of Orthosia Ochsenheimer, 1816 from North-East Kazakhstan (Lepidoptera, Noctuidae)</title>
+            <creator>
+            <individualName>
+<givenName>Anton V.</givenName>                    <surName>Volynkin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sergey V.</givenName>                    <surName>Titov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Volynkin, Anton V., Titov, Sergey V. (2014): A new species of Orthosia Ochsenheimer, 1816 from North-East Kazakhstan (Lepidoptera, Noctuidae). Zootaxa 3753 (5): 494-500, DOI: http://dx.doi.org/10.11646/zootaxa.3753.5.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBF2104506F4A2A9B20315BFFA3FFC5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:21Z</dateStamp>
+                <citation>Volynkin A V, Titov S V, plazi (2014). A new species of Orthosia Ochsenheimer, 1816 from North-East Kazakhstan (Lepidoptera, Noctuidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3753.5.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

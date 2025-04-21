@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e352bb73-0c07-4e6d-af55-f369bdab1aab"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2017.319</alternateIdentifier>
+                <alternateIdentifier>e352bb73-0c07-4e6d-af55-f369bdab1aab</alternateIdentifier>
+                <alternateIdentifier>10.15468/mqra9f</alternateIdentifier>
+                <alternateIdentifier>256407D2-64CC-4B3C-8C24-FA7C8CBF50B2</alternateIdentifier>
+                <alternateIdentifier>FFB0A622B355D751F975D50DD91B0B48</alternateIdentifier>
+        <title>The Chimarra lehibemavo species-group, new and endemic to Madagascar (Trichoptera, Philopotamidae)</title>
+            <creator>
+            <individualName>
+<givenName>François-Marie</givenName>                    <surName>Gibon</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-05-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gibon, François-Marie (2017): The Chimarra lehibemavo species-group, new and endemic to Madagascar (Trichoptera, Philopotamidae). European Journal of Taxonomy 319: 1-31, DOI: https://doi.org/10.5852/ejt.2017.319</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB0A622B355D751F975D50DD91B0B48</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:20Z</dateStamp>
+                <citation>Gibon F, carolina (2017). The Chimarra lehibemavo species-group, new and endemic to Madagascar (Trichoptera, Philopotamidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2017.319 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

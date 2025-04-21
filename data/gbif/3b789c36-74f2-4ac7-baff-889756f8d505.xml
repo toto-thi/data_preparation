@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3b789c36-74f2-4ac7-baff-889756f8d505"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/egu5rg</alternateIdentifier>
+                <alternateIdentifier>FF99FFAEFFDEFD54F368FFE708272A12</alternateIdentifier>
+        <title>Aloe andersonii, a new cliff-dwelling aloe from Mpumalanga, South Africa</title>
+            <creator>
+            <individualName>
+<givenName>Ernst J.</givenName>                    <surName>Van Jaarsveld</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>sibusimoyo</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2014-11-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Van Jaarsveld, Ernst J. (2014): Aloe andersonii, a new cliff-dwelling aloe from Mpumalanga, South Africa. Bradleya 32: 112-117, DOI: 10.25223/brad.n32.2014.a5, URL: https://www.mendeley.com/catalogue/3528e0ed-46b2-36f3-9ce0-fe17dd9b638a/</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF99FFAEFFDEFD54F368FFE708272A12</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:29Z</dateStamp>
+                <citation>Van Jaarsveld E J, sibusimoyo (2014). Aloe andersonii, a new cliff-dwelling aloe from Mpumalanga, South Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/egu5rg accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Van Jaarsveld, Ernst J. (2014): Aloe andersonii, a new cliff-dwelling aloe from Mpumalanga, South Africa. Bradleya 32: 112-117, DOI: 10.25223/brad.n32.2014.a5, URL: https://www.mendeley.com/catalogue/3528e0ed-46b2-36f3-9ce0-fe17dd9b638a/</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

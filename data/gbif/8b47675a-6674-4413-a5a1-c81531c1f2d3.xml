@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8b47675a-6674-4413-a5a1-c81531c1f2d3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/su3mkq</alternateIdentifier>
+                <alternateIdentifier>89B69537B3B85EB7AA5FCE9E38EEDADE</alternateIdentifier>
+        <title>Primulina jiulianshanensis, a new species of Gesneriaceae from Jiangxi Province, China</title>
+            <creator>
+            <individualName>
+<givenName>Guo-Liang</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Li-Fen</givenName>                    <surName>Liang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Di-Ya</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhi-Fang</givenName>                    <surName>Jing</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiao-Hai</givenName>                    <surName>Zuo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zheng-Yu</givenName>                    <surName>Zuo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fang</givenName>                    <surName>Wen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-05-09
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xu, Guo-Liang, Liang, Li-Fen, Chen, Di-Ya, Jing, Zhi-Fang, Zuo, Xiao-Hai, Zuo, Zheng-Yu, Wen, Fang (2023): Primulina jiulianshanensis, a new species of Gesneriaceae from Jiangxi Province, China. PhytoKeys 226: 1-16, DOI: http://dx.doi.org/10.3897/phytokeys.226.96351, URL: http://dx.doi.org/10.3897/phytokeys.226.96351</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/89B69537B3B85EB7AA5FCE9E38EEDADE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:17Z</dateStamp>
+                <citation>Xu G, Liang L, Chen D, Jing Z, Zuo X, Zuo Z, Wen F, pensoft (2023). Primulina jiulianshanensis, a new species of Gesneriaceae from Jiangxi Province, China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/su3mkq accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Xu, Guo-Liang, Liang, Li-Fen, Chen, Di-Ya, Jing, Zhi-Fang, Zuo, Xiao-Hai, Zuo, Zheng-Yu, Wen, Fang (2023): Primulina jiulianshanensis, a new species of Gesneriaceae from Jiangxi Province, China. PhytoKeys 226: 1-16, DOI: http://dx.doi.org/10.3897/phytokeys.226.96351, URL: http://dx.doi.org/10.3897/phytokeys.226.96351</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="0b345d0c-787c-4865-9100-838dc3b66126"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/h9ksen</alternateIdentifier>
+                <alternateIdentifier>B203CA15FFC47467FFF124793E717161</alternateIdentifier>
+        <title>A new species of Dravidogecko (Squamata: Gekkonidae) from the under-surveyed Periyar Plateau of the Southern Western Ghats in Peninsular India</title>
+            <creator>
+            <individualName>
+<givenName>Omkar Dilip</givenName>                    <surName>Adhikari</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Achyuthan N.</givenName>                    <surName>Srikanthan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>S. R.</givenName>                    <surName>Ganesh</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-05-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Adhikari, Omkar Dilip, Srikanthan, Achyuthan N., Ganesh, S. R. (2023): A new species of Dravidogecko (Squamata: Gekkonidae) from the under-surveyed Periyar Plateau of the Southern Western Ghats in Peninsular India. European Journal of Taxonomy 870 (1): 146-166, DOI: https://doi.org/10.5852/ejt.2023.870.2125, URL: http://zoobank.org/d559e15c-48f9-4cfa-b896-1df48964b5f2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/B203CA15FFC47467FFF124793E717161</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:56Z</dateStamp>
+                <citation>Adhikari O D, Srikanthan A N, Ganesh S R, felipe (2023). A new species of Dravidogecko (Squamata: Gekkonidae) from the under-surveyed Periyar Plateau of the Southern Western Ghats in Peninsular India. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/h9ksen accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Adhikari, Omkar Dilip, Srikanthan, Achyuthan N., Ganesh, S. R. (2023): A new species of Dravidogecko (Squamata: Gekkonidae) from the under-surveyed Periyar Plateau of the Southern Western Ghats in Peninsular India. European Journal of Taxonomy 870 (1): 146-166, DOI: https://doi.org/10.5852/ejt.2023.870.2125, URL: http://zoobank.org/d559e15c-48f9-4cfa-b896-1df48964b5f2</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

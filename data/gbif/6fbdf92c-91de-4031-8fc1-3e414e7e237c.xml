@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6fbdf92c-91de-4031-8fc1-3e414e7e237c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3861.4.1</alternateIdentifier>
+                <alternateIdentifier>6fbdf92c-91de-4031-8fc1-3e414e7e237c</alternateIdentifier>
+                <alternateIdentifier>10.15468/7tfk6p</alternateIdentifier>
+                <alternateIdentifier>F59BA58C-953D-4CDA-B8FE-55FF0804FDB6</alternateIdentifier>
+                <alternateIdentifier>397CFFC6FFB2F13ED027FFDFFFBAFFF5</alternateIdentifier>
+        <title>Revision on genus Xizicus Gorochov (Orthoptera, Tettigoniidae, Meconematinae, Meconematini) with description of three new species form China</title>
+            <creator>
+            <individualName>
+<givenName>Hanqiang</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jun</givenName>                    <surName>Jing</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xianwei</givenName>                    <surName>Liu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kai</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-09-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wang, Hanqiang, Jing, Jun, Liu, Xianwei, Li, Kai (2014): Revision on genus Xizicus Gorochov (Orthoptera, Tettigoniidae, Meconematinae, Meconematini) with description of three new species form China. Zootaxa 3861 (4): 301-316, DOI: http://dx.doi.org/10.11646/zootaxa.3861.4.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/397CFFC6FFB2F13ED027FFDFFFBAFFF5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:51Z</dateStamp>
+                <citation>Wang H, Jing J, Liu X, Li K, felipe (2014). Revision on genus Xizicus Gorochov (Orthoptera, Tettigoniidae, Meconematinae, Meconematini) with description of three new species form China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3861.4.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

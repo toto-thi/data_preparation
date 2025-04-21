@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7216279c-b29a-4c37-9eff-103720b6366b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3635.1.3</alternateIdentifier>
+                <alternateIdentifier>7216279c-b29a-4c37-9eff-103720b6366b</alternateIdentifier>
+                <alternateIdentifier>10.15468/1iprbl</alternateIdentifier>
+                <alternateIdentifier>25EBAAB4-4745-4C57-A922-06D071E58A87</alternateIdentifier>
+                <alternateIdentifier>FFB4FC0AFFEC6C41FFF00D5AFF9F6113</alternateIdentifier>
+        <title>The genus Adicella McLachlan (Trichoptera, Leptoceridae) in Japan</title>
+            <creator>
+            <individualName>
+<givenName>Tomiko</givenName>                    <surName>Ito</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Naotoshi</givenName>                    <surName>Kuhara</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nobuyuki</givenName>                    <surName>Katsuma</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ito, Tomiko, Kuhara, Naotoshi, Katsuma, Nobuyuki (2013): The genus Adicella McLachlan (Trichoptera, Leptoceridae) in Japan. Zootaxa 3635 (1): 27-39, DOI: http://dx.doi.org/10.11646/zootaxa.3635.1.3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB4FC0AFFEC6C41FFF00D5AFF9F6113</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:43Z</dateStamp>
+                <citation>Ito T, Kuhara N, Katsuma N, plazi (2013). The genus Adicella McLachlan (Trichoptera, Leptoceridae) in Japan. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3635.1.3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

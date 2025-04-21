@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f3486a18-3bdb-48ea-8119-5e8be933641a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/vc7nez</alternateIdentifier>
+                <alternateIdentifier>940E23E9238F5E42850655B98CBBA42D</alternateIdentifier>
+        <title>An alternative interpretation of small-bodied turtles from the &quot; Middle Purbeck &quot; of England as a new species of compsemydid turtle</title>
+            <creator>
+            <individualName>
+<givenName>Walter G.</givenName>                    <surName>Joyce</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jason R.</givenName>                    <surName>Bourque</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vincent</givenName>                    <surName>Fernandez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yann</givenName>                    <surName>Rollot</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-08-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Joyce, Walter G., Bourque, Jason R., Fernandez, Vincent, Rollot, Yann (2022): An alternative interpretation of small-bodied turtles from the &amp;#34; Middle Purbeck &amp;#34; of England as a new species of compsemydid turtle. Fossil Record 25 (2): 263-274, DOI: http://dx.doi.org/10.3897/fr.25.85334, URL: http://dx.doi.org/10.3897/fr.25.85334</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/940E23E9238F5E42850655B98CBBA42D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:26Z</dateStamp>
+                <citation>Joyce W G, Bourque J R, Fernandez V, Rollot Y, pensoft (2022). An alternative interpretation of small-bodied turtles from the &quot; Middle Purbeck &quot; of England as a new species of compsemydid turtle. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/vc7nez accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

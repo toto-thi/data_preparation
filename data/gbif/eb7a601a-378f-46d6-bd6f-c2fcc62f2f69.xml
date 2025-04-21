@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="eb7a601a-378f-46d6-bd6f-c2fcc62f2f69"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4358.2.4</alternateIdentifier>
+                <alternateIdentifier>eb7a601a-378f-46d6-bd6f-c2fcc62f2f69</alternateIdentifier>
+                <alternateIdentifier>10.15468/elkhyd</alternateIdentifier>
+                <alternateIdentifier>253F35F2-9034-4BB7-ACFD-0E44BEB3717B</alternateIdentifier>
+                <alternateIdentifier>4B3EC85B705FFFA4FFDB307DA40BD22C</alternateIdentifier>
+        <title>A new species of Marsipococcus Cockerell &amp; Bueker (Hemiptera: Coccomorpha: Coccidae) from Malaysia</title>
+            <creator>
+            <individualName>
+<givenName>Bozena</givenName>                    <surName>Łagowska</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jon H.</givenName>                    <surName>Martin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chris J.</givenName>                    <surName>Hodgson</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-11-29
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Łagowska, Bozena, Martin, Jon H., Hodgson, Chris J. (2017): A new species of Marsipococcus Cockerell &amp;amp; Bueker (Hemiptera: Coccomorpha: Coccidae) from Malaysia. Zootaxa 4358 (2): 295-310, DOI: https://doi.org/10.11646/zootaxa.4358.2.4</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/4B3EC85B705FFFA4FFDB307DA40BD22C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:51Z</dateStamp>
+                <citation>Łagowska B, Martin J H, Hodgson C J, plazi (2017). A new species of Marsipococcus Cockerell &amp; Bueker (Hemiptera: Coccomorpha: Coccidae) from Malaysia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4358.2.4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

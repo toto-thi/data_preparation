@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="93679bce-a956-48e4-951d-4c4dc08303bb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3652.1.2</alternateIdentifier>
+                <alternateIdentifier>93679bce-a956-48e4-951d-4c4dc08303bb</alternateIdentifier>
+                <alternateIdentifier>10.15468/vwu0qo</alternateIdentifier>
+                <alternateIdentifier>CF406E38-5D33-474C-A87C-37739100FF3F</alternateIdentifier>
+                <alternateIdentifier>267FFFF2FFF8904DC346FFE16B4EFFA1</alternateIdentifier>
+        <title>Berengeria Gil-Santana &amp; Coletto-Silva, a junior synonym of Ectrichodiella Fracker &amp; Bruner, with new records and taxonomic notes on Ectrichodiinae from Brazil, and with keys to Ectrichodiinae and Reduviinae genera of the New World (Hemiptera: Heteroptera: Reduviidae)</title>
+            <creator>
+            <individualName>
+<givenName>Hélcio R.</givenName>                    <surName>Gil-Santana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manuel</givenName>                    <surName>Baena</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Horacio</givenName>                    <surName>Grillo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal volume Gil-Santana, Hélcio R., Baena, Manuel, Grillo, Horacio (2013): Berengeria Gil-Santana &amp;amp; Coletto-Silva, a junior synonym of Ectrichodiella Fracker &amp;amp; Bruner, with new records and taxonomic notes on Ectrichodiinae from Brazil, and with keys to Ectrichodiinae and Reduviinae genera of the New World (Hemiptera: Heteroptera: Reduviidae). Zootaxa 3652 (1), DOI: http://dx.doi.org/10.11646/zootaxa.3652.1.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/267FFFF2FFF8904DC346FFE16B4EFFA1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:33Z</dateStamp>
+                <citation>Gil-Santana H R, Baena M, Grillo H, plazi (2013). Berengeria Gil-Santana &amp; Coletto-Silva, a junior synonym of Ectrichodiella Fracker &amp; Bruner, with new records and taxonomic notes on Ectrichodiinae from Brazil, and with keys to Ectrichodiinae and Reduviinae genera of the New World (Hemiptera: Heteroptera: Reduviidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3652.1.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

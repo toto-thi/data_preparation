@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="61d609de-bcb3-4490-ac65-ba7cacda2d72"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.591</alternateIdentifier>
+                <alternateIdentifier>61d609de-bcb3-4490-ac65-ba7cacda2d72</alternateIdentifier>
+                <alternateIdentifier>10.15468/npobos</alternateIdentifier>
+                <alternateIdentifier>5CB610DA-F9C9-4213-80E8-8A8901895A18</alternateIdentifier>
+                <alternateIdentifier>8F4BFFAFFFB9EC2EFF86FFB8FFD5FFDC</alternateIdentifier>
+        <title>Flourishing in subterranean ecosystems: Euro-Mediterranean Plusiocampinae and tachycampoids (Diplura, Campodeidae)</title>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Sendra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dragan</givenName>                    <surName>Antić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pablo</givenName>                    <surName>Barranco</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Špela</givenName>                    <surName>Borko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Erhard</givenName>                    <surName>Christian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Teo</givenName>                    <surName>Delić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Floren</givenName>                    <surName>Fadrique</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Arnaud</givenName>                    <surName>Faille</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Loris</givenName>                    <surName>Galli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fulvio</givenName>                    <surName>Gasparo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dilian</givenName>                    <surName>Georgiev</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pier Mauro</givenName>                    <surName>Giachino</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marko</givenName>                    <surName>Lukić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paolo</givenName>                    <surName>Marcia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kazimir</givenName>                    <surName>Miculinić</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Giuseppe</givenName>                    <surName>Nicolosi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ferran</givenName>                    <surName>Palero</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kaloust</givenName>                    <surName>Paragamian</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Toni</givenName>                    <surName>Pérez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Slavko</givenName>                    <surName>Polak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos E.</givenName>                    <surName>Prieto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ilya</givenName>                    <surName>Turbanov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dante</givenName>                    <surName>Vailati</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana Sofia P. S.</givenName>                    <surName>Reboleira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-01-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sendra, Alberto, Antić, Dragan, Barranco, Pablo, Borko, Špela, Christian, Erhard, Delić, Teo, Fadrique, Floren, Faille, Arnaud, Galli, Loris, Gasparo, Fulvio, Georgiev, Dilian, Giachino, Pier Mauro, Lukić, Marko, Marcia, Paolo, Miculinić, Kazimir, Nicolosi, Giuseppe, Palero, Ferran, Paragamian, Kaloust, Pérez, Toni, Polak, Slavko, Prieto, Carlos E., Turbanov, Ilya, Vailati, Dante, Reboleira, Ana Sofia P. S. (2020): Flourishing in subterranean ecosystems: Euro-Mediterranean Plusiocampinae and tachycampoids (Diplura, Campodeidae). European Journal of Taxonomy 591: 1-138, DOI: https://doi.org/10.5852/ejt.2020.591</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/8F4BFFAFFFB9EC2EFF86FFB8FFD5FFDC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:14Z</dateStamp>
+                <citation>Sendra A, Antić D, Barranco P, Borko Š, Christian E, Delić T, Fadrique F, Faille A, Galli L, Gasparo F, Georgiev D, Giachino P M, Lukić M, Marcia P, Miculinić K, Nicolosi G, Palero F, Paragamian K, Pérez T, Polak S, Prieto C E, Turbanov I, Vailati D, Reboleira A S P S, plazi (2020). Flourishing in subterranean ecosystems: Euro-Mediterranean Plusiocampinae and tachycampoids (Diplura, Campodeidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.591 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

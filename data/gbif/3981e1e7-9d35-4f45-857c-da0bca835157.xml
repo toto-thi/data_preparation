@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3981e1e7-9d35-4f45-857c-da0bca835157"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4682.1.1</alternateIdentifier>
+                <alternateIdentifier>3981e1e7-9d35-4f45-857c-da0bca835157</alternateIdentifier>
+                <alternateIdentifier>10.15468/s5kwhh</alternateIdentifier>
+                <alternateIdentifier>430B98EF-BFCB-4608-A562-DEFA9539C8B2</alternateIdentifier>
+                <alternateIdentifier>FFE1FFF6FC71D93BCC695474FFA13434</alternateIdentifier>
+        <title>Katydids (Orthoptera: Tettigoniidae) of Gorongosa National Park and Central Mozambique</title>
+            <creator>
+            <individualName>
+<givenName>Piotr</givenName>                    <surName>Naskrecki</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Guta</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Naskrecki, Piotr, Guta, Ricardo (2019): Katydids (Orthoptera: Tettigoniidae) of Gorongosa National Park and Central Mozambique. Zootaxa 4682 (1): 1-119, DOI: https://doi.org/10.11646/zootaxa.4682.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE1FFF6FC71D93BCC695474FFA13434</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:01Z</dateStamp>
+                <citation>Naskrecki P, Guta R, plazi (2019). Katydids (Orthoptera: Tettigoniidae) of Gorongosa National Park and Central Mozambique. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4682.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

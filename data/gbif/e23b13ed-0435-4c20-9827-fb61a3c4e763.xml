@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e23b13ed-0435-4c20-9827-fb61a3c4e763"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/edne7x</alternateIdentifier>
+                <alternateIdentifier>72171DE948FB58008EB2E623130744DB</alternateIdentifier>
+        <title>Morphological and molecular analyses reveal two new species of Termitomyces (Agaricales, Lyophyllaceae) and morphological variability of T. intermedius</title>
+            <creator>
+            <individualName>
+<givenName>Song-Ming</givenName>                    <surName>Tang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Santhiti</givenName>                    <surName>Vadthanarat</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jun</givenName>                    <surName>He</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bhavesh</givenName>                    <surName>Raghoonundon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Feng-Ming</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Samantha C.</givenName>                    <surName>Karunarathna</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shu-Hong</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Olivier</givenName>                    <surName>Raspe ́</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-02-08
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tang, Song-Ming, Vadthanarat, Santhiti, He, Jun, Raghoonundon, Bhavesh, Yu, Feng-Ming, Karunarathna, Samantha C., Li, Shu-Hong, Raspe ́, Olivier (2023): Morphological and molecular analyses reveal two new species of Termitomyces (Agaricales, Lyophyllaceae) and morphological variability of T. intermedius. MycoKeys 95: 61-82, DOI: http://dx.doi.org/10.3897/mycokeys.95.97156, URL: http://dx.doi.org/10.3897/mycokeys.95.97156</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/72171DE948FB58008EB2E623130744DB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:08Z</dateStamp>
+                <citation>Tang S, Vadthanarat S, He J, Raghoonundon B, Yu F, Karunarathna S C, Li S, Raspe ́ O, pensoft (2023). Morphological and molecular analyses reveal two new species of Termitomyces (Agaricales, Lyophyllaceae) and morphological variability of T. intermedius. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/edne7x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

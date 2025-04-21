@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9298158c-3c02-4ba2-ab8a-87c7f9c8e70b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.5160043</alternateIdentifier>
+                <alternateIdentifier>10.15468/5fyc2m</alternateIdentifier>
+                <alternateIdentifier>3402BC91-79B6-46E6-80F7-A1B1759728CC</alternateIdentifier>
+                <alternateIdentifier>9298158c-3c02-4ba2-ab8a-87c7f9c8e70b</alternateIdentifier>
+                <alternateIdentifier>FF8A6512AA2D474D9945FF80FFCFFFAC</alternateIdentifier>
+        <title>Lepidoptera, Butterflies of Guam</title>
+            <creator>
+            <individualName>
+<givenName>O. H.</givenName>                    <surName>Swezey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>admin</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1942-06-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Swezey, O. H. (1942): Lepidoptera, Butterflies of Guam. In: Insects of Guam I. Honolulu, Hawaii: Bernice P. Biship Museum: 31-38, DOI: http://doi.org/10.5281/zenodo.5160043</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF8A6512AA2D474D9945FF80FFCFFFAC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:33Z</dateStamp>
+                <citation>Swezey O H, admin (1942). Lepidoptera, Butterflies of Guam. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5160043 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

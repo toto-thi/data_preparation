@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="5229b2b3-ff60-40cf-878e-d570f65cf83f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1016/j.cub.2017.09.047</alternateIdentifier>
+                <alternateIdentifier>5229b2b3-ff60-40cf-878e-d570f65cf83f</alternateIdentifier>
+                <alternateIdentifier>10.15468/4ykox2</alternateIdentifier>
+                <alternateIdentifier>68FBFE28-103C-4E95-89BD-974A70D026F7</alternateIdentifier>
+                <alternateIdentifier>FFE0FF92FFB1C334FFFD171FFFD8BD4E</alternateIdentifier>
+        <title>Morphometric, Behavioral, and Genomic Evidence for a New Orangutan Species</title>
+            <creator>
+            <individualName>
+                    <surName>Alexander Nater</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Maja P. Mattle-Greminger</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Anton Nurcahyo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Matthew G. Nowak</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marc de Manuel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Tariq Desai</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Colin Groves</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marc Pybus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Tugce Bilgin Sonay</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Christian Roos</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Adriano R. Lameira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Serge A. Wich</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>James Askew</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marina Davila-Ross</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Gabriella Fredriksson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Guillem de Valles</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ferran Casals</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>avier Prado-Martinez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Benoit Goossens</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ernst J. Verschoor</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Kristin S. Warren</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ian Singleton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>David A. Marques</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Joko Pamungkas</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Dyah Perwitasari-Farajallah</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Puji Rianti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Augustine Tuuga</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Ivo G. Gut</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Marta Gut</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Pablo Orozco-terWengel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Carel P. van Schaik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Jaume Bertranpetit</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Maria Anisimova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Aylwyn Scally</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Tomas Marques-Bonet</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Erik Meijaard</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Michael Krüzen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-11-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Alexander Nater, Maja P. Mattle-Greminger, Anton Nurcahyo, Matthew G. Nowak, Marc de Manuel, Tariq Desai, Colin Groves, Marc Pybus, Tugce Bilgin Sonay, Christian Roos, Adriano R. Lameira, Serge A. Wich, James Askew, Marina Davila-Ross, Gabriella Fredriksson, Guillem de Valles, Ferran Casals, avier Prado-Martinez, Benoit Goossens, Ernst J. Verschoor, Kristin S. Warren, Ian Singleton, David A. Marques, Joko Pamungkas, Dyah Perwitasari-Farajallah, Puji Rianti, Augustine Tuuga, Ivo G. Gut, Marta Gut, Pablo Orozco-terWengel, Carel P. van Schaik, Jaume Bertranpetit, Maria Anisimova, Aylwyn Scally, Tomas Marques-Bonet, Erik Meijaard, Michael Krüzen (2017): Morphometric, Behavioral, and Genomic Evidence for a New Orangutan Species. Current Biology 27: 1-40, DOI: 10.1016/j.cub.2017.09.047</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE0FF92FFB1C334FFFD171FFFD8BD4E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:47Z</dateStamp>
+                <citation>Alexander Nater, Maja P. Mattle-Greminger, Anton Nurcahyo, Matthew G. Nowak, Marc de Manuel, Tariq Desai, Colin Groves, Marc Pybus, Tugce Bilgin Sonay, Christian Roos, Adriano R. Lameira, Serge A. Wich, James Askew, Marina Davila-Ross, Gabriella Fredriksson, Guillem de Valles, Ferran Casals, avier Prado-Martinez, Benoit Goossens, Ernst J. Verschoor, Kristin S. Warren, Ian Singleton, David A. Marques, Joko Pamungkas, Dyah Perwitasari-Farajallah, Puji Rianti, Augustine Tuuga, Ivo G. Gut, Marta Gut, Pablo Orozco-terWengel, Carel P. van Schaik, Jaume Bertranpetit, Maria Anisimova, Aylwyn Scally, Tomas Marques-Bonet, Erik Meijaard, Michael Krüzen, plazi (2017). Morphometric, Behavioral, and Genomic Evidence for a New Orangutan Species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1016/j.cub.2017.09.047 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

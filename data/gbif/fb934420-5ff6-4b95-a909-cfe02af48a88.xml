@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fb934420-5ff6-4b95-a909-cfe02af48a88"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/phytotaxa.502.3.5</alternateIdentifier>
+                <alternateIdentifier>fb934420-5ff6-4b95-a909-cfe02af48a88</alternateIdentifier>
+                <alternateIdentifier>10.15468/rjnsp4</alternateIdentifier>
+                <alternateIdentifier>5869EA06FF9EFB70FFE4FF84FFE7BA65</alternateIdentifier>
+        <title>A New Masdevallia From South-Western Colombia (Orchidaceae: Pleurothallidinae)</title>
+            <creator>
+            <individualName>
+<givenName>Robinson</givenName>                    <surName>Galindo-Tarazona</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>Haelterman</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Danny Leandro Mora</givenName>                    <surName>Aguilar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alejandro</givenName>                    <surName>Zuluaga</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-05-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Galindo-Tarazona, Robinson, Haelterman, David, Aguilar, Danny Leandro Mora, Zuluaga, Alejandro (2021): A New Masdevallia From South-Western Colombia (Orchidaceae: Pleurothallidinae). Phytotaxa 502 (3): 277-282, DOI: 10.11646/phytotaxa.502.3.5, URL: http://dx.doi.org/10.11646/phytotaxa.502.3.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5869EA06FF9EFB70FFE4FF84FFE7BA65</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:53Z</dateStamp>
+                <citation>Galindo-Tarazona R, Haelterman D, Aguilar D L M, Zuluaga A, marcus (2021). A New Masdevallia From South-Western Colombia (Orchidaceae: Pleurothallidinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/phytotaxa.502.3.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

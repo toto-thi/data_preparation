@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4dac8867-93bd-421b-93f1-5cc7f684fa7f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4674.3.5</alternateIdentifier>
+                <alternateIdentifier>4dac8867-93bd-421b-93f1-5cc7f684fa7f</alternateIdentifier>
+                <alternateIdentifier>10.15468/jxvoxq</alternateIdentifier>
+                <alternateIdentifier>D69CBF4D-B4E2-4923-B2CB-B04C196AA13D</alternateIdentifier>
+                <alternateIdentifier>FFCDFFE4FFDDFFF4FF90FFE4C622FFB5</alternateIdentifier>
+        <title>Description of Moca austrasinensis sp. nov., with the first record of Imma lathidora Meyrick, 1914 from mainland China (Lepidoptera, Immidae)</title>
+            <creator>
+            <individualName>
+<givenName>Si-Yao</givenName>                    <surName>Huang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tian-Tian</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiao-Ling</givenName>                    <surName>Fan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Min</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Huang, Si-Yao, Yu, Tian-Tian, Fan, Xiao-Ling, Wang, Min (2019): Description of Moca austrasinensis sp. nov., with the first record of Imma lathidora Meyrick, 1914 from mainland China (Lepidoptera, Immidae). Zootaxa 4674 (3): 369-374, DOI: https://doi.org/10.11646/zootaxa.4674.3.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCDFFE4FFDDFFF4FF90FFE4C622FFB5</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:06Z</dateStamp>
+                <citation>Huang S, Yu T, Fan X, Wang M, plazi (2019). Description of Moca austrasinensis sp. nov., with the first record of Imma lathidora Meyrick, 1914 from mainland China (Lepidoptera, Immidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4674.3.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="55e6d348-bcaa-40c1-a8ce-8b8d7db25979"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/hkhhgx</alternateIdentifier>
+                <alternateIdentifier>A71D8D1EDA2AFF9CFFE8285A490E1E26</alternateIdentifier>
+        <title>Intraspecific variation and taxonomy of northern pika Ochotona hyperborea (Mammalia, Lagomorpha)</title>
+            <creator>
+            <individualName>
+<givenName>Andrey A.</givenName>                    <surName>Lissovsky</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ekaterina V.</givenName>                    <surName>Obolenskaya</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nikolai E.</givenName>                    <surName>Dokuchaev</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Innokentiy M.</givenName>                    <surName>Okhlopkov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-03-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lissovsky, Andrey A., Obolenskaya, Ekaterina V., Dokuchaev, Nikolai E., Okhlopkov, Innokentiy M. (2021): Intraspecific variation and taxonomy of northern pika Ochotona hyperborea (Mammalia, Lagomorpha). Journal of Mammalogy 102 (1): 28-53, DOI: 10.1093/jmammal/gyaa150</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/A71D8D1EDA2AFF9CFFE8285A490E1E26</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:45Z</dateStamp>
+                <citation>Lissovsky A A, Obolenskaya E V, Dokuchaev N E, Okhlopkov I M, felipe (2021). Intraspecific variation and taxonomy of northern pika Ochotona hyperborea (Mammalia, Lagomorpha). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/hkhhgx accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

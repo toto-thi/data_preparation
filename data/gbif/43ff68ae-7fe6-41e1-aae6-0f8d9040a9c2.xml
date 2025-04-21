@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="43ff68ae-7fe6-41e1-aae6-0f8d9040a9c2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/evx79e</alternateIdentifier>
+                <alternateIdentifier>390FFFD3FFB01E11C70CFFF00800FF81</alternateIdentifier>
+        <title>Redescription of Neocarus platensis Silvestri, 1905 (Acari: Opilioacaridae) and a new species from the syntype series</title>
+            <creator>
+            <individualName>
+<givenName>Marcel Santos De</givenName>                    <surName>Araújo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonella Di</givenName>                    <surName>Palma</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Reinaldo José Fazzio</givenName>                    <surName>Feres</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Angelica Maria</givenName>                    <surName>Penteado-Dias</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-01-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Araújo, Marcel Santos De, Palma, Antonella Di, Feres, Reinaldo José Fazzio, Penteado-Dias, Angelica Maria (2023): Redescription of Neocarus platensis Silvestri, 1905 (Acari: Opilioacaridae) and a new species from the syntype series. Zootaxa 5230 (2): 209-224, DOI: https://doi.org/10.11646/zootaxa.5230.2.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/390FFFD3FFB01E11C70CFFF00800FF81</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:37Z</dateStamp>
+                <citation>Araújo M S D, Palma A D, Feres R J F, Penteado-Dias A M, plazi (2023). Redescription of Neocarus platensis Silvestri, 1905 (Acari: Opilioacaridae) and a new species from the syntype series. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/evx79e accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

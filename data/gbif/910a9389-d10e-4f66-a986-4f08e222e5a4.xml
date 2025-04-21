@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="910a9389-d10e-4f66-a986-4f08e222e5a4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3709653</alternateIdentifier>
+                <alternateIdentifier>10.15468/jefd6o</alternateIdentifier>
+                <alternateIdentifier>910a9389-d10e-4f66-a986-4f08e222e5a4</alternateIdentifier>
+                <alternateIdentifier>8EF1AB2A-825F-4AA1-B501-63581F3124FA</alternateIdentifier>
+                <alternateIdentifier>FFA6D933FF848368895D6879FFF6C40B</alternateIdentifier>
+        <title>Nueva especie de Aleuropleurocelus Drews y Sampson (Hemiptera: Aleyrodidae) y clave para especies del grupo de forma oval</title>
+            <creator>
+            <individualName>
+<givenName>Oscar Ángel</givenName>                    <surName>Sánchez-Flores</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vicente Emilio</givenName>                    <surName>Carapia-Ruiz</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-08-31
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Sánchez-Flores, Oscar Ángel, Carapia-Ruiz, Vicente Emilio (2018): Nueva especie de Aleuropleurocelus Drews y Sampson (Hemiptera: Aleyrodidae) y clave para especies del grupo de forma oval. Insecta Mundi 651: 1-12, DOI: http://doi.org/10.5281/zenodo.3709653</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFA6D933FF848368895D6879FFF6C40B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:48Z</dateStamp>
+                <citation>Sánchez-Flores O Á, Carapia-Ruiz V E, felipe (2018). Nueva especie de Aleuropleurocelus Drews y Sampson (Hemiptera: Aleyrodidae) y clave para especies del grupo de forma oval. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3709653 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

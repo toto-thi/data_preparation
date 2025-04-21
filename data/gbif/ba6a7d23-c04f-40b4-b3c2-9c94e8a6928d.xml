@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ba6a7d23-c04f-40b4-b3c2-9c94e8a6928d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1093/zoolinnean/zlaa187</alternateIdentifier>
+                <alternateIdentifier>ba6a7d23-c04f-40b4-b3c2-9c94e8a6928d</alternateIdentifier>
+                <alternateIdentifier>10.15468/q444ck</alternateIdentifier>
+                <alternateIdentifier>34A49624-A53D-425D-8FAA-F69837F20788</alternateIdentifier>
+                <alternateIdentifier>FFD2FFDC662B073DFFD9DC2AE94CC60B</alternateIdentifier>
+        <title>Integrative taxonomy: molecular phylogenetics of Polypedilum (Cerobregma) and revisited morphology of Yaethauma and Collartomyia (Diptera: Chironomidae) reveals synonymy and supports new classification</title>
+            <creator>
+            <individualName>
+<givenName>Hongqu Tang Qingqing</givenName>                    <surName>Cheng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wu</givenName>                    <surName>Han</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter S.</givenName>                    <surName>Cranston</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-03-26
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cheng, Hongqu Tang Qingqing, Han, Wu, Cranston, Peter S. (2022): Integrative taxonomy: molecular phylogenetics of Polypedilum (Cerobregma) and revisited morphology of Yaethauma and Collartomyia (Diptera: Chironomidae) reveals synonymy and supports new classification. Zoological Journal of the Linnean Society 194: 102-119, DOI: 10.1093/zoolinnean/zlaa187</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD2FFDC662B073DFFD9DC2AE94CC60B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:42Z</dateStamp>
+                <citation>Cheng H T Q, Han W, Cranston P S, plazi (2021). Integrative taxonomy: molecular phylogenetics of Polypedilum (Cerobregma) and revisited morphology of Yaethauma and Collartomyia (Diptera: Chironomidae) reveals synonymy and supports new classification. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1093/zoolinnean/zlaa187 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

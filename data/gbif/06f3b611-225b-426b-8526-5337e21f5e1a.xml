@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="06f3b611-225b-426b-8526-5337e21f5e1a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2f548h</alternateIdentifier>
+                <alternateIdentifier>FFC6FFBFFFD8FFFFFFC6FF89FFE01C03</alternateIdentifier>
+        <title>Planiliza lauvergnii (Eydoux &amp; Souleyet, 1850), a senior synonym of Planiliza affinis (Günther, 1861) with a re-evaluation of keeled back mullets (Mugiliformes Mugilidae)</title>
+            <creator>
+            <individualName>
+<givenName>Mohammad Eusuf</givenName>                    <surName>Hasan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ariba</givenName>                    <surName>Hasan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Philippe</givenName>                    <surName>Béarez</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kang-Ning</givenName>                    <surName>Shen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chih-Wei</givenName>                    <surName>Chang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Thanh Thi Viet</givenName>                    <surName>Tran</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Golani</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Azhar</givenName>                    <surName>Al-Saboonchi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Pirzada Jamal Ahmed</givenName>                    <surName>Siddiqui</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean-Dominique</givenName>                    <surName>Durand</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-10-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hasan, Mohammad Eusuf, Hasan, Ariba, Béarez, Philippe, Shen, Kang-Ning, Chang, Chih-Wei, Tran, Thanh Thi Viet, Golani, Daniel, Al-Saboonchi, Azhar, Siddiqui, Pirzada Jamal Ahmed, Durand, Jean-Dominique (2022): Planiliza lauvergnii (Eydoux &amp;amp; Souleyet, 1850), a senior synonym of Planiliza affinis (Günther, 1861) with a re-evaluation of keeled back mullets (Mugiliformes Mugilidae). Zootaxa 5194 (4): 497-518, DOI: https://doi.org/10.11646/zootaxa.5194.4.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC6FFBFFFD8FFFFFFC6FF89FFE01C03</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:37Z</dateStamp>
+                <citation>Hasan M E, Hasan A, Béarez P, Shen K, Chang C, Tran T T V, Golani D, Al-Saboonchi A, Siddiqui P J A, Durand J, plazi (2022). Planiliza lauvergnii (Eydoux &amp; Souleyet, 1850), a senior synonym of Planiliza affinis (Günther, 1861) with a re-evaluation of keeled back mullets (Mugiliformes Mugilidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/2f548h accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

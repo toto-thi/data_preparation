@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e239bd01-29f3-46fa-b23b-ed625857faf6"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/katkz2</alternateIdentifier>
+                <alternateIdentifier>D967035BFFC9FFC7C829892E660EFFCB</alternateIdentifier>
+        <title>Three new species of genus Russula Pers. from Sal dominated forests of tropical India based on morphotaxonomy and multigene phylogenetic analysis</title>
+            <creator>
+            <individualName>
+<givenName>Aniket</givenName>                    <surName>Ghosh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Bart</givenName>                    <surName>Buyck</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dyutiparna</givenName>                    <surName>Chakraborty</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manoj Emanuel</givenName>                    <surName>Hembrom</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ishika</givenName>                    <surName>Bera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kanad</givenName>                    <surName>Das</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ghosh, Aniket, Buyck, Bart, Chakraborty, Dyutiparna, Hembrom, Manoj Emanuel, Bera, Ishika, Das, Kanad (2023): Three new species of genus Russula Pers. from Sal dominated forests of tropical India based on morphotaxonomy and multigene phylogenetic analysis. Cryptogamie, Mycologie 20 (3): 27-50, DOI: 10.5252/cryptogamie-mycologie2023v44a3</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/D967035BFFC9FFC7C829892E660EFFCB</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:54Z</dateStamp>
+                <citation>Ghosh A, Buyck B, Chakraborty D, Hembrom M E, Bera I, Das K, felipe (2023). Three new species of genus Russula Pers. from Sal dominated forests of tropical India based on morphotaxonomy and multigene phylogenetic analysis. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/katkz2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

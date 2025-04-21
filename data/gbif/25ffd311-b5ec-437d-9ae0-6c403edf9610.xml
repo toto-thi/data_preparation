@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="25ffd311-b5ec-437d-9ae0-6c403edf9610"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4hsmop</alternateIdentifier>
+                <alternateIdentifier>FE7F3E1DCBD8C0379ACA01F590B98A49</alternateIdentifier>
+        <title>Voyage de M. E. Simon à l&apos;île de Ceylan (janvier - février 1892). 3 e Mémoire. Formicides.</title>
+            <creator>
+            <individualName>
+<givenName>C.</givenName>                    <surName>Emery</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Christiana</givenName>                    <surName>Klingenberg</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1893-12-31
+            </pubDate>
+        <language>FRENCH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Emery, C. (1893): Voyage de M. E. Simon à l&amp;#39;île de Ceylan (janvier - février 1892). 3 e Mémoire. Formicides. Annales de la Société Entomologique de France 62: 239-258, URL: http://antbase.org/ants/publications/3767/3767.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FE7F3E1DCBD8C0379ACA01F590B98A49</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:00Z</dateStamp>
+                <citation>Emery C, Klingenberg C (1893). Voyage de M. E. Simon à l&apos;île de Ceylan (janvier - février 1892). 3 e Mémoire. Formicides.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4hsmop accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

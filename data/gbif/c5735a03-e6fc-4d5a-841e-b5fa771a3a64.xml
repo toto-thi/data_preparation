@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c5735a03-e6fc-4d5a-841e-b5fa771a3a64"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/xqrr53</alternateIdentifier>
+                <alternateIdentifier>0144FFD4FFE32030FF934459FFC9FFA7</alternateIdentifier>
+        <title>First record of the genus Parandes Muir, 1925 from China with descriptions of two new species (Hemiptera, Fulgoromorpha, Cixiidae)</title>
+            <creator>
+            <individualName>
+<givenName>Xiao-Ya</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yan</givenName>                    <surName>Zhi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lin</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jian-Kun</givenName>                    <surName>Long</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Zhi-Min</givenName>                    <surName>Chang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiang-Sheng</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-08-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wang, Xiao-Ya, Zhi, Yan, Yang, Lin, Long, Jian-Kun, Chang, Zhi-Min, Chen, Xiang-Sheng (2023): First record of the genus Parandes Muir, 1925 from China with descriptions of two new species (Hemiptera, Fulgoromorpha, Cixiidae). European Journal of Taxonomy 888 (1): 111-123, DOI: https://doi.org/10.5852/ejt.2023.888.2233, URL: http://zoobank.org/663c5d99-dce9-4c17-8c5a-b31950db09cb</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/0144FFD4FFE32030FF934459FFC9FFA7</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:17Z</dateStamp>
+                <citation>Wang X, Zhi Y, Yang L, Long J, Chang Z, Chen X, felipe (2023). First record of the genus Parandes Muir, 1925 from China with descriptions of two new species (Hemiptera, Fulgoromorpha, Cixiidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/xqrr53 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Wang, Xiao-Ya, Zhi, Yan, Yang, Lin, Long, Jian-Kun, Chang, Zhi-Min, Chen, Xiang-Sheng (2023): First record of the genus Parandes Muir, 1925 from China with descriptions of two new species (Hemiptera, Fulgoromorpha, Cixiidae). European Journal of Taxonomy 888 (1): 111-123, DOI: https://doi.org/10.5852/ejt.2023.888.2233, URL: http://zoobank.org/663c5d99-dce9-4c17-8c5a-b31950db09cb</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

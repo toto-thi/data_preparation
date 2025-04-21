@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d08524b6-1aac-443c-b6f3-dad1c62d9473"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4768.3.5</alternateIdentifier>
+                <alternateIdentifier>d08524b6-1aac-443c-b6f3-dad1c62d9473</alternateIdentifier>
+                <alternateIdentifier>10.15468/4qxxxe</alternateIdentifier>
+                <alternateIdentifier>B1334A2D-6272-4A7A-9856-3F0A6C952E43</alternateIdentifier>
+                <alternateIdentifier>F14AFFDBED39296FFFC9FFF24C07FFF6</alternateIdentifier>
+        <title>Re-examination of Australian and Oriental species of Minagenia Banks, 1934 (Hymenoptera: Pompilidae), with a new record for the genus in Australia and a new species description</title>
+            <creator>
+            <individualName>
+<givenName>Brenna L.</givenName>                    <surName>Decker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James P.</givenName>                    <surName>Pitts</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>Yuan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juanita</givenName>                    <surName>Rodriguez</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-05-04
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Decker, Brenna L., Pitts, James P., Yuan, David, Rodriguez, Juanita (2020): Re-examination of Australian and Oriental species of Minagenia Banks, 1934 (Hymenoptera: Pompilidae), with a new record for the genus in Australia and a new species description. Zootaxa 4768 (3): 383-394, DOI: https://doi.org/10.11646/zootaxa.4768.3.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F14AFFDBED39296FFFC9FFF24C07FFF6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:56Z</dateStamp>
+                <citation>Decker B L, Pitts J P, Yuan D, Rodriguez J, plazi (2020). Re-examination of Australian and Oriental species of Minagenia Banks, 1934 (Hymenoptera: Pompilidae), with a new record for the genus in Australia and a new species description. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4768.3.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

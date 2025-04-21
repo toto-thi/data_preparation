@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a78cffa6-1614-452e-a90c-28fa3b0cec56"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2012.25</alternateIdentifier>
+                <alternateIdentifier>a78cffa6-1614-452e-a90c-28fa3b0cec56</alternateIdentifier>
+                <alternateIdentifier>10.15468/cyryn8</alternateIdentifier>
+                <alternateIdentifier>042DFE4A-75C1-4153-9934-737BD08D5E1B</alternateIdentifier>
+                <alternateIdentifier>D176D57CFF81FFBEFFBBFFE0671BE57D</alternateIdentifier>
+        <title>A review of Bennelongia De Deckker &amp; McKenzie, 1981 (Crustacea, Ostracoda) species from eastern Australia with the description of three new species</title>
+            <creator>
+            <individualName>
+<givenName>Rylan</givenName>                    <surName>Shearn</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Annette</givenName>                    <surName>Koenders</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Stuart</givenName>                    <surName>Halse</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Isa Schön and Koen</givenName>                    <surName>Martens</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2012-10-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Shearn, Rylan, Koenders, Annette, Halse, Stuart, Martens, Isa Schön and Koen (2012): A review of Bennelongia De Deckker &amp;amp; McKenzie, 1981 (Crustacea, Ostracoda) species from eastern Australia with the description of three new species. European Journal of Taxonomy 25: 1-35, DOI: http://dx.doi.org/10.5852/ejt.2012.25</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D176D57CFF81FFBEFFBBFFE0671BE57D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:58Z</dateStamp>
+                <citation>Shearn R, Koenders A, Halse S, Martens I S A K, valdenar (2012). A review of Bennelongia De Deckker &amp; McKenzie, 1981 (Crustacea, Ostracoda) species from eastern Australia with the description of three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2012.25 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

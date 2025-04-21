@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4a4060a7-8f5b-4754-8579-180b5d1b697c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.437584</alternateIdentifier>
+                <alternateIdentifier>4a4060a7-8f5b-4754-8579-180b5d1b697c</alternateIdentifier>
+                <alternateIdentifier>10.15468/o5mak3</alternateIdentifier>
+                <alternateIdentifier>22EC65ED-CCE2-4C70-B81C-DC51A615B708</alternateIdentifier>
+                <alternateIdentifier>FFD9FF82667AFFF8FF990F2579572D63</alternateIdentifier>
+        <title>A checklist of the oribatid mite species (Acari: Oribatida) of Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Anibal R.</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Poliane S.</givenName>                    <surName>Argolo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Gilberto J.</givenName>                    <surName>De</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Roy A.</givenName>                    <surName>Norton</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Heinrich</givenName>                    <surName>Schatz</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2017-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Oliveira, Anibal R., Argolo, Poliane S., De, Gilberto J., Norton, Roy A., Schatz, Heinrich (2017): A checklist of the oribatid mite species (Acari: Oribatida) of Brazil. Zootaxa 4245 (1): 1-89, DOI: 10.5281/zenodo.437584</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFD9FF82667AFFF8FF990F2579572D63</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:42Z</dateStamp>
+                <citation>Oliveira A R, Argolo P S, De G J, Norton R A, Schatz H, plazi (2017). A checklist of the oribatid mite species (Acari: Oribatida) of Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.437584 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

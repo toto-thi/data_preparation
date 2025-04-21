@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e98cc372-5374-45f3-b965-c57d9a916566"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2021.732.1213</alternateIdentifier>
+                <alternateIdentifier>e98cc372-5374-45f3-b965-c57d9a916566</alternateIdentifier>
+                <alternateIdentifier>10.15468/q7fub5</alternateIdentifier>
+                <alternateIdentifier>39F0C998-10AE-44BF-B1ED-7593AD4AE3AA</alternateIdentifier>
+                <alternateIdentifier>FF98FF992044FF8AFFB7FFC9FF9A8C66</alternateIdentifier>
+        <title>Revision of the morphology, phylogenetic relationships, behaviour and diversity of the Iberian and Italian ant-like Tachydromia Meigen, 1803 (Diptera: Hybotidae)</title>
+            <creator>
+            <individualName>
+<givenName>Ana Rita</givenName>                    <surName>Gonçalves</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patrick</givenName>                    <surName>Grootaert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rui</givenName>                    <surName>Andrade</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Octávio S.</givenName>                    <surName>Paulo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ximo</givenName>                    <surName>Mengual</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-01-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gonçalves, Ana Rita, Grootaert, Patrick, Andrade, Rui, Paulo, Octávio S., Mengual, Ximo (2021): Revision of the morphology, phylogenetic relationships, behaviour and diversity of the Iberian and Italian ant-like Tachydromia Meigen, 1803 (Diptera: Hybotidae). European Journal of Taxonomy 732: 1-56, DOI: https://doi.org/10.5852/ejt.2021.732.1213</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF98FF992044FF8AFFB7FFC9FF9A8C66</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:15Z</dateStamp>
+                <citation>Gonçalves A R, Grootaert P, Andrade R, Paulo O S, Mengual X, plazi (2021). Revision of the morphology, phylogenetic relationships, behaviour and diversity of the Iberian and Italian ant-like Tachydromia Meigen, 1803 (Diptera: Hybotidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2021.732.1213 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

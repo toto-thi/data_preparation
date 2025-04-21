@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ad56828c-aee3-4b22-a912-048c722e4410"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4885.1.1</alternateIdentifier>
+                <alternateIdentifier>ad56828c-aee3-4b22-a912-048c722e4410</alternateIdentifier>
+                <alternateIdentifier>10.15468/ybgadb</alternateIdentifier>
+                <alternateIdentifier>08FEBDE6-4271-4A56-A87E-A0C25FD0282E</alternateIdentifier>
+                <alternateIdentifier>FFE7163EFFE5FFB2D72D6006E10EA43C</alternateIdentifier>
+        <title>Key to Mexican and Central American genera of Acanthocinini (Coleoptera Cerambycidae, Lamiinae) with erect setae on elytral surface, excluding the Caribbean Islands</title>
+            <creator>
+            <individualName>
+<givenName>Miguel A.</givenName>                    <surName>Monné</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio</givenName>                    <surName>Santos-Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marcela L.</givenName>                    <surName>Monné</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-11-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Monné, Miguel A., Santos-Silva, Antonio, Monné, Marcela L. (2020): Key to Mexican and Central American genera of Acanthocinini (Coleoptera Cerambycidae, Lamiinae) with erect setae on elytral surface, excluding the Caribbean Islands. Zootaxa 4885 (1): 1-26, DOI: https://doi.org/10.11646/zootaxa.4885.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE7163EFFE5FFB2D72D6006E10EA43C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:25Z</dateStamp>
+                <citation>Monné M A, Santos-Silva A, Monné M L, plazi (2020). Key to Mexican and Central American genera of Acanthocinini (Coleoptera Cerambycidae, Lamiinae) with erect setae on elytral surface, excluding the Caribbean Islands. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4885.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

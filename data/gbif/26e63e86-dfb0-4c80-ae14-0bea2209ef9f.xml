@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="26e63e86-dfb0-4c80-ae14-0bea2209ef9f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/afrinvertebr.60.35262</alternateIdentifier>
+                <alternateIdentifier>10.15468/jwyg6n</alternateIdentifier>
+                <alternateIdentifier>0998677C381F55228F97D4A8FD4FA981</alternateIdentifier>
+        <title>Morphological and genetic diversity of two individual forms of Euphaedra eberti (Lepidoptera, Nymphalidae)</title>
+            <creator>
+            <individualName>
+<givenName>Milan</givenName>                    <surName>Zubrik</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sandrine</givenName>                    <surName>Picq</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Philippe</givenName>                    <surName>Oremans</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Audrey</givenName>                    <surName>Nisole</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Sophie Tremblay</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michel</givenName>                    <surName>Cusson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ľubomir</givenName>                    <surName>Panigaj</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Barbora</givenName>                    <surName>Mikitova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maurizio</givenName>                    <surName>Bollino</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-09-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zubrik, Milan, Picq, Sandrine, Oremans, Philippe, Nisole, Audrey, Sophie Tremblay,, Cusson, Michel, Panigaj, Ľubomir, Mikitova, Barbora, Bollino, Maurizio (2019): Morphological and genetic diversity of two individual forms of Euphaedra eberti (Lepidoptera, Nymphalidae). African Invertebrates 60 (2): 195-213, DOI: http://dx.doi.org/10.3897/AfrInvertebr.60.35262, URL: http://dx.doi.org/10.3897/AfrInvertebr.60.35262</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/0998677C381F55228F97D4A8FD4FA981</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:31Z</dateStamp>
+                <citation>Zubrik M, Picq S, Oremans P, Nisole A, Sophie Tremblay, Cusson M, Panigaj Ľ, Mikitova B, Bollino M, pensoft (2019). Morphological and genetic diversity of two individual forms of Euphaedra eberti (Lepidoptera, Nymphalidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/afrinvertebr.60.35262 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

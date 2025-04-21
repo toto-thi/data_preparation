@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d866f3e2-0ec5-430f-9145-9b1047c5ffe8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/sunnel</alternateIdentifier>
+                <alternateIdentifier>EE0D5159B7D5473827B4D3499CE3FE8C</alternateIdentifier>
+        <title>La reserve naturelle integrale du Mt Nimba. XI. Hymenopteres Formicidae.</title>
+            <creator>
+            <individualName>
+<givenName>F.</givenName>                    <surName>Bernard</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Christiana</givenName>                    <surName>Klingenberg</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1953-12-31
+            </pubDate>
+        <language>FRENCH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bernard, F. (1953): La reserve naturelle integrale du Mt Nimba. XI. Hymenopteres Formicidae. Memoires de l&amp;#39;Institut Francais d&amp;#39;Afrique Noire 19: 165-270, URL: http://research.amnh.org/entomology/social_insects/ants/publications/6391/6391.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/EE0D5159B7D5473827B4D3499CE3FE8C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:41Z</dateStamp>
+                <citation>Bernard F, Klingenberg C (1953). La reserve naturelle integrale du Mt Nimba. XI. Hymenopteres Formicidae.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/sunnel accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

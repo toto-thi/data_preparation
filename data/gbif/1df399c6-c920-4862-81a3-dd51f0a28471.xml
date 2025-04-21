@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1df399c6-c920-4862-81a3-dd51f0a28471"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.5160297</alternateIdentifier>
+                <alternateIdentifier>1df399c6-c920-4862-81a3-dd51f0a28471</alternateIdentifier>
+                <alternateIdentifier>10.15468/7aadux</alternateIdentifier>
+                <alternateIdentifier>DFAF50FF-2EDC-404E-93B9-1888DC3EFC81</alternateIdentifier>
+                <alternateIdentifier>B525F8594A7852476D53FFF00A6FFFD2</alternateIdentifier>
+        <title>Wasps of Guam</title>
+            <creator>
+            <individualName>
+<givenName>O. H.</givenName>                    <surName>Swezey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                1942-06-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original book chapter Swezey, O. H. (1942): Wasps of Guam. In: Insects of Guam I. Honolulu, Hawaii: Bernice P. Bishop Museum: 184-187, DOI: http://doi.org/10.5281/zenodo.5160297</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/B525F8594A7852476D53FFF00A6FFFD2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:03Z</dateStamp>
+                <citation>Swezey O H, carolina (1942). Wasps of Guam. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.5160297 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

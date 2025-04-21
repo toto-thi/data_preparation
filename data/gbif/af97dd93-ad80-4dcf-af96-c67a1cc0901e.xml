@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="af97dd93-ad80-4dcf-af96-c67a1cc0901e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1080/14772000.2013.806371</alternateIdentifier>
+                <alternateIdentifier>af97dd93-ad80-4dcf-af96-c67a1cc0901e</alternateIdentifier>
+                <alternateIdentifier>10.15468/p5zd6h</alternateIdentifier>
+                <alternateIdentifier>F4F2B0D9-90B7-4B6E-A499-1498907F95F7</alternateIdentifier>
+                <alternateIdentifier>6504FFBE5715FFCC8321A246FFDDFF96</alternateIdentifier>
+        <title>Description of two new species and phylogenetic reassessment of Perelleschus O’Brien &amp; Wibmer, 1986 (Coleoptera: Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz &amp; Cardona-Duque, 2013</title>
+            <creator>
+            <individualName>
+                    <surName>Nico M. Franz</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Juliana Cardona-Duque</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2013-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nico M. Franz, Juliana Cardona-Duque (2013): Description of two new species and phylogenetic reassessment of Perelleschus O’Brien &amp;amp; Wibmer, 1986 (Coleoptera: Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz &amp;amp; Cardona-Duque, 2013. Systematics and Biodiversity 11 (2): 209-236, DOI: 10.1080/14772000.2013.806371</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/6504FFBE5715FFCC8321A246FFDDFF96</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:07Z</dateStamp>
+                <citation>Nico M. Franz, Juliana Cardona-Duque, plazi (2013). Description of two new species and phylogenetic reassessment of Perelleschus O’Brien &amp; Wibmer, 1986 (Coleoptera: Curculionidae), with a complete taxonomic concept history of Perelleschus sec. Franz &amp; Cardona-Duque, 2013. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1080/14772000.2013.806371 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

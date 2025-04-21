@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1c5e0132-a83c-400e-bd2c-23cf881b28ff"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4496.1.5</alternateIdentifier>
+                <alternateIdentifier>10.15468/yeamqr</alternateIdentifier>
+                <alternateIdentifier>F658011C-415A-464F-B947-E2DF422005AC</alternateIdentifier>
+                <alternateIdentifier>FFE6D974833E507A2C70FF8A345AD266</alternateIdentifier>
+        <title>DNA barcoding of the Italian anecic Octodrilus species in rural (vineyard) and forested areas with description of Octodrilus zicsiniello sp. nov. (Clitellata, Megadrili)</title>
+            <creator>
+            <individualName>
+<givenName>Csaba</givenName>                    <surName>Csuzdi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tímea</givenName>                    <surName>Szederjesi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniel Fernández</givenName>                    <surName>Marchán</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Irene De</givenName>                    <surName>Sosa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Federico</givenName>                    <surName>Gavinelli</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luca</givenName>                    <surName>Dorigo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alberto</givenName>                    <surName>Pamio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Angelo Leandro</givenName>                    <surName>Dreon</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Silvia</givenName>                    <surName>Fusaro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Enzo</givenName>                    <surName>Moretto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Maurizio Guido</givenName>                    <surName>Paoletti</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-10-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Csuzdi, Csaba, Szederjesi, Tímea, Marchán, Daniel Fernández, Sosa, Irene De, Gavinelli, Federico, Dorigo, Luca, Pamio, Alberto, Dreon, Angelo Leandro, Fusaro, Silvia, Moretto, Enzo, Paoletti, Maurizio Guido (2018): DNA barcoding of the Italian anecic Octodrilus species in rural (vineyard) and forested areas with description of Octodrilus zicsiniello sp. nov. (Clitellata, Megadrili). Zootaxa 4496 (1): 43-64, DOI: https://doi.org/10.11646/zootaxa.4496.1.5</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE6D974833E507A2C70FF8A345AD266</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:37Z</dateStamp>
+                <citation>Csuzdi C, Szederjesi T, Marchán D F, Sosa I D, Gavinelli F, Dorigo L, Pamio A, Dreon A L, Fusaro S, Moretto E, Paoletti M G, plazi (2018). DNA barcoding of the Italian anecic Octodrilus species in rural (vineyard) and forested areas with description of Octodrilus zicsiniello sp. nov. (Clitellata, Megadrili). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4496.1.5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

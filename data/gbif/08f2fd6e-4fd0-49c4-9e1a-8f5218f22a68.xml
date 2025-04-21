@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="08f2fd6e-4fd0-49c4-9e1a-8f5218f22a68"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3999.2.6</alternateIdentifier>
+                <alternateIdentifier>08f2fd6e-4fd0-49c4-9e1a-8f5218f22a68</alternateIdentifier>
+                <alternateIdentifier>10.15468/9hx5zd</alternateIdentifier>
+                <alternateIdentifier>9C0D53E8-0430-4358-A9D7-A91D59E1F016</alternateIdentifier>
+                <alternateIdentifier>435B3C77E91FC333FFFBD66A9D258446</alternateIdentifier>
+        <title>On the genus Limnocassis Spaeth, with description of two new species from South Africa (Coleoptera: Chrysomelidae: Cassidinae)</title>
+            <creator>
+            <individualName>
+<givenName>Lech</givenName>                    <surName>Borowiec</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lukáš</givenName>                    <surName>Sekerka</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-08-10
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Borowiec, Lech, Sekerka, Lukáš (2015): On the genus Limnocassis Spaeth, with description of two new species from South Africa (Coleoptera: Chrysomelidae: Cassidinae). Zootaxa 3999 (2): 272-278, DOI: http://dx.doi.org/10.11646/zootaxa.3999.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/435B3C77E91FC333FFFBD66A9D258446</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:10Z</dateStamp>
+                <citation>Borowiec L, Sekerka L, plazi (2015). On the genus Limnocassis Spaeth, with description of two new species from South Africa (Coleoptera: Chrysomelidae: Cassidinae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3999.2.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

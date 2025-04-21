@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f819d522-69f9-42a2-b3c3-b67a60fb2cae"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ns29qu</alternateIdentifier>
+                <alternateIdentifier>7AA4A7A27F825B08A29992271115479D</alternateIdentifier>
+        <title>Description of three new species previously identified as Stolephorus bengalensis (Dutt &amp; Babu Rao, 1959) or Stolephorus insularis Hardenberg, 1933 and a re-description of S. bengalensis (Chordata, Osteichthyes, Clupeiformes, Engraulidae)</title>
+            <creator>
+            <individualName>
+<givenName>Harutaka</givenName>                    <surName>Hata</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sebastien</givenName>                    <surName>Lavoue</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiroyuki</givenName>                    <surName>Motomura</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-09-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hata, Harutaka, Lavoue, Sebastien, Motomura, Hiroyuki (2022): Description of three new species previously identified as Stolephorus bengalensis (Dutt &amp;amp; Babu Rao, 1959) or Stolephorus insularis Hardenberg, 1933 and a re-description of S. bengalensis (Chordata, Osteichthyes, Clupeiformes, Engraulidae). ZooKeys 1121: 145-173, DOI: http://dx.doi.org/10.3897/zookeys.1121.84171, URL: http://dx.doi.org/10.3897/zookeys.1121.84171</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/7AA4A7A27F825B08A29992271115479D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:05Z</dateStamp>
+                <citation>Hata H, Lavoue S, Motomura H, pensoft (2022). Description of three new species previously identified as Stolephorus bengalensis (Dutt &amp; Babu Rao, 1959) or Stolephorus insularis Hardenberg, 1933 and a re-description of S. bengalensis (Chordata, Osteichthyes, Clupeiformes, Engraulidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ns29qu accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

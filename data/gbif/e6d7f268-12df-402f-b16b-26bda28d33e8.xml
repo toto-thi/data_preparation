@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e6d7f268-12df-402f-b16b-26bda28d33e8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.3897/zookeys.29.257</alternateIdentifier>
+                <alternateIdentifier>e6d7f268-12df-402f-b16b-26bda28d33e8</alternateIdentifier>
+                <alternateIdentifier>10.15468/266ukx</alternateIdentifier>
+                <alternateIdentifier>E22E3C29-3392-4BA2-B98D-3BBAD6972DC3</alternateIdentifier>
+                <alternateIdentifier>FF8B3E085F6AFFA8E743FF91FF84FFA9</alternateIdentifier>
+        <title>Two New Halictine Bees in Miocene Amber from the Dominican Republic (Hymenoptera, Halictidae)</title>
+            <creator>
+            <individualName>
+<givenName>Michael</givenName>                    <surName>Engel</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Engel, Michael (2009): Two New Halictine Bees in Miocene Amber from the Dominican Republic (Hymenoptera, Halictidae). ZooKeys 29 (29): 1-12, DOI: 10.3897/zookeys.29.257</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8B3E085F6AFFA8E743FF91FF84FFA9</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:25Z</dateStamp>
+                <citation>Engel M, plazi (2009). Two New Halictine Bees in Miocene Amber from the Dominican Republic (Hymenoptera, Halictidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.3897/zookeys.29.257 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

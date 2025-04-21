@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="1c8934f7-7c4c-4df8-bee8-ee00d0690b5a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2008.00392.x</alternateIdentifier>
+                <alternateIdentifier>1c8934f7-7c4c-4df8-bee8-ee00d0690b5a</alternateIdentifier>
+                <alternateIdentifier>10.15468/afx48k</alternateIdentifier>
+                <alternateIdentifier>CA22F023643DFFFD65285C6C7E34FFCE</alternateIdentifier>
+        <title>The genus Teliocrinus (Crinoidea, Echinodermata): a key taxon among pentacrinid stalked crinoids</title>
+            <creator>
+            <individualName>
+<givenName>Michel</givenName>                    <surName>Roux</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Nadia</givenName>                    <surName>Améziane</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marc</givenName>                    <surName>Eleaume</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2009-01-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Roux, Michel, Améziane, Nadia, Eleaume, Marc (2009): The genus Teliocrinus (Crinoidea, Echinodermata): a key taxon among pentacrinid stalked crinoids. Zoological Journal of the Linnean Society 155 (1): 22-39, DOI: 10.1111/j.1096-3642.2008.00392.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2008.00392.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/CA22F023643DFFFD65285C6C7E34FFCE</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:37Z</dateStamp>
+                <citation>Roux M, Améziane N, Eleaume M, carolina (2009). The genus Teliocrinus (Crinoidea, Echinodermata): a key taxon among pentacrinid stalked crinoids. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2008.00392.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

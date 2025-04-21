@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="82569380-f2c7-44ab-8961-71edbe8632ab"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/5mdwt2</alternateIdentifier>
+                <alternateIdentifier>F73CD83EFAE05FF1B7C06633451784FC</alternateIdentifier>
+        <title>Two new species of Curvianchoratus (Monogenoidea, Dactylogyridae) parasitizing Psectrogaster amazonica (Characiformes, Curimatidae) and a new record for Curvianchoratus singularis in the Tocantins River, Maranhao, Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Carine Almeida Miranda</givenName>                    <surName>Bezerra</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Simone Chinicz</givenName>                    <surName>Cohen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yuri Costa</givenName>                    <surName>de Meneses</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Helyab Gabriel Chaves</givenName>                    <surName>Neres</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Diego Carvalho</givenName>                    <surName>Viana</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marcia Cristina Nascimento</givenName>                    <surName>Justo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bezerra, Carine Almeida Miranda, Cohen, Simone Chinicz, de Meneses, Yuri Costa, Neres, Helyab Gabriel Chaves, Viana, Diego Carvalho, Justo, Marcia Cristina Nascimento (2023): Two new species of Curvianchoratus (Monogenoidea, Dactylogyridae) parasitizing Psectrogaster amazonica (Characiformes, Curimatidae) and a new record for Curvianchoratus singularis in the Tocantins River, Maranhao, Brazil. ZooKeys 1172: 101-116, DOI: http://dx.doi.org/10.3897/zookeys.1172.105500, URL: http://dx.doi.org/10.3897/zookeys.1172.105500</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/F73CD83EFAE05FF1B7C06633451784FC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:33Z</dateStamp>
+                <citation>Bezerra C A M, Cohen S C, de Meneses Y C, Neres H G C, Viana D C, Justo M C N, pensoft (2023). Two new species of Curvianchoratus (Monogenoidea, Dactylogyridae) parasitizing Psectrogaster amazonica (Characiformes, Curimatidae) and a new record for Curvianchoratus singularis in the Tocantins River, Maranhao, Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/5mdwt2 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Bezerra, Carine Almeida Miranda, Cohen, Simone Chinicz, de Meneses, Yuri Costa, Neres, Helyab Gabriel Chaves, Viana, Diego Carvalho, Justo, Marcia Cristina Nascimento (2023): Two new species of Curvianchoratus (Monogenoidea, Dactylogyridae) parasitizing Psectrogaster amazonica (Characiformes, Curimatidae) and a new record for Curvianchoratus singularis in the Tocantins River, Maranhao, Brazil. ZooKeys 1172: 101-116, DOI: http://dx.doi.org/10.3897/zookeys.1172.105500, URL: http://dx.doi.org/10.3897/zookeys.1172.105500</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

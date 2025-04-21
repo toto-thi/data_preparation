@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="d72a9987-5584-487b-b26d-df9a015284d8"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/cfrh6e</alternateIdentifier>
+                <alternateIdentifier>834F4D6012375035847C365EADB50A21</alternateIdentifier>
+        <title>A new species of slender flatworm in the genus Eucestoplana and a record of E. cf. cuneata (Platyhelminthes, Polycladida) from the Okinawa Islands, Japan, with an inference of their phylogenetic positions within Cestoplanidae</title>
+            <creator>
+            <individualName>
+<givenName>Aoi</givenName>                    <surName>Tsuyuki</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yuki</givenName>                    <surName>Oya</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hiroshi</givenName>                    <surName>Kajihara</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>pensoft</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>https://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tsuyuki, Aoi, Oya, Yuki, Kajihara, Hiroshi (2023): A new species of slender flatworm in the genus Eucestoplana and a record of E. cf. cuneata (Platyhelminthes, Polycladida) from the Okinawa Islands, Japan, with an inference of their phylogenetic positions within Cestoplanidae. Zoosystematics and Evolution 99 (2): 363-373, DOI: http://dx.doi.org/10.3897/zse.99.102604, URL: http://dx.doi.org/10.3897/zse.99.102604</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/834F4D6012375035847C365EADB50A21</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:40Z</dateStamp>
+                <citation>Tsuyuki A, Oya Y, Kajihara H, pensoft (2023). A new species of slender flatworm in the genus Eucestoplana and a record of E. cf. cuneata (Platyhelminthes, Polycladida) from the Okinawa Islands, Japan, with an inference of their phylogenetic positions within Cestoplanidae. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/cfrh6e accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Tsuyuki, Aoi, Oya, Yuki, Kajihara, Hiroshi (2023): A new species of slender flatworm in the genus Eucestoplana and a record of E. cf. cuneata (Platyhelminthes, Polycladida) from the Okinawa Islands, Japan, with an inference of their phylogenetic positions within Cestoplanidae. Zoosystematics and Evolution 99 (2): 363-373, DOI: http://dx.doi.org/10.3897/zse.99.102604, URL: http://dx.doi.org/10.3897/zse.99.102604</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

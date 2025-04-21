@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c301eb23-63d4-48dd-addf-b2a9c9c260fd"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/2jfldy</alternateIdentifier>
+                <alternateIdentifier>https://collections.nmnh.si.edu/ipt/resource?r=asiloid-flies</alternateIdentifier>
+                <alternateIdentifier>c301eb23-63d4-48dd-addf-b2a9c9c260fd</alternateIdentifier>
+        <title>Asiloid Flies: new taxa of Diptera: Apioceridae, Asilidae, and Mydidae</title>
+            <creator>
+            <individualName>
+<givenName>Torsten</givenName>                    <surName>Dikow</surName>
+            </individualName>
+<organizationName>National Museum of Natural History, Smithsonian Institution</organizationName><positionName>Research Entomologist</positionName>            <address>
+<deliveryPoint>10th Street and Constitution Avenue NW</deliveryPoint><city>Washington</city><administrativeArea>DC</administrativeArea><postalCode>20004</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 202 633 1005</phone><electronicMailAddress>DikowT@si.edu</electronicMailAddress><onlineUrl>http://asiloidflies.si.edu</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4816-2909</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Torsten</givenName>                    <surName>Dikow</surName>
+            </individualName>
+<organizationName>National Museum of Natural History, Smithsonian Institution</organizationName><positionName>Research Entomologist</positionName>            <address>
+<deliveryPoint>10th Street and Constitution Avenue NW</deliveryPoint><city>Washington</city><administrativeArea>DC</administrativeArea><postalCode>20004</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 202 633 1005</phone><electronicMailAddress>DikowT@si.edu</electronicMailAddress><onlineUrl>http://asiloidflies.si.edu</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4816-2909</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Torsten</givenName>                    <surName>Dikow</surName>
+            </individualName>
+<organizationName>National Museum of Natural History, Smithsonian Institution</organizationName><positionName>Research Entomologist</positionName>            <address>
+<deliveryPoint>10th Street and Constitution Avenue NW</deliveryPoint><city>Washington</city><administrativeArea>DC</administrativeArea><postalCode>20004</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 202 633 1005</phone><electronicMailAddress>DikowT@si.edu</electronicMailAddress><onlineUrl>http://asiloidflies.si.edu</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4816-2909</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-03-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Taxon names of newly described species and genera of Apioceridae, Asilidae, and Mydidae</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Taxonomicauthority</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://asiloidflies.si.edu</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Taxon names of newly described species and genera of Apioceridae, Asilidae, and Mydidae world-wide.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Taxon names of newly described species and genera of Apioceridae, Asilidae, and Mydidae world-wide.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Order</taxonRankName>
+                                    <taxonRankValue>Diptera</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <purpose>
+                <para>This checklist will register with GBIF (and with it Catalogue of Life) new taxon names of Apioceridae, Asilidae, and Mydidae world-wide.</para>
+            </purpose>
+            <maintenance>
+                <description>
+                    <para>This checklist will be updated periodically based on newly described taxa.</para>
+                </description>
+                <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Torsten</givenName>                    <surName>Dikow</surName>
+            </individualName>
+<organizationName>National Museum of Natural History, Smithsonian Institution</organizationName><positionName>Research Entomologist</positionName>            <address>
+<deliveryPoint>10th Street and Constitution Avenue NW</deliveryPoint><city>Washington</city><administrativeArea>DC</administrativeArea><postalCode>20004</postalCode><country>UNITED_STATES</country>            </address>
+<phone>+1 202 633 1005</phone><electronicMailAddress>DikowT@si.edu</electronicMailAddress><onlineUrl>http://asiloidflies.si.edu</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-4816-2909</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>new taxon names world-wide</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>new taxon names world-wide</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>new taxon names world-wide</para>
+                        </samplingDescription>
+                    </sampling>
+                    <qualityControl>
+                        <description>
+                            <para>all new names based on published scientific research</para>
+                        </description>
+                    </qualityControl>
+            </methods>
+
+            <project >
+                <title>Taxon names of newly described species and genera of Apioceridae, Asilidae, and Mydidae world-wide</title>
+                    <personnel>
+            <individualName>
+<givenName>Torsten</givenName>                    <surName>Dikow</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0003-4816-2909</userId>
+            <role>PRINCIPAL_INVESTIGATOR</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:06Z</dateStamp>
+                <citation>Dikow T (2022). Asiloid Flies: new taxa of Diptera: Apioceridae, Asilidae, and Mydidae. Version 1.5. National Museum of Natural History, Smithsonian Institution. Checklist dataset https://doi.org/10.15468/2jfldy accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

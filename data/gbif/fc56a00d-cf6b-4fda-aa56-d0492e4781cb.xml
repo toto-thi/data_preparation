@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="fc56a00d-cf6b-4fda-aa56-d0492e4781cb"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5252/geodiversitas2021v43a11</alternateIdentifier>
+                <alternateIdentifier>fc56a00d-cf6b-4fda-aa56-d0492e4781cb</alternateIdentifier>
+                <alternateIdentifier>10.15468/6nh58u</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:07D1F5A8-98E2-40F1-A716-D25CB975EA4C</alternateIdentifier>
+                <alternateIdentifier>E116E7539A11FFE5FFDBFFFADF3DBA1F</alternateIdentifier>
+        <title>The Mont-des-Récollets section (N France): a key site for the Ypresian-Lutetian transition at mid-latitudes - reassessment of the boundary criterion for the base- Lutetian GSSP</title>
+            <creator>
+            <individualName>
+<givenName>Etienne</givenName>                    <surName>Steurbaut</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dirk</givenName>                    <surName>Nolf</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-05-25
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Steurbaut, Etienne, Nolf, Dirk (2021): The Mont-des-Récollets section (N France): a key site for the Ypresian-Lutetian transition at mid-latitudes - reassessment of the boundary criterion for the base- Lutetian GSSP. Geodiversitas 43 (11): 311-363, DOI: 10.5252/geodiversitas2021v43a11</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/E116E7539A11FFE5FFDBFFFADF3DBA1F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:34Z</dateStamp>
+                <citation>Steurbaut E, Nolf D, felipe (2021). The Mont-des-Récollets section (N France): a key site for the Ypresian-Lutetian transition at mid-latitudes - reassessment of the boundary criterion for the base- Lutetian GSSP. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5252/geodiversitas2021v43a11 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

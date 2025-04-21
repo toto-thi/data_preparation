@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e3e8f325-7ce2-4262-a3f0-78500edec1cc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4861.3.7</alternateIdentifier>
+                <alternateIdentifier>e3e8f325-7ce2-4262-a3f0-78500edec1cc</alternateIdentifier>
+                <alternateIdentifier>10.15468/taqesx</alternateIdentifier>
+                <alternateIdentifier>31F68A22-668F-4E9D-B41B-266F76A6656D</alternateIdentifier>
+                <alternateIdentifier>5B1CFFDCFFC76F34FFF6605FFF9CFFA4</alternateIdentifier>
+        <title>New species and stages description of Traverella Edmunds, 1948 (Ephemeroptera Leptophlebiidae) from Northeast Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Stênio R. S.</givenName>                    <surName>Nascimento</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lucas R. C.</givenName>                    <surName>Lima</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodolfo</givenName>                    <surName>Mariano</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos A. S.</givenName>                    <surName>Azevêdo</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2020-10-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nascimento, Stênio R. S., Lima, Lucas R. C., Mariano, Rodolfo, Azevêdo, Carlos A. S. (2020): New species and stages description of Traverella Edmunds, 1948 (Ephemeroptera Leptophlebiidae) from Northeast Brazil. Zootaxa 4861 (3): 411-422, DOI: https://doi.org/10.11646/zootaxa.4861.3.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5B1CFFDCFFC76F34FFF6605FFF9CFFA4</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:39Z</dateStamp>
+                <citation>Nascimento S R S, Lima L R C, Mariano R, Azevêdo C A S, plazi (2020). New species and stages description of Traverella Edmunds, 1948 (Ephemeroptera Leptophlebiidae) from Northeast Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4861.3.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

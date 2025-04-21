@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="c482a3df-aa6d-430b-be6b-ebb423d5115e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.3713533</alternateIdentifier>
+                <alternateIdentifier>10.15468/xoc3ie</alternateIdentifier>
+                <alternateIdentifier>c482a3df-aa6d-430b-be6b-ebb423d5115e</alternateIdentifier>
+                <alternateIdentifier>EC27B465-2931-466C-A6B1-A818EC0143D0</alternateIdentifier>
+                <alternateIdentifier>FFE2FFB73041FFA10B10DC29486E677C</alternateIdentifier>
+        <title>Revisión taxonómica de Pseudococcus Westwood (Hemiptera: Pseudococcidae) de Centro y Sud América con descripciones de especies nuevas</title>
+            <creator>
+            <individualName>
+<givenName>María Cristina Granara de</givenName>                    <surName>Willink</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patricia</givenName>                    <surName>González</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-11-30
+            </pubDate>
+        <language>SPANISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Willink, María Cristina Granara de, González, Patricia (2018): Revisión taxonómica de Pseudococcus Westwood (Hemiptera: Pseudococcidae) de Centro y Sud América con descripciones de especies nuevas. Insecta Mundi 673: 1-117, DOI: http://doi.org/10.5281/zenodo.3713533</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE2FFB73041FFA10B10DC29486E677C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:19Z</dateStamp>
+                <citation>Willink M C G D, González P, felipe (2018). Revisión taxonómica de Pseudococcus Westwood (Hemiptera: Pseudococcidae) de Centro y Sud América con descripciones de especies nuevas. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.3713533 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

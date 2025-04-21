@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bf316636-bbbf-4ea9-932b-07274cd6248d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.37520/aemnp.2020.30</alternateIdentifier>
+                <alternateIdentifier>bf316636-bbbf-4ea9-932b-07274cd6248d</alternateIdentifier>
+                <alternateIdentifier>10.15468/rtvea9</alternateIdentifier>
+                <alternateIdentifier>D44E89D9-9DD5-4B50-BF58-D38E371E0692</alternateIdentifier>
+                <alternateIdentifier>BB48FFE3FFF7FFEE686CFFD3FF95FFE8</alternateIdentifier>
+        <title>Three new species of bristletails of the families Meinertellidae and Machilidae (Archaeognatha) from Ukraine and Southern Russia</title>
+            <creator>
+            <individualName>
+<givenName>Vladimir</givenName>                    <surName>Kaplin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Vladimir</givenName>                    <surName>Martynov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-08-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kaplin, Vladimir, Martynov, Vladimir (2020): Three new species of bristletails of the families Meinertellidae and Machilidae (Archaeognatha) from Ukraine and Southern Russia. Acta Entomologica Musei Nationalis Pragae 60 (2): 463-474, DOI: 10.37520/aemnp.2020.30</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/BB48FFE3FFF7FFEE686CFFD3FF95FFE8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:09Z</dateStamp>
+                <citation>Kaplin V, Martynov V, felipe (2020). Three new species of bristletails of the families Meinertellidae and Machilidae (Archaeognatha) from Ukraine and Southern Russia. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.37520/aemnp.2020.30 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

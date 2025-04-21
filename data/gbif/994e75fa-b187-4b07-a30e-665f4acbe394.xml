@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="994e75fa-b187-4b07-a30e-665f4acbe394"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/p9uad4</alternateIdentifier>
+        <title>Myriatrix</title>
+            <creator>
+            <individualName>
+<givenName>Carlos Alberto</givenName>                    <surName>Martínez Muñoz</surName>
+            </individualName>
+<organizationName>Zoological Museum, University of Turku</organizationName><electronicMailAddress>biotemail@gmail.com</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Carlos_Martinez-Munoz</onlineUrl>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Scratchpads</givenName>                    <surName>Team</surName>
+            </individualName>
+            <address>
+<deliveryPoint>Natural History Museum, Cromwell Road</deliveryPoint><city>London</city><administrativeArea>London</administrativeArea><postalCode>SW7 5BD</postalCode><country>UNITED_KINGDOM</country>            </address>
+<electronicMailAddress>scratchpads@nhm.ac.uk</electronicMailAddress><onlineUrl>http://scratchpads.org/</onlineUrl>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Peter</givenName>                    <surName>Decker</surName>
+            </individualName>
+<electronicMailAddress>peter_decker@yahoo.de</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <associatedParty>
+            <individualName>
+<givenName>Adrian</givenName>                    <surName>Pachzelt</surName>
+            </individualName>
+<electronicMailAddress>a.pachzelt@ub.uni-frankfurt.de</electronicMailAddress>            <role>POINT_OF_CONTACT</role>
+            </associatedParty>
+            <pubDate>
+                2023-03-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Myriatrix is a Scratchpads-based Virtual Research Environment proposed to the International Society of Myriapodology. It allows collaborative editing and linking of the classification, literature, and morphological traits of the many-legged terrestrial invertebrate groups Onychophora and Myriapoda (to the inclusion of Euthycarcinoidea). The taxonomic backbone is based on the Species 2000 &amp;amp; ITIS Catalogue of Life (2015 release). The literature database contains circa 1300 references, spanning from 1535 to present. This dataset represents the output of an ongoing endeavor, and therefore is periodically updated. For more information, please see http://myriatrix.myspecies.info/ and the original database proposal on https://www.researchgate.net/publication/337844165
+
+
+
+How to cite:
+
+The Fellegship of the Rings (2020 onwards): Myriatrix. Available from http://myriatrix.myspecies.info</para>
+            </abstract>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://myriatrix.myspecies.info/classification/13</url>
+                </online>
+            </distribution>
+            <coverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                    <taxonRankValue>General discussion</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Carlos Alberto</givenName>                    <surName>Martínez Muñoz</surName>
+            </individualName>
+<organizationName>Zoological Museum, University of Turku</organizationName><electronicMailAddress>biotemail@gmail.com</electronicMailAddress><onlineUrl>https://www.researchgate.net/profile/Carlos_Martinez-Munoz</onlineUrl>            </contact>
+
+            <project >
+                <title>Myriatrix</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:25Z</dateStamp>
+                <citation>Martínez Muñoz C A, Team S (2023). Myriatrix. Scratchpads. Checklist dataset https://doi.org/10.15468/p9uad4 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

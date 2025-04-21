@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9e2df40b-14b5-4333-a904-a1a74cd8c5a3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1590/s0073-47212006000300003</alternateIdentifier>
+                <alternateIdentifier>9e2df40b-14b5-4333-a904-a1a74cd8c5a3</alternateIdentifier>
+                <alternateIdentifier>10.15468/at2fkl</alternateIdentifier>
+                <alternateIdentifier>C478FF85A875FF93FFB6FFDDFF83161B</alternateIdentifier>
+        <title>Nova espécie de Euschistus (Mitripus) da Argentina e sul do Brasil (Hemiptera, Pentatomidae, Pentatominae)</title>
+            <creator>
+            <individualName>
+<givenName>Paulo Roberto S.</givenName>                    <surName>Bunde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jocélia</givenName>                    <surName>Grazia</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Milton de S.</givenName>                    <surName>Mendonça Junior</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2006-09-30
+            </pubDate>
+        <language>PORTUGUESE</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Bunde, Paulo Roberto S., Grazia, Jocélia, Mendonça Junior, Milton de S. (2006): Nova espécie de Euschistus (Mitripus) da Argentina e sul do Brasil (Hemiptera, Pentatomidae, Pentatominae). Iheringia, Sér. Zool. 96 (3): 289-291, DOI: 10.1590/s0073-47212006000300003</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C478FF85A875FF93FFB6FFDDFF83161B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:48Z</dateStamp>
+                <citation>Bunde P R S, Grazia J, Mendonça Junior M D S, valdenar (2006). Nova espécie de Euschistus (Mitripus) da Argentina e sul do Brasil (Hemiptera, Pentatomidae, Pentatominae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1590/s0073-47212006000300003 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

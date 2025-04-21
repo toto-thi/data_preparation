@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4de0fe4e-219b-432f-9d36-43d2f4a41835"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2019.563</alternateIdentifier>
+                <alternateIdentifier>4de0fe4e-219b-432f-9d36-43d2f4a41835</alternateIdentifier>
+                <alternateIdentifier>10.15468/rupfvm</alternateIdentifier>
+                <alternateIdentifier>6F6E082D-0675-49C1-A603-F7BABB546C46</alternateIdentifier>
+                <alternateIdentifier>DC27FFD5FF90FFD51A0BFFD24347886C</alternateIdentifier>
+        <title>A review of the cleptoparasitic bee genus Epeolus Latreille, 1802 (Hymenoptera: Apidae) in the Caribbean, Central America and Mexico</title>
+            <creator>
+            <individualName>
+<givenName>Thomas M.</givenName>                    <surName>Onuferko</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-10-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Onuferko, Thomas M. (2019): A review of the cleptoparasitic bee genus Epeolus Latreille, 1802 (Hymenoptera: Apidae) in the Caribbean, Central America and Mexico. European Journal of Taxonomy 563: 1-69, DOI: https://doi.org/10.5852/ejt.2019.563</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/DC27FFD5FF90FFD51A0BFFD24347886C</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:40Z</dateStamp>
+                <citation>Onuferko T M, plazi (2019). A review of the cleptoparasitic bee genus Epeolus Latreille, 1802 (Hymenoptera: Apidae) in the Caribbean, Central America and Mexico. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2019.563 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="2a7529e5-31a9-453f-a916-e114a23fb39d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ueevyc</alternateIdentifier>
+                <alternateIdentifier>FF80FFD1FFA2FFBFF456FF9EF418F905</alternateIdentifier>
+        <title>Impatiens banen and Impatiens etugei (Balsaminaceae), new threatened species from lowland of the Cross-Sanaga Interval, Cameroon</title>
+            <creator>
+            <individualName>
+<givenName>Martin</givenName>                    <surName>Cheek</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jo</givenName>                    <surName>Osborne</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xander</givenName>                    <surName>van der Burgt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Iain</givenName>                    <surName>Darbyshire</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jean Michel</givenName>                    <surName>Onana</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-12-19
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cheek, Martin, Osborne, Jo, van der Burgt, Xander, Darbyshire, Iain, Onana, Jean Michel (2022): Impatiens banen and Impatiens etugei (Balsaminaceae), new threatened species from lowland of the Cross-Sanaga Interval, Cameroon. Kew Bulletin 39 (1): 105-114, DOI: 10.1007/s12225-022-10073-w, URL: http://dx.doi.org/10.1007/s12225-022-10073-w</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FF80FFD1FFA2FFBFF456FF9EF418F905</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:13Z</dateStamp>
+                <citation>Cheek M, Osborne J, van der Burgt X, Darbyshire I, Onana J M, valdenar (2022). Impatiens banen and Impatiens etugei (Balsaminaceae), new threatened species from lowland of the Cross-Sanaga Interval, Cameroon. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ueevyc accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

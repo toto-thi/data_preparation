@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bd25fbf7-278f-41d6-bc17-9f08f2632f70"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/cy6a1s</alternateIdentifier>
+                <alternateIdentifier>http://ipt.biodiversity.be/resource.do?r=mrac_fruitfly_checklist</alternateIdentifier>
+                <alternateIdentifier>bd25fbf7-278f-41d6-bc17-9f08f2632f70</alternateIdentifier>
+                <alternateIdentifier>13658</alternateIdentifier>
+        <title>True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region</title>
+            <creator>
+            <individualName>
+<givenName>Marc</givenName>                    <surName>de Meyer</surName>
+            </individualName>
+<organizationName>Royal Museum for Central Africa</organizationName><positionName>Entomologist</positionName>            <address>
+<deliveryPoint>Leuvensesteenweg 13</deliveryPoint><city>Tervuren</city><postalCode>3080</postalCode><country>BELGIUM</country>            </address>
+<electronicMailAddress>marc.de.meyer@africamuseum.be</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>André</givenName>                    <surName>Heughebaert</surName>
+            </individualName>
+<organizationName>Belgian Biodiversity Platform</organizationName><positionName>Node Manager</positionName>            <address>
+<country>BELGIUM</country>            </address>
+<electronicMailAddress>aheugheb@ulb.ac.be</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>André</givenName>                    <surName>Heughebaert</surName>
+            </individualName>
+<organizationName>Belgian Biodiversity Platform</organizationName><positionName>Node Manager</positionName>            <address>
+<country>BELGIUM</country>            </address>
+<electronicMailAddress>aheugheb@ulb.ac.be</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2014-10-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This checklist covers all relevant information of the major dacine fruit fly genera of Africa.
+Initially established under the ENBI project, it provides a list current taxonomic status of species involved, as well as synonymy.
+Limitations of scope: the pilot study is focusing on a group of Afrotropical fruit flies only. Reason is that, over the last decade years several projects have focused on this group (cf. above) and that a mass of specimen related data are available. Afrotropical is used here in the biogeographical sense, hence the region below of the Sahara dessert. However, some additional records from northern Africa and the Middle East are included but not as exhaustive as those for the true Afrotropical region.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Checklist</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://projects.bebif.be/fruitfly/index.html</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Africa</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-19.49</westBoundingCoordinate>
+                                <eastBoundingCoordinate>54.65</eastBoundingCoordinate>
+                                <northBoundingCoordinate>38.16</northBoundingCoordinate>
+                                <southBoundingCoordinate>-36.76</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Diptera, Tephritidae</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Family</taxonRankName>
+                                    <taxonRankValue>Tephritidae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Marc</givenName>                    <surName>de Meyer</surName>
+            </individualName>
+<organizationName>Royal Museum for Central Africa</organizationName><positionName>Entomologist</positionName>            <address>
+<deliveryPoint>Leuvensesteenweg 13</deliveryPoint><city>Tervuren</city><postalCode>3080</postalCode><country>BELGIUM</country>            </address>
+<electronicMailAddress>marc.de.meyer@africamuseum.be</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:24:02Z</dateStamp>
+                <citation>de Meyer M, Heughebaert A (2014). True Fruit Flies (Diptera, Tephritidae) of the Afrotropical Region. Belgian Biodiversity Platform. Checklist dataset https://doi.org/10.15468/cy6a1s accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

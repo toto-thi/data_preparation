@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3daa21e6-497a-466b-b4f6-ef0ae1dd0ba4"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ken7wa</alternateIdentifier>
+                <alternateIdentifier>A80BFFD2CB25FFAAFFD5FFDEFFA85571</alternateIdentifier>
+        <title>A revision of the Adenophorus Group and other glandular-leaved species of Croton (Euphorbiaceae) from northern Madagascar and Mayotte, including three new species</title>
+            <creator>
+            <individualName>
+<givenName>Kent</givenName>                    <surName>Kainulainen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Benjamin van</givenName>                    <surName>Ee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hanta</givenName>                    <surName>Razafindraibe</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paul E.</givenName>                    <surName>Berry</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2017-09-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kainulainen, Kent, Ee, Benjamin van, Razafindraibe, Hanta, Berry, Paul E. (2017): A revision of the Adenophorus Group and other glandular-leaved species of Croton (Euphorbiaceae) from northern Madagascar and Mayotte, including three new species. Candollea 72 (2): 371-402, DOI: 10.15553/c2017v722a15</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A80BFFD2CB25FFAAFFD5FFDEFFA85571</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:16:42Z</dateStamp>
+                <citation>Kainulainen K, Ee B V, Razafindraibe H, Berry P E, carolina (2017). A revision of the Adenophorus Group and other glandular-leaved species of Croton (Euphorbiaceae) from northern Madagascar and Mayotte, including three new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/ken7wa accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

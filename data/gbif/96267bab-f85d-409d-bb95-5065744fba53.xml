@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="96267bab-f85d-409d-bb95-5065744fba53"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2016.181</alternateIdentifier>
+                <alternateIdentifier>96267bab-f85d-409d-bb95-5065744fba53</alternateIdentifier>
+                <alternateIdentifier>10.15468/uedqg4</alternateIdentifier>
+                <alternateIdentifier>urn:lsid:zoobank.org:pub:BAA1A445-2005-421F-81C2-493851B1F689</alternateIdentifier>
+                <alternateIdentifier>FF83435CFFCFFF977C4C1E35FFF6FF83</alternateIdentifier>
+        <title>A key to the genera of Issini (Hemiptera: Fulgoromorpha: Issidae) of China and neighbouring countries, with descriptions of a new genus and two new species</title>
+            <creator>
+            <individualName>
+                    <surName>Rui Meng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Yinglun Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Daozheng Qin</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Rui Meng, Yinglun Wang, Daozheng Qin (2016): A key to the genera of Issini (Hemiptera: Fulgoromorpha: Issidae) of China and neighbouring countries, with descriptions of a new genus and two new species. European Journal of Taxonomy 181: 1-25, DOI: http://dx.doi.org/10.5852/ejt.2016.181</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF83435CFFCFFF977C4C1E35FFF6FF83</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:15Z</dateStamp>
+                <citation>Rui Meng, Yinglun Wang, Daozheng Qin, plazi (2016). A key to the genera of Issini (Hemiptera: Fulgoromorpha: Issidae) of China and neighbouring countries, with descriptions of a new genus and two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2016.181 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

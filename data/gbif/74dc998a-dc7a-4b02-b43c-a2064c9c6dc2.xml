@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="74dc998a-dc7a-4b02-b43c-a2064c9c6dc2"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4947.1.1</alternateIdentifier>
+                <alternateIdentifier>74dc998a-dc7a-4b02-b43c-a2064c9c6dc2</alternateIdentifier>
+                <alternateIdentifier>10.15468/kgzuxe</alternateIdentifier>
+                <alternateIdentifier>7F3B4794-65CF-4691-A330-78A423F2606F</alternateIdentifier>
+                <alternateIdentifier>FFABFFD99569FF8ECF605A0DFFF9206F</alternateIdentifier>
+        <title>An annotated checklist of the chondrichthyans of South Africa</title>
+            <creator>
+            <individualName>
+<givenName>David A.</givenName>                    <surName>Ebert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sabine P.</givenName>                    <surName>Wintner</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Peter M.</givenName>                    <surName>Kyne</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-03-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Ebert, David A., Wintner, Sabine P., Kyne, Peter M. (2021): An annotated checklist of the chondrichthyans of South Africa. Zootaxa 4947 (1): 1-127, DOI: https://doi.org/10.11646/zootaxa.4947.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFABFFD99569FF8ECF605A0DFFF9206F</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:50Z</dateStamp>
+                <citation>Ebert D A, Wintner S P, Kyne P M, plazi (2021). An annotated checklist of the chondrichthyans of South Africa. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4947.1.1 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

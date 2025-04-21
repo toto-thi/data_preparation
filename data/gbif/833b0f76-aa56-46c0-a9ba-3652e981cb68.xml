@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="833b0f76-aa56-46c0-a9ba-3652e981cb68"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/phytotaxa.497.2.9</alternateIdentifier>
+                <alternateIdentifier>833b0f76-aa56-46c0-a9ba-3652e981cb68</alternateIdentifier>
+                <alternateIdentifier>10.15468/mpy6j8</alternateIdentifier>
+                <alternateIdentifier>FFB6FFB2FF89E16C7C50FF9C137EFFBC</alternateIdentifier>
+        <title>On the identity of some taxa of Pertusaria (lichens) described by C. F. E. Erichsen</title>
+            <creator>
+            <individualName>
+<givenName>Magdalena</givenName>                    <surName>Oset</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>marcus</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-20
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Oset, Magdalena (2021): On the identity of some taxa of Pertusaria (lichens) described by C. F. E. Erichsen. Phytotaxa 497 (2): 165-171, DOI: 10.11646/phytotaxa.497.2.9, URL: http://dx.doi.org/10.11646/phytotaxa.497.2.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB6FFB2FF89E16C7C50FF9C137EFFBC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:59Z</dateStamp>
+                <citation>Oset M, marcus (2021). On the identity of some taxa of Pertusaria (lichens) described by C. F. E. Erichsen. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/phytotaxa.497.2.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

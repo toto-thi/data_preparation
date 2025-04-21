@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3fec678d-2a3c-4fdd-9564-aebe0202971b"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11865/zs.201837</alternateIdentifier>
+                <alternateIdentifier>3fec678d-2a3c-4fdd-9564-aebe0202971b</alternateIdentifier>
+                <alternateIdentifier>10.15468/yq76kb</alternateIdentifier>
+                <alternateIdentifier>8B757D16-DB73-4263-83BD-823B8B08DC7D</alternateIdentifier>
+                <alternateIdentifier>FFBBFFE4BF42E77EBD35FFAEFF957310</alternateIdentifier>
+        <title>Three new species of eriophyid mites from Wanglang Nature Reserve, Sichuan, China (Acari: Eriophyidae)</title>
+            <creator>
+            <individualName>
+<givenName>Manchao</givenName>                    <surName>Xie</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Xie, Manchao (2018): Three new species of eriophyid mites from Wanglang Nature Reserve, Sichuan, China (Acari: Eriophyidae). Zoological Systematics 43 (4): 429-436, DOI: 10.11865/zs.201837, URL: http://zoobank.org/8b757d16-db73-4263-83bd-823b8b08dc7d</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFBBFFE4BF42E77EBD35FFAEFF957310</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:44Z</dateStamp>
+                <citation>Xie M, carolina (2018). Three new species of eriophyid mites from Wanglang Nature Reserve, Sichuan, China (Acari: Eriophyidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11865/zs.201837 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

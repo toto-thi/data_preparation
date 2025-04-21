@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="248e2740-8f3d-4c19-af6b-8f65c440db88"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.209646</alternateIdentifier>
+                <alternateIdentifier>248e2740-8f3d-4c19-af6b-8f65c440db88</alternateIdentifier>
+                <alternateIdentifier>10.15468/iz1iwv</alternateIdentifier>
+                <alternateIdentifier>6AC261D5-E4E1-4C1C-A7E2-2918F0A308B9</alternateIdentifier>
+                <alternateIdentifier>31055F5CFF96D8071246381FBF0EFFD2</alternateIdentifier>
+        <title>The genus Plectrocnemia Stephens in China (Trichoptera, Polycentropodidae)</title>
+            <creator>
+            <individualName>
+<givenName>Hua</givenName>                    <surName>Zhong</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lian-Fang</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>John C.</givenName>                    <surName>Morse</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2012-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Zhong, Hua, Yang, Lian-Fang, Morse, John C. (2012): The genus Plectrocnemia Stephens in China (Trichoptera, Polycentropodidae). Zootaxa 3489: 1-24, DOI: 10.5281/zenodo.209646</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/31055F5CFF96D8071246381FBF0EFFD2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:04Z</dateStamp>
+                <citation>Zhong H, Yang L, Morse J C, plazi (2012). The genus Plectrocnemia Stephens in China (Trichoptera, Polycentropodidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.209646 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

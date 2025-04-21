@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="553a3aca-85a7-4595-92f6-b9d131d47726"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/sktacs</alternateIdentifier>
+                <alternateIdentifier>E72DC3E8-9DE3-4F41-B34A-15FEB1AF6726</alternateIdentifier>
+                <alternateIdentifier>F915F8263EB0123D5E79B20A770BA2AC</alternateIdentifier>
+        <title>A new rainbowfish (Teleostei: Melanotaenioidei: Bedotiidae) from the southeastern highlands of Madagascar, with comments on the biogeography of Bedotia.</title>
+            <creator>
+            <individualName>
+                    <surName>John S. Sparks</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+                    <surName>Leila M. R. Rush</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Thomas</givenName>                    <surName>Stierhof</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2005-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article John S. Sparks, Leila M. R. Rush (2005): A new rainbowfish (Teleostei: Melanotaenioidei: Bedotiidae) from the southeastern highlands of Madagascar, with comments on the biogeography of Bedotia. Zootaxa 1051: 39-54, URL: http://www.zoobank.org/urn:lsid:zoobank.org:pub:E72DC3E8-9DE3-4F41-B34A-15FEB1AF6726</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/F915F8263EB0123D5E79B20A770BA2AC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:32Z</dateStamp>
+                <citation>John S. Sparks, Leila M. R. Rush, Stierhof T (2005). A new rainbowfish (Teleostei: Melanotaenioidei: Bedotiidae) from the southeastern highlands of Madagascar, with comments on the biogeography of Bedotia.. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/sktacs accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

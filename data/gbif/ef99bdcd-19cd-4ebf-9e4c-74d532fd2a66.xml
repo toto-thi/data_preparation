@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="ef99bdcd-19cd-4ebf-9e4c-74d532fd2a66"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2018.414</alternateIdentifier>
+                <alternateIdentifier>ef99bdcd-19cd-4ebf-9e4c-74d532fd2a66</alternateIdentifier>
+                <alternateIdentifier>10.15468/rukyth</alternateIdentifier>
+                <alternateIdentifier>BBF72BF5-D6F4-4AF0-A775-7C3BFAA15977</alternateIdentifier>
+                <alternateIdentifier>073E2832FF84AC1FFFA1152BFFC62A6E</alternateIdentifier>
+        <title>Three new species of Anacharis Dalman, 1823 (Hymenoptera: Figitidae), with revised taxonomy and distribution records of Palaearctic and Indomalayan species</title>
+            <creator>
+            <individualName>
+<givenName>Noel</givenName>                    <surName>Mata-Casanova</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jesús</givenName>                    <surName>Selfa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Juli</givenName>                    <surName>Pujade-Villar</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Mata-Casanova, Noel, Selfa, Jesús, Pujade-Villar, Juli (2018): Three new species of Anacharis Dalman, 1823 (Hymenoptera: Figitidae), with revised taxonomy and distribution records of Palaearctic and Indomalayan species. European Journal of Taxonomy 414: 1-25, DOI: https://doi.org/10.5852/ejt.2018.414</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/073E2832FF84AC1FFFA1152BFFC62A6E</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:27:05Z</dateStamp>
+                <citation>Mata-Casanova N, Selfa J, Pujade-Villar J, plazi (2018). Three new species of Anacharis Dalman, 1823 (Hymenoptera: Figitidae), with revised taxonomy and distribution records of Palaearctic and Indomalayan species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2018.414 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

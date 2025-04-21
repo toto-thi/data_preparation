@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="581c57f2-da1f-4130-8f8a-01fe88b2e6bc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2008.00463.x</alternateIdentifier>
+                <alternateIdentifier>581c57f2-da1f-4130-8f8a-01fe88b2e6bc</alternateIdentifier>
+                <alternateIdentifier>10.15468/y2mcbj</alternateIdentifier>
+                <alternateIdentifier>FF9B292BFF9EFFA19207FF89506E2453</alternateIdentifier>
+        <title>A new family of lithophoran Proseriata (Platyhelminthes), with the description of seven new species from the Indo-Pacific and South America, and the proposal of three new genera</title>
+            <creator>
+            <individualName>
+<givenName>Ernest R.</givenName>                    <surName>Schockaert</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Marco</givenName>                    <surName>Curini-Galletti</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wouter De</givenName>                    <surName>Ridder</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Odile</givenName>                    <surName>Volonterio</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tom</givenName>                    <surName>Artois</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2009-04-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Schockaert, Ernest R., Curini-Galletti, Marco, Ridder, Wouter De, Volonterio, Odile, Artois, Tom (2009): A new family of lithophoran Proseriata (Platyhelminthes), with the description of seven new species from the Indo-Pacific and South America, and the proposal of three new genera. Zoological Journal of the Linnean Society 155 (4): 759-773, DOI: 10.1111/j.1096-3642.2008.00463.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2008.00463.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF9B292BFF9EFFA19207FF89506E2453</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:42Z</dateStamp>
+                <citation>Schockaert E R, Curini-Galletti M, Ridder W D, Volonterio O, Artois T, carolina (2009). A new family of lithophoran Proseriata (Platyhelminthes), with the description of seven new species from the Indo-Pacific and South America, and the proposal of three new genera. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2008.00463.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

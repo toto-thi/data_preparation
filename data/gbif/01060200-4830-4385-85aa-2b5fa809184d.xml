@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="01060200-4830-4385-85aa-2b5fa809184d"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/4prrh3</alternateIdentifier>
+                <alternateIdentifier>FFE44B51EF7E584EFFD4FFE0C4635A44</alternateIdentifier>
+        <title>Fungal Biodiversity Profiles 81 - 90</title>
+            <creator>
+            <individualName>
+<givenName>Xiang-Hua</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kanad</givenName>                    <surName>Das</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ishika</givenName>                    <surName>Bera</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yu-Hui</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rajendra Prasad</givenName>                    <surName>Bhatt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Aniket</givenName>                    <surName>Ghosh</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manoj Emanuel</givenName>                    <surName>Hembrom</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Valérie</givenName>                    <surName>Hofstetter</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Arvind</givenName>                    <surName>Parihar</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alfredo</givenName>                    <surName>Vizzini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Tai-Min</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Chang-Lin</givenName>                    <surName>Zhao</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-08-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Wang, Xiang-Hua, Das, Kanad, Bera, Ishika, Chen, Yu-Hui, Bhatt, Rajendra Prasad, Ghosh, Aniket, Hembrom, Manoj Emanuel, Hofstetter, Valérie, Parihar, Arvind, Vizzini, Alfredo, Xu, Tai-Min, Zhao, Chang-Lin (2019): Fungal Biodiversity Profiles 81 - 90. Cryptogamie, Mycologie 20 (5): 57-95, DOI: 10.5252/cryptogamie-mycologie2019v40a5, URL: https://bioone.org/journals/cryptogamie-mycologie/volume-40/issue-5/cryptogamie-mycologie2019v40a5/Fungal-Biodiversity-Profiles-81-90/10.5252/cryptogamie-mycologie2019v40a5.full</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFE44B51EF7E584EFFD4FFE0C4635A44</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:04Z</dateStamp>
+                <citation>Wang X, Das K, Bera I, Chen Y, Bhatt R P, Ghosh A, Hembrom M E, Hofstetter V, Parihar A, Vizzini A, Xu T, Zhao C, felipe (2019). Fungal Biodiversity Profiles 81 - 90. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/4prrh3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

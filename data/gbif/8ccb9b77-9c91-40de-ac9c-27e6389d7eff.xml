@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="8ccb9b77-9c91-40de-ac9c-27e6389d7eff"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.185613</alternateIdentifier>
+                <alternateIdentifier>10.15468/jhxbqm</alternateIdentifier>
+                <alternateIdentifier>C474FFB5413DFFDEFF8165559A253962</alternateIdentifier>
+        <title>Review of the spoon tarsus subgroup of Hawaiian Drosophila (Drosophilidae: Diptera), with a description of one new species</title>
+            <creator>
+            <individualName>
+<givenName>Richard T.</givenName>                    <surName>Lapoint</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Karl N.</givenName>                    <surName>Magnacca</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Patrick M.</givenName>                    <surName>O’Grady</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2009-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Lapoint, Richard T., Magnacca, Karl N., O’Grady, Patrick M. (2009): Review of the spoon tarsus subgroup of Hawaiian Drosophila (Drosophilidae: Diptera), with a description of one new species. Zootaxa 2003: 53-68, DOI: 10.5281/zenodo.185613</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/C474FFB5413DFFDEFF8165559A253962</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:13:08Z</dateStamp>
+                <citation>Lapoint R T, Magnacca K N, O’Grady P M, plazi (2009). Review of the spoon tarsus subgroup of Hawaiian Drosophila (Drosophilidae: Diptera), with a description of one new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.185613 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

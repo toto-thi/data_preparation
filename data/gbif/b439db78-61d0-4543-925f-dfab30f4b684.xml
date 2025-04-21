@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b439db78-61d0-4543-925f-dfab30f4b684"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4088.4.9</alternateIdentifier>
+                <alternateIdentifier>b439db78-61d0-4543-925f-dfab30f4b684</alternateIdentifier>
+                <alternateIdentifier>10.15468/a9n9sj</alternateIdentifier>
+                <alternateIdentifier>9E4C0067-3354-45D5-95BA-B9CF274FA590</alternateIdentifier>
+                <alternateIdentifier>FFCEFFDFFFBFFFF36913D6035E6EFFC2</alternateIdentifier>
+        <title>Review of the Polistes (Polistella) &quot; Stenopolistes &quot; species-group (Hymenoptera: Vespidae: Polistinae) from Vietnam, with description of a new species and key to species</title>
+            <creator>
+            <individualName>
+<givenName>Lien T. P.</givenName>                    <surName>Nguyen</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>James M.</givenName>                    <surName>Carpenter</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Nguyen, Lien T. P., Carpenter, James M. (2016): Review of the Polistes (Polistella) &amp;#34; Stenopolistes &amp;#34; species-group (Hymenoptera: Vespidae: Polistinae) from Vietnam, with description of a new species and key to species. Zootaxa 4088 (4): 583-593, DOI: http://dx.doi.org/10.11646/zootaxa.4088.4.9</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFCEFFDFFFBFFFF36913D6035E6EFFC2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:24Z</dateStamp>
+                <citation>Nguyen L T P, Carpenter J M, plazi (2016). Review of the Polistes (Polistella) &quot; Stenopolistes &quot; species-group (Hymenoptera: Vespidae: Polistinae) from Vietnam, with description of a new species and key to species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4088.4.9 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

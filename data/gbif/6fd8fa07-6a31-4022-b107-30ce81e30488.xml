@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6fd8fa07-6a31-4022-b107-30ce81e30488"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4078.1.13</alternateIdentifier>
+                <alternateIdentifier>6fd8fa07-6a31-4022-b107-30ce81e30488</alternateIdentifier>
+                <alternateIdentifier>10.15468/zdq8gi</alternateIdentifier>
+                <alternateIdentifier>17789725-31BD-419E-9922-EC6D9915946D</alternateIdentifier>
+                <alternateIdentifier>1561FFDAFFDCFFB3F3659A5DFFDF8B4A</alternateIdentifier>
+        <title>Two new species of the Neotropical spittlebug genus Monecphora Amyot &amp; Serville (Hemiptera: Cercopidae) with key and notes of species of the genus</title>
+            <creator>
+            <individualName>
+<givenName>Gervásio Silva</givenName>                    <surName>Carvalho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Albino Morimasa</givenName>                    <surName>Sakakibara</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael D.</givenName>                    <surName>Webb</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Carvalho, Gervásio Silva, Sakakibara, Albino Morimasa, Webb, Michael D. (2016): Two new species of the Neotropical spittlebug genus Monecphora Amyot &amp;amp; Serville (Hemiptera: Cercopidae) with key and notes of species of the genus. Zootaxa 4078 (1): 143-152, DOI: http://doi.org/10.11646/zootaxa.4078.1.13</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/1561FFDAFFDCFFB3F3659A5DFFDF8B4A</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:42Z</dateStamp>
+                <citation>Carvalho G S, Sakakibara A M, Webb M D, plazi (2016). Two new species of the Neotropical spittlebug genus Monecphora Amyot &amp; Serville (Hemiptera: Cercopidae) with key and notes of species of the genus. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4078.1.13 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="50dc4e2e-df2e-467e-8195-dc8564717595"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/tqdhd3</alternateIdentifier>
+                <alternateIdentifier>F776FF9D0C2DE241FFDEDE7420076262</alternateIdentifier>
+        <title>The Amidella clade in Europe (Basidiomycota: Amanitaceae): clarification of the contentious Amanita valens (E. - J. Gilbert) Bertault and the importance of taxon-specific PCR primers for identification</title>
+            <creator>
+            <individualName>
+<givenName>Ricardo</givenName>                    <surName>Arraiano-Castilho</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ana Cristina</givenName>                    <surName>Silva</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Carlos</givenName>                    <surName>Vila-Viçosa</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mário Rui</givenName>                    <surName>Castro</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luís Neves</givenName>                    <surName>Morgado</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Paulo</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-10-24
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Arraiano-Castilho, Ricardo, Silva, Ana Cristina, Vila-Viçosa, Carlos, Castro, Mário Rui, Morgado, Luís Neves, Oliveira, Paulo (2022): The Amidella clade in Europe (Basidiomycota: Amanitaceae): clarification of the contentious Amanita valens (E. - J. Gilbert) Bertault and the importance of taxon-specific PCR primers for identification. Cryptogamie, Mycologie 20 (6): 139-157, DOI: 10.5252/cryptogamie-mycologie2022v43a6, URL: http://dx.doi.org/10.5252/cryptogamie-mycologie2022v43a6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/F776FF9D0C2DE241FFDEDE7420076262</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:37Z</dateStamp>
+                <citation>Arraiano-Castilho R, Silva A C, Vila-Viçosa C, Castro M R, Morgado L N, Oliveira P, felipe (2022). The Amidella clade in Europe (Basidiomycota: Amanitaceae): clarification of the contentious Amanita valens (E. - J. Gilbert) Bertault and the importance of taxon-specific PCR primers for identification. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/tqdhd3 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

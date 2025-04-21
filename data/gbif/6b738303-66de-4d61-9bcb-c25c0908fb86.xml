@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6b738303-66de-4d61-9bcb-c25c0908fb86"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11606/1807-0205/2018.58.21</alternateIdentifier>
+                <alternateIdentifier>6b738303-66de-4d61-9bcb-c25c0908fb86</alternateIdentifier>
+                <alternateIdentifier>10.15468/z5vr5y</alternateIdentifier>
+                <alternateIdentifier>CDBE9FCB-4EBD-44BF-8238-A1947D8C8539</alternateIdentifier>
+                <alternateIdentifier>D86B9C10FF94FFF0FFD3AF2DFFC9FF90</alternateIdentifier>
+        <title>Triplocania Roesler: a new species, redescriptions, description of the female of Triplocania spinosa Mockford, and revalidation of the original combination of Belicania cervantesi (García Aldrete) (Psocodea: ‘ Psocoptera’: Ptiloneuridae)</title>
+            <creator>
+            <individualName>
+<givenName>Alberto Moreira da</givenName>                    <surName>Silva-Neto</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alfonso Neri García</givenName>                    <surName>Aldrete</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>José Albertino</givenName>                    <surName>Rafael</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Pensoft Publishers</organizationName>            <address>
+<deliveryPoint>Prof. Georgi Zlatarski Street 12</deliveryPoint><city>Sofia</city><postalCode>1700</postalCode><country>BULGARIA</country>            </address>
+<electronicMailAddress>info@pensoft.net</electronicMailAddress><onlineUrl>http://www.pensoft.net</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2018-04-16
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Silva-Neto, Alberto Moreira da, Aldrete, Alfonso Neri García, Rafael, José Albertino (2018): Triplocania Roesler: a new species, redescriptions, description of the female of Triplocania spinosa Mockford, and revalidation of the original combination of Belicania cervantesi (García Aldrete) (Psocodea: ‘ Psocoptera’: Ptiloneuridae). Papéis Avulsos de Zoologia 58: 1-11, DOI: 10.11606/1807-0205/2018.58.21</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/D86B9C10FF94FFF0FFD3AF2DFFC9FF90</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:15Z</dateStamp>
+                <citation>Silva-Neto A M D, Aldrete A N G, Rafael J A, carolina (2018). Triplocania Roesler: a new species, redescriptions, description of the female of Triplocania spinosa Mockford, and revalidation of the original combination of Belicania cervantesi (García Aldrete) (Psocodea: ‘ Psocoptera’: Ptiloneuridae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11606/1807-0205/2018.58.21 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

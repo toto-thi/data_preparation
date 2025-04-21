@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="4c065cc9-0f2c-4e04-9141-c36bf101c3d5"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/w3sf2g</alternateIdentifier>
+                <alternateIdentifier>FFC3F666AB40FF8B4617FFCFFFDEFFB3</alternateIdentifier>
+        <title>Integrative taxonomy, larval biology and functional morphology of the little known gall-forming coral endoparasite Petrarca (Thecostraca: Ascothoracida)</title>
+            <creator>
+            <individualName>
+<givenName>Gregory A.</givenName>                    <surName>Kolbasov</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexandra S.</givenName>                    <surName>Savchenko</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Meng-Chen</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Yao-Feng</givenName>                    <surName>Tsao</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Monthon</givenName>                    <surName>Ganmanee</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Benny K. K.</givenName>                    <surName>Chan</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kolbasov, Gregory A., Savchenko, Alexandra S., Yu, Meng-Chen, Tsao, Yao-Feng, Ganmanee, Monthon, Chan, Benny K. K. (2023): Integrative taxonomy, larval biology and functional morphology of the little known gall-forming coral endoparasite Petrarca (Thecostraca: Ascothoracida). Zoological Journal of the Linnean Society 198: 767-801, DOI: 10.1093/zoolinnean/zlad009</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFC3F666AB40FF8B4617FFCFFFDEFFB3</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:28Z</dateStamp>
+                <citation>Kolbasov G A, Savchenko A S, Yu M, Tsao Y, Ganmanee M, Chan B K K, plazi (2023). Integrative taxonomy, larval biology and functional morphology of the little known gall-forming coral endoparasite Petrarca (Thecostraca: Ascothoracida). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/w3sf2g accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Kolbasov, Gregory A., Savchenko, Alexandra S., Yu, Meng-Chen, Tsao, Yao-Feng, Ganmanee, Monthon, Chan, Benny K. K. (2023): Integrative taxonomy, larval biology and functional morphology of the little known gall-forming coral endoparasite Petrarca (Thecostraca: Ascothoracida). Zoological Journal of the Linnean Society 198: 767-801, DOI: 10.1093/zoolinnean/zlad009</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

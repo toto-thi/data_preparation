@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b2e22338-e62a-4b58-8251-fe53214da8f3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1111/j.1096-3642.2007.00267.x</alternateIdentifier>
+                <alternateIdentifier>b2e22338-e62a-4b58-8251-fe53214da8f3</alternateIdentifier>
+                <alternateIdentifier>10.15468/95x69s</alternateIdentifier>
+                <alternateIdentifier>0C10FFBAFFF62266FFD9C158FFABFC53</alternateIdentifier>
+        <title>Towards a revision of the genus Halectinosoma (Copepoda, Harpacticoida, Ectinosomatidae): new species from the North Atlantic and Arctic regions</title>
+            <creator>
+            <individualName>
+<givenName>Michel</givenName>                    <surName>Clément</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Colin G.</givenName>                    <surName>Moore</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>carolina</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2007-03-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Clément, Michel, Moore, Colin G. (2007): Towards a revision of the genus Halectinosoma (Copepoda, Harpacticoida, Ectinosomatidae): new species from the North Atlantic and Arctic regions. Zoological Journal of the Linnean Society 149 (3): 453-475, DOI: 10.1111/j.1096-3642.2007.00267.x, URL: https://academic.oup.com/zoolinnean/article-lookup/doi/10.1111/j.1096-3642.2007.00267.x</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/0C10FFBAFFF62266FFD9C158FFABFC53</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:23Z</dateStamp>
+                <citation>Clément M, Moore C G, carolina (2007). Towards a revision of the genus Halectinosoma (Copepoda, Harpacticoida, Ectinosomatidae): new species from the North Atlantic and Arctic regions. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1111/j.1096-3642.2007.00267.x accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

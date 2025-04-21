@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="28ab695a-4670-4853-b870-989b10d43c72"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3946.1.7</alternateIdentifier>
+                <alternateIdentifier>28ab695a-4670-4853-b870-989b10d43c72</alternateIdentifier>
+                <alternateIdentifier>10.15468/m1v0zi</alternateIdentifier>
+                <alternateIdentifier>CECC721B-D864-44C3-8A3A-0AA69E76DA68</alternateIdentifier>
+                <alternateIdentifier>FFE7FB499B04A948FFB06B57424CFFFC</alternateIdentifier>
+        <title>Spring-cleaning of African agathidines: new combinations for five species previously placed in Cremnops Förster (Hymenoptera: Braconidae)</title>
+            <creator>
+            <individualName>
+<givenName>Erika M.</givenName>                    <surName>Tucker</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Michael J.</givenName>                    <surName>Sharkey</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2015-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Tucker, Erika M., Sharkey, Michael J. (2015): Spring-cleaning of African agathidines: new combinations for five species previously placed in Cremnops Förster (Hymenoptera: Braconidae). Zootaxa 3946 (1): 133-138, DOI: http://dx.doi.org/10.11646/zootaxa.3946.1.7</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE7FB499B04A948FFB06B57424CFFFC</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:43Z</dateStamp>
+                <citation>Tucker E M, Sharkey M J, plazi (2015). Spring-cleaning of African agathidines: new combinations for five species previously placed in Cremnops Förster (Hymenoptera: Braconidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3946.1.7 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

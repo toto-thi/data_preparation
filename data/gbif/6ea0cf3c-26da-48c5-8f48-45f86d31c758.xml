@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6ea0cf3c-26da-48c5-8f48-45f86d31c758"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.3795.2.6</alternateIdentifier>
+                <alternateIdentifier>6ea0cf3c-26da-48c5-8f48-45f86d31c758</alternateIdentifier>
+                <alternateIdentifier>10.15468/bobnbu</alternateIdentifier>
+                <alternateIdentifier>849F0DBE-D336-4AC7-85DF-F7BE6CB76F57</alternateIdentifier>
+                <alternateIdentifier>FFE5D14AFF84FF9CFFF2036C0D17FFE1</alternateIdentifier>
+        <title>Review of the Oriental genus Neunkanodes Yang (Hemiptera: Fulgoromorpha: Delphacidae) with descriptions of two new species</title>
+            <creator>
+            <individualName>
+<givenName>Xiao-Hui</givenName>                    <surName>Hou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lin</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xiang-Sheng</givenName>                    <surName>Chen</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2014-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Hou, Xiao-Hui, Yang, Lin, Chen, Xiang-Sheng (2014): Review of the Oriental genus Neunkanodes Yang (Hemiptera: Fulgoromorpha: Delphacidae) with descriptions of two new species. Zootaxa 3795 (2): 174-180, DOI: http://dx.doi.org/10.11646/zootaxa.3795.2.6</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE5D14AFF84FF9CFFF2036C0D17FFE1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:18:17Z</dateStamp>
+                <citation>Hou X, Yang L, Chen X, plazi (2014). Review of the Oriental genus Neunkanodes Yang (Hemiptera: Fulgoromorpha: Delphacidae) with descriptions of two new species. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.3795.2.6 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

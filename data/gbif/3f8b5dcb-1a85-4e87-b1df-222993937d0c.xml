@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3f8b5dcb-1a85-4e87-b1df-222993937d0c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4958.1.45</alternateIdentifier>
+                <alternateIdentifier>3f8b5dcb-1a85-4e87-b1df-222993937d0c</alternateIdentifier>
+                <alternateIdentifier>10.15468/fugyua</alternateIdentifier>
+                <alternateIdentifier>F97FF8C0-2265-47E9-813B-15DA9384B4E1</alternateIdentifier>
+                <alternateIdentifier>FFEDFFEAFFFF123B8643FFB2153D0376</alternateIdentifier>
+        <title>Urolabida graziae, new urostylidid species from the Philippines with comments on the current taxonomy and systematics of the family (Hemiptera: Heteroptera Urostylididae)</title>
+            <creator>
+            <individualName>
+<givenName>Marcos</givenName>                    <surName>Roca-Cusachs</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mercedes</givenName>                    <surName>Paris</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alma</givenName>                    <surName>Mohagan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Sunghoon</givenName>                    <surName>Jung</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-04-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Roca-Cusachs, Marcos, Paris, Mercedes, Mohagan, Alma, Jung, Sunghoon (2021): Urolabida graziae, new urostylidid species from the Philippines with comments on the current taxonomy and systematics of the family (Hemiptera: Heteroptera Urostylididae). Zootaxa 4958 (1): 702-712, DOI: https://doi.org/10.11646/zootaxa.4958.1.45</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFEDFFEAFFFF123B8643FFB2153D0376</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:21:36Z</dateStamp>
+                <citation>Roca-Cusachs M, Paris M, Mohagan A, Jung S, plazi (2021). Urolabida graziae, new urostylidid species from the Philippines with comments on the current taxonomy and systematics of the family (Hemiptera: Heteroptera Urostylididae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4958.1.45 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

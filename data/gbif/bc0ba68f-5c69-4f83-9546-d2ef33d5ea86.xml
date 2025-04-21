@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="bc0ba68f-5c69-4f83-9546-d2ef33d5ea86"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/wdcyn5</alternateIdentifier>
+                <alternateIdentifier>4E7BDD26FFDFFF98DD3FFFBEFFB9FF8D</alternateIdentifier>
+        <title>A new putative moss bug (Insecta: Hemiptera) from the lower Permian of the Saar-Nahe Basin, SW Germany, and the age of Coleorrhyncha</title>
+            <creator>
+            <individualName>
+<givenName>Daniel</givenName>                    <surName>Burckhardt</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>André</givenName>                    <surName>Nel</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Manfred</givenName>                    <surName>Raisch</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Markus J.</givenName>                    <surName>Poschmann</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-04-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Burckhardt, Daniel, Nel, André, Raisch, Manfred, Poschmann, Markus J. (2022): A new putative moss bug (Insecta: Hemiptera) from the lower Permian of the Saar-Nahe Basin, SW Germany, and the age of Coleorrhyncha. Historical Biology 7 (2): 1-6, DOI: 10.1080/08912963.2022.2067759, URL: http://dx.doi.org/10.1080/08912963.2022.2067759</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4E7BDD26FFDFFF98DD3FFFBEFFB9FF8D</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:15:16Z</dateStamp>
+                <citation>Burckhardt D, Nel A, Raisch M, Poschmann M J, valdenar (2022). A new putative moss bug (Insecta: Hemiptera) from the lower Permian of the Saar-Nahe Basin, SW Germany, and the age of Coleorrhyncha. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/wdcyn5 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

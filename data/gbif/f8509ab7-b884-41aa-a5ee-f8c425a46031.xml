@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="f8509ab7-b884-41aa-a5ee-f8c425a46031"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3v87p6</alternateIdentifier>
+                <alternateIdentifier>FFF5686BFFC23C77966FFF973518FFDD</alternateIdentifier>
+        <title>A review of the previously monotypic tribe Dibolostethini (Chelodesmidae: Chelodesminae) with description of two new species and a summary of the Chelodesmidae of the Tropical Andes Biodiversity Hotspot</title>
+            <creator>
+            <individualName>
+<givenName>Jackson C.</givenName>                    <surName>Means</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Rodrigo S.</givenName>                    <surName>Bouzan</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luiz Felipe Moretti</givenName>                    <surName>Iniesta</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Daniela</givenName>                    <surName>Martínez-Torres</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Luisa F.</givenName>                    <surName>Vasquez-Valverde</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Antonio D.</givenName>                    <surName>Brescovit</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Kaloyan</givenName>                    <surName>Ivanov</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2023-07-27
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Means, Jackson C., Bouzan, Rodrigo S., Iniesta, Luiz Felipe Moretti, Martínez-Torres, Daniela, Vasquez-Valverde, Luisa F., Brescovit, Antonio D., Ivanov, Kaloyan (2023): A review of the previously monotypic tribe Dibolostethini (Chelodesmidae: Chelodesminae) with description of two new species and a summary of the Chelodesmidae of the Tropical Andes Biodiversity Hotspot. European Journal of Taxonomy 885 (1): 65-85, DOI: https://doi.org/10.5852/ejt.2023.885.2189, URL: http://dx.doi.org/10.5852/ejt.2023.885.2189</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/FFF5686BFFC23C77966FFF973518FFDD</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:12:46Z</dateStamp>
+                <citation>Means J C, Bouzan R S, Iniesta L F M, Martínez-Torres D, Vasquez-Valverde L F, Brescovit A D, Ivanov K, felipe (2023). A review of the previously monotypic tribe Dibolostethini (Chelodesmidae: Chelodesminae) with description of two new species and a summary of the Chelodesmidae of the Tropical Andes Biodiversity Hotspot. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3v87p6 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Means, Jackson C., Bouzan, Rodrigo S., Iniesta, Luiz Felipe Moretti, Martínez-Torres, Daniela, Vasquez-Valverde, Luisa F., Brescovit, Antonio D., Ivanov, Kaloyan (2023): A review of the previously monotypic tribe Dibolostethini (Chelodesmidae: Chelodesminae) with description of two new species and a summary of the Chelodesmidae of the Tropical Andes Biodiversity Hotspot. European Journal of Taxonomy 885 (1): 65-85, DOI: https://doi.org/10.5852/ejt.2023.885.2189, URL: http://dx.doi.org/10.5852/ejt.2023.885.2189</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6514bc32-bcd8-49f9-bcd1-be1cf7a7a6f9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/26ukqb</alternateIdentifier>
+                <alternateIdentifier>8C29036BF6528565FFB954504433FFBF</alternateIdentifier>
+        <title>Rapid screening of glycosyltransferases in plants using a linear DNA expression template based cell-free transcription-translation system</title>
+            <creator>
+            <individualName>
+<givenName>Shaobin</givenName>                    <surName>Guo</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Mingdi</givenName>                    <surName>Wang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wen</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fuxian</givenName>                    <surName>Zou</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Jingjing</givenName>                    <surName>Lin</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Qin</givenName>                    <surName>Peng</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Wei</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Shaohua</givenName>                    <surName>Xu</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Xianai</givenName>                    <surName>Shi</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>felipe</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-01-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Guo, Shaobin, Wang, Mingdi, Xu, Wen, Zou, Fuxian, Lin, Jingjing, Peng, Qin, Xu, Wei, Xu, Shaohua, Shi, Xianai (2022): Rapid screening of glycosyltransferases in plants using a linear DNA expression template based cell-free transcription-translation system. Phytochemistry (113007) 193: 1-9, DOI: 10.1016/j.phytochem.2021.113007, URL: http://dx.doi.org/10.1016/j.phytochem.2021.113007</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/8C29036BF6528565FFB954504433FFBF</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:28:06Z</dateStamp>
+                <citation>Guo S, Wang M, Xu W, Zou F, Lin J, Peng Q, Xu W, Xu S, Shi X, felipe (2022). Rapid screening of glycosyltransferases in plants using a linear DNA expression template based cell-free transcription-translation system. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/26ukqb accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Guo, Shaobin, Wang, Mingdi, Xu, Wen, Zou, Fuxian, Lin, Jingjing, Peng, Qin, Xu, Wei, Xu, Shaohua, Shi, Xianai (2022): Rapid screening of glycosyltransferases in plants using a linear DNA expression template based cell-free transcription-translation system. Phytochemistry (113007) 193: 1-9, DOI: 10.1016/j.phytochem.2021.113007, URL: http://dx.doi.org/10.1016/j.phytochem.2021.113007</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="52095bfb-73f8-4e0a-af11-ef61eb74cfcc"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5281/zenodo.1432664</alternateIdentifier>
+                <alternateIdentifier>52095bfb-73f8-4e0a-af11-ef61eb74cfcc</alternateIdentifier>
+                <alternateIdentifier>10.5281/zenodo.1432623</alternateIdentifier>
+                <alternateIdentifier>10.15468/8vn7v0</alternateIdentifier>
+                <alternateIdentifier>FF8EA854FFFDFFDCFFCAA615FFCC1D59</alternateIdentifier>
+        <title>Hippopotamodon erymanthius (Suidae, Mammalia) from Mahmutgazi, Denizli-Çal basin, Turkey</title>
+            <creator>
+            <individualName>
+<givenName>M.</givenName>                    <surName>Pickford</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>yanell</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2016-12-31
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Pickford, M. (2016): Hippopotamodon erymanthius (Suidae, Mammalia) from Mahmutgazi, Denizli-Çal basin, Turkey. Fossil Imprint 72: 183-201, DOI: 10.5281/zenodo.1432664, URL: http://fi.nm.cz/wp-content/uploads/2016/12/NM_IF_c3_4_16_clanek6_Pickford.pdf</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FF8EA854FFFDFFDCFFCAA615FFCC1D59</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:22:12Z</dateStamp>
+                <citation>Pickford M, yanell (2016). Hippopotamodon erymanthius (Suidae, Mammalia) from Mahmutgazi, Denizli-Çal basin, Turkey. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5281/zenodo.1432664 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

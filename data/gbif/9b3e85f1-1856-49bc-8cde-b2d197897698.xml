@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9b3e85f1-1856-49bc-8cde-b2d197897698"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2021.767.1481</alternateIdentifier>
+                <alternateIdentifier>9b3e85f1-1856-49bc-8cde-b2d197897698</alternateIdentifier>
+                <alternateIdentifier>10.15468/dzc8jy</alternateIdentifier>
+                <alternateIdentifier>32E080F8-A27A-4CBB-BA48-044DF82335A9</alternateIdentifier>
+                <alternateIdentifier>AA6C0516FFE8FFF95709CD48375DFFC8</alternateIdentifier>
+        <title>Three new species of Patrus Aubé with additional records of Gyrinidae from China (Coleoptera, Gyrinidae)</title>
+            <creator>
+            <individualName>
+<givenName>Zulong</givenName>                    <surName>Liang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Robert B.</givenName>                    <surName>Angus</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fenglong</givenName>                    <surName>Jia</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>admin</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2021-09-02
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Liang, Zulong, Angus, Robert B., Jia, Fenglong (2021): Three new species of Patrus Aubé with additional records of Gyrinidae from China (Coleoptera, Gyrinidae). European Journal of Taxonomy 767: 1-39, DOI: https://doi.org/10.5852/ejt.2021.767.1481</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/AA6C0516FFE8FFF95709CD48375DFFC8</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:20Z</dateStamp>
+                <citation>Liang Z, Angus R B, Jia F, admin (2021). Three new species of Patrus Aubé with additional records of Gyrinidae from China (Coleoptera, Gyrinidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2021.767.1481 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

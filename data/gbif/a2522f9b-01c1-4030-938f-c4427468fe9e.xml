@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a2522f9b-01c1-4030-938f-c4427468fe9e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3jwr85</alternateIdentifier>
+                <alternateIdentifier>4720E57B6174FF9D186BFFFEFFBDFFC1</alternateIdentifier>
+        <title>A New Branchipolynoe (Aphroditiformia: Polynoidae) Scale Worm from the Onnuri Deep-sea Hydrothermal Vent Field, Northern Central Indian Ridge</title>
+            <creator>
+            <individualName>
+<givenName>Sang Lyeol</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Hyeongwoo</givenName>                    <surName>Choi</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Seong-il</givenName>                    <surName>Eyun</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Dongsung</givenName>                    <surName>Kim</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Ok Hwan</givenName>                    <surName>Yu</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2022-05-30
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Kim, Sang Lyeol, Choi, Hyeongwoo, Eyun, Seong-il, Kim, Dongsung, Yu, Ok Hwan (2022): A New Branchipolynoe (Aphroditiformia: Polynoidae) Scale Worm from the Onnuri Deep-sea Hydrothermal Vent Field, Northern Central Indian Ridge. Zoological Studies 61 (21): 1-14, DOI: 10.6620/ZS.2022.61-21</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/4720E57B6174FF9D186BFFFEFFBDFFC1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:14:24Z</dateStamp>
+                <citation>Kim S L, Choi H, Eyun S, Kim D, Yu O H, valdenar (2022). A New Branchipolynoe (Aphroditiformia: Polynoidae) Scale Worm from the Onnuri Deep-sea Hydrothermal Vent Field, Northern Central Indian Ridge. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/3jwr85 accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Kim, Sang Lyeol, Choi, Hyeongwoo, Eyun, Seong-il, Kim, Dongsung, Yu, Ok Hwan (2022): A New Branchipolynoe (Aphroditiformia: Polynoidae) Scale Worm from the Onnuri Deep-sea Hydrothermal Vent Field, Northern Central Indian Ridge. Zoological Studies 61 (21): 1-14, DOI: 10.6620/ZS.2022.61-21</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

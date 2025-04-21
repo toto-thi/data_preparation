@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="a1bc8125-ad00-4d07-b9a1-4e6420c6bd98"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/g7umhw</alternateIdentifier>
+                <alternateIdentifier>CD7BFFC8F631FFA1FFECFFE20B40FF81</alternateIdentifier>
+        <title>A review of the genus Sasajiscymnus Vandenberg, 2004 from China (Coleoptera, Coccinellidae)</title>
+            <creator>
+            <individualName>
+<givenName>JUNBO</givenName>                    <surName>TONG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>XIAOSHENG</givenName>                    <surName>CHEN</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>XIAONING</givenName>                    <surName>ZHANG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>LIZHI</givenName>                    <surName>HUO</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>GANG</givenName>                    <surName>WU</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>ZHENGQIANG</givenName>                    <surName>PENG</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>XINGMIN</givenName>                    <surName>WANG</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>https://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2022-11-14
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article TONG, JUNBO, CHEN, XIAOSHENG, ZHANG, XIAONING, HUO, LIZHI, WU, GANG, PENG, ZHENGQIANG, WANG, XINGMIN (2022): A review of the genus Sasajiscymnus Vandenberg, 2004 from China (Coleoptera, Coccinellidae). Zootaxa 5207 (1): 1-104, DOI: 10.11646/zootaxa.5207.1.1, URL: http://dx.doi.org/10.11646/zootaxa.5207.1.1</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://tb.plazi.org/GgServer/summary/CD7BFFC8F631FFA1FFECFFE20B40FF81</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>sautter@plazi.org</electronicMailAddress><onlineUrl>https://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:17:35Z</dateStamp>
+                <citation>TONG J, CHEN X, ZHANG X, HUO L, WU G, PENG Z, WANG X, plazi (2022). A review of the genus Sasajiscymnus Vandenberg, 2004 from China (Coleoptera, Coccinellidae). Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.15468/g7umhw accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

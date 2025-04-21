@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="b267ac9b-6516-458e-bea7-7643842187f7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/c3eork</alternateIdentifier>
+                <alternateIdentifier>b267ac9b-6516-458e-bea7-7643842187f7</alternateIdentifier>
+                <alternateIdentifier>http://ipt.zin.ru:8080/ipt/resource?r=zin_polycestinae</alternateIdentifier>
+        <title>Catalogue of the type specimens of Polycestinae (Coleoptera: Buprestidae) from research collections of the Zoological Institute, Russian Academy of Sciences</title>
+            <creator>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Volkovitsh</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Research Scientist, Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Mark.Volkovitsh@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">4OtjKNsAAAAJ</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Alexey</givenName>                    <surName>Golikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Senior Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-06-11</phone><electronicMailAddress>Alexey.Golikov@zin.ru</electronicMailAddress>            </creator>
+            <creator>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Volkovitsh</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Research Scientist, Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Mark.Volkovitsh@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">4OtjKNsAAAAJ</userId>
+            </metadataProvider>
+            <metadataProvider>
+            <individualName>
+<givenName>Roman</givenName>                    <surName>Khalikov</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Engineer, IT Department</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 323-31-40</phone><electronicMailAddress>Roman.Khalikov@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">deC4D4gAAAAJ</userId>
+            </metadataProvider>
+            <pubDate>
+                2023-08-12
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>The Catalogue includes the images of dorsal views of the beetles and labels, label and collection data, maps showing type localities, and references to original descriptions for primary types of 64 species and subspecies of the buprestid-beetles of the subfamily Polycestinae Lacordaire, 1857 (Coleoptera: Buprestoidea: Buprestidae); for some type specimens additional details, among them genital structures, are given as well. Almost all of them belong to the genera Acmaeodera Eshchshcholz, 1829 (20), Microacmaeodera Cobos, 1966 (1), Xantheremia Volkovitsh, 1979 (5), and Acmaeoderella Cobos, 1955 (36) from the largest polycestine tribe Acmaeoderini Kerremans, 1893; only 2 holotypes belong to the species of the genus Polycesta Dejean, 1833 from the nominotypic tribe Polycestini.</para>
+                    <para>A polycestine collection is a part of general world-wide collection of the buprestid- or jewel-beetles (Elateriformia: Buprestoidea: Buprestidae) deposited in the Coleoptera Department of the Laboratory of Insect Taxonomy of the Zoological Institute RAS. Polycestine part is housed in the 38 standard wooden drawers with glass lids from about 300 drawers in 4 wooden cabinets occupied by general bupresid collection. It comprises above 13000 pinned, labelled and mostly identified specimens belonging to 12 tribes, 49 genera, and about 650 species (totally, 13 tribes, 49 genera, and about 1250 species world-wide; 92 %, 60 %, and nearly 52 % respectively) [29]. The bulk of the polycestine collection, approximately 520 species from 12 genera, consists of representatives of the most speciose tribe Acmaeoderini Kerremans, 1893 (above 700 species from 15 genera world-wide). Collection also includes about 1700 microslides of genitalia fixed in gelatin-glycerol gel, and nearly 500 double microslides of larval structures (one with mouth-parts, and another with exuvium and proventriculus) fixed in Faure-Berlese fluid (about 80 species from 23 genera and 12 tribes; the species of Acmaeoderini are predominate group). Microslides are kept on the special trays within cardboard boxes separately from general collection.</para>
+                    <para>Polycestine collection comprises mostly Palaearctic taxa (primarily from the former Russian Empire and Soviet Union and adjacent countries), as well as Oriental, Nearctic, Neotropical, and, to a lesser extent, Afrotropical and Australian taxa. In the XIX – early XX century it has grown rapidly due to extensive materials collected by expeditions of E. Ménétriés (Brasil, Trancaucasia), P.K. Kozlov and G.E. Groom-Grzhimailo (Central Asia), D.K. Glazunov and A.P. Fedtschenko (Turkestan), N.A. Zarudnyi (Persia, Turkestan) and other famous voyagers. Numerous polycestine species have been received from foreign entomologists and insect dealers – O. Staudinger, H. Leder, and E. Reitter. Throughout the ХХ century, the collection have been enriched significantly by the materials of numerous collecting trips of Zoological Museum / Institute staff to Central Asia, the Transcaucasia, Mongolia and Vietnam; at the end of XX – beginning of XXI centuries the geography of these trips greatly expanded. Many new and rare species from Afghanistan and Vietnam were contributed to collection by the famous geologist and scarabaeid expert O.N. Kabakov as a gift. Extremely abundant and valuable polycestine species have been collected by the author during his numerous expeditions to the Middle Asia and Transcaucasia (1973–1993), and later to Mexico, Israel, Turkey, Canary Islands (Tenerife), Nepal, and China. A great number of species originated from the private collections belonged to Grand Duchess Elena Pavlovna, A.P. Semenov-Tian-Shansky, and much later, V.N. Stepanov, O.N. Kabakov, A.V. Alexeev, and others. Numerous world-wide polycestine taxa including the paratypes of new species have been received in exchange or as a gift from G. Novak and W. Barries (Austria), J. Obenberger, S. Bílý, P. Kabatek, V. Kubáň, S. Prepsl, P. Svoboda (Czech Republic), A. Descarpentries (France), M. Hornburg, S. Gottwald, H. Mühle, P. Brandl, M. Niehuis (Germany), D. Baiocchi, D. Gianasso, M. Gigli (Italy), K. Akiyama, Y. Kurosawa, S. Ohmomo (Japan), E. Holm (South Africa), E. Jendek (Slovakia), A. Cobos (Spain), W. Kronblad (Sweden), W. Barr, C. Bellamy, G. Nelson, S. Wellso, R. Westcott, N. Woodley (USA), and many other buprestid experts and amateurs. The collection has been also enriched greatly with the doublet specimens of the species submitted for the determination by the applied entomologists and amateur collectors world-wide.</para>
+                    <para>Maintenance of the general collection, mounting and identification of the material have been performed by the preparators and researchers E. Ménétriés, C. Mannerheim, A.F. Morawitz, V.I. Motschulsky, A.P. Semenov-Tian-Shansky, G.G. Jacobson, F.K. Lukjanovitsh, A.A. Richter, L.V. Arnoldi, A.V. Alexeev, M.Y. Kalashian, M.G. Volkovitsh. General collection comprises the primary types (holotypes, lectotypes and one neotype) of 64 species and subspecies of Polycestinae (synonyms included) represented in a great part by the Acmaeoderini species, as well as the secondary types (paratypes, paralectotypes, and syntypes) of 138 species and subspecies. Primary types belong chiefly to the species described by E. Ménétriés [1–2], A.P. Semenov-Tian-Shansky [3–8], V.N. Stepanov [9–10], M.G. Volkovitsh [11–28, 30], and some other specialists. Among the secondary types, besides above mentioned authors, the taxa described by other famous coleopterologists and buprestid experts such as C. Mannerheim, E. Reitter, J. Obenberger, A. Cobos, A. Descarpentries, W. Barr, G. Nelson, S. Bílý, C. Bellamy, R. Westcott, and E. Holm are widely represented.</para>
+                    <para>Digitizing of research collections of the Zoological Institute is performed within the framework of RFBR №15-29-02457 (competition of oriented basic research on important interdisciplinary themes 2015) «The collections of the Zoological Institute as an important tool and information basis of fundamental biological research» (project leader Dr. N.B. Ananjeva). Special thanks to A.V. Kovalev for the imaging of dorsal views of the beetles.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Specimen</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://www.zin.ru/collections/Coleoptera/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Sampling was carried out all over the World.</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1800-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2016-01-01
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>Polycestinae (Coleoptera: Buprstoidea: Buprestidae) collection identified to species and subspecies.</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Subfamily</taxonRankName>
+                                    <taxonRankValue>Polycestinae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>continually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Mark</givenName>                    <surName>Volkovitsh</surName>
+            </individualName>
+<organizationName>Zoological Institute RAS</organizationName><positionName>Leading Research Scientist, Laboratory of Insect Taxonomy</positionName>            <address>
+<deliveryPoint>Universitetskaya emb., 1</deliveryPoint><city>Saint Petersburg</city><postalCode>199034</postalCode><country>RUSSIAN_FEDERATION</country>            </address>
+<phone>+7 (812) 328-12-12</phone><electronicMailAddress>Mark.Volkovitsh@zin.ru</electronicMailAddress>            <userId directory="http://scholar.google.com/citations?user=">4OtjKNsAAAAJ</userId>
+            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Collected materials on Polycestinae (mainly dry and wet: alcohol) were identified to species and subspecies level and deposited in the collections of the Zoological Institute RAS.</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para>Sampling was carried out mainly in the Palaearctic realm, during the period from 1800 to present using different collecting methods.</para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Sampling was carried out using different collecting methods – sweeping with entomological net, beating on the tent, using different traps for insects.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:26:46Z</dateStamp>
+                <citation>Volkovitsh M, Golikov A, Khalikov R (2023). Catalogue of the type specimens of Polycestinae (Coleoptera: Buprestidae) from research collections of the Zoological Institute, Russian Academy of Sciences. Version 1.56. Zoological Institute, Russian Academy of Sciences, St. Petersburg. Checklist dataset https://doi.org/10.15468/c3eork accessed via GBIF.org on 2023-08-28.</citation>
+                    <bibliography>
+                <citation>Ménétriés E. 1832. Catalogue raissonné des objets de Zoologie recueillis dans un voyage au Caucase et jusqu&apos;aux frontières actuelles de la Perse. L’Imprimerie de l’Académie Impériale des Sciences, St. Pétersbourg, 1832. 272 pp.</citation>
+                <citation>Ménétriés E. 1859. In: Motschulsky V. Coléoptères nouveaux de la Californie. Bulletin de la Société Impériale des Naturalistes de Moscou, 1859. 32 (3): 122–185.</citation>
+                <citation>Semenov-Tian-Shansky A. 1891. Diagnoses Coleopterorum novorum ex Asia Centrali et Orientali. Horae Societatis Entomologicae Rossicae, 1891. 25 (1890–1891): 262–382.</citation>
+                <citation>Semenov-Tian-Shansky A. 1895a. Coleoptera nova Rossiae Europaeae Caucasique. I. Horae Societatis Entomologicae Rossicae, 1895a. 29: 242–250.</citation>
+                <citation>Semenov-Tian-Shansky A. 1895b. Coleoptera Asiatica nova III. Horae Societatis Entomologicae Rossicae, 1895b. 29: 125–144.</citation>
+                <citation>Semenov-Tian-Shansky A. 1895c. Coleoptera Asiatica nova V. Horae Societatis Entomologicae Rossicae, 1895c. 29: 251–270.</citation>
+                <citation>Semenov-Tian-Shansky A. 1896a. Coleoptera nova Rossiae Europaeae Caucasique. II. Horae Societatis Entomologicae Rossicae, 1896a (1895). 29: 307–327.</citation>
+                <citation>Semenov-Tian-Shansky A. 1896b. Insectorum quorundam novorum faunae Transcaspicae diagnoses. Annuaire Musee Zoologique de l&apos;Academie Imperiale des Sciences de St.-Petersbourg, 1896b.: 378–386.</citation>
+                <citation>Stepanov V.N. 1954. Species of Coleoptera, Buprestidae, new to the fauna of the USSR found on Pistacia vera L. from Turkmenistan. Zoologicheskii Zhurnal, 1954. 33(6): 1307–1311 [In Russian].</citation>
+                <citation>Stepanov V.N. 1958. Materials to the buprestid-fauna of Tadzhikistan and adjacent regions of the Middle Asia (Coleoptera, Buprestidae) (1st Report). In: Ablayev S.M.(Ed.). Sbornik, posvyashchennyi pamyati B.V. Lototskogo. Trudy Instituta zoologii i parazitologii Akademii Nauk Tadzhikskoi SSR 89: 111–121 [In Russian with Tadzhic summary].</citation>
+                <citation>Volkovitsh M.G. 1976a. The buprestid-beetles of the tribe Acmaeoderini (Coleoptera, Buprestidae) from Mongolia. Nasekomye Mongolii, 4, 1976a: 198–201 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1976b. New species of buprestid-beetles of the genus Acmaeoderella Cobos (Coleoptera, Buprestidae) from the Middle Asia. Entomologicheskoe Obozrenie, 1976b. 55 (3): 637–641 [In Russian] [English translation: Entomological Review, Washington 55 (3), 1976: 93–96].</citation>
+                <citation>Volkovitsh M.G. 1977. New species of buprestid-beetles of the tribe Acmaeoderini (Coleoptera, Buprestidae) from the USSR and Iran. In: Kryzhanovskii O.L. &amp; Galkin A.K. (Eds.). Sistematika i faunistika nasekomykh. Zoologicheskii. Akademiya Nauk SSSR, 1977. Leningrad: 42–64 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1978. Revision of the buprestid-beetles of the group Acmaeodera koenigi Ganglb. (Coleoptera, Buprestidae) from Middle Asia with descriptions of new species. In: Medvedev G.S. (Ed.). Novye vidy nasekomykh iz Srednei Azii i Kazakhstana (Sbornik Nauchnykh Trudov). Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1978. 71: 34–41 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1979. A new species of Acmaeoderella Cobos (Coleoptera, Buprestidae) from the Central Asia. In: Tobias,V.I. (Ed.). Novye vidy nasekomykh. Trudy Vsesoyuznogo Entomologicheskogo obshchestva, 1979. 61: 75–77 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1981. Two new species of the genus Acmaeoderella Cobos (Coleoptera, Buprestidae) from South-West Asia. Entomologicheskoe Obozrenie, 1981. 60 (4): 844–848 [In Russian] [English translation: Entomological Review, Washington, 1981 (1982), 60: 82–87].</citation>
+                <citation>Volkovitsh M.G. 1982. New buprestid-beetles of the genus Acmaeoderella Cobos (Coleoptera, Buprestidae) from the Middle Asia. In: Medvedev,G.S. (Ed.). Novye vidy nasekomykh Srednei Azii. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1982. 110: 29–34 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1984. A new species of oak-borers (Coleoptera, Buprestidae) from Turkmenia. Zoologicheskii Zhurnal, 1984. 63 (10): 1576–1579 [In Russian with English summary].</citation>
+                <citation>Volkovitsh M.G. 1987. New species and a subspecies of the tribe Acmaeoderini (Coleoptera, Buprestidae) from the Palaearctic region. In: Kirejtshuk A.G. (Ed.). Geograficheskoe rasprostranenie nasekomykh. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1987. 164: 50–62 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1988. New species and subspecies of jewel beetles of the genus Acmaeodera Eschsch. (Coleoptera, Buprestidae) from Central Asia and Eastern Mediterranean. In: Sistematika nasekomykh i kleshchei. Trudy Vsesoyuznogo Entomologicheskogo obshchestva, 1988. 70: 34–41 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1989a. New and little known buprestid beetles of the genus Acmaeoderella Cobos (Coleoptera, Buprestidae) from the Eastern Mediterranea. In: Problemy sistematiki nasekomykh. Trudy Zoologicheskogo Instituta, Akademiya Nauk SSSR, 1989a. 208: 43–63 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1989b. In: Alexeev A.V., Volkovitsh M.G. A review of buprestid-beetles (Coleoptera, Buprestidae) of the Mongolian People&apos;s Republic. Nasekomye Mongolii, 1989b. 10: 301–368 [In Russian].</citation>
+                <citation>Volkovitsh M.G. 1990. In: Alexeev A.V., Volkovitsh M.G., Kabakov O.N. Material on the fauna of the buprestid beetles (Coleoptera, Buprestidae) of Afghanistan. Part 1]. In: Kirejtshuk A.G. (Ed.). Problemy sistematiki zhestkokrylykh nasekomykh. Trudy Zoologicheskogo Instituta, Akademia Nauk SSSR, 1990. 211: 59–83 [In Russian].</citation>
+                <citation>Volkovitsh M. G. 2005. Acmaeodera (Acmaeodera) lopatini sp. n. – new species of Buprestidae (Coleoptera) from Kyrgyzstan. Pp. 357-363. In: Konstantinov A., Tishechkin A., and Penev L. (eds.). Contributions to Systematics and Biology of Beetles. Papers celebrating 80th birthsday of Igor Konstantinovich Lopatin. Pensoft Publishers, 2005. Sofia-Moscow, 450 pp.</citation>
+                <citation>Volkovitsh M. G. 2007. Review of the genus Microacmaeodera (Coleoptera: Buprestidae) with descriptions of four new species. Folia Heyrovskyana. 2007. Series A., 14 (3): 67–86.</citation>
+                <citation identifier="http://www.ssc-ras.ru/files/files/20_%20Volkovitsh.pdf">Volkovitsh, M.G. 2009. Acmaeodera (Cobosiella) glebi sp. n. – a new species of Acmaeoderini from India (Coleoptera: Buprestidae: Polycestinae). ). Caucasian Entomological Bulletin, 5 (2): 241–242.</citation>
+                <citation>Volkovitsh M.G. 2011a. In: Bílý S., Kubáň V., Volkovitsh M.G. &amp; Kalashian, M. Yu. Order Coleoptera, Family Buprestidae. Arthropod fauna of the UAE, 2011a. 4: 168–223.</citation>
+                <citation identifier="http://www.ssc-ras.ru/ckfinder/userfiles/files/8_MG%20Volkovitsh.pdf">Volkovitsh M.G. 2011b. Xantheremia (s.str.) niehuisi sp. n. – the first species of the buprestid genus Xantheremia Volkovitsh, 1979 from Turkey (Coleoptera: Buprestidae: Polycestinae: Acmaeoderini). Caucasian Entomological Bulletin, 2011b. 7 (1): 51–52.</citation>
+                <citation>Volkovitsh M.G. 2012. Buprestid-beetles of the subfamily Polycestinae (Coleoptera, Buprestidae): morphology, phylogeny, classification. DSc Dissertation, speciality 03.02.05 – entomology. Saint-Petersburg, 2012. Zoological Institute RAS: 1–483.</citation>
+                <citation identifier="http://www.ssc-ras.ru/files/files/12_%20Volkovitsh.pdf">Volkovitsh M. G. 2013. Six new species of the buprestid tribe Acmaeoderini (Coleoptera: Buprestidae: Polycestinae) from Southwest Asia. Caucasian Entomological Bulletin, 2013. 9 (1): 75–82.</citation>
+                    </bibliography>
+                    <resourceLogoUrl>http://ipt.zin.ru:8080/ipt/logo.do?r=zin_polycestinae</resourceLogoUrl>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Research collections of Coleoptera Department, Laboratory of Insect Taxonomy, Zoological Institute RAS</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>MICROSCOPIC_PREPARATION</specimenPreservationMethod>
+                            <jgtiCuratorialUnit>
+                                <jgtiUnitType>species and subspecies</jgtiUnitType>
+                                <jgtiUnitRange>
+                                    <beginRange>131</beginRange>
+                                    <endRange>131</endRange>
+                                </jgtiUnitRange>
+                            </jgtiCuratorialUnit>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

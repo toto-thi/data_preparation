@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="7c276a03-e1d4-4340-89fe-dd27f1eaf6e9"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4927.1.10</alternateIdentifier>
+                <alternateIdentifier>7c276a03-e1d4-4340-89fe-dd27f1eaf6e9</alternateIdentifier>
+                <alternateIdentifier>10.15468/gfx25t</alternateIdentifier>
+                <alternateIdentifier>F994A19E-D1CA-4036-A59C-38CFF244655C</alternateIdentifier>
+                <alternateIdentifier>5D16FFCF051D956A7C4CFF8BFFB0FFD1</alternateIdentifier>
+        <title>Two new species of Aufidus (Hemiptera, Cercopidae) from New Guinea</title>
+            <creator>
+            <individualName>
+<givenName>Maxime Le</givenName>                    <surName>Cesne</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Adeline</givenName>                    <surName>Soulier-Perkins</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2021-02-11
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Cesne, Maxime Le, Soulier-Perkins, Adeline (2021): Two new species of Aufidus (Hemiptera, Cercopidae) from New Guinea. Zootaxa 4927 (1): 143-150, DOI: https://doi.org/10.11646/zootaxa.4927.1.10</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/5D16FFCF051D956A7C4CFF8BFFB0FFD1</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:25:07Z</dateStamp>
+                <citation>Cesne M L, Soulier-Perkins A, plazi (2021). Two new species of Aufidus (Hemiptera, Cercopidae) from New Guinea. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4927.1.10 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

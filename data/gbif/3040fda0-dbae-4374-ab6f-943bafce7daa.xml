@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="3040fda0-dbae-4374-ab6f-943bafce7daa"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.5852/ejt.2020.686</alternateIdentifier>
+                <alternateIdentifier>3040fda0-dbae-4374-ab6f-943bafce7daa</alternateIdentifier>
+                <alternateIdentifier>10.15468/q999e3</alternateIdentifier>
+                <alternateIdentifier>AC52C43B-DEB7-414B-B905-18D68F1D9DD9</alternateIdentifier>
+                <alternateIdentifier>FFB9FFDBE5179D26FFBCFF8C0434300B</alternateIdentifier>
+        <title>Calidolipeurus, new genus for Lipeurus megalops Piaget, 1880 (Phthiraptera: Ischnocera: Oxylipeurus-complex), with a redescription of the type species and a preliminary key to the Oxylipeurus-complex</title>
+            <creator>
+            <individualName>
+<givenName>Daniel R.</givenName>                    <surName>Gustafsson</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lujia</givenName>                    <surName>Lei</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Fasheng</givenName>                    <surName>Zou</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2020-07-15
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Gustafsson, Daniel R., Lei, Lujia, Zou, Fasheng (2020): Calidolipeurus, new genus for Lipeurus megalops Piaget, 1880 (Phthiraptera: Ischnocera: Oxylipeurus-complex), with a redescription of the type species and a preliminary key to the Oxylipeurus-complex. European Journal of Taxonomy 686: 1-15, DOI: https://doi.org/10.5852/ejt.2020.686</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFB9FFDBE5179D26FFBCFF8C0434300B</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:19:21Z</dateStamp>
+                <citation>Gustafsson D R, Lei L, Zou F, valdenar (2020). Calidolipeurus, new genus for Lipeurus megalops Piaget, 1880 (Phthiraptera: Ischnocera: Oxylipeurus-complex), with a redescription of the type species and a preliminary key to the Oxylipeurus-complex. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.5852/ejt.2020.686 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

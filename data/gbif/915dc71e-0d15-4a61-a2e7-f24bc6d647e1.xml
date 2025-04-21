@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="915dc71e-0d15-4a61-a2e7-f24bc6d647e1"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.11646/zootaxa.4586.3.2</alternateIdentifier>
+                <alternateIdentifier>915dc71e-0d15-4a61-a2e7-f24bc6d647e1</alternateIdentifier>
+                <alternateIdentifier>10.15468/i0fnst</alternateIdentifier>
+                <alternateIdentifier>DAFD77FB-77E6-4C1C-BCB0-09B4420977ED</alternateIdentifier>
+                <alternateIdentifier>FFE9B66EC02F0344981AFFD8BC2CFFD2</alternateIdentifier>
+        <title>Systematics, biogeography and conservation of Paragenidens grandoculis n. gen. and n. comb. (Siluriformes; Ariidae), a critically endangered species from southeastern Brazil</title>
+            <creator>
+            <individualName>
+<givenName>Alexandre Pires</givenName>                    <surName>Marceniuk</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Leonardo Ferreira Da Silva</givenName>                    <surName>Ingenito</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Flávio César Thadeo</givenName>                    <surName>Lima</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>João Luiz Rosetti</givenName>                    <surName>Gasparini</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Claudio</givenName>                    <surName>Oliveira</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>plazi</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Magnolia Press</organizationName>            <address>
+<deliveryPoint>St. Lukes 1346</deliveryPoint><city>Auckland</city><country>NEW_ZEALAND</country>            </address>
+<electronicMailAddress>magnolia@mapress.com</electronicMailAddress><onlineUrl>http://www.mapress.com/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>DISTRIBUTOR</role>
+            </associatedParty>
+            <pubDate>
+                2019-04-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Marceniuk, Alexandre Pires, Ingenito, Leonardo Ferreira Da Silva, Lima, Flávio César Thadeo, Gasparini, João Luiz Rosetti, Oliveira, Claudio (2019): Systematics, biogeography and conservation of Paragenidens grandoculis n. gen. and n. comb. (Siluriformes; Ariidae), a critically endangered species from southeastern Brazil. Zootaxa 4586 (3): 425-444, DOI: https://doi.org/10.11646/zootaxa.4586.3.2</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/FFE9B66EC02F0344981AFFD8BC2CFFD2</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:20:23Z</dateStamp>
+                <citation>Marceniuk A P, Ingenito L F D S, Lima F C T, Gasparini J L R, Oliveira C, plazi (2019). Systematics, biogeography and conservation of Paragenidens grandoculis n. gen. and n. comb. (Siluriformes; Ariidae), a critically endangered species from southeastern Brazil. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.11646/zootaxa.4586.3.2 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

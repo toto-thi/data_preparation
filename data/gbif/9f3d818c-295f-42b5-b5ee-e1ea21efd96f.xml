@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="9f3d818c-295f-42b5-b5ee-e1ea21efd96f"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.1080/00222933.2019.1692087</alternateIdentifier>
+                <alternateIdentifier>9f3d818c-295f-42b5-b5ee-e1ea21efd96f</alternateIdentifier>
+                <alternateIdentifier>10.15468/gpngwr</alternateIdentifier>
+                <alternateIdentifier>A223F36D0031FF89F053FFD2BA23FFB6</alternateIdentifier>
+        <title>Notes on the genus Gargela (Lepidoptera: Crambidae) ı with descriptions of two new species from China</title>
+            <creator>
+            <individualName>
+<givenName>Jingbo</givenName>                    <surName>Yang</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Lulan</givenName>                    <surName>Jie</surName>
+            </individualName>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Weichun</givenName>                    <surName>Li</surName>
+            </individualName>
+            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>valdenar</surName>
+            </individualName>
+<organizationName>Plazi</organizationName>            </metadataProvider>
+            <associatedParty>
+<organizationName>Plazi</organizationName>            <address>
+<city>Bern</city><country>SWITZERLAND</country>            </address>
+<electronicMailAddress>info@plazi.org</electronicMailAddress><onlineUrl>http://plazi.org/</onlineUrl>            <role>PUBLISHER</role>
+            </associatedParty>
+            <pubDate>
+                2019-11-18
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This dataset contains the digitized treatments in Plazi based on the original journal article Yang, Jingbo, Jie, Lulan, Li, Weichun (2019): Notes on the genus Gargela (Lepidoptera: Crambidae) ı with descriptions of two new species from China. Journal of Natural History 53 (33): 2099-2104, DOI: 10.1080/00222933.2019.1692087</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://tb.plazi.org/GgServer/summary/A223F36D0031FF89F053FFD2BA23FFB6</url>
+                </online>
+            </distribution>
+            <contact>
+            <individualName>
+<givenName>Guido</givenName>                    <surName>Sautter</surName>
+            </individualName>
+<electronicMailAddress>gsautter@gmail.com</electronicMailAddress><onlineUrl>http://plazi.org</onlineUrl>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-08-28T14:23:22Z</dateStamp>
+                <citation>Yang J, Jie L, Li W, valdenar (2019). Notes on the genus Gargela (Lepidoptera: Crambidae) ı with descriptions of two new species from China. Plazi.org taxonomic treatments database. Checklist dataset https://doi.org/10.1080/00222933.2019.1692087 accessed via GBIF.org on 2023-08-28.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>
