@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
 
 # DuckDB database file path
-db_path = "./analytics.duckdb"
+db_path = "./animal_insights.duckdb"
 
 datasets = {
     "iucn_species": "data/iucn_species_status.csv",
