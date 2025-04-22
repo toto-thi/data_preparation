@@ -3,7 +3,7 @@
 This repository contains scripts for parsing and loading animal conservation and biodiversity data into a DuckDB database for analytical processing.
 
 ## Project Structure
-- `data/`: Directory for raw and processed data files (not tracked in git)
+- `data/`: Directory for raw and processed data files
 
     - Source XML files from GBIF, IUCN JSON data and CITES (csv format)
 
